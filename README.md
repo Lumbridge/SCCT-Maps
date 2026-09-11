@@ -6,15 +6,15 @@ Custom maps and working assets for **Splinter Cell: Chaos Theory Versus**.
 
 | Map | Package name | Version | Files |
 | --- | --- | --- | --- |
-| Shipment | `ShipD` | v1 | [Map packages](release/ShipD/v1/Packages) · [Working assets](src/ShipD) |
+| Shipment | `ShipD` | v1 | [Download playable ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/shipd-v1/Shipment-v1.zip) · [Release notes](https://github.com/Lumbridge/SCCT-Maps/releases/tag/shipd-v1) |
 
 ![Shipment map preview](src/ShipD/TGA%20textures/LevelPreview_Menu_256_display_check.png)
 
 ## Install Shipment
 
-1. Download this repository with **Code → Download ZIP**, or clone it.
+1. Download **[Shipment-v1.zip](https://github.com/Lumbridge/SCCT-Maps/releases/download/shipd-v1/Shipment-v1.zip)** from the [Shipment v1 release](https://github.com/Lumbridge/SCCT-Maps/releases/tag/shipd-v1) and extract it.
 2. Close the game and back up any existing `ShipD` files you intend to replace.
-3. Copy the contents of `release/ShipD/v1/Packages` into your **Versus `Packages`** directory, merging the matching folders. For a standalone Enhanced SCCT Versus installation, use its `Packages` directory.
+3. Copy the extracted `Packages` folder into your **Versus installation directory**, merging the matching folders. For a standalone Enhanced SCCT Versus installation, use the directory containing its `Packages` and `System` folders.
 4. Start Versus and look for **Shipment** in level selection.
 
 Keep the package filenames and folder structure intact:
@@ -22,7 +22,6 @@ Keep the package filenames and folder structure intact:
 | Folder | File | Purpose |
 | --- | --- | --- |
 | `Maps` | `ShipD.sdc` | Playable map |
-| `MapsEd` | `ShipD.sdc` | Map copy supplied for the editor |
 | `StaticMeshes` | `ShipD_STM.usx` | Custom static meshes |
 | `Textures` | `ShipD_TXT.utx` | Custom textures |
 | `Textures` | `ShipD-i.utc` | Map settings and menu preview |
@@ -36,7 +35,7 @@ Players should install the same map version and accompanying packages.
 - `src/ShipD/TGA textures/` — converted textures and the 256×256 menu preview prepared for import.
 - `src/ShipD/raw unused textures/` — reference images and unused texture candidates.
 
-The `src` directory is for authoring and reference; install maps from `release`. Machine-specific game/editor configuration is kept local and excluded from this repository.
+Use the downloadable ZIP under [GitHub Releases](https://github.com/Lumbridge/SCCT-Maps/releases) to play. The `src` directory and `MapsEd` copy in the repository are for authoring and reference. Machine-specific game/editor configuration is kept local and excluded from this repository.
 
 ## Editing
 
