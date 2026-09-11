@@ -1,0 +1,20 @@
+# Desktop and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vs/
+.vscode/
+
+# Temporary files and crash diagnostics
+*.tmp
+*.log
+*.dmp
+Diagnostics/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Machine-specific game/editor configuration; keep local
+/src/ShipD/raw textures/Default.ini

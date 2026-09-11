@@ -1,0 +1,12 @@
+* text=auto
+*.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+*.sdc binary
+*.sds binary
+*.usx binary
+*.utx binary
+*.utc binary
+*.png binary
+*.tga binary
+*.webp binary
