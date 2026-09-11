@@ -28,6 +28,8 @@ Keep the package filenames and folder structure intact:
 
 Players should install the same map version and accompanying packages.
 
+**Shipment v1 refreshed on 11 September 2026:** the download now contains the latest saved playable map and menu settings. Re-download the ZIP if you installed an earlier copy of v1. The matching editor source is retained under `release/ShipD/v1/Packages/MapsEd`.
+
 ## Repository layout
 
 - `release/<map>/<version>/Packages/` — versioned map packages, arranged for installation.
