@@ -6,13 +6,13 @@ Custom maps and working assets for **Splinter Cell: Chaos Theory Versus**.
 
 | Map | Package name | Version | Files |
 | --- | --- | --- | --- |
-| Shipment | `ShipD` | v1 | [Download playable ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/shipd-v1/Shipment-v1.zip) · [Release notes](https://github.com/Lumbridge/SCCT-Maps/releases/tag/shipd-v1) |
+| Shipment | `ShipD` | v1.1 | [Download playable ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/shipd-v1.1/Shipment-v1.1.zip) · [Release notes](https://github.com/Lumbridge/SCCT-Maps/releases/tag/shipd-v1.1) |
 
 ![Shipment map preview](src/ShipD/TGA%20textures/LevelPreview_Menu_256_display_check.png)
 
 ## Install Shipment
 
-1. Download **[Shipment-v1.zip](https://github.com/Lumbridge/SCCT-Maps/releases/download/shipd-v1/Shipment-v1.zip)** from the [Shipment v1 release](https://github.com/Lumbridge/SCCT-Maps/releases/tag/shipd-v1) and extract it.
+1. Download **[Shipment-v1.1.zip](https://github.com/Lumbridge/SCCT-Maps/releases/download/shipd-v1.1/Shipment-v1.1.zip)** from the [Shipment v1.1 release](https://github.com/Lumbridge/SCCT-Maps/releases/tag/shipd-v1.1) and extract it.
 2. Close the game and back up any existing `ShipD` files you intend to replace.
 3. Copy the extracted `Packages` folder into your **Versus installation directory**, merging the matching folders. For a standalone Enhanced SCCT Versus installation, use the directory containing its `Packages` and `System` folders.
 4. Start Versus and look for **Shipment** in level selection.
@@ -28,7 +28,7 @@ Keep the package filenames and folder structure intact:
 
 Players should install the same map version and accompanying packages.
 
-**Shipment v1 refreshed on 11 September 2026:** the download now contains the latest saved playable map and menu settings. Re-download the ZIP if you installed an earlier copy of v1. The matching editor source is retained under `release/ShipD/v1/Packages/MapsEd`.
+**Shipment v1.1 released on 12 September 2026:** includes the latest saved playable map and menu settings. The matching editor source is retained under `release/ShipD/v1.1/Packages/MapsEd`. The previous v1 release remains available.
 
 ## Repository layout
 
