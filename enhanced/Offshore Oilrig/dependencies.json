@@ -1,0 +1,231 @@
+{
+  "map": "OffsE",
+  "targetGame": "Enhanced SCCT Versus 3.6",
+  "bundled": [
+    {
+      "path": "Packages/Maps/OffsE.sdc",
+      "bytes": 1562863,
+      "sha256": "646c9a338450b7aae0263247cc80ec2a147f99f9a1ac366595008e3c8fc2acdf"
+    },
+    {
+      "path": "Packages/Textures/OffsE-i.utc",
+      "bytes": 197,
+      "sha256": "0dbf8e2bcdd545c5cd52cba89e038943953d271a4d6335be4c867ab541395895"
+    },
+    {
+      "path": "Packages/Animations/AQU_anm.ukx",
+      "bytes": 706364,
+      "sha256": "59779383c4b30dd5882e52b92a9308075d7b9b150a84c4752eddf4fb9f24e3f1"
+    },
+    {
+      "path": "Packages/Textures/Bunker.utx",
+      "bytes": 3062771,
+      "sha256": "a04abcc8c90f024d2472c7fe619674079a56dbe13bde360e7bcda5797f72e338"
+    },
+    {
+      "path": "Packages/StaticMeshes/DTK_SPECIFIC_MESH.usx",
+      "bytes": 1071520,
+      "sha256": "9061635be8582d496afb254dea5732e09af327e5e7392446c63760dd7f95fbd8"
+    },
+    {
+      "path": "Packages/StaticMeshes/DTK_STATICMESHS_TC.usx",
+      "bytes": 4934481,
+      "sha256": "7422aec133b2391611b51940497b25d26a0c92a6a356289c59fe9a58fb5a9a12"
+    },
+    {
+      "path": "Packages/Textures/DTK_TEXTURES_TC.utx",
+      "bytes": 2065804,
+      "sha256": "5c259485112d96c759ab144384a745166ce52dec3f17647a2cb8319bca6773ce"
+    },
+    {
+      "path": "Packages/Animations/FAC_anm.ukx",
+      "bytes": 628088,
+      "sha256": "2b1c5679cf17e691f6a62f2994f9331b47a56b6dc11b69ce519bab70a17eba6f"
+    },
+    {
+      "path": "Packages/StaticMeshes/OffsD_Recovered_Assets.usx",
+      "bytes": 317,
+      "sha256": "de8c8f686c6316d7aa3b5c99ea3bd8b6a7203ca3aa6581c769617b7bff731bac"
+    },
+    {
+      "path": "Packages/StaticMeshes/Oilrig_SM.usx",
+      "bytes": 4397868,
+      "sha256": "efd676700792563f0d1df1b19d617b3b78a61612f3d376e6344a2b0612fa79d8"
+    },
+    {
+      "path": "Packages/Textures/Oilrig_TXT.utx",
+      "bytes": 898373,
+      "sha256": "a6f4f5b79165f886545bdcbca66e7ad4e6ad4e210871ffed1bd8b83fc7ed1182"
+    },
+    {
+      "path": "Packages/Sounds/amb_Belew.uax",
+      "bytes": 1958969,
+      "sha256": "54a1dd70ce281ad2b5ff264fe44b6e8ae2c8ec7d491523aa1f96615ba8ad7e31"
+    },
+    {
+      "path": "Packages/Textures/drpoc_chantier.utx",
+      "bytes": 1377931,
+      "sha256": "a5d839ca7920896078fc91f52b4ee6a8739ec9aa224174065ada9d59b326f4fb"
+    },
+    {
+      "path": "Packages/Textures/help_path.utx",
+      "bytes": 207339,
+      "sha256": "211ee9e69bb2c2fb118d88a7ba789e5ca10299265ae0d804a766ae2a30ef1f3b"
+    },
+    {
+      "path": "Packages/Textures/DTK_XBOX.utx",
+      "bytes": 1112230,
+      "sha256": "15797e9b757b8e17cc9cf2926cd2fbdad5ab7a719e311e892b94f9cf8d40e938"
+    },
+    {
+      "path": "Packages/Textures/drpoc_chantier_XBOX.utx",
+      "bytes": 1370259,
+      "sha256": "b6e1dc887491e7accecae832e2b439a288c7a49f5051d2cd498f5adcd7744735"
+    },
+    {
+      "path": "Packages/MapsEd/OffsE.sdc",
+      "bytes": 2130568,
+      "sha256": "40b88430a96310296e26c753b4b3c23b78be79b82039ad365d89929013128820"
+    }
+  ],
+  "requiredInstalled": [
+    {
+      "path": "Packages/Sounds/Amb_Aqua.uax",
+      "bytes": 3638481,
+      "sha256": "76324c928c76c4ccc1a4a5d097d386bfa63b2927e8d5c1b87a47f3dcb672db27"
+    },
+    {
+      "path": "Packages/Sounds/Amb_Club.uax",
+      "bytes": 2862014,
+      "sha256": "e7c8987ff0f55566d24bc47b9240d10bc5c8e679a08c2cc45b1cbccf959c76f4"
+    },
+    {
+      "path": "Packages/Sounds/Amb_Gare.uax",
+      "bytes": 2273880,
+      "sha256": "3f9f7ed55585d2fcf400d7ab7c4cfbeb498b95256c7c8d030e8d8a0979957fd6"
+    },
+    {
+      "path": "Packages/Sounds/Amb_factory.uax",
+      "bytes": 2204368,
+      "sha256": "9c68354e77d4c5741af96ba8ebd0635009571b907e093b2cc395dc87801ea094"
+    },
+    {
+      "path": "Packages/StaticMeshes/Aquarium_STM.usx",
+      "bytes": 6668303,
+      "sha256": "1f927b86bc8758bff3045f173054e7159ffa2a4cd1133e0b069cb70d68f04e9a"
+    },
+    {
+      "path": "Packages/Textures/Aquarium_TXT.utx",
+      "bytes": 3493007,
+      "sha256": "46f58fea37f48dd1e1458000900b11f44bd6667fd024757cdcfa6f938cc36119"
+    },
+    {
+      "path": "Packages/Sounds/Armes_impacts.uax",
+      "bytes": 7493142,
+      "sha256": "a5ae428bdb993e49ebfe6c4df027ae7b8b2919bdd353451d1cbaf0d84a1c5aa9"
+    },
+    {
+      "path": "Packages/StaticMeshes/BNK_STM.usx",
+      "bytes": 6255297,
+      "sha256": "c83fd67d0f12d2ef0a4b84c676323a908042648dabe4d7e0db4f80f7a258d112"
+    },
+    {
+      "path": "Packages/StaticMeshes/FAC_STM.usx",
+      "bytes": 4796601,
+      "sha256": "e7c5da8b0bef5f29cf48ad27567a5d4c1c63f965d78a4c19ba881d5bc9bbee1a"
+    },
+    {
+      "path": "Packages/Textures/FAC_TXT.utx",
+      "bytes": 3176190,
+      "sha256": "bfd44e1680081c3093495fd208cb80c0d01887a3e2ffafc490f607755ee9774a"
+    },
+    {
+      "path": "Packages/StaticMeshes/GAR_STM.usx",
+      "bytes": 4840434,
+      "sha256": "0428b0fd3e6c66bbd7470beb64d3a701b4ea2bfb7807c16dd345c43b104ed763"
+    },
+    {
+      "path": "Packages/Textures/GAR_TXT.utx",
+      "bytes": 4108959,
+      "sha256": "c6c9827cef55e39fafd6f1cc36cea23b2deced46c6b74c111e1617aa1953a2b6"
+    },
+    {
+      "path": "Packages/StaticMeshes/Missile.usx",
+      "bytes": 6187148,
+      "sha256": "6c081444285be1eb0a4154a0789b72ca2ead7c46b8eecb52f10be81a2d7d51b5"
+    },
+    {
+      "path": "Packages/StaticMeshes/STM_ORP.usx",
+      "bytes": 5074535,
+      "sha256": "ab6b0de78cc91c697d1bee9b84a4a4aadfe85182a08af3b05d4b9f6db6be1a93"
+    },
+    {
+      "path": "Packages/StaticMeshes/TestMapStaticM.usx",
+      "bytes": 254607,
+      "sha256": "dcb73a5fe311ab6d23ad6254109563c1ae8c22364b1f772a6f871ee4af551dc9"
+    },
+    {
+      "path": "Packages/Sounds/amb_Bank.uax",
+      "bytes": 1043268,
+      "sha256": "f4a0fa471a837e3f59222145dec0e9d40a84e73cb68ad7178f4abf2587d7010b"
+    },
+    {
+      "path": "Packages/Textures/sfx.utx",
+      "bytes": 1183240,
+      "sha256": "e96a708728ece2cbcc09a749209d6e42c18b4687f6448831b437d11948f69efb"
+    },
+    {
+      "path": "Packages/StaticMeshes/stm_war.usx",
+      "bytes": 7289835,
+      "sha256": "ccf16df0b2d1bf3c6f51592221ac3c4c97eb295976117c13f49f837d6cd4a4ee"
+    },
+    {
+      "path": "Packages/Textures/txt_war.utx",
+      "bytes": 2407395,
+      "sha256": "686fcbff0184cb95e9a27f261c2d753cb48b4e0290c8a247927d53b35de6153d"
+    },
+    {
+      "path": "Packages/Textures/TXT_BNK.utx",
+      "bytes": 3019002,
+      "sha256": "a8659a921a2c6fbfd978d0caa739bd8d722461c65126adc7fe0f525a727305a5"
+    },
+    {
+      "path": "Packages/Textures/SGameplayObjectsTex.utx",
+      "bytes": 809815,
+      "sha256": "01a1b0cbff1a3d7ea0fb3edf51a0c7bf9ed21e7c338fbe79180f6753a7b681f5"
+    },
+    {
+      "path": "Packages/Textures/TXT_ORP.utx",
+      "bytes": 1984579,
+      "sha256": "f16d49ab6244d7283115f1cdb3c1a08ccadda67c0cd6a92da92c0ba4bbd06324"
+    },
+    {
+      "path": "Packages/Textures/TestMapTextures.utx",
+      "bytes": 6428814,
+      "sha256": "4d47ec3ca67419b9792ca73afcda7182ce00453061060ab2b760b96691477ded"
+    },
+    {
+      "path": "Packages/Textures/CTF_txt_xbox.utx",
+      "bytes": 11965,
+      "sha256": "3fa7429c789da19f9e5d29a576fff5999530e44b30ce5d1a19d977e5a661d1ed"
+    },
+    {
+      "path": "Packages/Textures/SGameplayObjectsTex_XBOX.utx",
+      "bytes": 1399,
+      "sha256": "acd6a8c981a40286ac3d258b9ec2dd0910ad4ec9ee0c7498acaaa115ce988a16"
+    },
+    {
+      "path": "Packages/Textures/Echelon.utx",
+      "bytes": 444502,
+      "sha256": "f081de8bd42e4987b5d09835fd5b1e11b90452a30de5520f8d0330a9236ffe5b"
+    }
+  ],
+  "nativePackages": [
+    "Core",
+    "Editor",
+    "Engine",
+    "SBase",
+    "SGameplayObjects"
+  ],
+  "verification": "Serialized imports checked recursively; gameplay and script-string dependencies are not verified."
+}

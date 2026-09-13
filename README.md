@@ -10,6 +10,14 @@ Maps and editor files for **Splinter Cell: Chaos Theory Versus**.
 
 ![Shipment map preview](src/ShipD/TGA%20textures/LevelPreview_Menu_256_display_check.png)
 
+## Enhanced maps
+
+Edited versions of existing levels, kept separately from the recovered originals.
+
+| Map | Package | Files |
+| --- | --- | --- |
+| Offshore Oilrig | `OffsE` | [Map and assets](enhanced/Offshore%20Oilrig/Packages) · [Installation and dependencies](enhanced/Offshore%20Oilrig/README.md) · [Editor map](enhanced/Offshore%20Oilrig/Packages/MapsEd/OffsE.sdc) |
+
 ## Recovered / editable maps
 
 Existing maps converted into editable maps. Original brush history is not preserved, and rebuilding lighting can change their appearance.
