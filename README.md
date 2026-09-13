@@ -18,7 +18,7 @@ Existing maps converted into editable maps. Original brush history is not preser
 | --- | --- | --- |
 | Eden | `EDE64` | [Map and assets](recovered/Eden/Packages) · [Editor map](recovered/Eden/Packages/MapsEd/EDE64.sdc) |
 | Sublabs | `sub18` | [Map and assets](recovered/Sublabs/Packages) · [Editor map](recovered/Sublabs/Packages/MapsEd/sub18.sdc) |
-| Offshore Oilrig | `OffsD` | [Map and assets](recovered/OffsD/Packages) · [Editor map](recovered/OffsD/Packages/MapsEd/OffsD.sdc) |
+| Offshore Oilrig | `OffsD` | [Map and assets](recovered/Offshore%20Oilrig/Packages) · [Editor map](recovered/Offshore%20Oilrig/Packages/MapsEd/OffsD.sdc) |
 
 ## Using the files
 
