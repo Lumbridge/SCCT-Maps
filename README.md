@@ -12,12 +12,13 @@ Maps and editor files for **Splinter Cell: Chaos Theory Versus**.
 
 ## Recovered / editable maps
 
-Existing community maps converted into editable maps. Original brush history is not preserved, and rebuilding lighting can change their appearance.
+Existing maps converted into editable maps. Original brush history is not preserved, and rebuilding lighting can change their appearance.
 
 | Map | Package | Files |
 | --- | --- | --- |
 | Eden | `EDE64` | [Map and assets](recovered/Eden/Packages) · [Editor map](recovered/Eden/Packages/MapsEd/EDE64.sdc) |
 | Sublabs | `sub18` | [Map and assets](recovered/Sublabs/Packages) · [Editor map](recovered/Sublabs/Packages/MapsEd/sub18.sdc) |
+| OffsD | `OffsD` | [Map and assets](recovered/OffsD/Packages) · [Editor map](recovered/OffsD/Packages/MapsEd/OffsD.sdc) |
 
 ## Using the files
 
@@ -29,4 +30,4 @@ Close the game, back up any matching files, and copy the map's `Packages` folder
 | `MapsEd` | Editable maps for the [Reloaded Editor](https://github.com/Lumbridge/SCCT_Versus_Reloaded_Editor) |
 | `StaticMeshes` / `Textures` | Required assets and menu settings |
 
-The recovered maps use the original package names and will replace installed copies of `EDE64` or `sub18`. Gameplay testing is still needed.
+The recovered maps use the original package names and will replace installed copies of `EDE64`, `sub18`, or `OffsD`. Gameplay testing is still needed.
