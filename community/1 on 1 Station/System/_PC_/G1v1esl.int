@@ -1,0 +1,729 @@
+
+Section
+Tag="ENG"
+
+[BlockingVolume2714]
+LocationName="unspecified"
+
+[LevelInfo0]
+Title="Untitled"
+LevelEnterText=""
+LocationName=""
+
+[LevelSummary]
+Title="Untitled"
+LevelEnterText=""
+
+[SAlarm281]
+AlarmName="Unnamed alarm"
+AlarmDescription="Stock 1"
+AlarmDescriptionSpy="Stock 1"
+
+[SAlarm356]
+AlarmName="Unnamed alarm"
+AlarmDescription="Stock 3"
+AlarmDescriptionSpy="Stock 3"
+
+[SAlarm363]
+AlarmName="Unnamed alarm"
+AlarmDescription="Stock 2"
+AlarmDescriptionSpy="Stock 2"
+
+[SAlarm584]
+AlarmName="Unnamed alarm"
+AlarmDescription="Apartment"
+AlarmDescriptionSpy="Unnamed alarm activated"
+
+[SAlarm588]
+AlarmName="Unnamed alarm"
+AlarmDescription="Apartment"
+AlarmDescriptionSpy="Unnamed alarm activated"
+
+[SAlarm591]
+AlarmName="Unnamed alarm"
+AlarmDescription="Tech room"
+AlarmDescriptionSpy="Unnamed alarm activated"
+
+[SAlarm594]
+AlarmName="Unnamed alarm"
+AlarmDescription="Tech room"
+AlarmDescriptionSpy="Unnamed alarm activated"
+
+[SAlarm9477]
+AlarmName="Unnamed alarm"
+AlarmDescription="Park bombed - GOTO TRAIN SECTOR. BS!"
+AlarmDescriptionSpy="Park bombed - GOTO TRAIN SECTOR. GJ!"
+
+[SAlarm9485]
+AlarmName="Unnamed alarm"
+AlarmDescription="Control room hacked - GOTO TRAIN SECTOR. BS!"
+AlarmDescriptionSpy="Control room hacked - GOTO TRAIN SECTOR. GJ!"
+
+[SAmmoStock8879]
+sDescriptionText=""
+
+[SAmmoStock8882]
+sDescriptionText=""
+
+[SBombTargetObjectiveTrigger9346]
+TriggerName="Parking lot jacks"
+sDescriptionText=""
+
+[SBombTargetObjectiveTrigger9349]
+TriggerName="Parking lot jacks"
+sDescriptionText=""
+
+[SBombTargetObjectiveTrigger9352]
+TriggerName="Parking lot jacks"
+sDescriptionText=""
+
+[SBombTargetObjectiveTrigger9355]
+TriggerName="Parking lot jacks"
+sDescriptionText=""
+
+[SBombTargetObjectiveTrigger9363]
+TriggerName="Parking lot jacks"
+sDescriptionText=""
+
+[SBombTargetObjectiveTrigger9366]
+TriggerName="Parking lot jacks"
+sDescriptionText=""
+
+[SBombTargetObjectiveTrigger9375]
+TriggerName="Parking lot jacks"
+sDescriptionText=""
+
+[SBombTargetObjectiveTrigger9378]
+TriggerName="Parking lot jacks"
+sDescriptionText=""
+
+[SCamNetwork12781]
+CamName="Streets 2"
+tCamAlreadyInUse="Camera already used by mate.Its 1on1 o.0"
+sDescriptionText=""
+
+[SCamNetwork12787]
+CamName="Entrance"
+tCamAlreadyInUse="Camera already used by mate. Its 1on1 o.0 "
+sDescriptionText=""
+
+[SCamNetwork240]
+CamName="Car Park"
+tCamAlreadyInUse="Camera already used by mate.Its 1on1 o.0"
+sDescriptionText=""
+
+[SCamNetwork300]
+CamName="Streets 1"
+tCamAlreadyInUse="Camera already used by mate.Its 1on1 o.0"
+sDescriptionText=""
+
+[SComputerObjectiveTrigger1527]
+TriggerName="Train maintenance zone"
+sDescriptionText=""
+
+[SComputerObjectiveTrigger1546]
+TriggerName="Train maintenance zone"
+sDescriptionText=""
+
+[SComputerObjectiveTrigger263]
+TriggerName="Checkpoint"
+sDescriptionText=""
+
+[SComputerObjectiveTrigger9335]
+TriggerName="Checkpoint"
+sDescriptionText=""
+
+[SComputerObjectiveTrigger9339]
+TriggerName="Train maintenance zone"
+sDescriptionText=""
+
+[SDamageVolume2704]
+LocationName="unspecified"
+
+[SDamageVolume280]
+LocationName="unspecified"
+
+[SDamageVolume298]
+LocationName="unspecified"
+
+[SDamageVolume300]
+LocationName="unspecified"
+
+[SDamageVolume347]
+LocationName="unspecified"
+
+[SDamageVolume356]
+LocationName="unspecified"
+
+[SDisk31247]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk31250]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk31254]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk31257]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk31260]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk31263]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk31266]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk31276]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk31279]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk31282]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk31285]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk31294]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SGamePlayObject11973]
+sDescriptionText=""
+
+[SGamePlayObject11978]
+sDescriptionText=""
+
+[SGamePlayObject1216]
+sDescriptionText=""
+
+[SGamePlayObject15198]
+sDescriptionText=""
+
+[SGamePlayObject2155]
+sDescriptionText=""
+
+[SGamePlayObject22087]
+sDescriptionText=""
+
+[SGamePlayObject256]
+sDescriptionText=""
+
+[SGamePlayObject2668]
+sDescriptionText=""
+
+[SGamePlayObject268]
+sDescriptionText=""
+
+[SGamePlayObject281]
+sDescriptionText=""
+
+[SGamePlayObject284]
+sDescriptionText=""
+
+[SGamePlayObject286]
+sDescriptionText=""
+
+[SGamePlayObject290]
+sDescriptionText=""
+
+[SGamePlayObject292]
+sDescriptionText=""
+
+[SGamePlayObject295]
+sDescriptionText=""
+
+[SGamePlayObject304]
+sDescriptionText=""
+
+[SGamePlayObject328]
+sDescriptionText=""
+
+[SGamePlayObject331]
+sDescriptionText=""
+
+[SGamePlayObject335]
+sDescriptionText=""
+
+[SGamePlayObject355]
+sDescriptionText=""
+
+[SGamePlayObject395]
+sDescriptionText=""
+
+[SGamePlayObject4085]
+sDescriptionText=""
+
+[SGamePlayObject52971]
+sDescriptionText=""
+
+[SGamePlayObject53001]
+sDescriptionText=""
+
+[SGamePlayObject559]
+sDescriptionText=""
+
+[SGamePlayObject562]
+sDescriptionText=""
+
+[SGamePlayObject6084]
+sDescriptionText=""
+
+[SGamePlayObject8650]
+sDescriptionText=""
+
+[SInfirmary8884]
+sDescriptionText=""
+
+[SInfirmary8893]
+sDescriptionText=""
+
+[SInfirmary8896]
+sDescriptionText=""
+
+[SInterrupteur12798]
+sWarnHackingText=""
+sDescriptionText="Hack door"
+
+[SInterrupteur1527]
+sWarnHackingText=""
+sDescriptionText="Open"
+
+[SInterrupteur23226]
+sWarnHackingText=""
+sDescriptionText="Hack door"
+
+[SInterrupteur23262]
+sWarnHackingText=""
+sDescriptionText="Open"
+
+[SInterrupteur2513]
+sWarnHackingText=""
+sDescriptionText="Hack door"
+
+[SInterrupteur2534]
+sWarnHackingText=""
+sDescriptionText="Hack door"
+
+[SInterrupteur258]
+sWarnHackingText=""
+sDescriptionText="Hack door"
+
+[SInterrupteur2591]
+sWarnHackingText=""
+sDescriptionText="Hack door"
+
+[SInterrupteur262]
+sWarnHackingText=""
+sDescriptionText="Hack door"
+
+[SInterrupteur281]
+sWarnHackingText=""
+sDescriptionText="Hack door"
+
+[SInterrupteur287]
+sWarnHackingText=""
+sDescriptionText="Hack door"
+
+[SInterrupteur371]
+sWarnHackingText=""
+sDescriptionText="Hack door"
+
+[SInterrupteur448]
+sWarnHackingText=""
+sDescriptionText="Open"
+
+[SInterrupteur470]
+sWarnHackingText=""
+sDescriptionText="Call Lift"
+
+[SInterrupteur487]
+sWarnHackingText=""
+sDescriptionText="Shutters"
+
+[SInterrupteur490]
+sWarnHackingText=""
+sDescriptionText="Shutters"
+
+[SInterrupteur498]
+sWarnHackingText=""
+sDescriptionText="Shutters"
+
+[SInterrupteur5441]
+sWarnHackingText=""
+sDescriptionText="Hack door"
+
+[SInterrupteur56078]
+sWarnHackingText=""
+sDescriptionText="2nd Floor"
+
+[SInterrupteur56081]
+sWarnHackingText=""
+sDescriptionText="Shutters"
+
+[SInterrupteur56084]
+sWarnHackingText=""
+sDescriptionText="Car Park"
+
+[SInterrupteur56087]
+sWarnHackingText=""
+sDescriptionText="1st Floor"
+
+[SInterrupteur56091]
+sWarnHackingText=""
+sDescriptionText="Lift"
+
+[SInterrupteur56094]
+sWarnHackingText=""
+sDescriptionText="Lift"
+
+[SLaserTrigger302]
+sDescriptionText=""
+
+[SLaserTrigger308]
+sDescriptionText=""
+
+[SLaserTrigger335]
+sDescriptionText=""
+
+[SLaserTrigger357]
+sDescriptionText=""
+
+[SLaserTrigger358]
+sDescriptionText=""
+
+[SLaserTrigger359]
+sDescriptionText=""
+
+[SLaserTrigger364]
+sDescriptionText=""
+
+[SLaserTrigger365]
+sDescriptionText=""
+
+[SLaserTrigger366]
+sDescriptionText=""
+
+[SMessageTrigger260]
+MessageSpy="GO TO TRAIN SECTOR"
+MessageMerc="GO TO TRAIN SECTOR"
+
+[SMission257]
+ObjectiveName=""
+Description="Bombing (CAR PARK) or Terminal (CONTROL ROOM)"
+DescriptionDEF="Bombing (CAR PARK) or Terminal (CONTROL ROOM)"
+
+[SMission285]
+ObjectiveName="Unnamed mission"
+Description="Pick up and keep the data disks to complete your mission."
+DescriptionDEF="Prevent the intruders from getting their hands on the data disks to complete your mission."
+
+[SMission4783]
+ObjectiveName="Unnamed mission"
+Description="Accomplish the 2 mission objectives to put a stop to the network hacking.GL & HF"
+DescriptionDEF="Protect the objectives and neutralize the intruders.GL & HF"
+
+[SMission9325]
+ObjectiveName="Unnamed mission"
+Description="Eliminate all of the members of the ARGUS PMC who are present."
+DescriptionDEF="Eliminate all the intruders seeking to infiltrate the zone you defend."
+
+[SMission9344]
+ObjectiveName=""
+Description="Hack into 1 of the 3 terminals or take hdd in the TRAIN MAINTENANCE ZONE."
+DescriptionDEF="Terminal: CONTROL ROOM (access point to next zone)"
+
+[SObjective232]
+ObjectiveName="Park Bombing"
+Description="Bombing: CAR PARK (access point to next zone)"
+DescriptionDEF="Bombing: CAR PARK (access point to next zone)"
+
+[SObjective235]
+ObjectiveName="Train Hacking"
+Description="Hack into 1 of the 3 terminals or take hdd in the TRAIN MAINTENANCE ZONE."
+DescriptionDEF="Terminal: CONTROL ROOM (access point to next zone)"
+
+[SObjective260]
+ObjectiveName="Train Hacking"
+Description="Terminal: CONTROL ROOM (access point to next zone)"
+DescriptionDEF="Terminal: CONTROL ROOM (access point to next zone)"
+
+[SVitre1]
+sDescriptionText=""
+
+[SVolumetricSensor16493]
+sDescriptionText=""
+
+[SVolumetricSensor242]
+sDescriptionText=""
+
+[SVolumetricSensor261]
+sDescriptionText=""
+
+[SVolumetricSensor280]
+sDescriptionText=""
+
+[SVolumetricSensor6089]
+sDescriptionText=""
+
+[SVolumetricSensor9470]
+sDescriptionText=""
+
+[SZoneTips2187]
+sMessage_ATT[0]="Here is one of the three consoles to hack into to reach the mission objective and win the game. End of presentation."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="Here is one of the three consoles to hack into to reach the mission objective and win the game. End of presentation."
+sMessage_DEF[1]=""
+
+[SZoneTips2190]
+sMessage_ATT[0]="For this mission, you will have to infiltrate two zones in succession."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="For this mission, you will have to infiltrate two zones in succession."
+sMessage_DEF[1]=""
+
+[SZoneTips2193]
+sMessage_ATT[0]="You can use this switch to clear a direct passage from your point of departure."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="You can use this switch to clear a direct passage from your point of departure."
+sMessage_DEF[1]=""
+
+[SZoneTips2198]
+sMessage_ATT[0]="You are entering a zone that can be swept with defender firepower. They cannot access this zone, but their grenades can! However, there are many paths you can use to cross it."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="You are entering a zone that can be swept with defender firepower. They cannot access this zone, but their grenades can! However, there are many paths you can use to cross it."
+sMessage_DEF[1]=""
+
+[SZoneTips2201]
+sMessage_ATT[0]="Note the  pipes running over the walls here and there. They can help you pass from one alley to another, complicating the defenders' attempts to keep track of you."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="Note the  pipes running under the walls here and there. They can help you pass from one alley to another, complicating the defenders' attempts to keep track of you."
+sMessage_DEF[1]=""
+
+[SZoneTips2210]
+sMessage_ATT[0]="You are arriving in front of the building that houses the zone 1 mission objectives. You can choose between placing a bomb or hacking into a terminal."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="You are arriving in front of the building that houses the zone 1 mission objectives. You can choose between placing a bomb or hacking into a terminal."
+sMessage_DEF[1]=""
+
+[SZoneTips2213]
+sMessage_ATT[0]="This is one of the two objectives in zone 1. Destroying the jacks enables you to access zone 2 and change the topology. Do not place a bomb, and continue the visit."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="This is one of the two objectives in zone 1. Destroying the jacks enables you to access zone 2 and change the topology. Do not place a bomb, and continue the visit."
+sMessage_DEF[1]=""
+
+[SZoneTips2216]
+sMessage_ATT[0]="Press the button and go to the first floor."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="Press the button and go to the first floor."
+sMessage_DEF[1]=""
+
+[SZoneTips2219]
+sMessage_ATT[0]="To access the offices that hold the second zone 1 mission objective, you can hack into this panel, but the defenders will be alerted. Other, more discreet, paths are available."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="To access the offices that hold the second zone 1 mission objective, you can hack into this panel, but the defenders will be alerted. Other, more discreet, paths are available."
+sMessage_DEF[1]=""
+
+[SZoneTips2222]
+sMessage_ATT[0]="This is one of the two consoles to hack into in order to reach the zone 1 mission objective. Take the objective to continue the visit."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="This is one of the two consoles to hack into in order to reach the zone 1 mission objective. Take the objective to continue the visit."
+sMessage_DEF[1]=""
+
+[SZoneTips2225]
+sMessage_ATT[0]="You are now in zone 2. Your mission objective is to hack into one of the three terminals located there,or take hdd."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="You are now in zone 2. Your mission objective is to hack into one of the three terminals located there, or take hdd."
+sMessage_DEF[1]=""
+
+[SkyZoneInfo439]
+LocationName=""
+
+[Trigger1333]
+Message=""
+
+[Volume15212]
+LocationName="unspecified"
+
+[Volume16492]
+LocationName="unspecified"
+
+[Volume241]
+LocationName="unspecified"
+
+[Volume285]
+LocationName="unspecified"
+
+[Volume303]
+LocationName="unspecified"
+
+[Volume6086]
+LocationName="unspecified"
+
+[Volume6087]
+LocationName="unspecified"
+
+[Volume9469]
+LocationName="unspecified"
+
+[ZoneInfo1520]
+LocationName=""
+
+[ZoneInfo1521]
+LocationName=""
+
+[ZoneInfo1523]
+LocationName=""
+
+[ZoneInfo1524]
+LocationName=""
+
+[ZoneInfo1525]
+LocationName=""
+
+[ZoneInfo1553]
+LocationName=""
+
+[ZoneInfo1595]
+LocationName=""
+
+[ZoneInfo1824]
+LocationName=""
+
+[ZoneInfo232]
+LocationName=""
+
+[ZoneInfo253]
+LocationName=""
+
+[ZoneInfo2618]
+LocationName=""
+
+[ZoneInfo2765]
+LocationName=""
+
+[ZoneInfo2766]
+LocationName=""
+
+[ZoneInfo2814]
+LocationName=""
+
+[ZoneInfo2816]
+LocationName=""
+
+[ZoneInfo282]
+LocationName=""
+
+[ZoneInfo286]
+LocationName=""
+
+[ZoneInfo287]
+LocationName=""
+
+[ZoneInfo291]
+LocationName=""
+
+[ZoneInfo292]
+LocationName=""
+
+[ZoneInfo3009]
+LocationName=""
+
+[ZoneInfo3073]
+LocationName=""
+
+[ZoneInfo408]
+LocationName=""
+
+[ZoneInfo425]
+LocationName=""
+
+[ZoneInfo427]
+LocationName=""
+
+[ZoneInfo4313]
+LocationName=""
+
+[ZoneInfo4315]
+LocationName=""
+
+[ZoneInfo4321]
+LocationName=""
+
+[ZoneInfo443]
+LocationName=""
+
+[ZoneInfo445]
+LocationName=""
+
+[ZoneInfo446]
+LocationName=""
+
+[ZoneInfo447]
+LocationName=""
+
+[ZoneInfo450]
+LocationName=""
+
+[ZoneInfo464]
+LocationName=""
+
+[ZoneInfo580]
+LocationName=""
+
+[SZoneTips155]
+sMessage_ATT[0]="Here is one of the three consoles to hack into to reach the mission objective and win the game.
+"
+sMessage_ATT[1]=""
+
+[SZoneTips158]
+sMessage_ATT[0]="For this mission, you will have to infiltrate two zones in succession."
+
+[SZoneTips161]
+sMessage_ATT[0]="You can use this switch to clear a direct passage from your point of departure."
+
+[SZoneTips164]
+sMessage_ATT[0]="You are entering a zone that can be swept with defender firepower. They cannot access this zone, but their grenades can! However, there are many paths you can use to cross it.
+"
+sMessage_ATT[1]=""
+
+[SZoneTips167]
+sMessage_ATT[0]="Note the  pipes running under the walls here and there. They can help you pass from one alley to another, complicating the defenders' attempts to keep track of you.
+"
+sMessage_ATT[1]=""
+
+[SZoneTips170]
+sMessage_ATT[0]="You are arriving in front of the building that houses the zone 1 mission objectives. You can choose between placing a bomb or hacking into a terminal."
+sMessage_ATT[1]=""
+
+[SZoneTips173]
+sMessage_ATT[0]="This is one of the two objectives in zone 1. Destroying the jacks enables you to access zone 2 and change the topology. Do not place a bomb, and continue the visit."
+sMessage_ATT[1]=""
+
+[SZoneTips176]
+sMessage_ATT[0]="To access the offices that hold the second zone 1 mission objective, you can hack into this box, but the defenders will be alerted. Other, more discreet, paths are available.
+"
+sMessage_ATT[1]=""
+
+[SZoneTips180]
+sMessage_ATT[0]="This is one of the two consoles to hack into in order to reach the zone 1 mission objective. Take the objective to continue the visit.
+"
+sMessage_ATT[1]=""
+
+[SZoneTips183]
+sMessage_ATT[0]="You are now in zone 2. Your mission objective is to hack into one of the three terminals located there.
+"

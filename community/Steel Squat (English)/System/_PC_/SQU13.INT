@@ -1,0 +1,520 @@
+
+Section
+Tag="ENG"
+
+[BlockingVolume1300]
+LocationName="unspecified"
+
+[BlockingVolume1317]
+LocationName="unspecified"
+
+[BlockingVolume1331]
+LocationName="unspecified"
+
+[BlockingVolume15960]
+LocationName="unspecified"
+
+[BlockingVolume233]
+LocationName="unspecified"
+
+[BlockingVolume261]
+LocationName="unspecified"
+
+[BlockingVolume263]
+LocationName="unspecified"
+
+[BlockingVolume2696]
+LocationName="unspecified"
+
+[BlockingVolume271]
+LocationName="unspecified"
+
+[BlockingVolume329]
+LocationName="unspecified"
+
+[BlockingVolume333]
+LocationName="unspecified"
+
+[BlockingVolume338]
+LocationName="unspecified"
+
+[BlockingVolume351]
+LocationName="unspecified"
+
+[BlockingVolume6571]
+LocationName="unspecified"
+
+[BlockingVolume6579]
+LocationName="unspecified"
+
+[LevelInfo0]
+Title="Untitled"
+LevelEnterText=""
+LocationName=""
+
+[LevelSummary]
+Title="Untitled"
+LevelEnterText=""
+
+[SInterrupteur11680]
+sWarnHackingText="Crane Control"
+sDescriptionText="Activate"
+
+[SInterrupteur242]
+sWarnHackingText="Store Shutters"
+sDescriptionText="Shutters"
+
+[SInterrupteur254]
+sWarnHackingText="Store and Restaurant Shutters"
+sDescriptionText="Shutters"
+
+[SInterrupteur8670]
+sWarnHackingText="Restaurant Shutters"
+sDescriptionText="Shutters"
+
+[SInterrupteur8693]
+sWarnHackingText=""
+sDescriptionText="Hack"
+
+[SInterrupteur11667]
+sWarnHackingText=""
+sDescriptionText="Hack"
+
+[SAmmoStock12649]
+sDescriptionText=""
+
+[SAmmoStock8832]
+sDescriptionText=""
+
+[SAmmoStock8843]
+sDescriptionText=""
+
+[SCamNetwork1594]
+CamName="CourtYard"
+tCamAlreadyInUse="Camera already used by mate."
+sDescriptionText=""
+
+[SCamNetwork1597]
+CamName="Hotel Stairs"
+tCamAlreadyInUse="Camera already used by mate."
+sDescriptionText=""
+
+[SCamNetwork2763]
+CamName="Backstreet"
+tCamAlreadyInUse="Camera already used by mate."
+sDescriptionText=""
+
+[SComputerObjectiveTrigger26206]
+TriggerName="Living Room (2nd Floor)"
+sDescriptionText=""
+
+[SComputerObjectiveTrigger26211]
+TriggerName="Office (1st Floor)"
+sDescriptionText=""
+
+[SComputerObjectiveTrigger3873]
+TriggerName="Kitchen (Ground Floor)"
+sDescriptionText=""
+
+[SComputerObjectiveTrigger3878]
+TriggerName="Laboratory (1st Floor)"
+sDescriptionText=""
+
+[SComputerObjectiveTrigger7441]
+TriggerName="Shop (Ground Floor)"
+sDescriptionText=""
+
+[SFlag10986]
+TriggerName="CAID Secret Files"
+sDescriptionText=""
+
+[SFlagDropZone18733]
+TriggerName="Unnamed trigger"
+sDescriptionText=""
+
+[SGamePlayObject2047]
+sDescriptionText=""
+
+[SGamePlayObject2051]
+sDescriptionText=""
+
+[SGamePlayObject35804]
+sDescriptionText=""
+
+[SGamePlayObject6928]
+sDescriptionText=""
+
+[SInfirmary261]
+sDescriptionText=""
+
+[SInfirmary275]
+sDescriptionText=""
+
+[SLaserTrigger12194]
+sDescriptionText=""
+
+[SLaserTrigger257]
+sDescriptionText=""
+
+[SLaserTrigger260]
+sDescriptionText=""
+
+[SLaserTrigger7638]
+sDescriptionText=""
+
+[SLaserTrigger7639]
+sDescriptionText=""
+
+[SLaserTrigger7811]
+sDescriptionText=""
+
+[SMission258]
+ObjectiveName="Unnamed mission"
+Description="Retrieve 10 Disks"
+DescriptionDEF="Prevent the intruders from getting their hands on the data disks to complete your mission."
+
+[SMission26213]
+ObjectiveName="Multi"
+Description="Complete 4 of the 6 mission objectives."
+DescriptionDEF="Protect the strategic objectives and neutralize the intruders."
+
+[SMission261]
+ObjectiveName=""
+Description="Eliminate all of the members of the ARGUS PMC who are present."
+DescriptionDEF="Eliminate all the intruders seeking to infiltrate the zone you defend."
+
+[SObjective1570]
+ObjectiveName="CAID Secret Files"
+Description="Secret Files"
+DescriptionDEF="Secret Files"
+
+[SObjective26215]
+ObjectiveName="Laboratory First Floor"
+Description="Lab First Floor"
+DescriptionDEF="Lab First Floor"
+
+[SObjective26217]
+ObjectiveName="Living Room 2nd Floor"
+Description="Living Room 2nd Floor"
+DescriptionDEF="Living Room 2nd Floor"
+
+[SObjective26218]
+ObjectiveName="Kitchen Ground Floor"
+Description="Kitchen Ground Floor"
+DescriptionDEF="Kitchen Ground Floor"
+
+[SObjective26219]
+ObjectiveName="Shop Ground Floor"
+Description="Shop Ground Floor"
+DescriptionDEF="Shop Ground Floor"
+
+[SObjective26221]
+ObjectiveName="Office First Floor"
+Description="Office First Floor"
+DescriptionDEF="Office First Floor"
+
+[SVitre1]
+sDescriptionText=""
+
+[SVitre10]
+sDescriptionText=""
+
+[SVitre11]
+sDescriptionText=""
+
+[SVitre12555]
+sDescriptionText=""
+
+[SVitre13]
+sDescriptionText=""
+
+[SVitre14]
+sDescriptionText=""
+
+[SVitre15]
+sDescriptionText=""
+
+[SVitre16]
+sDescriptionText=""
+
+[SVitre18]
+sDescriptionText=""
+
+[SVitre19]
+sDescriptionText=""
+
+[SVitre21]
+sDescriptionText=""
+
+[SVitre22]
+sDescriptionText=""
+
+[SVitre23]
+sDescriptionText=""
+
+[SVitre24]
+sDescriptionText=""
+
+[SVitre26]
+sDescriptionText=""
+
+[SVitre27]
+sDescriptionText=""
+
+[SVitre3]
+sDescriptionText=""
+
+[SVitre4]
+sDescriptionText=""
+
+[SVitre412]
+sDescriptionText=""
+
+[SVitre5]
+sDescriptionText=""
+
+[SVitre6]
+sDescriptionText=""
+
+[SVitre7]
+sDescriptionText=""
+
+[SVitre8]
+sDescriptionText=""
+
+[SVitre9]
+sDescriptionText=""
+
+[SZoneTips2231]
+sMessage_ATT[0]="This Disk is the Sixth Objective. Its drop-off point is located inside the spies spawn point and there are many routes that the spy can use to reach it."
+sMessage_ATT[1]=""
+sMessage_DEF[0]=""
+sMessage_DEF[1]=""
+
+[SZoneTips250]
+sMessage_ATT[0]="In this mission, there are 6 possible objectives to hack. To win you will need to neutralize 4 of them."
+sMessage_ATT[1]=""
+sMessage_DEF[0]=""
+sMessage_DEF[1]=""
+
+[SZoneTips258]
+sMessage_ATT[0]="Five of these objectives are computer terminals to neutralize. The Sixth is a disk that you must retrieve."
+sMessage_ATT[1]=""
+sMessage_DEF[0]=""
+sMessage_DEF[1]=""
+
+[SZoneTips267]
+sMessage_ATT[0]="The means to pass from one building to the other are numerous. Zip Lines, Sewers, Corridors . . ."
+sMessage_ATT[1]=""
+sMessage_DEF[0]=""
+sMessage_DEF[1]=""
+
+[SZoneTips275]
+sMessage_ATT[0]="This is the shop, and in here you will find your First Mission Objective."
+sMessage_ATT[1]=""
+sMessage_DEF[0]=""
+sMessage_DEF[1]=""
+
+[SZoneTips283]
+sMessage_ATT[0]="This is the office and is where the 2nd mission objective is located. Notice that while you hacking, Mercs can use the window to snipe or grenade this room."
+sMessage_ATT[1]=""
+sMessage_DEF[0]=""
+sMessage_DEF[1]=""
+
+[SZoneTips296]
+sMessage_ATT[0]="Hack this panel to close the shutters for 30 seconds and protect yourself while hacking the objectives in this building."
+sMessage_ATT[1]=""
+sMessage_DEF[0]=""
+sMessage_DEF[1]=""
+
+[SZoneTips305]
+sMessage_ATT[0]="Here is the living room, which holds the 3rd Objective."
+sMessage_ATT[1]=""
+sMessage_DEF[0]=""
+sMessage_DEF[1]=""
+
+[SZoneTips313]
+sMessage_ATT[0]="Here is the lab and the 4th objective. Notice the Molotov Cocktail, you can use this to set fire to a mercenary and kill him."
+sMessage_ATT[1]=""
+sMessage_DEF[0]=""
+sMessage_DEF[1]=""
+
+[SZoneTips321]
+sMessage_ATT[0]="In this old Kitchen, you'll see the 5th Objective."
+sMessage_ATT[1]=""
+sMessage_DEF[0]=""
+sMessage_DEF[1]=""
+
+[SZoneTips329]
+sMessage_ATT[0]="Destroy the glass in front of you with your weapon, but remember that doing this will allow Merc grenades to pass through."
+sMessage_ATT[1]=""
+sMessage_DEF[0]=""
+sMessage_DEF[1]=""
+
+[SZoneTips338]
+sMessage_ATT[0]="To attain the 6th objective, you must destroy the wall of the farthest building. To do so, activate the crane using this panel."
+sMessage_ATT[1]=""
+sMessage_DEF[0]=""
+sMessage_DEF[1]=""
+
+[SkyZoneInfo0]
+LocationName=""
+
+[Trigger0]
+Message=""
+
+[Trigger1]
+Message=""
+
+[Trigger10]
+Message=""
+
+[Trigger11]
+Message=""
+
+[Trigger12]
+Message=""
+
+[Trigger13]
+Message=""
+
+[Trigger3]
+Message=""
+
+[ZoneInfo1]
+LocationName=""
+
+[ZoneInfo10]
+LocationName=""
+
+[ZoneInfo11]
+LocationName=""
+
+[ZoneInfo14]
+LocationName=""
+
+[ZoneInfo16125]
+LocationName=""
+
+[ZoneInfo2]
+LocationName=""
+
+[ZoneInfo2069]
+LocationName=""
+
+[ZoneInfo22]
+LocationName=""
+
+[ZoneInfo241]
+LocationName=""
+
+[ZoneInfo3]
+LocationName=""
+
+[ZoneInfo363]
+LocationName=""
+
+[ZoneInfo370]
+LocationName=""
+
+[ZoneInfo394]
+LocationName=""
+
+[ZoneInfo3975]
+LocationName=""
+
+[ZoneInfo3976]
+LocationName=""
+
+[ZoneInfo4]
+LocationName=""
+
+[ZoneInfo450]
+LocationName=""
+
+[ZoneInfo456]
+LocationName=""
+
+[ZoneInfo459]
+LocationName=""
+
+[ZoneInfo462]
+LocationName=""
+
+[ZoneInfo465]
+LocationName=""
+
+[ZoneInfo468]
+LocationName=""
+
+[ZoneInfo471]
+LocationName=""
+
+[ZoneInfo474]
+LocationName=""
+
+[ZoneInfo477]
+LocationName=""
+
+[ZoneInfo480]
+LocationName=""
+
+[ZoneInfo483]
+LocationName=""
+
+[ZoneInfo486]
+LocationName=""
+
+[ZoneInfo5]
+LocationName=""
+
+[ZoneInfo6]
+LocationName=""
+
+[ZoneInfo617]
+LocationName=""
+
+[ZoneInfo629]
+LocationName=""
+
+[ZoneInfo641]
+LocationName=""
+
+[ZoneInfo647]
+LocationName=""
+
+[ZoneInfo668]
+LocationName=""
+
+[ZoneInfo671]
+LocationName=""
+
+[ZoneInfo683]
+LocationName=""
+
+[ZoneInfo689]
+LocationName=""
+
+[ZoneInfo6926]
+LocationName=""
+
+[ZoneInfo7]
+LocationName=""
+
+[ZoneInfo728]
+LocationName=""
+
+[ZoneInfo741]
+LocationName=""
+
+[ZoneInfo764]
+LocationName=""
+
+[ZoneInfo797]
+LocationName=""
+
+[ZoneInfo8]
+LocationName=""
+
+[ZoneInfo9]
+LocationName=""

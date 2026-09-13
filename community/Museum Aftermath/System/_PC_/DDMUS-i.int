@@ -1,0 +1,48 @@
+
+Section
+Tag="ENG"
+
+[MapSettings]
+LegendMap="1|22 October 2009, 00:47||M.O.C.A, San Francisco, California, USA|Construction of a new central pavilon for the San Francisco Museum of Contemporary Art."
+
+LegendMapInBrief="|1 : Balcony.||2 : Café.||3 : Corridor.||4 : Exhibition Room.||5 : Monolith Room.||6 : Store Room."
+
+ExpliMapInBriefSpy="The new Central Pavilion for the San Francisco Museum of Contemporary Art is being built. Our opponents would like to use the site to hack into  the computer network."
+
+ExpliMapInBriefSentry="The new Central Pavilion for the San Francisco Museum of Contemporary Art is being built. Our customer would like to take advantage of this opportunity to connect up with the internal computer network."
+
+ModesStrings=((ExplicationModeSpy§(6553)="Pick up and keep the data disks.",
+
+ExplicationModeSentry§(6550)="Prevent the intruders from seizing the data disks.",
+
+ExpliModeInBriefSpy§(6554)="The Museum has three zones: the Café, the Exhibition Room and the Monolith Room.",
+
+LegendModeInBriefSpy§(6555)="The spies must go through the level and get their hands on a certain number of disks. The mercenaries must prevent them, or eliminate the spies.",
+
+ExpliModeInBriefSentry§(6551)="TThe Museum has six zones: the Balcony, the Café, Corridor, Exhibition room, Monolith room and Storage room.",
+
+LegendModeInBriefSentry§(6552)="The spies must go through the level and get their hands on a certain number of disks. The mercenaries must prevent them, or eliminate the spies."),
+
+(ExplicationModeSpy§(6553)="Complete three of the five mission objectives to destroy the ARGUS PMC data.",
+
+ExplicationModeSentry§(6550)="Protect the strategic objectives and neutralize the intruders.",
+
+ExpliModeInBriefSpy§(6554)="From your insertion point, can access the main entrance or the ventilation system. The Museum is made up of a Café, an Exhibition Room and the Monolith Room.",
+
+LegendModeInBriefSpy§(6555)="The spies must accomplish a certain number of mission objectives. The latter may be of three kinds. The mercenaries must prevent them, or eliminate the spies.",
+
+ExpliModeInBriefSentry§(6551)="The Museum has six zones: the Balcony, the Café, Corridor, Exhibition room, Monolith room and Storage room.",
+
+LegendModeInBriefSentry§(6552)="The spies must accomplish a certain number of mission objectives. The latter may be of three kinds. The mercenaries must prevent them, or eliminate the spies."),
+
+(ExplicationModeSpy§(6553)="Eliminate all of the members of the ARGUS PMC who are present.",
+
+ExplicationModeSentry§(6550)="Eliminate all the intruders seeking to infiltrate the zone you defend.",
+
+ExpliModeInBriefSpy§(6554)="From your insertion point, you can access the main entrance or the ventilation system. The Museum is made up of a Café, an Exhibition Room and a Monolith Room.",
+
+LegendModeInBriefSpy§(6555)="The spies, like the mercenaries, must eliminate the opposing team entirely.",
+
+ExpliModeInBriefSentry§(6551)="The Museum has six zones: the Balcony, the Café, Corridor, Exhibition room, Monolith room and Storage room.",
+
+LegendModeInBriefSentry§(6552)="The spies, like the mercenaries, must eliminate the opposing team entirely."))

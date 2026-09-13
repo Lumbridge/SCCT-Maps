@@ -1,0 +1,8 @@
+[Channels]
+FL=Squ_mur_destroy_L
+FR=Squ_mur_destroy_R
+BL=Squ_mur_destroy_Ls
+BR=Squ_mur_destroy_Rs
+Center=Squ_mur_destroy_C
+LFE=Squ_mur_destroy_Sub
+

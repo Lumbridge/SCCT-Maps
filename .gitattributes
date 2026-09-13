@@ -10,3 +10,15 @@
 *.png binary
 *.tga binary
 *.webp binary
+
+# Community map audio and animation packages
+*.uax binary
+*.uas binary
+*.usxx binary
+*.mux binary
+*.ukx binary
+*.u binary
+# Preserve original map localization and author documents byte for byte
+/community/** -text
+/community/**/*.md text eol=lf
+/community/**/SHA256SUMS.txt text eol=lf

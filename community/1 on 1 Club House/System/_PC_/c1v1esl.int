@@ -1,0 +1,778 @@
+
+Section
+Tag="ENG"
+
+[BlockingVolume380]
+LocationName="unspecified"
+
+[BlockingVolume4013]
+LocationName="unspecified"
+
+[LevelInfo0]
+Title="Untitled"
+LevelEnterText=""
+LocationName=""
+
+[LevelSummary]
+Title="Untitled"
+LevelEnterText=""
+
+[SAlarm1711]
+AlarmName="Glass structure alarm"
+AlarmDescription="Glass structure opening"
+AlarmDescriptionSpy="Glass structure opening"
+
+[SAlarm1714]
+AlarmName="Electric alam"
+AlarmDescription="Electric system overload - Achtung,Achtung :D !"
+AlarmDescriptionSpy="Electric system overload - Achtung,Achtung :D !"
+
+[SAlarm387]
+AlarmName="tea_door_alarm"
+AlarmDescription="Open lunch room access"
+AlarmDescriptionSpy="Open lunch room access"
+
+[SAlarm393]
+AlarmName="tea laser alarm"
+AlarmDescription="Tea room"
+AlarmDescriptionSpy=""
+
+[SAlarm397]
+AlarmName="Steamalarm"
+AlarmDescription="Steam pressure overload - Danger !"
+AlarmDescriptionSpy="Steam pressure overload - Danger !"
+
+[SAlarm401]
+AlarmName="2nd_coridor_alarm"
+AlarmDescription="Corridor level 2"
+AlarmDescriptionSpy=""
+
+[SAlarm402]
+AlarmName="resto_laser_alarm"
+AlarmDescription="Lunch Room"
+AlarmDescriptionSpy=""
+
+[SAlarm410]
+AlarmName="1st_corridor_alarm"
+AlarmDescription="Corridor level 1"
+AlarmDescriptionSpy=""
+
+[SAlarm425]
+AlarmName="sauna_door_alarm"
+AlarmDescription="Open steam bath access"
+AlarmDescriptionSpy="Open steam bath access"
+
+[SAlarm429]
+AlarmName="jacuzzi_alarm"
+AlarmDescription="Jacuzzi"
+AlarmDescriptionSpy=""
+
+[SAlarm498]
+AlarmName="steam_bath_alarm"
+AlarmDescription="Steam Bath"
+AlarmDescriptionSpy=""
+
+[SAmmoStock24988]
+sDescriptionText=""
+
+[SAmmoStock352]
+sDescriptionText=""
+
+[SAmmoStock356]
+sDescriptionText=""
+
+[SCamNetwork461]
+CamName="Entry hall"
+tCamAlreadyInUse="Camera already used by mate.ITS MAP 1 vs 1 fagot :P"
+sDescriptionText=""
+
+[SCamNetwork464]
+CamName="Zen garden"
+tCamAlreadyInUse="Camera already used by mate? ITS MAP 1 vs 1 fagot :P"
+sDescriptionText=""
+
+[SCamera1649]
+sDescriptionText=""
+
+[SCamera3846]
+sDescriptionText=""
+
+[SCamera409]
+sDescriptionText=""
+
+[SCamera413]
+sDescriptionText=""
+
+[SCamera4529]
+sDescriptionText=""
+
+[SCamera499]
+sDescriptionText=""
+
+[SComputerObjectiveTrigger1716]
+TriggerName="Jacuzzi"
+sDescriptionText=""
+
+[SComputerObjectiveTrigger1723]
+TriggerName="Garden 1st floor"
+sDescriptionText=""
+
+[SComputerObjectiveTrigger6027]
+TriggerName="Steam Bath"
+sDescriptionText=""
+
+[SComputerObjectiveTrigger6049]
+TriggerName="Lunch Room"
+sDescriptionText=""
+
+[SComputerObjectiveTrigger6732]
+TriggerName="Tea room"
+sDescriptionText=""
+
+[SComputerObjectiveTrigger9476]
+TriggerName="Garden 2nd floor"
+sDescriptionText=""
+
+[SDamageVolume6241]
+LocationName="unspecified"
+
+[SDamageVolume9801]
+LocationName="unspecified"
+
+[SDamageVolume9811]
+LocationName="unspecified"
+
+[SDamageVolume9821]
+LocationName="unspecified"
+
+[SDamageVolume9831]
+LocationName="unspecified"
+
+[SDamageVolume9841]
+LocationName="unspecified"
+
+[SDisk383]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk390]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk396]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk400]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk403]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk406]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk409]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk731]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk754]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk757]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk763]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk769]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk772]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk775]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk778]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk785]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk788]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk791]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk794]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk798]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk801]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk804]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk807]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk811]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk814]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk817]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk820]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk823]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk827]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk830]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk833]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk836]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk839]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk842]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk846]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk849]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk863]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk866]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk869]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk872]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk893]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SDisk896]
+TriggerName="Disk"
+sDescriptionText=""
+
+[SGamePlayObject1068]
+sDescriptionText=""
+
+[SGamePlayObject1404]
+sDescriptionText=""
+
+[SGamePlayObject1510]
+sDescriptionText=""
+
+[SGamePlayObject1511]
+sDescriptionText=""
+
+[SGamePlayObject1564]
+sDescriptionText=""
+
+[SGamePlayObject1574]
+sDescriptionText=""
+
+[SGamePlayObject1575]
+sDescriptionText=""
+
+[SGamePlayObject1604]
+sDescriptionText=""
+
+[SGamePlayObject1605]
+sDescriptionText=""
+
+[SGamePlayObject1644]
+sDescriptionText=""
+
+[SGamePlayObject1645]
+sDescriptionText=""
+
+[SGamePlayObject1683]
+sDescriptionText=""
+
+[SGamePlayObject1684]
+sDescriptionText=""
+
+[SGamePlayObject1756]
+sDescriptionText=""
+
+[SGamePlayObject1773]
+sDescriptionText=""
+
+[SGamePlayObject1774]
+sDescriptionText=""
+
+[SGamePlayObject1786]
+sDescriptionText=""
+
+[SGamePlayObject1787]
+sDescriptionText=""
+
+[SGamePlayObject1790]
+sDescriptionText=""
+
+[SGamePlayObject1845]
+sDescriptionText=""
+
+[SGamePlayObject1847]
+sDescriptionText=""
+
+[SGamePlayObject1856]
+sDescriptionText=""
+
+[SGamePlayObject1857]
+sDescriptionText=""
+
+[SGamePlayObject1858]
+sDescriptionText=""
+
+[SGamePlayObject1859]
+sDescriptionText=""
+
+[SGamePlayObject2403]
+sDescriptionText=""
+
+[SGamePlayObject266]
+sDescriptionText=""
+
+[SGamePlayObject269]
+sDescriptionText=""
+
+[SGamePlayObject276]
+sDescriptionText=""
+
+[SGamePlayObject277]
+sDescriptionText=""
+
+[SGamePlayObject2856]
+sDescriptionText=""
+
+[SGamePlayObject2857]
+sDescriptionText=""
+
+[SGamePlayObject304]
+sDescriptionText=""
+
+[SGamePlayObject3079]
+sDescriptionText=""
+
+[SGamePlayObject3080]
+sDescriptionText=""
+
+[SGamePlayObject312]
+sDescriptionText=""
+
+[SGamePlayObject313]
+sDescriptionText=""
+
+[SGamePlayObject314]
+sDescriptionText=""
+
+[SGamePlayObject3263]
+sDescriptionText=""
+
+[SGamePlayObject327]
+sDescriptionText=""
+
+[SGamePlayObject3273]
+sDescriptionText=""
+
+[SGamePlayObject3371]
+sDescriptionText=""
+
+[SGamePlayObject368]
+sDescriptionText=""
+
+[SGamePlayObject4109]
+sDescriptionText=""
+
+[SGamePlayObject4114]
+sDescriptionText=""
+
+[SGamePlayObject4119]
+sDescriptionText=""
+
+[SGamePlayObject4140]
+sDescriptionText=""
+
+[SGamePlayObject5082]
+sDescriptionText=""
+
+[SGamePlayObject5083]
+sDescriptionText=""
+
+[SGamePlayObject6411]
+sDescriptionText=""
+
+[SGamePlayObject7540]
+sDescriptionText=""
+
+[SGamePlayObject7543]
+sDescriptionText=""
+
+[SGamePlayObject853]
+sDescriptionText=""
+
+[SGamePlayObject8675]
+sDescriptionText=""
+
+[SGamePlayObject908]
+sDescriptionText=""
+
+[SGamePlayObject990]
+sDescriptionText=""
+
+[SInfirmary24995]
+sDescriptionText=""
+
+[SInfirmary24998]
+sDescriptionText=""
+
+[SInfirmary528]
+sDescriptionText=""
+
+[SInterrupteur1025]
+sWarnHackingText=""
+sDescriptionText="Lift"
+
+[SInterrupteur1040]
+sWarnHackingText=""
+sDescriptionText="Go down"
+
+[SInterrupteur1541]
+sWarnHackingText=""
+sDescriptionText="Open"
+
+[SInterrupteur1545]
+sWarnHackingText=""
+sDescriptionText="Open"
+
+[SInterrupteur1560]
+sWarnHackingText=""
+sDescriptionText="Open"
+
+[SInterrupteur1776]
+sWarnHackingText=""
+sDescriptionText="Hack"
+
+[SInterrupteur384]
+sWarnHackingText=""
+sDescriptionText="Open"
+
+[SInterrupteur4167]
+sWarnHackingText=""
+sDescriptionText="Hack"
+
+[SInterrupteur4430]
+sWarnHackingText=""
+sDescriptionText="Lift"
+
+[SInterrupteur4431]
+sWarnHackingText=""
+sDescriptionText="Go up"
+
+[SInterrupteur4457]
+sWarnHackingText=""
+sDescriptionText="Lift"
+
+[SInterrupteur4458]
+sWarnHackingText=""
+sDescriptionText="Lift"
+
+[SInterrupteur4459]
+sWarnHackingText=""
+sDescriptionText="Go down"
+
+[SInterrupteur4460]
+sWarnHackingText=""
+sDescriptionText="Go up"
+
+[SInterrupteur8658]
+sWarnHackingText=""
+sDescriptionText="Hack"
+
+[SInterrupteur8696]
+sWarnHackingText=""
+sDescriptionText="Hack"
+
+[SInterrupteur8886]
+sWarnHackingText=""
+sDescriptionText="Hack"
+
+[SLaserTrigger1071]
+sDescriptionText=""
+
+[SLaserTrigger1072]
+sDescriptionText=""
+
+[SLaserTrigger374]
+sDescriptionText=""
+
+[SLaserTrigger376]
+sDescriptionText=""
+
+[SLaserTrigger377]
+sDescriptionText=""
+
+[SLaserTrigger384]
+sDescriptionText=""
+
+[SLaserTrigger391]
+sDescriptionText=""
+
+[SLaserTrigger392]
+sDescriptionText=""
+
+[SMission366]
+ObjectiveName="Unnamed mission"
+Description="Find and keep the data disks to complete your mission."
+DescriptionDEF="Prevent the intruders from getting their hands on the data disks to complete your mission."
+
+[SMission380]
+ObjectiveName="Unnamed mission"
+Description="Complete 2 of the 6 mission objectives to destroy the ARGUS PMC data. GL & HF"
+DescriptionDEF="Protect the strategic objectives and neutralize the intruders.GL & HF"
+
+[SMission782]
+ObjectiveName="Unnamed mission"
+Description="Eliminate all of the members of the ARGUS PMC who are present.GL & HF"
+DescriptionDEF="Eliminate all the intruders seeking to infiltrate the club.GL & HF"
+
+[SObjective1719]
+ObjectiveName="Steam Bath"
+Description="Terminal : sector 2""
+DescriptionDEF="Terminal : sector 2""
+
+[SObjective1724]
+ObjectiveName="Garden 1st floor""
+Description="Terminal : sector 2"
+DescriptionDEF="Terminal : sector 2"
+
+[SObjective6031]
+ObjectiveName="Garden 2nd floor""
+Description="Terminal : sector 1""
+DescriptionDEF="Terminal : sector 1""
+
+[SObjective6050]
+ObjectiveName="Lunch Room"
+Description="Terminal : sector 1"
+DescriptionDEF="Terminal : sector 1""
+
+[SObjective6733]
+ObjectiveName="Tea Room"
+Description="Terminal : sector 1"
+DescriptionDEF="Terminal : sector 1"
+
+[SObjective9475]
+ObjectiveName="Jacuzzi"
+Description="Terminal : sector 2""
+DescriptionDEF="Terminal : sector 2""
+
+[SZoneTips368]
+sMessage_ATT[0]="You can use a panel located in the covered garden to destroy all the false floors in one go. It's up to you to find it. End of the presentation."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="You can use a panel located in the covered garden to destroy all the false floors in one go. It's up to you to find it. End of the presentation."
+sMessage_DEF[1]=""
+
+[SZoneTips420]
+sMessage_ATT[0]="The Club has six objectives, spread out on two levels. You must take two out of six to win the mission."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="The Club has six objectives, spread out on two levels. You must take two out of six to win the mission."
+sMessage_DEF[1]=""
+
+[SZoneTips429]
+sMessage_ATT[0]="This access point leads to the glass roof. If you succeed in opening it, alternate ways will become available."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="This access point leads to the glass roof. If you succeed in opening it, alternate ways will become available."
+sMessage_DEF[1]=""
+
+[SZoneTips433]
+sMessage_ATT[0]="You are in the entrance hall from which you can reach the two levels of the Club."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="You are in the entrance hall from which you can reach the two levels of the Club."
+sMessage_DEF[1]=""
+
+[SZoneTips441]
+sMessage_ATT[0]="Observe the opening above your head. It can only be reached with a cooperative movement. These access points can give you a tactical advantage."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="Observe the opening above your head. It can only be reached with a cooperative movement. These access points can give you a tactical advantage."
+sMessage_DEF[1]=""
+
+[SZoneTips449]
+sMessage_ATT[0]="Here is the upper level corridor. It provides access to the Tea Room and the Lunch Room, each contains one mission objective."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="Here is the upper level corridor. It provides access to the Tea Room and the Lunch Room, each contains one mission objective."
+sMessage_DEF[1]=""
+
+[SZoneTips457]
+sMessage_ATT[0]="To access the mission objectives, you can hack into this panel... But watch out! By hacking into it, you reveal your presence. Find other ways to access the objectives without being located."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="To access the mission objectives, you can hack into this panel ... But watch out! By hacking into it, you reveal your presence. Find other ways to access the objectives without being located."
+sMessage_DEF[1]=""
+
+[SZoneTips476]
+sMessage_ATT[0]="This is one of the terminals to hack into. You must deactivate two out of six to win the mission. You can interrupt a hacking operation that is in progress and start it again later if a defender appears."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="This is one of the terminals to hack into. You must deactivate two out of six to win the mission. You can interrupt a hacking operation that is in progress and start it again later if a defender appears."
+sMessage_DEF[1]=""
+
+[SZoneTips484]
+sMessage_ATT[0]="Observe the electrical box and the neon along the wall. By shooting at it, you can make them explode and destroy the false ceiling, opening up new passageways."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="Observe the electrical box and the neon along the wall. By shooting at it, you can make them explode and destroy the false ceiling, opening up new passageways."
+sMessage_DEF[1]=""
+
+[SZoneTips492]
+sMessage_ATT[0]="You can also destroy all the false ceilings by hacking into this panel. Beware: this action will also facilitate the work of the defenders."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="You can also destroy all the false ceilings by hacking into this panel. Beware: this action will also facilitate the work of the defenders."
+sMessage_DEF[1]=""
+
+[SZoneTips495]
+sMessage_ATT[0]="Here is the lower level corridor. It provides access to the Steam Bath and the Jacuzzi, each contains one mission objective."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="Here is the lower level corridor. It provides access to the Steam Bath and the Jacuzzi, each contains one mission objective."
+sMessage_DEF[1]=""
+
+[SZoneTips499]
+sMessage_ATT[0]="This panel controls the partial opening of the glass roof and will open up new passages for you."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="This panel controls the partial opening of the glass roof and will open up new passages for you."
+sMessage_DEF[1]=""
+
+[SZoneTips502]
+sMessage_ATT[0]="By firing at these pipes, you will blow up the false floor, creating new access ponts towards the corridor that leads to the Steam bath and the Jacuzzi."
+sMessage_ATT[1]=""
+sMessage_DEF[0]="By firing at these pipes, you will blow up the false floor, creating new access ponts towards the corridor that leads to the Steam bath and the Jacuzzi."
+sMessage_DEF[1]=""
+
+[SkyZoneInfo1724]
+LocationName=""
+
+[Trigger1724]
+Message=""
+
+[Trigger1725]
+Message=""
+
+[Trigger469]
+Message=""
+
+[Trigger476]
+Message=""
+
+[ZoneInfo1103]
+LocationName=""
+
+[ZoneInfo1141]
+LocationName=""
+
+[ZoneInfo1741]
+LocationName=""
+
+[ZoneInfo1743]
+LocationName=""
+
+[ZoneInfo1809]
+LocationName=""
+
+[ZoneInfo1841]
+LocationName=""
+
+[ZoneInfo2565]
+LocationName=""
+
+[ZoneInfo2835]
+LocationName=""
+
+[ZoneInfo3194]
+LocationName=""
+
+[ZoneInfo322]
+LocationName=""
+
+[ZoneInfo375]
+LocationName=""
+
+[ZoneInfo378]
+LocationName=""
+
+[ZoneInfo3981]
+LocationName=""
+
+[ZoneInfo5423]
+LocationName=""
+
+[ZoneInfo7837]
+LocationName=""
+
+[ZoneInfo9066]
+LocationName=""
+
+[ZoneInfo934]
+LocationName=""

@@ -21,6 +21,10 @@ Existing maps converted into editable maps. Original brush history is not preser
 | Offshore Oilrig | `OffsD` | [Map and assets](recovered/Offshore%20Oilrig/Packages) · [Editor map](recovered/Offshore%20Oilrig/Packages/MapsEd/OffsD.sdc) |
 | Clarity Soft | `ClarD` | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/clard-v1/Clarity-Soft-v1.zip) · [Map and assets](recovered/Clarity%20Soft/Packages) · [Editor map](recovered/Clarity%20Soft/Packages/MapsEd/ClarD.sdc) |
 
+## Community map pack
+
+[Browse all 56 original community maps](community/README.md), including per-map assets, installation notes, and SHA-256 checksums. These are compiled originals, separate from the recovered editable versions above.
+
 ## Using the files
 
 Close the game, back up any matching files, and copy the map's `Packages` folder into your Enhanced SCCT Versus installation. Keep all included assets together. Players should use the same files.
