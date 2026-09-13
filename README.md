@@ -19,6 +19,7 @@ Existing maps converted into editable maps. Original brush history is not preser
 | Eden | `EDE64` | [Map and assets](recovered/Eden/Packages) · [Editor map](recovered/Eden/Packages/MapsEd/EDE64.sdc) |
 | Sublabs | `sub18` | [Map and assets](recovered/Sublabs/Packages) · [Editor map](recovered/Sublabs/Packages/MapsEd/sub18.sdc) |
 | Offshore Oilrig | `OffsD` | [Map and assets](recovered/Offshore%20Oilrig/Packages) · [Editor map](recovered/Offshore%20Oilrig/Packages/MapsEd/OffsD.sdc) |
+| Clarity Soft | `ClarD` | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/clard-v1/Clarity-Soft-v1.zip) · [Map and assets](recovered/Clarity%20Soft/Packages) · [Editor map](recovered/Clarity%20Soft/Packages/MapsEd/ClarD.sdc) |
 
 ## Using the files
 
@@ -30,4 +31,4 @@ Close the game, back up any matching files, and copy the map's `Packages` folder
 | `MapsEd` | Editable maps for the [Reloaded Editor](https://github.com/Lumbridge/SCCT_Versus_Reloaded_Editor) |
 | `StaticMeshes` / `Textures` | Required assets and menu settings |
 
-The recovered maps use the original package names and will replace installed copies of `EDE64`, `sub18`, or `OffsD`. Gameplay testing is still needed.
+The recovered maps use the original package names and will replace installed copies of `EDE64`, `sub18`, `OffsD`, or `ClarD`. Gameplay testing is still needed.
