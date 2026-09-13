@@ -7,7 +7,7 @@ Eden, Sublabs, Offshore Oilrig, and Clarity Soft are existing maps, separate fro
 | Eden | `EDE64.sdc` | `EDE64_Assets.usx` |
 | Sublabs | `sub18.sdc` | `sub18_Assets.usx` |
 | Offshore Oilrig | `OffsD.sdc` | `OffsD_Assets.usx` |
-| Clarity Soft | `ClarD.sdc` | `ClarD_Recovered_4_Assets.usx` |
+| Clarity Soft | `ClarD.sdc` | `ClarD_Assets.usx` |
 
 Use Enhanced SCCT Versus 3.6 and the Reloaded Editor. Copy each complete `Packages` folder into `Enhanced SCCT Versus 3.6\Packages`. Open the reloaded editor and open the maps as normal.
 
