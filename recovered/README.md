@@ -8,8 +8,6 @@ Eden, Sublabs, and Offshore Oilrig are existing maps, separate from the original
 | Sublabs | `sub18.sdc` | `sub18_Assets.usx` |
 | Offshore Oilrig | `OffsD.sdc` | `OffsD_Assets.usx` |
 
-Use Enhanced SCCT Versus 3.6 and the Reloaded Editor. Copy each complete `Packages` folder into the installation after backing up matching files. Open the map under `MapsEd` to edit it.
+Use Enhanced SCCT Versus 3.6 and the Reloaded Editor. Copy each complete `Packages` folder into `Enhanced SCCT Versus 3.6\Packages`. Open the reloaded editor and open the maps as normal.
 
-Recovered brush geometry does not retain the original construction history. Lighting can change after rebuilding. These files still need gameplay testing.
-
-All three renamed editor maps passed ordinary load, rebuild, save, reopen, and T3D export checks on 13 September 2026.
+Maps may not be 1:1 with the originals but should be good enough to create new enhanced versions from.
