@@ -4,13 +4,13 @@
   "bundled": [
     {
       "path": "Packages/Maps/OffsE.sdc",
-      "bytes": 1562863,
-      "sha256": "646c9a338450b7aae0263247cc80ec2a147f99f9a1ac366595008e3c8fc2acdf"
+      "bytes": 1564717,
+      "sha256": "6c2509af8e02ead8eb36cf4fcb9d838a47f0b4ac799b5a896cd4b5d7b0afe770"
     },
     {
       "path": "Packages/Textures/OffsE-i.utc",
       "bytes": 197,
-      "sha256": "0dbf8e2bcdd545c5cd52cba89e038943953d271a4d6335be4c867ab541395895"
+      "sha256": "7f6bb421f1e979ac85d730e8e1e3f6e95c75c814d80dfe880e0dff6c08fdb5a8"
     },
     {
       "path": "Packages/Animations/AQU_anm.ukx",
@@ -84,8 +84,8 @@
     },
     {
       "path": "Packages/MapsEd/OffsE.sdc",
-      "bytes": 2130568,
-      "sha256": "40b88430a96310296e26c753b4b3c23b78be79b82039ad365d89929013128820"
+      "bytes": 2132000,
+      "sha256": "18550d6553e9a0e4fda6d75708a480abfc490214d1d087cb32304eded0aff67f"
     }
   ],
   "requiredInstalled": [
