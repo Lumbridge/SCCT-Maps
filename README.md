@@ -6,7 +6,7 @@ Maps and editor files for **Splinter Cell: Chaos Theory Versus**.
 
 | Map | Package | Version | Files |
 | --- | --- | --- | --- |
-| Shipment | `ShipD` | v1.1 | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/shipd-v1.1/Shipment-v1.1.zip) · [Editor files](release/ShipD/v1.1/Packages/MapsEd) · [Source assets](src/ShipD) |
+| Shipment | `ShipD` | v1.2 | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/shipd-v1.2/Shipment-v1.2.zip) · [Editor files](release/ShipD/v1.2/Packages/MapsEd) · [Source assets](src/ShipD) |
 
 ![Shipment map preview](src/ShipD/TGA%20textures/LevelPreview_Menu_256_display_check.png)
 
