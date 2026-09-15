@@ -27,7 +27,7 @@ Existing maps converted into editable maps. Original brush history is not preser
 | Eden | `EDE64` | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/ede64-v1/Eden-v1.zip) · [Installation notes](recovered/Eden/README.md) · [Map and assets](recovered/Eden/Packages) · [Editor map](recovered/Eden/Packages/MapsEd/EDE64.sdc) |
 | Sublabs | `sub18` | [Map and assets](recovered/Sublabs/Packages) · [Editor map](recovered/Sublabs/Packages/MapsEd/sub18.sdc) |
 | Offshore Oilrig | `OffsD` | [Map and assets](recovered/Offshore%20Oilrig/Packages) · [Editor map](recovered/Offshore%20Oilrig/Packages/MapsEd/OffsD.sdc) |
-| Clarity Soft | `ClarD` | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/clard-v1/Clarity-Soft-v1.zip) · [Map and assets](recovered/Clarity%20Soft/Packages) · [Editor map](recovered/Clarity%20Soft/Packages/MapsEd/ClarD.sdc) |
+| Clarity Soft | `ClarD` | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/clard-v1/Clarity-Soft-v1.zip) · [Installation notes](recovered/Clarity%20Soft/README.md) · [Map and assets](recovered/Clarity%20Soft/Packages) · [Editor map](recovered/Clarity%20Soft/Packages/MapsEd/ClarD.sdc) |
 
 ## Community map pack
 
