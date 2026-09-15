@@ -1,6 +1,14 @@
 # "Enhanced" Offshore Oilrig
 Saved enhanced map: `OffsE`. Includes the playable map, editable source, map-selection package, recovered mesh package, and additional Oilrig dependencies used by these saved files. Original map authorship and embedded credits are retained.
 
+## Changes — 15 September 2026
+
+- Improved lighting.
+- Fixed several incorrect textures.
+- Spies can now pole-climb sections of the elevator when it is down.
+- Fixed the broken flame emitter.
+- Fixed several broken portal volumes.
+
 ## Install
 
 Close the game/editor and copy this folder's `Packages` directory into your **Enhanced SCCT Versus 3.6** installation. Back up matching files first and keep all included assets together. Players should use the same files. The `OffsE` map filename is separate from the recovered `OffsD` version.
