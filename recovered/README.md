@@ -5,7 +5,7 @@ Eden, Sublabs, Offshore Oilrig, and Clarity Soft are existing maps, separate fro
 | Map | Map filename | Additional mesh package |
 | --- | --- | --- |
 | Eden | `EDE64.sdc` | `EDE64_Recovered_Assets.usx`, `EDE64_Assets.usx` |
-| Sublabs | `sub18.sdc` | `sub18_Assets.usx` |
+| Sublabs | `sub18.sdc` | `sub18_Recovered_Assets.usx`, `sub18_Assets.usx` |
 | Offshore Oilrig | `OffsD.sdc` | `OffsD_Assets.usx` |
 | Clarity Soft | `ClarD.sdc` | `ClarD_Recovered_Assets.usx`, `ClarD_Assets.usx` |
 
