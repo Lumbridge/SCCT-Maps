@@ -33,6 +33,10 @@ Existing maps converted into editable maps. Original brush history is not preser
 
 [Browse all 56 original community maps](community/README.md), including per-map assets, installation notes, and SHA-256 checksums. These are compiled originals, separate from the recovered editable versions above.
 
+## Editor textures and static meshes
+
+[Rainbow Six Vegas - Calypso Casino v1.0.0](assets/r6v-calypso-casino/v1.0.0/README.md) includes the converted mesh packages and separate Calypso textures. [Download the pack](https://github.com/Lumbridge/SCCT-Maps/releases/download/r6v-calypso-casino-v1.0.0/Calypso-Casino-Editor-Assets-v1.0.0.zip), or use **Tools → Textures & static meshes** in [SCCT Map Manager v0.3.0 or newer](https://github.com/Lumbridge/SCCT-Map-Manager/releases/latest). The manager shows installed and available versions and flags updates. These optional assets are separate from the playable maps.
+
 ## Using the files
 
 Close the game, back up any matching files, and copy the map's `Packages` folder into your Enhanced SCCT Versus installation. Keep all included assets together. Players should use the same files.

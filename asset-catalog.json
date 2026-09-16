@@ -1,0 +1,48 @@
+[
+  {
+    "Id": "assets/r6v-calypso-casino",
+    "Name": "Rainbow Six Vegas - Calypso Casino",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/r6v-calypso-casino/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/r6v-calypso-casino-v1.0.0/R6V_MP_Casino_01.usx",
+        "Destination": "Packages/StaticMeshes/R6V_MP_Casino_01.usx",
+        "Hash": "34e877aa4acd8260ff153a025bfee0ef1570f380",
+        "Size": 96915499
+      },
+      {
+        "Source": "releases/download/r6v-calypso-casino-v1.0.0/CalypsoMeshes.usx",
+        "Destination": "Packages/StaticMeshes/CalypsoMeshes.usx",
+        "Hash": "c4c7d9440b740d464a5d9e49e1fce18764d4a02a",
+        "Size": 196556576
+      },
+      {
+        "Source": "releases/download/r6v-calypso-casino-v1.0.0/CalypsoPlacementMirrors.usx",
+        "Destination": "Packages/StaticMeshes/CalypsoPlacementMirrors.usx",
+        "Hash": "bc20403d50a7eb9742afb7c234405cb50e1de362",
+        "Size": 995899
+      },
+      {
+        "Source": "releases/download/r6v-calypso-casino-v1.0.0/CalypsoColours_Expanded.utx",
+        "Destination": "Packages/Textures/CalypsoColours_Expanded.utx",
+        "Hash": "1fee6d834fb76f4259abdfadde260653740d8781",
+        "Size": 129634131
+      },
+      {
+        "Source": "releases/download/r6v-calypso-casino-v1.0.0/CalypsoColours_Partial.utx",
+        "Destination": "Packages/Textures/CalypsoColours_Partial.utx",
+        "Hash": "ad40fad0ede4f963fa6a5ecca87e36a69acbd15e",
+        "Size": 46751630
+      },
+      {
+        "Source": "releases/download/r6v-calypso-casino-v1.0.0/CalypsoPlacementMaterials.utx",
+        "Destination": "Packages/Textures/CalypsoPlacementMaterials.utx",
+        "Hash": "41a5f8335bb4fb58ff7dd4400b4e7fabc49de12b",
+        "Size": 5401739
+      }
+    ]
+  }
+]
