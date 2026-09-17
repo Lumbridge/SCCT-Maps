@@ -44,5 +44,27 @@
         "Size": 5401739
       }
     ]
+  },
+  {
+    "Id": "ports/rainbow-six-vegas",
+    "Name": "CalyD",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Rainbow Six Vegas",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/rainbow-six-vegas/README.md",
+    "Files": [
+      { "Source": "releases/download/calyd-v1.0.0/CalyD-Playable.sdc", "Destination": "Packages/Maps/CalyD.sdc", "Hash": "6c7a21a58c8c8ddffdeba9707ce2a28c7079b88f", "Size": 1680761 },
+      { "Source": "releases/download/calyd-v1.0.0/CalyD-Editable.sdc", "Destination": "Packages/MapsEd/CalyD.sdc", "Hash": "d6236de734380d8ff9d0b423629c83854219ab4c", "Size": 2415535 },
+      { "Source": "releases/download/calyd-v1.0.0/CalyD-i.utc", "Destination": "Packages/Textures/CalyD-i.utc", "Hash": "d6d6e22500290a6ce67a33a9b6e0e3a513b5e8c7", "Size": 197 },
+      { "Source": "releases/download/calyd-v1.0.0/BSP_Calypso.usx", "Destination": "Packages/StaticMeshes/BSP_Calypso.usx", "Hash": "f465da3e2005652f4964f76ee883115201f24216", "Size": 28447728 },
+      { "Source": "releases/download/calyd-v1.0.0/CalypsoCounterV2.usx", "Destination": "Packages/StaticMeshes/CalypsoCounterV2.usx", "Hash": "cfbb099fa9adaa64e0642de449687c6eb45b18bf", "Size": 1203577 },
+      { "Source": "releases/download/calyd-v1.0.0/CalypsoMeshes.usx", "Destination": "Packages/StaticMeshes/CalypsoMeshes.usx", "Hash": "c4c7d9440b740d464a5d9e49e1fce18764d4a02a", "Size": 196556576 },
+      { "Source": "releases/download/calyd-v1.0.0/CalypsoPlacementMirrors.usx", "Destination": "Packages/StaticMeshes/CalypsoPlacementMirrors.usx", "Hash": "bc20403d50a7eb9742afb7c234405cb50e1de362", "Size": 995899 },
+      { "Source": "releases/download/calyd-v1.0.0/ShaderCalypso.usx", "Destination": "Packages/StaticMeshes/ShaderCalypso.usx", "Hash": "1bd39ac6f19e171d5e1586a01ec39f9be6f531d7", "Size": 80952342 },
+      { "Source": "releases/download/calyd-v1.0.0/CalypsoColours_Expanded.utx", "Destination": "Packages/Textures/CalypsoColours_Expanded.utx", "Hash": "1fee6d834fb76f4259abdfadde260653740d8781", "Size": 129634131 },
+      { "Source": "releases/download/calyd-v1.0.0/CalypsoColours_Partial.utx", "Destination": "Packages/Textures/CalypsoColours_Partial.utx", "Hash": "ad40fad0ede4f963fa6a5ecca87e36a69acbd15e", "Size": 46751630 },
+      { "Source": "releases/download/calyd-v1.0.0/CalypsoPlacementMaterials.utx", "Destination": "Packages/Textures/CalypsoPlacementMaterials.utx", "Hash": "41a5f8335bb4fb58ff7dd4400b4e7fabc49de12b", "Size": 5401739 }
+    ]
   }
 ]
