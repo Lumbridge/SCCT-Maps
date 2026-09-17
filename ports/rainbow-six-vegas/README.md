@@ -1,4 +1,4 @@
-# CalyD (Rainbow Six Vegas / Calypso Casino)
+# Calypso Casino (CalyD) — Rainbow Six Vegas
 
 Ported from the Rainbow Six Vegas PC Calypso Casino map into Enhanced SCCT Versus 3.6. The release assets include playable and editable `CalyD.sdc` maps, the map-selection lightmap, and the Calypso mesh and material packages required by the port.
 

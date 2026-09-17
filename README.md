@@ -36,7 +36,7 @@ Maps ported from other games, grouped by source game.
 
 | Source game | Map | Package | Files |
 | --- | --- | --- | --- |
-| Rainbow Six Vegas (PC) | CalyD / Calypso Casino | `CalyD` | [Release v1.0.0](https://github.com/Lumbridge/SCCT-Maps/releases/tag/calyd-v1.0.0) · [Port notes](ports/rainbow-six-vegas/README.md) · [Catalog metadata](asset-catalog.json) |
+| Rainbow Six Vegas (PC) | Calypso Casino (`CalyD`) | `CalyD` | [Release v1.0.0](https://github.com/Lumbridge/SCCT-Maps/releases/tag/calyd-v1.0.0) · [Port notes](ports/rainbow-six-vegas/README.md) · [Catalog metadata](asset-catalog.json) |
 
 ## Community map pack
 
