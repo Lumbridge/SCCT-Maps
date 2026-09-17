@@ -28,6 +28,15 @@ Existing maps converted into editable maps. Original brush history is not preser
 | Sublabs | `sub18` | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/sub18-v1/Sublabs-v1.zip) · [Installation notes](recovered/Sublabs/README.md) · [Map and assets](recovered/Sublabs/Packages) · [Editor map](recovered/Sublabs/Packages/MapsEd/sub18.sdc) |
 | Offshore Oilrig | `OffsD` | [Map and assets](recovered/Offshore%20Oilrig/Packages) · [Editor map](recovered/Offshore%20Oilrig/Packages/MapsEd/OffsD.sdc) |
 | Clarity Soft | `ClarD` | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/clard-v1/Clarity-Soft-v1.zip) · [Installation notes](recovered/Clarity%20Soft/README.md) · [Map and assets](recovered/Clarity%20Soft/Packages) · [Editor map](recovered/Clarity%20Soft/Packages/MapsEd/ClarD.sdc) |
+| Heliport 1.1 | `HELI02` | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/heli02-v1/Heliport-HELI02-Recovered-v1.zip) · [Installation notes](recovered/Heliport%201.1/README.md) · [Map and assets](recovered/Heliport%201.1/Packages) · [Editor map](recovered/Heliport%201.1/Packages/MapsEd/HELI02.sdc) |
+
+## Ports
+
+Maps ported from other games, grouped by source game.
+
+| Source game | Map | Package | Files |
+| --- | --- | --- | --- |
+| Rainbow Six Vegas (PC) | CalyD / Calypso Casino | `CalyD` | [Release v1.0.0](https://github.com/Lumbridge/SCCT-Maps/releases/tag/calyd-v1.0.0) · [Port notes](ports/rainbow-six-vegas/README.md) · [Catalog metadata](asset-catalog.json) |
 
 ## Community map pack
 
@@ -35,7 +44,7 @@ Existing maps converted into editable maps. Original brush history is not preser
 
 ## Editor textures and static meshes
 
-[Rainbow Six Vegas - Calypso Casino v1.0.0](assets/r6v-calypso-casino/v1.0.0/README.md) includes the converted mesh packages and separate Calypso textures. [Download the pack](https://github.com/Lumbridge/SCCT-Maps/releases/download/r6v-calypso-casino-v1.0.0/Calypso-Casino-Editor-Assets-v1.0.0.zip), or use **Tools → Textures & static meshes** in [SCCT Map Manager v0.3.0 or newer](https://github.com/Lumbridge/SCCT-Map-Manager/releases/latest). The manager shows installed and available versions and flags updates. These optional assets are separate from the playable maps.
+[Rainbow Six Vegas - Calypso Casino v1.0.0](assets/r6v-calypso-casino/v1.0.0/README.md) includes reusable converted mesh packages and separate Calypso textures. [Download the pack](https://github.com/Lumbridge/SCCT-Maps/releases/download/r6v-calypso-casino-v1.0.0/Calypso-Casino-Editor-Assets-v1.0.0.zip), or use **Tools → Textures & static meshes** in [SCCT Map Manager v0.4.1 or newer](https://github.com/Lumbridge/SCCT-Map-Manager/releases/latest). The manager also lists ported maps under **Ports**, including each source game. These optional assets are separate from the playable maps.
 
 ## Using the files
 
