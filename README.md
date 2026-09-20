@@ -47,6 +47,16 @@ Existing maps converted back into editable form. They replace the installed copi
 | Source game | Map | Files |
 | --- | --- | --- |
 | Rainbow Six Vegas (PC) | Calypso Casino (`CalyD`) | [Release v1.0.0](https://github.com/Lumbridge/SCCT-Maps/releases/tag/calyd-v1.0.0) · [Port notes](ports/rainbow-six-vegas/README.md) |
+| Splinter Cell: Double Agent (PC) | Blackwing (`SCDA_BLKG1`) | [Port notes](ports/scda/Blackwing/README.md) |
+| Splinter Cell: Double Agent (PC) | Boss House (`SCDA_BOSG2`) | [Port notes](ports/scda/Boss%20House/README.md) |
+| Splinter Cell: Double Agent (PC) | Dawn Waves (`SCDA_DWG`) | [Port notes](ports/scda/Dawn%20Waves/README.md) |
+| Splinter Cell: Double Agent (PC) | Motorway 90 (`SCDA_MOTG4`) | [Port notes](ports/scda/Motorway%2090/README.md) |
+| Splinter Cell: Double Agent (PC) | Red Diamond (`SCDA_REDG6`) | [Port notes](ports/scda/Red%20Diamond/README.md) |
+| Splinter Cell: Double Agent (PC) | Slaughterhouse (`SCDA_SLHG7`) | [Port notes](ports/scda/Slaughterhouse/README.md) |
+| Splinter Cell: Double Agent (PC) | Terminus (`SCDA_TERG5`) | [Port notes](ports/scda/Terminus/README.md) |
+| Splinter Cell: Double Agent (PC) | USS Wisdom (`SCDA_USSG8`) | [Port notes](ports/scda/USS%20Wisdom/README.md) |
+
+The eight Double Agent maps share [one set of collection notes](ports/scda/README.md), which covers what they have in common. Their release downloads are not published yet.
 
 ## Community map pack
 
