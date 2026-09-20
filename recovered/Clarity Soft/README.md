@@ -10,7 +10,7 @@ Editable version of Clarity Soft, recovered from the compiled map with the Reloa
 
 Playable map: `Packages/Maps/ClarD.sdc`. Editable map: `Packages/MapsEd/ClarD.sdc` (open it in the Reloaded Editor).
 
-Keep every included mesh and texture package with the map, and do not rename `ClarD_Recovered_Assets.usx` — the map refers to it by name.
+Keep every included mesh and texture package with the map, and do not rename `ClarD_Recovered_Assets.usx`; the map refers to it by name.
 The older `ClarD_Assets.usx` is included too, for files that still reference it.
 
 ## What to expect

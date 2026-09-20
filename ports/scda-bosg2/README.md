@@ -1,4 +1,4 @@
-# Boss House (SCDA_BOSG2) — Splinter Cell: Double Agent
+# Boss House (SCDA_BOSG2) from Splinter Cell: Double Agent
 
 Ported from `BOSG2`, the Splinter Cell: Double Agent PC map its menu calls **Boss House**, into Enhanced SCCT Versus 3.6. The port is four files: the playable and editable `SCDA_BOSG2.sdc` maps, the `SCDA_BOSG2-i.utc` map-settings file, and `SCDA_BOSG2_VS.usx`, the converted package holding this map's meshes and materials (30.8 MB).
 

@@ -10,7 +10,7 @@ Editable version of Eden, recovered from the compiled map with the Reloaded Edit
 
 Playable map: `Packages/Maps/EDE64.sdc`. Editable map: `Packages/MapsEd/EDE64.sdc` (open it in the Reloaded Editor).
 
-Keep every included mesh and texture package with the map, and do not rename `EDE64_Recovered_Assets.usx` — the map refers to it by name.
+Keep every included mesh and texture package with the map, and do not rename `EDE64_Recovered_Assets.usx`; the map refers to it by name.
 The older `EDE64_Assets.usx` is included too, for files that still reference it.
 
 ## What to expect

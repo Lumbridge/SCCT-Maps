@@ -8,6 +8,6 @@ Existing maps converted back into editable form with the Reloaded Editor. They a
 | Sublabs | `sub18.sdc` | `sub18_Recovered_Assets.usx`, `sub18_Assets.usx` |
 | Offshore Oilrig | `OffsD.sdc` | `OffsD_Assets.usx` |
 | Clarity Soft | `ClarD.sdc` | `ClarD_Recovered_Assets.usx`, `ClarD_Assets.usx` |
-| Heliport 1.1 | `HELI02.sdc` | — |
+| Heliport 1.1 | `HELI02.sdc` | None |
 
 Use Enhanced SCCT Versus 3.6 and the [Reloaded Editor](https://github.com/Lumbridge/SCCT_Versus_Reloaded_Editor). Copy a map's whole `Packages` folder into `Enhanced SCCT Versus 3.6\Packages`, then open the map from `MapsEd` in the editor. Each map's own notes list what it replaces.

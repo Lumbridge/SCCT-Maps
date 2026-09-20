@@ -1,4 +1,4 @@
-# Blackwing (SCDA_BLKG1) — Splinter Cell: Double Agent
+# Blackwing (SCDA_BLKG1) from Splinter Cell: Double Agent
 
 Ported from `BLKG1`, the Splinter Cell: Double Agent PC map its menu calls **Blackwing**, into Enhanced SCCT Versus 3.6. The port is four files: the playable and editable `SCDA_BLKG1.sdc` maps, the `SCDA_BLKG1-i.utc` map-settings file, and `SCDA_BLKG1_VS.usx`, the converted package holding this map's meshes and materials (38.3 MB).
 

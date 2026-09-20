@@ -1,4 +1,4 @@
-# Slaughterhouse (SCDA_SLHG7) — Splinter Cell: Double Agent
+# Slaughterhouse (SCDA_SLHG7) from Splinter Cell: Double Agent
 
 Ported from `SLHG7`, the Splinter Cell: Double Agent PC map its menu calls **Slaughterhouse**, into Enhanced SCCT Versus 3.6. The port is four files: the playable and editable `SCDA_SLHG7.sdc` maps, the `SCDA_SLHG7-i.utc` map-settings file, and `SCDA_SLHG7_VS.usx`, the converted package holding this map's meshes and materials (38.6 MB).
 

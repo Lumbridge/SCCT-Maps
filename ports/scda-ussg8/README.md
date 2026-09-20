@@ -1,4 +1,4 @@
-# USS Wisdom (SCDA_USSG8) — Splinter Cell: Double Agent
+# USS Wisdom (SCDA_USSG8) from Splinter Cell: Double Agent
 
 Ported from `USSG8`, the Splinter Cell: Double Agent PC map its menu calls **USS Wisdom**, into Enhanced SCCT Versus 3.6. The port is four files: the playable and editable `SCDA_USSG8.sdc` maps, the `SCDA_USSG8-i.utc` map-settings file, and `SCDA_USSG8_VS.usx`, the converted package holding this map's meshes and materials (33.4 MB).
 

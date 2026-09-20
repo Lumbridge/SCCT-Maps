@@ -1,4 +1,4 @@
-# Red Diamond (SCDA_REDG6) — Splinter Cell: Double Agent
+# Red Diamond (SCDA_REDG6) from Splinter Cell: Double Agent
 
 Ported from `REDG6`, the Splinter Cell: Double Agent PC map its menu calls **Red Diamond**, into Enhanced SCCT Versus 3.6. The port is four files: the playable and editable `SCDA_REDG6.sdc` maps, the `SCDA_REDG6-i.utc` map-settings file, and `SCDA_REDG6_VS.usx`, the converted package holding this map's meshes and materials (37.8 MB).
 

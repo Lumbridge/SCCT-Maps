@@ -15,7 +15,7 @@ The eight versus maps from Splinter Cell: Double Agent (PC), converted for Enhan
 
 ## Install
 
-Close the game and the editor, back up any files with the same names, then copy each map's four files to the paths listed in its notes. The maps are independent of each other, so install only the ones you want. Nothing here replaces an existing Chaos Theory map. Keep every file a map comes with — other players need the same ones to join you.
+Close the game and the editor, back up any files with the same names, then copy each map's four files to the paths listed in its notes. The maps are independent of each other, so install only the ones you want. Nothing here replaces an existing Chaos Theory map. Keep every file a map comes with; other players need the same ones to join you.
 
 ## Map names
 
@@ -25,7 +25,7 @@ The display names above are the ones Double Agent itself uses. Each source map s
 
 These are converted assets with SCCT-compatible materials, not a finished conversion. Review collision, materials, lighting and gameplay before building on them. They have not been playtested in game.
 
-Each map's imports were read out of its package tables: every one references exactly a single mesh package, `SCDA_<CODE>_VS`, and nothing else beyond what the game and editor provide natively. Earlier working packages left in the map-editing copy — `SCDA_DWG.usx` and `DA_BOSG2_OpacityFixed.usx` — are superseded and are not part of these ports.
+Each map's imports were read out of its package tables: every one references exactly a single mesh package, `SCDA_<CODE>_VS`, and nothing else beyond what the game and editor provide natively. Earlier working packages left in the map-editing copy (`SCDA_DWG.usx` and `DA_BOSG2_OpacityFixed.usx`) are superseded and are not part of these ports.
 
 The `-i.utc` map-settings files are minimal. They carry the settings object but no map name, game-mode list or briefing images, so a map's menu entry is bare until those are filled in. The [Calypso Casino port](../rainbow-six-vegas/README.md) ships the same way.
 

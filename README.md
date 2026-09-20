@@ -6,7 +6,7 @@ Maps for **Splinter Cell: Chaos Theory Versus**: recovered originals you can edi
 
 **Easiest:** use [SCCT Map Manager](https://github.com/Lumbridge/SCCT-Map-Manager). It downloads any map in this collection, installs it, and can disable or update it later.
 
-**By hand:** download the map's ZIP (or its `Packages` folder from this repository), close the game, back up any files with the same names, and copy `Packages` into your Enhanced SCCT Versus 3.6 installation. Keep every file that comes with the map — other players need the same files to join you.
+**By hand:** download the map's ZIP (or its `Packages` folder from this repository), close the game, back up any files with the same names, and copy `Packages` into your Enhanced SCCT Versus 3.6 installation. Keep every file that comes with the map; other players need the same files to join you.
 
 | Folder | Contents |
 | --- | --- |
@@ -64,4 +64,4 @@ The eight Double Agent maps share [one set of collection notes](ports/scda/READM
 
 ## For map makers
 
-[Rainbow Six Vegas — Calypso Casino v1.0.0](assets/r6v-calypso-casino/v1.0.0/README.md) is a pack of converted meshes and textures for use in your own maps: [download it](https://github.com/Lumbridge/SCCT-Maps/releases/download/r6v-calypso-casino-v1.0.0/Calypso-Casino-Editor-Assets-v1.0.0.zip) or install it from **Tools → Textures & static meshes** in the Map Manager. Publishing details for the manager's catalogue are in the [Map Manager docs](https://github.com/Lumbridge/SCCT-Map-Manager/blob/main/docs/publishing.md).
+[Rainbow Six Vegas: Calypso Casino v1.0.0](assets/r6v-calypso-casino/v1.0.0/README.md) is a pack of converted meshes and textures for use in your own maps: [download it](https://github.com/Lumbridge/SCCT-Maps/releases/download/r6v-calypso-casino-v1.0.0/Calypso-Casino-Editor-Assets-v1.0.0.zip) or install it from **Tools → Textures & static meshes** in the Map Manager. Publishing details for the manager's catalogue are in the [Map Manager docs](https://github.com/Lumbridge/SCCT-Map-Manager/blob/main/docs/publishing.md).

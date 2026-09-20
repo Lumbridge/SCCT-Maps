@@ -1,4 +1,4 @@
-# Motorway 90 (SCDA_MOTG4) — Splinter Cell: Double Agent
+# Motorway 90 (SCDA_MOTG4) from Splinter Cell: Double Agent
 
 Ported from `MOTG4`, the Splinter Cell: Double Agent PC map its menu calls **Motorway 90**, into Enhanced SCCT Versus 3.6. The port is four files: the playable and editable `SCDA_MOTG4.sdc` maps, the `SCDA_MOTG4-i.utc` map-settings file, and `SCDA_MOTG4_VS.usx`, the converted package holding this map's meshes and materials (47.8 MB).
 

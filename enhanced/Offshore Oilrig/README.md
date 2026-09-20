@@ -1,7 +1,7 @@
 # "Enhanced" Offshore Oilrig
 Saved enhanced map: `OffsE`. Includes the playable map, editable source, map-selection package, recovered mesh package, and additional Oilrig dependencies used by these saved files. Original map authorship and embedded credits are retained.
 
-## Changes — 15 September 2026
+## Changes (15 September 2026)
 
 - Improved lighting.
 - Fixed several incorrect textures.

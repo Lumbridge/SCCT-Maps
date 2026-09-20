@@ -1,4 +1,4 @@
-# Dawn Waves (SCDA_DWG) — Splinter Cell: Double Agent
+# Dawn Waves (SCDA_DWG) from Splinter Cell: Double Agent
 
 Ported from `DWG`, the Splinter Cell: Double Agent PC map its menu calls **Dawn Waves**, into Enhanced SCCT Versus 3.6. The port is four files: the playable and editable `SCDA_DWG.sdc` maps, the `SCDA_DWG-i.utc` map-settings file, and `SCDA_DWG_VS.usx`, the converted package holding this map's meshes and materials (29.9 MB).
 

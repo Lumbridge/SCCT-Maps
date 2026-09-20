@@ -1,4 +1,4 @@
-# Terminus (SCDA_TERG5) — Splinter Cell: Double Agent
+# Terminus (SCDA_TERG5) from Splinter Cell: Double Agent
 
 Ported from `TERG5`, the Splinter Cell: Double Agent PC map its menu calls **Terminus**, into Enhanced SCCT Versus 3.6. The port is four files: the playable and editable `SCDA_TERG5.sdc` maps, the `SCDA_TERG5-i.utc` map-settings file, and `SCDA_TERG5_VS.usx`, the converted package holding this map's meshes and materials (42.6 MB).
 

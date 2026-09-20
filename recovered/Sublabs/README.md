@@ -10,7 +10,7 @@ Editable version of Sublabs, recovered from the compiled map with the Reloaded E
 
 Playable map: `Packages/Maps/sub18.sdc`. Editable map: `Packages/MapsEd/sub18.sdc` (open it in the Reloaded Editor).
 
-Keep every included mesh and texture package with the map, and do not rename `sub18_Recovered_Assets.usx` — the map refers to it by name.
+Keep every included mesh and texture package with the map, and do not rename `sub18_Recovered_Assets.usx`; the map refers to it by name.
 The older `sub18_Assets.usx` is included too, for files that still reference it.
 
 ## What to expect

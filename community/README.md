@@ -1,6 +1,6 @@
 # Community map pack
 
-All 56 maps from the community map pack, one folder per map with the files it needs and a SHA-256 manifest. These are the original compiled maps; there are no editable (`MapsEd`) versions here — see the [recovered maps](../recovered) for those.
+All 56 maps from the community map pack, one folder per map with the files it needs and a SHA-256 manifest. These are the original compiled maps; there are no editable (`MapsEd`) versions here. See the [recovered maps](../recovered) for those.
 
 ## Install
 
