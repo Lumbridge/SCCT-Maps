@@ -68,123 +68,123 @@
     ]
   },
   {
-    "Id": "ports/scda/Blackwing",
+    "Id": "ports/scda-blkg1",
     "Name": "Blackwing",
     "Category": "Ports",
     "Version": "v1.0.0",
     "Game": "Splinter Cell: Double Agent",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "ports/scda/Blackwing/README.md",
+    "NotesPath": "ports/scda-blkg1/README.md",
     "Files": [
-      { "Source": "releases/download/scda-blkg1-v1.0.0/SCDA_BLKG1-Playable.sdc", "Destination": "Packages/Maps/SCDA_BLKG1.sdc", "Hash": "6cdddbec887ce715eb8bf6d28b02cde1ebb5c9de", "Size": 453648 },
-      { "Source": "releases/download/scda-blkg1-v1.0.0/SCDA_BLKG1-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_BLKG1.sdc", "Hash": "609d1580f39b66a56da1bc87d345343daf41ead9", "Size": 621645 },
-      { "Source": "releases/download/scda-blkg1-v1.0.0/SCDA_BLKG1-i.utc", "Destination": "Packages/Textures/SCDA_BLKG1-i.utc", "Hash": "e66455ceb477ca7726e175de2b76758269d6fe8a", "Size": 219 },
-      { "Source": "releases/download/scda-blkg1-v1.0.0/SCDA_BLKG1_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_BLKG1_VS.usx", "Hash": "9df4931a3d88a095033be3438e39cbdf1156e6b8", "Size": 38274854 }
+      { "Source": "releases/download/scda-blkg1-v1.0.0/SCDA_BLKG1-Playable.sdc", "Destination": "Packages/Maps/SCDA_BLKG1.sdc", "Hash": "50d41d31965d8edd66c4a1f0fbbd6b3c4596b2f6", "Size": 453648 },
+      { "Source": "releases/download/scda-blkg1-v1.0.0/SCDA_BLKG1-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_BLKG1.sdc", "Hash": "d5394b65a1550dbb789b7c24da838c5891c18b6c", "Size": 621645 },
+      { "Source": "releases/download/scda-blkg1-v1.0.0/SCDA_BLKG1-i.utc", "Destination": "Packages/Textures/SCDA_BLKG1-i.utc", "Hash": "0e15644dc2b21b8aacbc499de92bf612932630d8", "Size": 219 },
+      { "Source": "releases/download/scda-blkg1-v1.0.0/SCDA_BLKG1_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_BLKG1_VS.usx", "Hash": "742da59cb2a1d279c8d875e2d7487e720fa24d19", "Size": 38274854 }
     ]
   },
   {
-    "Id": "ports/scda/Boss House",
+    "Id": "ports/scda-bosg2",
     "Name": "Boss House",
     "Category": "Ports",
     "Version": "v1.0.0",
     "Game": "Splinter Cell: Double Agent",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "ports/scda/Boss House/README.md",
+    "NotesPath": "ports/scda-bosg2/README.md",
     "Files": [
-      { "Source": "releases/download/scda-bosg2-v1.0.0/SCDA_BOSG2-Playable.sdc", "Destination": "Packages/Maps/SCDA_BOSG2.sdc", "Hash": "f2641e71621d25e6fdf798d65d298242cbb870f6", "Size": 361175 },
-      { "Source": "releases/download/scda-bosg2-v1.0.0/SCDA_BOSG2-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_BOSG2.sdc", "Hash": "663d81bdf192e317cc3e3d11544d0a71a62a3209", "Size": 482483 },
-      { "Source": "releases/download/scda-bosg2-v1.0.0/SCDA_BOSG2-i.utc", "Destination": "Packages/Textures/SCDA_BOSG2-i.utc", "Hash": "61d03c5103494852fc05bdf60d394aa6b358d88a", "Size": 218 },
-      { "Source": "releases/download/scda-bosg2-v1.0.0/SCDA_BOSG2_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_BOSG2_VS.usx", "Hash": "4d25b1d09c5cb49c3bed42ae1e3cf540a55e9d97", "Size": 30783734 }
+      { "Source": "releases/download/scda-bosg2-v1.0.0/SCDA_BOSG2-Playable.sdc", "Destination": "Packages/Maps/SCDA_BOSG2.sdc", "Hash": "ae9e5b549ee923052a2cf4cc4dbae5357d75b6dd", "Size": 361175 },
+      { "Source": "releases/download/scda-bosg2-v1.0.0/SCDA_BOSG2-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_BOSG2.sdc", "Hash": "9b19005d93fe972c25471e355c804e4d92256c45", "Size": 482483 },
+      { "Source": "releases/download/scda-bosg2-v1.0.0/SCDA_BOSG2-i.utc", "Destination": "Packages/Textures/SCDA_BOSG2-i.utc", "Hash": "af7aaa7fb1a6a7b77afef20ec24507849b47c50c", "Size": 218 },
+      { "Source": "releases/download/scda-bosg2-v1.0.0/SCDA_BOSG2_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_BOSG2_VS.usx", "Hash": "1943d96b48c683ba77a805be6a77f656146100fc", "Size": 30783734 }
     ]
   },
   {
-    "Id": "ports/scda/Dawn Waves",
+    "Id": "ports/scda-dwg",
     "Name": "Dawn Waves",
     "Category": "Ports",
     "Version": "v1.0.0",
     "Game": "Splinter Cell: Double Agent",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "ports/scda/Dawn Waves/README.md",
+    "NotesPath": "ports/scda-dwg/README.md",
     "Files": [
-      { "Source": "releases/download/scda-dwg-v1.0.0/SCDA_DWG-Playable.sdc", "Destination": "Packages/Maps/SCDA_DWG.sdc", "Hash": "ccf75be12c1b958a77217cdce413f8bb5881ef8c", "Size": 236149 },
-      { "Source": "releases/download/scda-dwg-v1.0.0/SCDA_DWG-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_DWG.sdc", "Hash": "7f7bedb54a8426521fb6798ab8c8d63cdcb39937", "Size": 320996 },
-      { "Source": "releases/download/scda-dwg-v1.0.0/SCDA_DWG-i.utc", "Destination": "Packages/Textures/SCDA_DWG-i.utc", "Hash": "7d1c57bb825bd4d7189d9791de1eb7d48aa69bc9", "Size": 216 },
-      { "Source": "releases/download/scda-dwg-v1.0.0/SCDA_DWG_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_DWG_VS.usx", "Hash": "2562f032985ab42b93e2395fc1b16fafb1382265", "Size": 29930047 }
+      { "Source": "releases/download/scda-dwg-v1.0.0/SCDA_DWG-Playable.sdc", "Destination": "Packages/Maps/SCDA_DWG.sdc", "Hash": "9d4817d878193f440c5ca8afd31d1306664e1301", "Size": 236149 },
+      { "Source": "releases/download/scda-dwg-v1.0.0/SCDA_DWG-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_DWG.sdc", "Hash": "192e3e9cf65249ea20cbee880366d59e55302b87", "Size": 320996 },
+      { "Source": "releases/download/scda-dwg-v1.0.0/SCDA_DWG-i.utc", "Destination": "Packages/Textures/SCDA_DWG-i.utc", "Hash": "6ee2f377708fe9783b1ede68e61723071a510c06", "Size": 216 },
+      { "Source": "releases/download/scda-dwg-v1.0.0/SCDA_DWG_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_DWG_VS.usx", "Hash": "d98cbcc254f68f475a8672e71245839a4664ce09", "Size": 29930047 }
     ]
   },
   {
-    "Id": "ports/scda/Motorway 90",
+    "Id": "ports/scda-motg4",
     "Name": "Motorway 90",
     "Category": "Ports",
     "Version": "v1.0.0",
     "Game": "Splinter Cell: Double Agent",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "ports/scda/Motorway 90/README.md",
+    "NotesPath": "ports/scda-motg4/README.md",
     "Files": [
-      { "Source": "releases/download/scda-motg4-v1.0.0/SCDA_MOTG4-Playable.sdc", "Destination": "Packages/Maps/SCDA_MOTG4.sdc", "Hash": "8c1f30caa55a0c14b9f45732f7599ddda172fdfb", "Size": 524433 },
-      { "Source": "releases/download/scda-motg4-v1.0.0/SCDA_MOTG4-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_MOTG4.sdc", "Hash": "7bebb37f77cee7c640cf0adefe753ebec6ba26fb", "Size": 716840 },
-      { "Source": "releases/download/scda-motg4-v1.0.0/SCDA_MOTG4-i.utc", "Destination": "Packages/Textures/SCDA_MOTG4-i.utc", "Hash": "27e7350b90f441307fa308ea9d0dae9c37cf9ae5", "Size": 218 },
-      { "Source": "releases/download/scda-motg4-v1.0.0/SCDA_MOTG4_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_MOTG4_VS.usx", "Hash": "1423499eb0d1329502f0741c8903d6c82dd5dd00", "Size": 47770158 }
+      { "Source": "releases/download/scda-motg4-v1.0.0/SCDA_MOTG4-Playable.sdc", "Destination": "Packages/Maps/SCDA_MOTG4.sdc", "Hash": "e7f2b671626047f6fe6eb3c7112af1592a35ba10", "Size": 524433 },
+      { "Source": "releases/download/scda-motg4-v1.0.0/SCDA_MOTG4-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_MOTG4.sdc", "Hash": "3e442f91b448faf2c6f97dc5ffbcac3a1c55e718", "Size": 716840 },
+      { "Source": "releases/download/scda-motg4-v1.0.0/SCDA_MOTG4-i.utc", "Destination": "Packages/Textures/SCDA_MOTG4-i.utc", "Hash": "710978bb7f51083d9697f654c236f58e3011f1f2", "Size": 218 },
+      { "Source": "releases/download/scda-motg4-v1.0.0/SCDA_MOTG4_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_MOTG4_VS.usx", "Hash": "fd0c264bbbd3c67e325bda6d0fd9eb97c695aaa3", "Size": 47770158 }
     ]
   },
   {
-    "Id": "ports/scda/Red Diamond",
+    "Id": "ports/scda-redg6",
     "Name": "Red Diamond",
     "Category": "Ports",
     "Version": "v1.0.0",
     "Game": "Splinter Cell: Double Agent",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "ports/scda/Red Diamond/README.md",
+    "NotesPath": "ports/scda-redg6/README.md",
     "Files": [
-      { "Source": "releases/download/scda-redg6-v1.0.0/SCDA_REDG6-Playable.sdc", "Destination": "Packages/Maps/SCDA_REDG6.sdc", "Hash": "7eaba37142ec9dfc9c54ffe7da78f82f72870ba7", "Size": 644461 },
-      { "Source": "releases/download/scda-redg6-v1.0.0/SCDA_REDG6-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_REDG6.sdc", "Hash": "cf2cb41da8f60ba69f75fb778653f5007a7f6fec", "Size": 688916 },
-      { "Source": "releases/download/scda-redg6-v1.0.0/SCDA_REDG6-i.utc", "Destination": "Packages/Textures/SCDA_REDG6-i.utc", "Hash": "25dd5979103a36d335f2fb40a1f24d2d269315d9", "Size": 218 },
-      { "Source": "releases/download/scda-redg6-v1.0.0/SCDA_REDG6_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_REDG6_VS.usx", "Hash": "e2c1462f93c3907f3d55230bacd62514de53acac", "Size": 37809622 }
+      { "Source": "releases/download/scda-redg6-v1.0.0/SCDA_REDG6-Playable.sdc", "Destination": "Packages/Maps/SCDA_REDG6.sdc", "Hash": "516a7623aef30f0279a105e22a903b86d9089429", "Size": 644461 },
+      { "Source": "releases/download/scda-redg6-v1.0.0/SCDA_REDG6-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_REDG6.sdc", "Hash": "d262bd702367ccaade875a4a897ea0025076b782", "Size": 688916 },
+      { "Source": "releases/download/scda-redg6-v1.0.0/SCDA_REDG6-i.utc", "Destination": "Packages/Textures/SCDA_REDG6-i.utc", "Hash": "da1259ba46eb9402d72cdd88170b64b46c3a7a63", "Size": 218 },
+      { "Source": "releases/download/scda-redg6-v1.0.0/SCDA_REDG6_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_REDG6_VS.usx", "Hash": "b5cb59f7ec707bc65102079c445b4bcd04fe2d98", "Size": 37809622 }
     ]
   },
   {
-    "Id": "ports/scda/Slaughterhouse",
+    "Id": "ports/scda-slhg7",
     "Name": "Slaughterhouse",
     "Category": "Ports",
     "Version": "v1.0.0",
     "Game": "Splinter Cell: Double Agent",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "ports/scda/Slaughterhouse/README.md",
+    "NotesPath": "ports/scda-slhg7/README.md",
     "Files": [
-      { "Source": "releases/download/scda-slhg7-v1.0.0/SCDA_SLHG7-Playable.sdc", "Destination": "Packages/Maps/SCDA_SLHG7.sdc", "Hash": "728bdd172933740586191671d03b955422ec3bdc", "Size": 483647 },
-      { "Source": "releases/download/scda-slhg7-v1.0.0/SCDA_SLHG7-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_SLHG7.sdc", "Hash": "4cdc754e8a071543e244ddf57e8e49be835fe2e4", "Size": 617245 },
-      { "Source": "releases/download/scda-slhg7-v1.0.0/SCDA_SLHG7-i.utc", "Destination": "Packages/Textures/SCDA_SLHG7-i.utc", "Hash": "b3e1bfea0a2d921239807a1352b120429a229740", "Size": 218 },
-      { "Source": "releases/download/scda-slhg7-v1.0.0/SCDA_SLHG7_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_SLHG7_VS.usx", "Hash": "580cfa4b119e8899afafca76e44977fbd16cea33", "Size": 38576594 }
+      { "Source": "releases/download/scda-slhg7-v1.0.0/SCDA_SLHG7-Playable.sdc", "Destination": "Packages/Maps/SCDA_SLHG7.sdc", "Hash": "382cea7921c1b1da6d6e136346d8c118198fa31b", "Size": 483647 },
+      { "Source": "releases/download/scda-slhg7-v1.0.0/SCDA_SLHG7-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_SLHG7.sdc", "Hash": "bfe7c62bd24dbcee499182639c727d0aecc69cfb", "Size": 617245 },
+      { "Source": "releases/download/scda-slhg7-v1.0.0/SCDA_SLHG7-i.utc", "Destination": "Packages/Textures/SCDA_SLHG7-i.utc", "Hash": "db48c6876344974d7615a27c435a46a2c3ceb4ae", "Size": 218 },
+      { "Source": "releases/download/scda-slhg7-v1.0.0/SCDA_SLHG7_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_SLHG7_VS.usx", "Hash": "b8fb4fd7dd0e9531e5b3b843815dc86d6033a8a4", "Size": 38576594 }
     ]
   },
   {
-    "Id": "ports/scda/Terminus",
+    "Id": "ports/scda-terg5",
     "Name": "Terminus",
     "Category": "Ports",
     "Version": "v1.0.0",
     "Game": "Splinter Cell: Double Agent",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "ports/scda/Terminus/README.md",
+    "NotesPath": "ports/scda-terg5/README.md",
     "Files": [
-      { "Source": "releases/download/scda-terg5-v1.0.0/SCDA_TERG5-Playable.sdc", "Destination": "Packages/Maps/SCDA_TERG5.sdc", "Hash": "2bc5eb31295473f7e99bc4ea6c0ceffc7abc2d13", "Size": 345792 },
-      { "Source": "releases/download/scda-terg5-v1.0.0/SCDA_TERG5-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_TERG5.sdc", "Hash": "7c9ec5718d64ddac90de99336d5b8f38c0241e76", "Size": 478430 },
-      { "Source": "releases/download/scda-terg5-v1.0.0/SCDA_TERG5-i.utc", "Destination": "Packages/Textures/SCDA_TERG5-i.utc", "Hash": "86c0b392e2319e9535286d70fbd7f6ceaa76b821", "Size": 218 },
-      { "Source": "releases/download/scda-terg5-v1.0.0/SCDA_TERG5_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_TERG5_VS.usx", "Hash": "64f9ded53fd10c60b261b2b382e11eeec50f5b93", "Size": 42576371 }
+      { "Source": "releases/download/scda-terg5-v1.0.0/SCDA_TERG5-Playable.sdc", "Destination": "Packages/Maps/SCDA_TERG5.sdc", "Hash": "4f2c21b1a4d83d01b8c2e9f412af6e83dca7b825", "Size": 345792 },
+      { "Source": "releases/download/scda-terg5-v1.0.0/SCDA_TERG5-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_TERG5.sdc", "Hash": "a879ceb547d49c55b8765681ba6fbf2f9d0f263b", "Size": 478430 },
+      { "Source": "releases/download/scda-terg5-v1.0.0/SCDA_TERG5-i.utc", "Destination": "Packages/Textures/SCDA_TERG5-i.utc", "Hash": "3c83ff877d1b1e3740228afc03fdfcdd0d86418f", "Size": 218 },
+      { "Source": "releases/download/scda-terg5-v1.0.0/SCDA_TERG5_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_TERG5_VS.usx", "Hash": "e7510d6a0713dcb3de4de337c0cc016b13e1a886", "Size": 42576371 }
     ]
   },
   {
-    "Id": "ports/scda/USS Wisdom",
+    "Id": "ports/scda-ussg8",
     "Name": "USS Wisdom",
     "Category": "Ports",
     "Version": "v1.0.0",
     "Game": "Splinter Cell: Double Agent",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "ports/scda/USS Wisdom/README.md",
+    "NotesPath": "ports/scda-ussg8/README.md",
     "Files": [
-      { "Source": "releases/download/scda-ussg8-v1.0.0/SCDA_USSG8-Playable.sdc", "Destination": "Packages/Maps/SCDA_USSG8.sdc", "Hash": "02b3faccfe9dfdae11247656d87f7a476b1a6dad", "Size": 210749 },
-      { "Source": "releases/download/scda-ussg8-v1.0.0/SCDA_USSG8-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_USSG8.sdc", "Hash": "ed90ccc6969d785d0e40be039edfb59a8fd49853", "Size": 274989 },
-      { "Source": "releases/download/scda-ussg8-v1.0.0/SCDA_USSG8-i.utc", "Destination": "Packages/Textures/SCDA_USSG8-i.utc", "Hash": "d7595acb6f94f12b4191a7c97faa6860090ddaa9", "Size": 219 },
-      { "Source": "releases/download/scda-ussg8-v1.0.0/SCDA_USSG8_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_USSG8_VS.usx", "Hash": "271613f232afc3b2463eedac8f0e29e77c9a29e1", "Size": 33379520 }
+      { "Source": "releases/download/scda-ussg8-v1.0.0/SCDA_USSG8-Playable.sdc", "Destination": "Packages/Maps/SCDA_USSG8.sdc", "Hash": "599a7909a64d73874faf99d89ef5b4a925a98a9b", "Size": 210749 },
+      { "Source": "releases/download/scda-ussg8-v1.0.0/SCDA_USSG8-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_USSG8.sdc", "Hash": "9e19c7d935a6693d94fdf58d6167d42c8985c994", "Size": 274989 },
+      { "Source": "releases/download/scda-ussg8-v1.0.0/SCDA_USSG8-i.utc", "Destination": "Packages/Textures/SCDA_USSG8-i.utc", "Hash": "f64e86ea8f6e8f029be247a805c2751e4567606c", "Size": 219 },
+      { "Source": "releases/download/scda-ussg8-v1.0.0/SCDA_USSG8_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_USSG8_VS.usx", "Hash": "f8eb0f438955426975406161281ec694d2c52736", "Size": 33379520 }
     ]
   }
 ]

@@ -4,14 +4,14 @@ The eight versus maps from Splinter Cell: Double Agent (PC), converted for Enhan
 
 | Map | Package | Source map | Meshes | Files |
 | --- | --- | --- | --- | --- |
-| Blackwing | `SCDA_BLKG1` | `BLKG1` | 38.3 MB | [Port notes](Blackwing/README.md) &middot; [Checksums](Blackwing/SHA256SUMS.txt) |
-| Boss House | `SCDA_BOSG2` | `BOSG2` | 30.8 MB | [Port notes](Boss%20House/README.md) &middot; [Checksums](Boss%20House/SHA256SUMS.txt) |
-| Dawn Waves | `SCDA_DWG` | `DWG` | 29.9 MB | [Port notes](Dawn%20Waves/README.md) &middot; [Checksums](Dawn%20Waves/SHA256SUMS.txt) |
-| Motorway 90 | `SCDA_MOTG4` | `MOTG4` | 47.8 MB | [Port notes](Motorway%2090/README.md) &middot; [Checksums](Motorway%2090/SHA256SUMS.txt) |
-| Red Diamond | `SCDA_REDG6` | `REDG6` | 37.8 MB | [Port notes](Red%20Diamond/README.md) &middot; [Checksums](Red%20Diamond/SHA256SUMS.txt) |
-| Slaughterhouse | `SCDA_SLHG7` | `SLHG7` | 38.6 MB | [Port notes](Slaughterhouse/README.md) &middot; [Checksums](Slaughterhouse/SHA256SUMS.txt) |
-| Terminus | `SCDA_TERG5` | `TERG5` | 42.6 MB | [Port notes](Terminus/README.md) &middot; [Checksums](Terminus/SHA256SUMS.txt) |
-| USS Wisdom | `SCDA_USSG8` | `USSG8` | 33.4 MB | [Port notes](USS%20Wisdom/README.md) &middot; [Checksums](USS%20Wisdom/SHA256SUMS.txt) |
+| Blackwing | `SCDA_BLKG1` | `BLKG1` | 38.3 MB | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/scda-blkg1-v1.0.0/Blackwing-SCDA-v1.0.0.zip) &middot; [Port notes](../scda-blkg1/README.md) &middot; [Checksums](../scda-blkg1/SHA256SUMS.txt) |
+| Boss House | `SCDA_BOSG2` | `BOSG2` | 30.8 MB | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/scda-bosg2-v1.0.0/Boss-House-SCDA-v1.0.0.zip) &middot; [Port notes](../scda-bosg2/README.md) &middot; [Checksums](../scda-bosg2/SHA256SUMS.txt) |
+| Dawn Waves | `SCDA_DWG` | `DWG` | 29.9 MB | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/scda-dwg-v1.0.0/Dawn-Waves-SCDA-v1.0.0.zip) &middot; [Port notes](../scda-dwg/README.md) &middot; [Checksums](../scda-dwg/SHA256SUMS.txt) |
+| Motorway 90 | `SCDA_MOTG4` | `MOTG4` | 47.8 MB | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/scda-motg4-v1.0.0/Motorway-90-SCDA-v1.0.0.zip) &middot; [Port notes](../scda-motg4/README.md) &middot; [Checksums](../scda-motg4/SHA256SUMS.txt) |
+| Red Diamond | `SCDA_REDG6` | `REDG6` | 37.8 MB | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/scda-redg6-v1.0.0/Red-Diamond-SCDA-v1.0.0.zip) &middot; [Port notes](../scda-redg6/README.md) &middot; [Checksums](../scda-redg6/SHA256SUMS.txt) |
+| Slaughterhouse | `SCDA_SLHG7` | `SLHG7` | 38.6 MB | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/scda-slhg7-v1.0.0/Slaughterhouse-SCDA-v1.0.0.zip) &middot; [Port notes](../scda-slhg7/README.md) &middot; [Checksums](../scda-slhg7/SHA256SUMS.txt) |
+| Terminus | `SCDA_TERG5` | `TERG5` | 42.6 MB | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/scda-terg5-v1.0.0/Terminus-SCDA-v1.0.0.zip) &middot; [Port notes](../scda-terg5/README.md) &middot; [Checksums](../scda-terg5/SHA256SUMS.txt) |
+| USS Wisdom | `SCDA_USSG8` | `USSG8` | 33.4 MB | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/scda-ussg8-v1.0.0/USS-Wisdom-SCDA-v1.0.0.zip) &middot; [Port notes](../scda-ussg8/README.md) &middot; [Checksums](../scda-ussg8/SHA256SUMS.txt) |
 
 ## Install
 
@@ -31,4 +31,4 @@ The `-i.utc` map-settings files are minimal. They carry the settings object but 
 
 The playable maps and their `-i.utc` files were built under the names `SCDA_<CODE>_VSPlacements`; the release assets drop that suffix so the `Maps` and `MapsEd` names match, as they do everywhere else in this collection. The file contents are untouched, and neither map carries an internal reference to its own filename, but the renamed files have not been loaded in game yet.
 
-Release downloads are not published yet. The checksums in each map's folder describe the build these notes were written from.
+Each map is published as its own release, tagged `scda-<code>-v1.0.0`, carrying the four files loose plus a ZIP of the same build. The checksums in each map's folder describe that build, and the Map Manager installs it from the same release.

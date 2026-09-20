@@ -21,4 +21,4 @@ Playable map: `Packages/Maps/SCDA_BOSG2.sdc`. Editable map: `Packages/MapsEd/SCD
 
 ## What to expect
 
-The source game is Splinter Cell: Double Agent for PC. The port uses converted meshes and SCCT-compatible materials; review collision, materials, lighting and gameplay before building on it. It has not been playtested in game. The [collection notes](../README.md) cover what all eight ports share, including the bare map-settings file and the filenames these builds were saved under.
+The source game is Splinter Cell: Double Agent for PC. The port uses converted meshes and SCCT-compatible materials; review collision, materials, lighting and gameplay before building on it. It has not been playtested in game. The [collection notes](../scda/README.md) cover what all eight ports share, including the bare map-settings file and the filenames these builds were saved under.

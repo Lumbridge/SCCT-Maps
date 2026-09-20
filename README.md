@@ -47,16 +47,16 @@ Existing maps converted back into editable form. They replace the installed copi
 | Source game | Map | Files |
 | --- | --- | --- |
 | Rainbow Six Vegas (PC) | Calypso Casino (`CalyD`) | [Release v1.0.0](https://github.com/Lumbridge/SCCT-Maps/releases/tag/calyd-v1.0.0) · [Port notes](ports/rainbow-six-vegas/README.md) |
-| Splinter Cell: Double Agent (PC) | Blackwing (`SCDA_BLKG1`) | [Port notes](ports/scda/Blackwing/README.md) |
-| Splinter Cell: Double Agent (PC) | Boss House (`SCDA_BOSG2`) | [Port notes](ports/scda/Boss%20House/README.md) |
-| Splinter Cell: Double Agent (PC) | Dawn Waves (`SCDA_DWG`) | [Port notes](ports/scda/Dawn%20Waves/README.md) |
-| Splinter Cell: Double Agent (PC) | Motorway 90 (`SCDA_MOTG4`) | [Port notes](ports/scda/Motorway%2090/README.md) |
-| Splinter Cell: Double Agent (PC) | Red Diamond (`SCDA_REDG6`) | [Port notes](ports/scda/Red%20Diamond/README.md) |
-| Splinter Cell: Double Agent (PC) | Slaughterhouse (`SCDA_SLHG7`) | [Port notes](ports/scda/Slaughterhouse/README.md) |
-| Splinter Cell: Double Agent (PC) | Terminus (`SCDA_TERG5`) | [Port notes](ports/scda/Terminus/README.md) |
-| Splinter Cell: Double Agent (PC) | USS Wisdom (`SCDA_USSG8`) | [Port notes](ports/scda/USS%20Wisdom/README.md) |
+| Splinter Cell: Double Agent (PC) | Blackwing (`SCDA_BLKG1`) | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/scda-blkg1-v1.0.0/Blackwing-SCDA-v1.0.0.zip) · [Release v1.0.0](https://github.com/Lumbridge/SCCT-Maps/releases/tag/scda-blkg1-v1.0.0) · [Port notes](ports/scda-blkg1/README.md) |
+| Splinter Cell: Double Agent (PC) | Boss House (`SCDA_BOSG2`) | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/scda-bosg2-v1.0.0/Boss-House-SCDA-v1.0.0.zip) · [Release v1.0.0](https://github.com/Lumbridge/SCCT-Maps/releases/tag/scda-bosg2-v1.0.0) · [Port notes](ports/scda-bosg2/README.md) |
+| Splinter Cell: Double Agent (PC) | Dawn Waves (`SCDA_DWG`) | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/scda-dwg-v1.0.0/Dawn-Waves-SCDA-v1.0.0.zip) · [Release v1.0.0](https://github.com/Lumbridge/SCCT-Maps/releases/tag/scda-dwg-v1.0.0) · [Port notes](ports/scda-dwg/README.md) |
+| Splinter Cell: Double Agent (PC) | Motorway 90 (`SCDA_MOTG4`) | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/scda-motg4-v1.0.0/Motorway-90-SCDA-v1.0.0.zip) · [Release v1.0.0](https://github.com/Lumbridge/SCCT-Maps/releases/tag/scda-motg4-v1.0.0) · [Port notes](ports/scda-motg4/README.md) |
+| Splinter Cell: Double Agent (PC) | Red Diamond (`SCDA_REDG6`) | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/scda-redg6-v1.0.0/Red-Diamond-SCDA-v1.0.0.zip) · [Release v1.0.0](https://github.com/Lumbridge/SCCT-Maps/releases/tag/scda-redg6-v1.0.0) · [Port notes](ports/scda-redg6/README.md) |
+| Splinter Cell: Double Agent (PC) | Slaughterhouse (`SCDA_SLHG7`) | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/scda-slhg7-v1.0.0/Slaughterhouse-SCDA-v1.0.0.zip) · [Release v1.0.0](https://github.com/Lumbridge/SCCT-Maps/releases/tag/scda-slhg7-v1.0.0) · [Port notes](ports/scda-slhg7/README.md) |
+| Splinter Cell: Double Agent (PC) | Terminus (`SCDA_TERG5`) | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/scda-terg5-v1.0.0/Terminus-SCDA-v1.0.0.zip) · [Release v1.0.0](https://github.com/Lumbridge/SCCT-Maps/releases/tag/scda-terg5-v1.0.0) · [Port notes](ports/scda-terg5/README.md) |
+| Splinter Cell: Double Agent (PC) | USS Wisdom (`SCDA_USSG8`) | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/scda-ussg8-v1.0.0/USS-Wisdom-SCDA-v1.0.0.zip) · [Release v1.0.0](https://github.com/Lumbridge/SCCT-Maps/releases/tag/scda-ussg8-v1.0.0) · [Port notes](ports/scda-ussg8/README.md) |
 
-The eight Double Agent maps share [one set of collection notes](ports/scda/README.md), which covers what they have in common. Their release downloads are not published yet.
+The eight Double Agent maps share [one set of collection notes](ports/scda/README.md), which covers what they have in common. Each has its own v1.0.0 release and installs from the Map Manager.
 
 ## Community map pack
 
