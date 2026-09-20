@@ -1,12 +1,16 @@
 # Community map pack
 
-All 56 original compiled maps from the supplied community map pack, organized in the repository's per-map `Packages` layout with SHA-256 manifests. Existing recovered maps are separate versions and remain unchanged. No `MapsEd` files are included.
+All 56 maps from the community map pack, one folder per map with the files it needs and a SHA-256 manifest. These are the original compiled maps; there are no editable (`MapsEd`) versions here — see the [recovered maps](../recovered) for those.
 
-Copy each selected map's `Packages` folder (and `System` where present), plus `_shared/Packages`, into the game installation. Back up matching files first. Read each map's notes for required installed packages. All scanned dependencies resolve to included pack files, native packages, or packages present in the local Enhanced SCCT Versus 3.6 installation. This is a file/dependency verification, not an in-game playtest.
+## Install
 
-Shared dependencies are repeated in the map folders so each folder contains its traced pack assets. The `_shared` folder preserves loose supporting assets that the import scan cannot associate with a map. Original author readmes and map information are included where identifiable. The two `.tmp` backups and `formulaire.txt` (a personal contest submission form, not a game asset) are excluded.
+1. Close the game and back up any files with the same names.
+2. Copy the map's `Packages` folder (and `System`, where present) into your game installation, merging folders.
+3. Copy [`_shared/Packages`](_shared) too: loose supporting files that could not be tied to one map.
 
-[Original map list](mapList.txt) &middot; [Loose supporting files](_shared)
+Each map's notes list the game packages it expects to find installed. Dependencies were checked file by file against an Enhanced SCCT Versus 3.6 installation, not by playing every map.
+
+Original author readmes are kept where they were found. The pack's stray `.tmp` backups and a contest entry form were left out. [Original map list](mapList.txt)
 
 | Map | Package | Files |
 | --- | --- | --- |
