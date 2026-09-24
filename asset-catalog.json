@@ -199,14 +199,14 @@
       {
         "Source": "releases/download/ge007-facility-v1.0.0/GE007_Facility.usx",
         "Destination": "Packages/StaticMeshes/GE007_Facility.usx",
-        "Hash": "ede4677d0cf9d7cf2169bb6660abe23e66d64500",
-        "Size": 87746038
+        "Hash": "b6c83f183b6b07aab2a31e75c5e47418334f4cd3",
+        "Size": 89318571
       },
       {
         "Source": "releases/download/ge007-facility-v1.0.0/GE007_Facility.sdc",
         "Destination": "Packages/MapsEd/GE007_Facility.sdc",
-        "Hash": "550fa7d0f100056ab7900f93f79b0e565aac799b",
-        "Size": 19595
+        "Hash": "a72a27eec175cba23ca0cd92bf6154fb4c3f38c6",
+        "Size": 54556
       }
     ]
   },
@@ -222,8 +222,8 @@
       {
         "Source": "releases/download/ge007-facility-v1.0.0/GE007_Facility.usx",
         "Destination": "Packages/StaticMeshes/GE007_Facility.usx",
-        "Hash": "ede4677d0cf9d7cf2169bb6660abe23e66d64500",
-        "Size": 87746038
+        "Hash": "b6c83f183b6b07aab2a31e75c5e47418334f4cd3",
+        "Size": 89318571
       }
     ]
   },
@@ -239,14 +239,14 @@
       {
         "Source": "releases/download/ge007-solar-v1.0.0/GE007_Solar.usx",
         "Destination": "Packages/StaticMeshes/GE007_Solar.usx",
-        "Hash": "e4cb28a2fe70f91e37dbe30450d8c890ff1f55e4",
-        "Size": 54051004
+        "Hash": "acbe9ad4ea5b00456d3d428f550c71821204f432",
+        "Size": 53978172
       },
       {
         "Source": "releases/download/ge007-solar-v1.0.0/GE007_Solar.sdc",
         "Destination": "Packages/MapsEd/GE007_Solar.sdc",
-        "Hash": "88fde0e5520f96ad78f379aaba5f33458c119e5a",
-        "Size": 6302
+        "Hash": "333276b2abf7a7f3d9e7a5848a691f2f536b3aa8",
+        "Size": 27289
       }
     ]
   },
@@ -262,8 +262,8 @@
       {
         "Source": "releases/download/ge007-solar-v1.0.0/GE007_Solar.usx",
         "Destination": "Packages/StaticMeshes/GE007_Solar.usx",
-        "Hash": "e4cb28a2fe70f91e37dbe30450d8c890ff1f55e4",
-        "Size": 54051004
+        "Hash": "acbe9ad4ea5b00456d3d428f550c71821204f432",
+        "Size": 53978172
       }
     ]
   },
@@ -279,14 +279,14 @@
       {
         "Source": "releases/download/ge007-plant-v1.0.0/GE007_Plant.usx",
         "Destination": "Packages/StaticMeshes/GE007_Plant.usx",
-        "Hash": "2e32948c800b61c86e2ea70a7f149f67524d9df1",
-        "Size": 94817810
+        "Hash": "62524ecd870c488c215936052c1c7ba41b987348",
+        "Size": 96975439
       },
       {
         "Source": "releases/download/ge007-plant-v1.0.0/GE007_Plant.sdc",
         "Destination": "Packages/MapsEd/GE007_Plant.sdc",
-        "Hash": "a684ba173d4c093c37f8a93395a7ab10f3f2f859",
-        "Size": 15971
+        "Hash": "56437c06a290155068bf329a4d29a377928048ef",
+        "Size": 45794
       }
     ]
   },
@@ -302,8 +302,8 @@
       {
         "Source": "releases/download/ge007-plant-v1.0.0/GE007_Plant.usx",
         "Destination": "Packages/StaticMeshes/GE007_Plant.usx",
-        "Hash": "2e32948c800b61c86e2ea70a7f149f67524d9df1",
-        "Size": 94817810
+        "Hash": "62524ecd870c488c215936052c1c7ba41b987348",
+        "Size": 96975439
       }
     ]
   },
@@ -319,14 +319,14 @@
       {
         "Source": "releases/download/ge007-peak-v1.0.0/GE007_Peak.usx",
         "Destination": "Packages/StaticMeshes/GE007_Peak.usx",
-        "Hash": "7f6d5781c16069797a7d8003cdc4d85515b9bea5",
-        "Size": 159598356
+        "Hash": "a2116c3f3a9d8b48ec91633bc2f502d4a914a01d",
+        "Size": 174573964
       },
       {
         "Source": "releases/download/ge007-peak-v1.0.0/GE007_Peak.sdc",
         "Destination": "Packages/MapsEd/GE007_Peak.sdc",
-        "Hash": "872fc6890990da2093eb39808eb447fc08cab0a1",
-        "Size": 24933
+        "Hash": "89d965a084c0fa93376039fd2f6e18adb1fba3bc",
+        "Size": 127909
       }
     ]
   },
@@ -342,8 +342,8 @@
       {
         "Source": "releases/download/ge007-peak-v1.0.0/GE007_Peak.usx",
         "Destination": "Packages/StaticMeshes/GE007_Peak.usx",
-        "Hash": "7f6d5781c16069797a7d8003cdc4d85515b9bea5",
-        "Size": 159598356
+        "Hash": "a2116c3f3a9d8b48ec91633bc2f502d4a914a01d",
+        "Size": 174573964
       }
     ]
   },
@@ -359,14 +359,14 @@
       {
         "Source": "releases/download/ge007-carrier-v1.0.0/GE007_Carrier.usx",
         "Destination": "Packages/StaticMeshes/GE007_Carrier.usx",
-        "Hash": "c0ce2032faf0a0e05845a3e047c954c25f52950c",
-        "Size": 78475675
+        "Hash": "758bc7d20b3bdde6c932b7c748b7be832a63c313",
+        "Size": 79193965
       },
       {
         "Source": "releases/download/ge007-carrier-v1.0.0/GE007_Carrier.sdc",
         "Destination": "Packages/MapsEd/GE007_Carrier.sdc",
-        "Hash": "fecdcb0cb83c714029664005022e0b48c0c31acf",
-        "Size": 21445
+        "Hash": "d2fe8c318cf4631cfc4eac3d36ba668629e8c447",
+        "Size": 102098
       }
     ]
   },
@@ -382,8 +382,8 @@
       {
         "Source": "releases/download/ge007-carrier-v1.0.0/GE007_Carrier.usx",
         "Destination": "Packages/StaticMeshes/GE007_Carrier.usx",
-        "Hash": "c0ce2032faf0a0e05845a3e047c954c25f52950c",
-        "Size": 78475675
+        "Hash": "758bc7d20b3bdde6c932b7c748b7be832a63c313",
+        "Size": 79193965
       }
     ]
   },
@@ -399,14 +399,14 @@
       {
         "Source": "releases/download/ge007-docks-v1.0.0/GE007_Docks.usx",
         "Destination": "Packages/StaticMeshes/GE007_Docks.usx",
-        "Hash": "198393c48df0125d5097b770b4201e789051999e",
-        "Size": 108736811
+        "Hash": "0530f1c960ae966836da17c69ac987c7e251ce2e",
+        "Size": 109456603
       },
       {
         "Source": "releases/download/ge007-docks-v1.0.0/GE007_Docks.sdc",
         "Destination": "Packages/MapsEd/GE007_Docks.sdc",
-        "Hash": "649c64633c3119600d92c6140532e5c768275e32",
-        "Size": 26601
+        "Hash": "6a23febe486dce4f0bb3bb82d0c5076261628ce9",
+        "Size": 80497
       }
     ]
   },
@@ -422,8 +422,8 @@
       {
         "Source": "releases/download/ge007-docks-v1.0.0/GE007_Docks.usx",
         "Destination": "Packages/StaticMeshes/GE007_Docks.usx",
-        "Hash": "198393c48df0125d5097b770b4201e789051999e",
-        "Size": 108736811
+        "Hash": "0530f1c960ae966836da17c69ac987c7e251ce2e",
+        "Size": 109456603
       }
     ]
   },
@@ -439,14 +439,14 @@
       {
         "Source": "releases/download/ge007-industrial-v1.0.0/GE007_Industrial.usx",
         "Destination": "Packages/StaticMeshes/GE007_Industrial.usx",
-        "Hash": "4f22131901c9275c3db88ce12ace110ceb58b90b",
-        "Size": 78029281
+        "Hash": "391c04236efab268095d6c445e21e816488efb86",
+        "Size": 79379746
       },
       {
         "Source": "releases/download/ge007-industrial-v1.0.0/GE007_Industrial.sdc",
         "Destination": "Packages/MapsEd/GE007_Industrial.sdc",
-        "Hash": "a2338e4f25cd5063d950fec39808068c8788feac",
-        "Size": 24412
+        "Hash": "5cfe79780d4fe251948d2c269f0a18ac10959b2d",
+        "Size": 123936
       }
     ]
   },
@@ -462,8 +462,8 @@
       {
         "Source": "releases/download/ge007-industrial-v1.0.0/GE007_Industrial.usx",
         "Destination": "Packages/StaticMeshes/GE007_Industrial.usx",
-        "Hash": "4f22131901c9275c3db88ce12ace110ceb58b90b",
-        "Size": 78029281
+        "Hash": "391c04236efab268095d6c445e21e816488efb86",
+        "Size": 79379746
       }
     ]
   },
@@ -479,14 +479,14 @@
       {
         "Source": "releases/download/ge007-station-v1.0.0/GE007_Station.usx",
         "Destination": "Packages/StaticMeshes/GE007_Station.usx",
-        "Hash": "ad185966ac4b098e66bb681d745f89b7de776807",
-        "Size": 43762760
+        "Hash": "f8e453b8e90b81e664dc137eb69f969259a22dad",
+        "Size": 45306111
       },
       {
         "Source": "releases/download/ge007-station-v1.0.0/GE007_Station.sdc",
         "Destination": "Packages/MapsEd/GE007_Station.sdc",
-        "Hash": "48ce102fe0de82e7f987b423eaf98929e21e1497",
-        "Size": 16391
+        "Hash": "305499dfbf2b44c8a23c29493006b351ca317f70",
+        "Size": 44308
       }
     ]
   },
@@ -502,8 +502,8 @@
       {
         "Source": "releases/download/ge007-station-v1.0.0/GE007_Station.usx",
         "Destination": "Packages/StaticMeshes/GE007_Station.usx",
-        "Hash": "ad185966ac4b098e66bb681d745f89b7de776807",
-        "Size": 43762760
+        "Hash": "f8e453b8e90b81e664dc137eb69f969259a22dad",
+        "Size": 45306111
       }
     ]
   },
@@ -519,14 +519,14 @@
       {
         "Source": "releases/download/ge007-jungle-v1.0.0/GE007_Jungle.usx",
         "Destination": "Packages/StaticMeshes/GE007_Jungle.usx",
-        "Hash": "7b77ba80c13262aec4c6de00aefdb3b814a53a9a",
-        "Size": 49345927
+        "Hash": "c8be81ce4590ebdeace1a8085a2c73f819a0ae86",
+        "Size": 57498312
       },
       {
         "Source": "releases/download/ge007-jungle-v1.0.0/GE007_Jungle.sdc",
         "Destination": "Packages/MapsEd/GE007_Jungle.sdc",
-        "Hash": "236ea05ed9d08cdf97c9ba36504a3855a3d3f84c",
-        "Size": 8986
+        "Hash": "b7cf62d08c00f589739dae4a2788af06839510a8",
+        "Size": 30754
       }
     ]
   },
@@ -542,8 +542,8 @@
       {
         "Source": "releases/download/ge007-jungle-v1.0.0/GE007_Jungle.usx",
         "Destination": "Packages/StaticMeshes/GE007_Jungle.usx",
-        "Hash": "7b77ba80c13262aec4c6de00aefdb3b814a53a9a",
-        "Size": 49345927
+        "Hash": "c8be81ce4590ebdeace1a8085a2c73f819a0ae86",
+        "Size": 57498312
       }
     ]
   },
@@ -559,14 +559,14 @@
       {
         "Source": "releases/download/ge007-sewer-v1.0.0/GE007_Sewer.usx",
         "Destination": "Packages/StaticMeshes/GE007_Sewer.usx",
-        "Hash": "991e8cb0cd2f185c175a2a27a10e27716e92cae4",
-        "Size": 82574001
+        "Hash": "6beaa71c40fc9a2e630730a762a92c0560bf6b29",
+        "Size": 82159497
       },
       {
         "Source": "releases/download/ge007-sewer-v1.0.0/GE007_Sewer.sdc",
         "Destination": "Packages/MapsEd/GE007_Sewer.sdc",
-        "Hash": "2cfd6a10a2829ede2bb318e9a318523ff076fc90",
-        "Size": 25537
+        "Hash": "416f68aa28f203fe8f2f1b8fbd2910ca373fcc97",
+        "Size": 82840
       }
     ]
   },
@@ -582,8 +582,8 @@
       {
         "Source": "releases/download/ge007-sewer-v1.0.0/GE007_Sewer.usx",
         "Destination": "Packages/StaticMeshes/GE007_Sewer.usx",
-        "Hash": "991e8cb0cd2f185c175a2a27a10e27716e92cae4",
-        "Size": 82574001
+        "Hash": "6beaa71c40fc9a2e630730a762a92c0560bf6b29",
+        "Size": 82159497
       }
     ]
   },
@@ -599,14 +599,14 @@
       {
         "Source": "releases/download/ge007-nightclub-v1.0.0/GE007_Nightclub.usx",
         "Destination": "Packages/StaticMeshes/GE007_Nightclub.usx",
-        "Hash": "5be10673f52552d76e0f876595bfd28cb50a7f08",
-        "Size": 33123940
+        "Hash": "86f8a310f6e67e7904b99a68c814d810b9dc9178",
+        "Size": 34754004
       },
       {
         "Source": "releases/download/ge007-nightclub-v1.0.0/GE007_Nightclub.sdc",
         "Destination": "Packages/MapsEd/GE007_Nightclub.sdc",
-        "Hash": "3fbc079ed9a7975b76a26c1e85a7096db7a15e8e",
-        "Size": 9743
+        "Hash": "59e6a2eb6d19994fdc2220cb8aaad3e415581dc9",
+        "Size": 63841
       }
     ]
   },
@@ -622,8 +622,8 @@
       {
         "Source": "releases/download/ge007-nightclub-v1.0.0/GE007_Nightclub.usx",
         "Destination": "Packages/StaticMeshes/GE007_Nightclub.usx",
-        "Hash": "5be10673f52552d76e0f876595bfd28cb50a7f08",
-        "Size": 33123940
+        "Hash": "86f8a310f6e67e7904b99a68c814d810b9dc9178",
+        "Size": 34754004
       }
     ]
   },
@@ -639,14 +639,14 @@
       {
         "Source": "releases/download/ge007-outpost-v1.0.0/GE007_Outpost.usx",
         "Destination": "Packages/StaticMeshes/GE007_Outpost.usx",
-        "Hash": "763a58c18bbc705f1cf10b0797140ea03387a1f9",
-        "Size": 138491983
+        "Hash": "5e76c2058da2c49fb9c6db8fb874a82b5664d331",
+        "Size": 147242492
       },
       {
         "Source": "releases/download/ge007-outpost-v1.0.0/GE007_Outpost.sdc",
         "Destination": "Packages/MapsEd/GE007_Outpost.sdc",
-        "Hash": "9ff8df581e43397f0499a0ad018325b2ca1382a3",
-        "Size": 17560
+        "Hash": "02cdf133c3001e9ac0d294dafcdf4c2b9b6a564d",
+        "Size": 98817
       }
     ]
   },
@@ -662,8 +662,8 @@
       {
         "Source": "releases/download/ge007-outpost-v1.0.0/GE007_Outpost.usx",
         "Destination": "Packages/StaticMeshes/GE007_Outpost.usx",
-        "Hash": "763a58c18bbc705f1cf10b0797140ea03387a1f9",
-        "Size": 138491983
+        "Hash": "5e76c2058da2c49fb9c6db8fb874a82b5664d331",
+        "Size": 147242492
       }
     ]
   },
@@ -679,14 +679,14 @@
       {
         "Source": "releases/download/ge007-archives-v1.0.0/GE007_Archives.usx",
         "Destination": "Packages/StaticMeshes/GE007_Archives.usx",
-        "Hash": "b1f5e36a73e364709dbc8c039abaaf35ee49bb41",
-        "Size": 90869733
+        "Hash": "2d1063e1f01f579e9013ded8ddc18d7cbadd13c6",
+        "Size": 92634779
       },
       {
         "Source": "releases/download/ge007-archives-v1.0.0/GE007_Archives.sdc",
         "Destination": "Packages/MapsEd/GE007_Archives.sdc",
-        "Hash": "c79e2b1d39db0f40677fcd4a2681396b4290d1d1",
-        "Size": 25762
+        "Hash": "7781fdebe1ad28ec06fdd157db424d984cba316a",
+        "Size": 62545
       }
     ]
   },
@@ -702,8 +702,8 @@
       {
         "Source": "releases/download/ge007-archives-v1.0.0/GE007_Archives.usx",
         "Destination": "Packages/StaticMeshes/GE007_Archives.usx",
-        "Hash": "b1f5e36a73e364709dbc8c039abaaf35ee49bb41",
-        "Size": 90869733
+        "Hash": "2d1063e1f01f579e9013ded8ddc18d7cbadd13c6",
+        "Size": 92634779
       }
     ]
   },
@@ -719,14 +719,14 @@
       {
         "Source": "releases/download/ge007-memorial-v1.0.0/GE007_Memorial.usx",
         "Destination": "Packages/StaticMeshes/GE007_Memorial.usx",
-        "Hash": "9ac918c1b8dad24602ffab1f5f648bb58e539126",
-        "Size": 101581801
+        "Hash": "aa63630fb591045327804b7946645b0a3d0489fa",
+        "Size": 111754949
       },
       {
         "Source": "releases/download/ge007-memorial-v1.0.0/GE007_Memorial.sdc",
         "Destination": "Packages/MapsEd/GE007_Memorial.sdc",
-        "Hash": "5a6d9e0e8bcffce85d9f4f113368e9e5e2c63f6f",
-        "Size": 22056
+        "Hash": "5610e58e9d41498f4184df568f2adb238591f989",
+        "Size": 58357
       }
     ]
   },
@@ -742,8 +742,8 @@
       {
         "Source": "releases/download/ge007-memorial-v1.0.0/GE007_Memorial.usx",
         "Destination": "Packages/StaticMeshes/GE007_Memorial.usx",
-        "Hash": "9ac918c1b8dad24602ffab1f5f648bb58e539126",
-        "Size": 101581801
+        "Hash": "aa63630fb591045327804b7946645b0a3d0489fa",
+        "Size": 111754949
       }
     ]
   }

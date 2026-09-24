@@ -1,0 +1,88 @@
+[
+  {
+    "source_uid": "404260b3",
+    "source_placement": {
+      "owner": "40a00f72",
+      "owner_category": "40a",
+      "resource": 88,
+      "group": 0,
+      "index": 0,
+      "kind": 1,
+      "uid": "404260b3",
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        -0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "flags": "0x100ffff",
+      "object_flags": "0x88000"
+    },
+    "source_transform": [
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "source_faces": [
+      8637,
+      8638,
+      8639,
+      8640,
+      8641,
+      8642,
+      8643,
+      8644,
+      8645,
+      8646,
+      8647,
+      8648,
+      8649,
+      8650,
+      8651,
+      8652,
+      8653,
+      8654,
+      8655,
+      8656,
+      8657,
+      8658,
+      8659,
+      8660,
+      8661,
+      8662,
+      8663,
+      8664
+    ],
+    "reason": "Every triangle has exactly zero source area; native import produces an empty mesh."
+  }
+]

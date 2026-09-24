@@ -12,8 +12,8 @@ Open `Packages/MapsEd/GE007_Industrial.sdc` in the editor. Keep `Packages/Static
 
 ## Scope and checks
 
-This is an editable scenery conversion. It does not include recreated multiplayer objectives, spawns, source lighting, sound or interactions, and is not a match-ready SCCT map. Multi-layer materials, water, reflection and effect blending are approximations. Converted meshes retain baked placement coordinates; account for their offsets when reusing them.
+This is an editable scenery conversion. It does not include recreated multiplayer objectives, spawns, source lighting, sound or interactions, and is not a match-ready SCCT map. Multi-layer materials, water, reflection and effect blending are approximations. Spatially separated props are exported as individual static meshes with local, base-centred pivots. The map actors preserve their original world placement. Overlapping components stay together, and large connected scenery is divided into spatial chunks below the native collision limit. Source rotations and scale are baked into each mesh. Original semantic object names are unavailable; `_P` identifies a spatial prop and `_C` a large-prop chunk.
 
-The saved map passed a fresh native-editor reload with 464 actors and 120 materials. Saved texture pixels were compared against 120 source/baked images. 36 effect actors passed saved-material and collision-flag checks. Native collision probes produced 37 hits from 1014 traces, with maximum cache index 3996 (below 5000). Source-normal comparison mean dot: 0.925. These checks do not replace rendered review or in-game playtesting.
+The saved map passed a fresh native-editor reload with 2548 actors and 122 materials. Saved texture pixels were compared against 122 source/baked images. 36 effect actors passed saved-material and collision-flag checks. Native collision probes produced 24 hits from 1014 traces, with maximum cache index 3691 (below 5000). Source-normal comparison mean dot: 0.933. These checks do not replace rendered review or in-game playtesting.
 
 Version: v1.0.0. Source scene: 4090033a.
