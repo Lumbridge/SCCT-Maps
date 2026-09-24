@@ -1,0 +1,20 @@
+{
+  "map": "Outpost",
+  "source_scene": "40900376",
+  "actors": 285,
+  "materials": 233,
+  "triangles": 627203,
+  "fresh_native_reload": true,
+  "texture_images_checked": 233,
+  "texture_max_mean_error": 6.544698238372803,
+  "effect_actors_checked": 28,
+  "uv_meshes_checked": 13,
+  "normal_mean_dot": 0.917472217731672,
+  "collision_probe": {
+    "collision_faces": 4000,
+    "hits": 36,
+    "maximum_cache_index": 3976,
+    "traces": 1014
+  },
+  "rendered_review": "User-reported empty UV streams and effect opacity corrected; complete rendered/gameplay validation is not claimed."
+}

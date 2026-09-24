@@ -1,0 +1,20 @@
+{
+  "map": "Solar",
+  "source_scene": "4090037c",
+  "actors": 67,
+  "materials": 100,
+  "triangles": 225261,
+  "fresh_native_reload": true,
+  "texture_images_checked": 100,
+  "texture_max_mean_error": 7.548583984375,
+  "effect_actors_checked": 0,
+  "uv_meshes_checked": 0,
+  "normal_mean_dot": 0.9307918169285121,
+  "collision_probe": {
+    "collision_faces": 3992,
+    "hits": 39,
+    "maximum_cache_index": 3799,
+    "traces": 1014
+  },
+  "rendered_review": "User-reported empty UV streams and effect opacity corrected; complete rendered/gameplay validation is not claimed."
+}

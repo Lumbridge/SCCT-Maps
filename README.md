@@ -58,6 +58,8 @@ Existing maps converted back into editable form. They replace the installed copi
 
 The eight Double Agent maps share [one set of collection notes](ports/splinter-cell-double-agent/README.md), which covers what they have in common. Each has its own v1.0.0 release and installs from the Map Manager.
 
+[GoldenEye 007: Reloaded multiplayer scenery](ports/goldeneye-007-reloaded/README.md) includes all 14 multiplayer layouts as editable SCCT scenery. Each map has its own release, a Ports entry, and a separate reusable asset pack in the Map Manager. Gameplay and source lighting are not reconstructed.
+
 ## Community map pack
 
 [All 56 community maps](community/README.md), each with its assets, install notes and checksums. These are the original compiled maps, not editable versions.
@@ -65,3 +67,5 @@ The eight Double Agent maps share [one set of collection notes](ports/splinter-c
 ## For map makers
 
 [Rainbow Six Vegas: Calypso Casino v1.0.0](assets/r6v-calypso-casino/v1.0.0/README.md) is a pack of converted meshes and textures for use in your own maps: [download it](https://github.com/Lumbridge/SCCT-Maps/releases/download/r6v-calypso-casino-v1.0.0/Calypso-Casino-Editor-Assets-v1.0.0.zip) or install it from **Tools → Textures & static meshes** in the Map Manager. Publishing details for the manager's catalogue are in the [Map Manager docs](https://github.com/Lumbridge/SCCT-Map-Manager/blob/main/docs/publishing.md).
+
+The fourteen GoldenEye packages are also available separately from **Asset Packs**; each includes its map's converted meshes, materials and textures.

@@ -186,5 +186,565 @@
       { "Source": "releases/download/scda-ussg8-v1.0.0/SCDA_USSG8-i.utc", "Destination": "Packages/Textures/SCDA_USSG8-i.utc", "Hash": "f64e86ea8f6e8f029be247a805c2751e4567606c", "Size": 219 },
       { "Source": "releases/download/scda-ussg8-v1.0.0/SCDA_USSG8_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_USSG8_VS.usx", "Hash": "f8eb0f438955426975406161281ec694d2c52736", "Size": 33379520 }
     ]
+  },
+  {
+    "Id": "ports/goldeneye-007-reloaded/facility",
+    "Name": "Facility (editable scenery)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/goldeneye-007-reloaded/facility/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-facility-v1.0.0/GE007_Facility.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Facility.usx",
+        "Hash": "ede4677d0cf9d7cf2169bb6660abe23e66d64500",
+        "Size": 87746038
+      },
+      {
+        "Source": "releases/download/ge007-facility-v1.0.0/GE007_Facility.sdc",
+        "Destination": "Packages/MapsEd/GE007_Facility.sdc",
+        "Hash": "550fa7d0f100056ab7900f93f79b0e565aac799b",
+        "Size": 19595
+      }
+    ]
+  },
+  {
+    "Id": "assets/ge007-facility",
+    "Name": "GoldenEye 007: Reloaded — Facility",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/ge007-facility/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-facility-v1.0.0/GE007_Facility.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Facility.usx",
+        "Hash": "ede4677d0cf9d7cf2169bb6660abe23e66d64500",
+        "Size": 87746038
+      }
+    ]
+  },
+  {
+    "Id": "ports/goldeneye-007-reloaded/solar",
+    "Name": "Solar (editable scenery)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/goldeneye-007-reloaded/solar/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-solar-v1.0.0/GE007_Solar.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Solar.usx",
+        "Hash": "e4cb28a2fe70f91e37dbe30450d8c890ff1f55e4",
+        "Size": 54051004
+      },
+      {
+        "Source": "releases/download/ge007-solar-v1.0.0/GE007_Solar.sdc",
+        "Destination": "Packages/MapsEd/GE007_Solar.sdc",
+        "Hash": "88fde0e5520f96ad78f379aaba5f33458c119e5a",
+        "Size": 6302
+      }
+    ]
+  },
+  {
+    "Id": "assets/ge007-solar",
+    "Name": "GoldenEye 007: Reloaded — Solar",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/ge007-solar/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-solar-v1.0.0/GE007_Solar.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Solar.usx",
+        "Hash": "e4cb28a2fe70f91e37dbe30450d8c890ff1f55e4",
+        "Size": 54051004
+      }
+    ]
+  },
+  {
+    "Id": "ports/goldeneye-007-reloaded/plant",
+    "Name": "Plant (editable scenery)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/goldeneye-007-reloaded/plant/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-plant-v1.0.0/GE007_Plant.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Plant.usx",
+        "Hash": "2e32948c800b61c86e2ea70a7f149f67524d9df1",
+        "Size": 94817810
+      },
+      {
+        "Source": "releases/download/ge007-plant-v1.0.0/GE007_Plant.sdc",
+        "Destination": "Packages/MapsEd/GE007_Plant.sdc",
+        "Hash": "a684ba173d4c093c37f8a93395a7ab10f3f2f859",
+        "Size": 15971
+      }
+    ]
+  },
+  {
+    "Id": "assets/ge007-plant",
+    "Name": "GoldenEye 007: Reloaded — Plant",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/ge007-plant/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-plant-v1.0.0/GE007_Plant.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Plant.usx",
+        "Hash": "2e32948c800b61c86e2ea70a7f149f67524d9df1",
+        "Size": 94817810
+      }
+    ]
+  },
+  {
+    "Id": "ports/goldeneye-007-reloaded/peak",
+    "Name": "Peak (editable scenery)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/goldeneye-007-reloaded/peak/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-peak-v1.0.0/GE007_Peak.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Peak.usx",
+        "Hash": "7f6d5781c16069797a7d8003cdc4d85515b9bea5",
+        "Size": 159598356
+      },
+      {
+        "Source": "releases/download/ge007-peak-v1.0.0/GE007_Peak.sdc",
+        "Destination": "Packages/MapsEd/GE007_Peak.sdc",
+        "Hash": "872fc6890990da2093eb39808eb447fc08cab0a1",
+        "Size": 24933
+      }
+    ]
+  },
+  {
+    "Id": "assets/ge007-peak",
+    "Name": "GoldenEye 007: Reloaded — Peak",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/ge007-peak/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-peak-v1.0.0/GE007_Peak.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Peak.usx",
+        "Hash": "7f6d5781c16069797a7d8003cdc4d85515b9bea5",
+        "Size": 159598356
+      }
+    ]
+  },
+  {
+    "Id": "ports/goldeneye-007-reloaded/carrier",
+    "Name": "Carrier (editable scenery)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/goldeneye-007-reloaded/carrier/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-carrier-v1.0.0/GE007_Carrier.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Carrier.usx",
+        "Hash": "c0ce2032faf0a0e05845a3e047c954c25f52950c",
+        "Size": 78475675
+      },
+      {
+        "Source": "releases/download/ge007-carrier-v1.0.0/GE007_Carrier.sdc",
+        "Destination": "Packages/MapsEd/GE007_Carrier.sdc",
+        "Hash": "fecdcb0cb83c714029664005022e0b48c0c31acf",
+        "Size": 21445
+      }
+    ]
+  },
+  {
+    "Id": "assets/ge007-carrier",
+    "Name": "GoldenEye 007: Reloaded — Carrier",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/ge007-carrier/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-carrier-v1.0.0/GE007_Carrier.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Carrier.usx",
+        "Hash": "c0ce2032faf0a0e05845a3e047c954c25f52950c",
+        "Size": 78475675
+      }
+    ]
+  },
+  {
+    "Id": "ports/goldeneye-007-reloaded/docks",
+    "Name": "Docks (editable scenery)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/goldeneye-007-reloaded/docks/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-docks-v1.0.0/GE007_Docks.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Docks.usx",
+        "Hash": "198393c48df0125d5097b770b4201e789051999e",
+        "Size": 108736811
+      },
+      {
+        "Source": "releases/download/ge007-docks-v1.0.0/GE007_Docks.sdc",
+        "Destination": "Packages/MapsEd/GE007_Docks.sdc",
+        "Hash": "649c64633c3119600d92c6140532e5c768275e32",
+        "Size": 26601
+      }
+    ]
+  },
+  {
+    "Id": "assets/ge007-docks",
+    "Name": "GoldenEye 007: Reloaded — Docks",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/ge007-docks/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-docks-v1.0.0/GE007_Docks.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Docks.usx",
+        "Hash": "198393c48df0125d5097b770b4201e789051999e",
+        "Size": 108736811
+      }
+    ]
+  },
+  {
+    "Id": "ports/goldeneye-007-reloaded/industrial",
+    "Name": "Industrial (editable scenery)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/goldeneye-007-reloaded/industrial/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-industrial-v1.0.0/GE007_Industrial.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Industrial.usx",
+        "Hash": "4f22131901c9275c3db88ce12ace110ceb58b90b",
+        "Size": 78029281
+      },
+      {
+        "Source": "releases/download/ge007-industrial-v1.0.0/GE007_Industrial.sdc",
+        "Destination": "Packages/MapsEd/GE007_Industrial.sdc",
+        "Hash": "a2338e4f25cd5063d950fec39808068c8788feac",
+        "Size": 24412
+      }
+    ]
+  },
+  {
+    "Id": "assets/ge007-industrial",
+    "Name": "GoldenEye 007: Reloaded — Industrial",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/ge007-industrial/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-industrial-v1.0.0/GE007_Industrial.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Industrial.usx",
+        "Hash": "4f22131901c9275c3db88ce12ace110ceb58b90b",
+        "Size": 78029281
+      }
+    ]
+  },
+  {
+    "Id": "ports/goldeneye-007-reloaded/station",
+    "Name": "Station (editable scenery)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/goldeneye-007-reloaded/station/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-station-v1.0.0/GE007_Station.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Station.usx",
+        "Hash": "ad185966ac4b098e66bb681d745f89b7de776807",
+        "Size": 43762760
+      },
+      {
+        "Source": "releases/download/ge007-station-v1.0.0/GE007_Station.sdc",
+        "Destination": "Packages/MapsEd/GE007_Station.sdc",
+        "Hash": "48ce102fe0de82e7f987b423eaf98929e21e1497",
+        "Size": 16391
+      }
+    ]
+  },
+  {
+    "Id": "assets/ge007-station",
+    "Name": "GoldenEye 007: Reloaded — Station",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/ge007-station/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-station-v1.0.0/GE007_Station.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Station.usx",
+        "Hash": "ad185966ac4b098e66bb681d745f89b7de776807",
+        "Size": 43762760
+      }
+    ]
+  },
+  {
+    "Id": "ports/goldeneye-007-reloaded/jungle",
+    "Name": "Jungle (editable scenery)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/goldeneye-007-reloaded/jungle/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-jungle-v1.0.0/GE007_Jungle.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Jungle.usx",
+        "Hash": "7b77ba80c13262aec4c6de00aefdb3b814a53a9a",
+        "Size": 49345927
+      },
+      {
+        "Source": "releases/download/ge007-jungle-v1.0.0/GE007_Jungle.sdc",
+        "Destination": "Packages/MapsEd/GE007_Jungle.sdc",
+        "Hash": "236ea05ed9d08cdf97c9ba36504a3855a3d3f84c",
+        "Size": 8986
+      }
+    ]
+  },
+  {
+    "Id": "assets/ge007-jungle",
+    "Name": "GoldenEye 007: Reloaded — Jungle",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/ge007-jungle/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-jungle-v1.0.0/GE007_Jungle.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Jungle.usx",
+        "Hash": "7b77ba80c13262aec4c6de00aefdb3b814a53a9a",
+        "Size": 49345927
+      }
+    ]
+  },
+  {
+    "Id": "ports/goldeneye-007-reloaded/sewer",
+    "Name": "Sewer (editable scenery)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/goldeneye-007-reloaded/sewer/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-sewer-v1.0.0/GE007_Sewer.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Sewer.usx",
+        "Hash": "991e8cb0cd2f185c175a2a27a10e27716e92cae4",
+        "Size": 82574001
+      },
+      {
+        "Source": "releases/download/ge007-sewer-v1.0.0/GE007_Sewer.sdc",
+        "Destination": "Packages/MapsEd/GE007_Sewer.sdc",
+        "Hash": "2cfd6a10a2829ede2bb318e9a318523ff076fc90",
+        "Size": 25537
+      }
+    ]
+  },
+  {
+    "Id": "assets/ge007-sewer",
+    "Name": "GoldenEye 007: Reloaded — Sewer",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/ge007-sewer/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-sewer-v1.0.0/GE007_Sewer.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Sewer.usx",
+        "Hash": "991e8cb0cd2f185c175a2a27a10e27716e92cae4",
+        "Size": 82574001
+      }
+    ]
+  },
+  {
+    "Id": "ports/goldeneye-007-reloaded/nightclub",
+    "Name": "Nightclub (editable scenery)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/goldeneye-007-reloaded/nightclub/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-nightclub-v1.0.0/GE007_Nightclub.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Nightclub.usx",
+        "Hash": "5be10673f52552d76e0f876595bfd28cb50a7f08",
+        "Size": 33123940
+      },
+      {
+        "Source": "releases/download/ge007-nightclub-v1.0.0/GE007_Nightclub.sdc",
+        "Destination": "Packages/MapsEd/GE007_Nightclub.sdc",
+        "Hash": "3fbc079ed9a7975b76a26c1e85a7096db7a15e8e",
+        "Size": 9743
+      }
+    ]
+  },
+  {
+    "Id": "assets/ge007-nightclub",
+    "Name": "GoldenEye 007: Reloaded — Nightclub",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/ge007-nightclub/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-nightclub-v1.0.0/GE007_Nightclub.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Nightclub.usx",
+        "Hash": "5be10673f52552d76e0f876595bfd28cb50a7f08",
+        "Size": 33123940
+      }
+    ]
+  },
+  {
+    "Id": "ports/goldeneye-007-reloaded/outpost",
+    "Name": "Outpost (editable scenery)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/goldeneye-007-reloaded/outpost/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-outpost-v1.0.0/GE007_Outpost.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Outpost.usx",
+        "Hash": "763a58c18bbc705f1cf10b0797140ea03387a1f9",
+        "Size": 138491983
+      },
+      {
+        "Source": "releases/download/ge007-outpost-v1.0.0/GE007_Outpost.sdc",
+        "Destination": "Packages/MapsEd/GE007_Outpost.sdc",
+        "Hash": "9ff8df581e43397f0499a0ad018325b2ca1382a3",
+        "Size": 17560
+      }
+    ]
+  },
+  {
+    "Id": "assets/ge007-outpost",
+    "Name": "GoldenEye 007: Reloaded — Outpost",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/ge007-outpost/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-outpost-v1.0.0/GE007_Outpost.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Outpost.usx",
+        "Hash": "763a58c18bbc705f1cf10b0797140ea03387a1f9",
+        "Size": 138491983
+      }
+    ]
+  },
+  {
+    "Id": "ports/goldeneye-007-reloaded/archives",
+    "Name": "Archives (editable scenery)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/goldeneye-007-reloaded/archives/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-archives-v1.0.0/GE007_Archives.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Archives.usx",
+        "Hash": "b1f5e36a73e364709dbc8c039abaaf35ee49bb41",
+        "Size": 90869733
+      },
+      {
+        "Source": "releases/download/ge007-archives-v1.0.0/GE007_Archives.sdc",
+        "Destination": "Packages/MapsEd/GE007_Archives.sdc",
+        "Hash": "c79e2b1d39db0f40677fcd4a2681396b4290d1d1",
+        "Size": 25762
+      }
+    ]
+  },
+  {
+    "Id": "assets/ge007-archives",
+    "Name": "GoldenEye 007: Reloaded — Archives",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/ge007-archives/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-archives-v1.0.0/GE007_Archives.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Archives.usx",
+        "Hash": "b1f5e36a73e364709dbc8c039abaaf35ee49bb41",
+        "Size": 90869733
+      }
+    ]
+  },
+  {
+    "Id": "ports/goldeneye-007-reloaded/memorial",
+    "Name": "Memorial (editable scenery)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/goldeneye-007-reloaded/memorial/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-memorial-v1.0.0/GE007_Memorial.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Memorial.usx",
+        "Hash": "9ac918c1b8dad24602ffab1f5f648bb58e539126",
+        "Size": 101581801
+      },
+      {
+        "Source": "releases/download/ge007-memorial-v1.0.0/GE007_Memorial.sdc",
+        "Destination": "Packages/MapsEd/GE007_Memorial.sdc",
+        "Hash": "5a6d9e0e8bcffce85d9f4f113368e9e5e2c63f6f",
+        "Size": 22056
+      }
+    ]
+  },
+  {
+    "Id": "assets/ge007-memorial",
+    "Name": "GoldenEye 007: Reloaded — Memorial",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "GoldenEye 007: Reloaded",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/ge007-memorial/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ge007-memorial-v1.0.0/GE007_Memorial.usx",
+        "Destination": "Packages/StaticMeshes/GE007_Memorial.usx",
+        "Hash": "9ac918c1b8dad24602ffab1f5f648bb58e539126",
+        "Size": 101581801
+      }
+    ]
   }
 ]

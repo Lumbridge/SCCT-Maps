@@ -1,0 +1,20 @@
+{
+  "map": "Jungle",
+  "source_scene": "4090034e",
+  "actors": 117,
+  "materials": 77,
+  "triangles": 166005,
+  "fresh_native_reload": true,
+  "texture_images_checked": 77,
+  "texture_max_mean_error": 6.763263702392578,
+  "effect_actors_checked": 35,
+  "uv_meshes_checked": 1,
+  "normal_mean_dot": 0.9447404750157318,
+  "collision_probe": {
+    "collision_faces": 4000,
+    "hits": 119,
+    "maximum_cache_index": 3986,
+    "traces": 1014
+  },
+  "rendered_review": "User-reported empty UV streams and effect opacity corrected; complete rendered/gameplay validation is not claimed."
+}

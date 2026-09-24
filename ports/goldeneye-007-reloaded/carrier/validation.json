@@ -1,0 +1,20 @@
+{
+  "map": "Carrier",
+  "source_scene": "4090037a",
+  "actors": 398,
+  "materials": 148,
+  "triangles": 370357,
+  "fresh_native_reload": true,
+  "texture_images_checked": 148,
+  "texture_max_mean_error": 6.802764892578125,
+  "effect_actors_checked": 0,
+  "uv_meshes_checked": 1,
+  "normal_mean_dot": 0.8984855416687194,
+  "collision_probe": {
+    "collision_faces": 4000,
+    "hits": 13,
+    "maximum_cache_index": 3859,
+    "traces": 1014
+  },
+  "rendered_review": "User-reported empty UV streams and effect opacity corrected; complete rendered/gameplay validation is not claimed."
+}

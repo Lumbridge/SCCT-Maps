@@ -1,0 +1,20 @@
+{
+  "map": "Docks",
+  "source_scene": "40900326",
+  "actors": 533,
+  "materials": 170,
+  "triangles": 472539,
+  "fresh_native_reload": true,
+  "texture_images_checked": 170,
+  "texture_max_mean_error": 6.288369655609131,
+  "effect_actors_checked": 66,
+  "uv_meshes_checked": 3,
+  "normal_mean_dot": 0.8965678359803961,
+  "collision_probe": {
+    "collision_faces": 3994,
+    "hits": 144,
+    "maximum_cache_index": 3942,
+    "traces": 1014
+  },
+  "rendered_review": "User-reported empty UV streams and effect opacity corrected; complete rendered/gameplay validation is not claimed."
+}
