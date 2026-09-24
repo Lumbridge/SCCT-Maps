@@ -46,13 +46,13 @@
     ]
   },
   {
-    "Id": "ports/rainbow-six-vegas",
+    "Id": "ports/rainbow-six-vegas/calypso-casino",
     "Name": "Calypso Casino",
     "Category": "Ports",
     "Version": "v1.0.0",
     "Game": "Rainbow Six Vegas",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "ports/rainbow-six-vegas/README.md",
+    "NotesPath": "ports/rainbow-six-vegas/calypso-casino/README.md",
     "Files": [
       { "Source": "releases/download/calyd-v1.0.0/CalyD-Playable.sdc", "Destination": "Packages/Maps/CalyD.sdc", "Hash": "6c7a21a58c8c8ddffdeba9707ce2a28c7079b88f", "Size": 1680761 },
       { "Source": "releases/download/calyd-v1.0.0/CalyD-Editable.sdc", "Destination": "Packages/MapsEd/CalyD.sdc", "Hash": "d6236de734380d8ff9d0b423629c83854219ab4c", "Size": 2415535 },
@@ -68,13 +68,13 @@
     ]
   },
   {
-    "Id": "ports/scda-blkg1",
+    "Id": "ports/splinter-cell-double-agent/blackwing",
     "Name": "Blackwing",
     "Category": "Ports",
     "Version": "v1.0.0",
     "Game": "Splinter Cell: Double Agent",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "ports/scda-blkg1/README.md",
+    "NotesPath": "ports/splinter-cell-double-agent/blackwing/README.md",
     "Files": [
       { "Source": "releases/download/scda-blkg1-v1.0.0/SCDA_BLKG1-Playable.sdc", "Destination": "Packages/Maps/SCDA_BLKG1.sdc", "Hash": "50d41d31965d8edd66c4a1f0fbbd6b3c4596b2f6", "Size": 453648 },
       { "Source": "releases/download/scda-blkg1-v1.0.0/SCDA_BLKG1-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_BLKG1.sdc", "Hash": "d5394b65a1550dbb789b7c24da838c5891c18b6c", "Size": 621645 },
@@ -83,13 +83,13 @@
     ]
   },
   {
-    "Id": "ports/scda-bosg2",
+    "Id": "ports/splinter-cell-double-agent/boss-house",
     "Name": "Boss House",
     "Category": "Ports",
     "Version": "v1.0.0",
     "Game": "Splinter Cell: Double Agent",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "ports/scda-bosg2/README.md",
+    "NotesPath": "ports/splinter-cell-double-agent/boss-house/README.md",
     "Files": [
       { "Source": "releases/download/scda-bosg2-v1.0.0/SCDA_BOSG2-Playable.sdc", "Destination": "Packages/Maps/SCDA_BOSG2.sdc", "Hash": "ae9e5b549ee923052a2cf4cc4dbae5357d75b6dd", "Size": 361175 },
       { "Source": "releases/download/scda-bosg2-v1.0.0/SCDA_BOSG2-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_BOSG2.sdc", "Hash": "9b19005d93fe972c25471e355c804e4d92256c45", "Size": 482483 },
@@ -98,13 +98,13 @@
     ]
   },
   {
-    "Id": "ports/scda-dwg",
+    "Id": "ports/splinter-cell-double-agent/dawn-waves",
     "Name": "Dawn Waves",
     "Category": "Ports",
     "Version": "v1.0.0",
     "Game": "Splinter Cell: Double Agent",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "ports/scda-dwg/README.md",
+    "NotesPath": "ports/splinter-cell-double-agent/dawn-waves/README.md",
     "Files": [
       { "Source": "releases/download/scda-dwg-v1.0.0/SCDA_DWG-Playable.sdc", "Destination": "Packages/Maps/SCDA_DWG.sdc", "Hash": "9d4817d878193f440c5ca8afd31d1306664e1301", "Size": 236149 },
       { "Source": "releases/download/scda-dwg-v1.0.0/SCDA_DWG-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_DWG.sdc", "Hash": "192e3e9cf65249ea20cbee880366d59e55302b87", "Size": 320996 },
@@ -113,13 +113,13 @@
     ]
   },
   {
-    "Id": "ports/scda-motg4",
+    "Id": "ports/splinter-cell-double-agent/motorway-90",
     "Name": "Motorway 90",
     "Category": "Ports",
     "Version": "v1.0.0",
     "Game": "Splinter Cell: Double Agent",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "ports/scda-motg4/README.md",
+    "NotesPath": "ports/splinter-cell-double-agent/motorway-90/README.md",
     "Files": [
       { "Source": "releases/download/scda-motg4-v1.0.0/SCDA_MOTG4-Playable.sdc", "Destination": "Packages/Maps/SCDA_MOTG4.sdc", "Hash": "e7f2b671626047f6fe6eb3c7112af1592a35ba10", "Size": 524433 },
       { "Source": "releases/download/scda-motg4-v1.0.0/SCDA_MOTG4-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_MOTG4.sdc", "Hash": "3e442f91b448faf2c6f97dc5ffbcac3a1c55e718", "Size": 716840 },
@@ -128,13 +128,13 @@
     ]
   },
   {
-    "Id": "ports/scda-redg6",
+    "Id": "ports/splinter-cell-double-agent/red-diamond",
     "Name": "Red Diamond",
     "Category": "Ports",
     "Version": "v1.0.0",
     "Game": "Splinter Cell: Double Agent",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "ports/scda-redg6/README.md",
+    "NotesPath": "ports/splinter-cell-double-agent/red-diamond/README.md",
     "Files": [
       { "Source": "releases/download/scda-redg6-v1.0.0/SCDA_REDG6-Playable.sdc", "Destination": "Packages/Maps/SCDA_REDG6.sdc", "Hash": "516a7623aef30f0279a105e22a903b86d9089429", "Size": 644461 },
       { "Source": "releases/download/scda-redg6-v1.0.0/SCDA_REDG6-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_REDG6.sdc", "Hash": "d262bd702367ccaade875a4a897ea0025076b782", "Size": 688916 },
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "Id": "ports/scda-slhg7",
+    "Id": "ports/splinter-cell-double-agent/slaughterhouse",
     "Name": "Slaughterhouse",
     "Category": "Ports",
     "Version": "v1.0.0",
     "Game": "Splinter Cell: Double Agent",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "ports/scda-slhg7/README.md",
+    "NotesPath": "ports/splinter-cell-double-agent/slaughterhouse/README.md",
     "Files": [
       { "Source": "releases/download/scda-slhg7-v1.0.0/SCDA_SLHG7-Playable.sdc", "Destination": "Packages/Maps/SCDA_SLHG7.sdc", "Hash": "382cea7921c1b1da6d6e136346d8c118198fa31b", "Size": 483647 },
       { "Source": "releases/download/scda-slhg7-v1.0.0/SCDA_SLHG7-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_SLHG7.sdc", "Hash": "bfe7c62bd24dbcee499182639c727d0aecc69cfb", "Size": 617245 },
@@ -158,13 +158,13 @@
     ]
   },
   {
-    "Id": "ports/scda-terg5",
+    "Id": "ports/splinter-cell-double-agent/terminus",
     "Name": "Terminus",
     "Category": "Ports",
     "Version": "v1.0.0",
     "Game": "Splinter Cell: Double Agent",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "ports/scda-terg5/README.md",
+    "NotesPath": "ports/splinter-cell-double-agent/terminus/README.md",
     "Files": [
       { "Source": "releases/download/scda-terg5-v1.0.0/SCDA_TERG5-Playable.sdc", "Destination": "Packages/Maps/SCDA_TERG5.sdc", "Hash": "4f2c21b1a4d83d01b8c2e9f412af6e83dca7b825", "Size": 345792 },
       { "Source": "releases/download/scda-terg5-v1.0.0/SCDA_TERG5-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_TERG5.sdc", "Hash": "a879ceb547d49c55b8765681ba6fbf2f9d0f263b", "Size": 478430 },
@@ -173,13 +173,13 @@
     ]
   },
   {
-    "Id": "ports/scda-ussg8",
+    "Id": "ports/splinter-cell-double-agent/uss-wisdom",
     "Name": "USS Wisdom",
     "Category": "Ports",
     "Version": "v1.0.0",
     "Game": "Splinter Cell: Double Agent",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "ports/scda-ussg8/README.md",
+    "NotesPath": "ports/splinter-cell-double-agent/uss-wisdom/README.md",
     "Files": [
       { "Source": "releases/download/scda-ussg8-v1.0.0/SCDA_USSG8-Playable.sdc", "Destination": "Packages/Maps/SCDA_USSG8.sdc", "Hash": "599a7909a64d73874faf99d89ef5b4a925a98a9b", "Size": 210749 },
       { "Source": "releases/download/scda-ussg8-v1.0.0/SCDA_USSG8-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_USSG8.sdc", "Hash": "9e19c7d935a6693d94fdf58d6167d42c8985c994", "Size": 274989 },
