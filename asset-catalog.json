@@ -3,45 +3,57 @@
     "Id": "assets/r6v-calypso-casino",
     "Name": "Rainbow Six Vegas - Calypso Casino",
     "Category": "Editor assets",
-    "Version": "v1.0.0",
+    "Version": "v1.1.0",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "assets/r6v-calypso-casino/v1.0.0/README.md",
+    "NotesPath": "assets/r6v-calypso-casino/v1.1.0/README.md",
     "Files": [
       {
-        "Source": "releases/download/r6v-calypso-casino-v1.0.0/R6V_MP_Casino_01.usx",
+        "Source": "releases/download/r6v-calypso-casino-v1.1.0/R6V_MP_Casino_01.usx",
         "Destination": "Packages/StaticMeshes/R6V_MP_Casino_01.usx",
         "Hash": "34e877aa4acd8260ff153a025bfee0ef1570f380",
         "Size": 96915499
       },
       {
-        "Source": "releases/download/r6v-calypso-casino-v1.0.0/CalypsoMeshes.usx",
+        "Source": "releases/download/r6v-calypso-casino-v1.1.0/CalypsoMeshes.usx",
         "Destination": "Packages/StaticMeshes/CalypsoMeshes.usx",
         "Hash": "c4c7d9440b740d464a5d9e49e1fce18764d4a02a",
         "Size": 196556576
       },
       {
-        "Source": "releases/download/r6v-calypso-casino-v1.0.0/CalypsoPlacementMirrors.usx",
+        "Source": "releases/download/r6v-calypso-casino-v1.1.0/CalypsoPlacementMirrors.usx",
         "Destination": "Packages/StaticMeshes/CalypsoPlacementMirrors.usx",
         "Hash": "bc20403d50a7eb9742afb7c234405cb50e1de362",
         "Size": 995899
       },
       {
-        "Source": "releases/download/r6v-calypso-casino-v1.0.0/CalypsoColours_Expanded.utx",
+        "Source": "releases/download/r6v-calypso-casino-v1.1.0/CalypsoColours_Expanded.utx",
         "Destination": "Packages/Textures/CalypsoColours_Expanded.utx",
         "Hash": "1fee6d834fb76f4259abdfadde260653740d8781",
         "Size": 129634131
       },
       {
-        "Source": "releases/download/r6v-calypso-casino-v1.0.0/CalypsoColours_Partial.utx",
+        "Source": "releases/download/r6v-calypso-casino-v1.1.0/CalypsoColours_Partial.utx",
         "Destination": "Packages/Textures/CalypsoColours_Partial.utx",
         "Hash": "ad40fad0ede4f963fa6a5ecca87e36a69acbd15e",
         "Size": 46751630
       },
       {
-        "Source": "releases/download/r6v-calypso-casino-v1.0.0/CalypsoPlacementMaterials.utx",
+        "Source": "releases/download/r6v-calypso-casino-v1.1.0/CalypsoPlacementMaterials.utx",
         "Destination": "Packages/Textures/CalypsoPlacementMaterials.utx",
         "Hash": "41a5f8335bb4fb58ff7dd4400b4e7fabc49de12b",
         "Size": 5401739
+      },
+      {
+        "Source": "releases/download/r6v-calypso-casino-v1.1.0/CalypsoMeshes_TXT.utx",
+        "Destination": "Packages/Textures/CalypsoMeshes_TXT.utx",
+        "Hash": "8f78bbfd771b0e30a4dceaae1c4f087343d1b0a2",
+        "Size": 140956021
+      },
+      {
+        "Source": "releases/download/r6v-calypso-casino-v1.1.0/R6V_MP_Casino_01_TXT.utx",
+        "Destination": "Packages/Textures/R6V_MP_Casino_01_TXT.utx",
+        "Hash": "38ed9295b52ab5bf118f6a4edd41ba8110e2b8ac",
+        "Size": 48535976
       }
     ]
   },
@@ -54,17 +66,72 @@
     "Commit": "0000000000000000000000000000000000000000",
     "NotesPath": "ports/rainbow-six-vegas/calypso-casino/README.md",
     "Files": [
-      { "Source": "releases/download/calyd-v1.0.0/CalyD-Playable.sdc", "Destination": "Packages/Maps/CalyD.sdc", "Hash": "6c7a21a58c8c8ddffdeba9707ce2a28c7079b88f", "Size": 1680761 },
-      { "Source": "releases/download/calyd-v1.0.0/CalyD-Editable.sdc", "Destination": "Packages/MapsEd/CalyD.sdc", "Hash": "d6236de734380d8ff9d0b423629c83854219ab4c", "Size": 2415535 },
-      { "Source": "releases/download/calyd-v1.0.0/CalyD-i.utc", "Destination": "Packages/Textures/CalyD-i.utc", "Hash": "d6d6e22500290a6ce67a33a9b6e0e3a513b5e8c7", "Size": 197 },
-      { "Source": "releases/download/calyd-v1.0.0/BSP_Calypso.usx", "Destination": "Packages/StaticMeshes/BSP_Calypso.usx", "Hash": "f465da3e2005652f4964f76ee883115201f24216", "Size": 28447728 },
-      { "Source": "releases/download/calyd-v1.0.0/CalypsoCounterV2.usx", "Destination": "Packages/StaticMeshes/CalypsoCounterV2.usx", "Hash": "cfbb099fa9adaa64e0642de449687c6eb45b18bf", "Size": 1203577 },
-      { "Source": "releases/download/calyd-v1.0.0/CalypsoMeshes.usx", "Destination": "Packages/StaticMeshes/CalypsoMeshes.usx", "Hash": "c4c7d9440b740d464a5d9e49e1fce18764d4a02a", "Size": 196556576 },
-      { "Source": "releases/download/calyd-v1.0.0/CalypsoPlacementMirrors.usx", "Destination": "Packages/StaticMeshes/CalypsoPlacementMirrors.usx", "Hash": "bc20403d50a7eb9742afb7c234405cb50e1de362", "Size": 995899 },
-      { "Source": "releases/download/calyd-v1.0.0/ShaderCalypso.usx", "Destination": "Packages/StaticMeshes/ShaderCalypso.usx", "Hash": "1bd39ac6f19e171d5e1586a01ec39f9be6f531d7", "Size": 80952342 },
-      { "Source": "releases/download/calyd-v1.0.0/CalypsoColours_Expanded.utx", "Destination": "Packages/Textures/CalypsoColours_Expanded.utx", "Hash": "1fee6d834fb76f4259abdfadde260653740d8781", "Size": 129634131 },
-      { "Source": "releases/download/calyd-v1.0.0/CalypsoColours_Partial.utx", "Destination": "Packages/Textures/CalypsoColours_Partial.utx", "Hash": "ad40fad0ede4f963fa6a5ecca87e36a69acbd15e", "Size": 46751630 },
-      { "Source": "releases/download/calyd-v1.0.0/CalypsoPlacementMaterials.utx", "Destination": "Packages/Textures/CalypsoPlacementMaterials.utx", "Hash": "41a5f8335bb4fb58ff7dd4400b4e7fabc49de12b", "Size": 5401739 }
+      {
+        "Source": "releases/download/calyd-v1.0.0/CalyD-Playable.sdc",
+        "Destination": "Packages/Maps/CalyD.sdc",
+        "Hash": "6c7a21a58c8c8ddffdeba9707ce2a28c7079b88f",
+        "Size": 1680761
+      },
+      {
+        "Source": "releases/download/calyd-v1.0.0/CalyD-Editable.sdc",
+        "Destination": "Packages/MapsEd/CalyD.sdc",
+        "Hash": "d6236de734380d8ff9d0b423629c83854219ab4c",
+        "Size": 2415535
+      },
+      {
+        "Source": "releases/download/calyd-v1.0.0/CalyD-i.utc",
+        "Destination": "Packages/Textures/CalyD-i.utc",
+        "Hash": "d6d6e22500290a6ce67a33a9b6e0e3a513b5e8c7",
+        "Size": 197
+      },
+      {
+        "Source": "releases/download/calyd-v1.0.0/BSP_Calypso.usx",
+        "Destination": "Packages/StaticMeshes/BSP_Calypso.usx",
+        "Hash": "f465da3e2005652f4964f76ee883115201f24216",
+        "Size": 28447728
+      },
+      {
+        "Source": "releases/download/calyd-v1.0.0/CalypsoCounterV2.usx",
+        "Destination": "Packages/StaticMeshes/CalypsoCounterV2.usx",
+        "Hash": "cfbb099fa9adaa64e0642de449687c6eb45b18bf",
+        "Size": 1203577
+      },
+      {
+        "Source": "releases/download/calyd-v1.0.0/CalypsoMeshes.usx",
+        "Destination": "Packages/StaticMeshes/CalypsoMeshes.usx",
+        "Hash": "c4c7d9440b740d464a5d9e49e1fce18764d4a02a",
+        "Size": 196556576
+      },
+      {
+        "Source": "releases/download/calyd-v1.0.0/CalypsoPlacementMirrors.usx",
+        "Destination": "Packages/StaticMeshes/CalypsoPlacementMirrors.usx",
+        "Hash": "bc20403d50a7eb9742afb7c234405cb50e1de362",
+        "Size": 995899
+      },
+      {
+        "Source": "releases/download/calyd-v1.0.0/ShaderCalypso.usx",
+        "Destination": "Packages/StaticMeshes/ShaderCalypso.usx",
+        "Hash": "1bd39ac6f19e171d5e1586a01ec39f9be6f531d7",
+        "Size": 80952342
+      },
+      {
+        "Source": "releases/download/calyd-v1.0.0/CalypsoColours_Expanded.utx",
+        "Destination": "Packages/Textures/CalypsoColours_Expanded.utx",
+        "Hash": "1fee6d834fb76f4259abdfadde260653740d8781",
+        "Size": 129634131
+      },
+      {
+        "Source": "releases/download/calyd-v1.0.0/CalypsoColours_Partial.utx",
+        "Destination": "Packages/Textures/CalypsoColours_Partial.utx",
+        "Hash": "ad40fad0ede4f963fa6a5ecca87e36a69acbd15e",
+        "Size": 46751630
+      },
+      {
+        "Source": "releases/download/calyd-v1.0.0/CalypsoPlacementMaterials.utx",
+        "Destination": "Packages/Textures/CalypsoPlacementMaterials.utx",
+        "Hash": "41a5f8335bb4fb58ff7dd4400b4e7fabc49de12b",
+        "Size": 5401739
+      }
     ]
   },
   {
@@ -76,10 +143,30 @@
     "Commit": "0000000000000000000000000000000000000000",
     "NotesPath": "ports/splinter-cell-double-agent/blackwing/README.md",
     "Files": [
-      { "Source": "releases/download/scda-blkg1-v1.0.0/SCDA_BLKG1-Playable.sdc", "Destination": "Packages/Maps/SCDA_BLKG1.sdc", "Hash": "50d41d31965d8edd66c4a1f0fbbd6b3c4596b2f6", "Size": 453648 },
-      { "Source": "releases/download/scda-blkg1-v1.0.0/SCDA_BLKG1-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_BLKG1.sdc", "Hash": "d5394b65a1550dbb789b7c24da838c5891c18b6c", "Size": 621645 },
-      { "Source": "releases/download/scda-blkg1-v1.0.0/SCDA_BLKG1-i.utc", "Destination": "Packages/Textures/SCDA_BLKG1-i.utc", "Hash": "0e15644dc2b21b8aacbc499de92bf612932630d8", "Size": 219 },
-      { "Source": "releases/download/scda-blkg1-v1.0.0/SCDA_BLKG1_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_BLKG1_VS.usx", "Hash": "742da59cb2a1d279c8d875e2d7487e720fa24d19", "Size": 38274854 }
+      {
+        "Source": "releases/download/scda-blkg1-v1.0.0/SCDA_BLKG1-Playable.sdc",
+        "Destination": "Packages/Maps/SCDA_BLKG1.sdc",
+        "Hash": "50d41d31965d8edd66c4a1f0fbbd6b3c4596b2f6",
+        "Size": 453648
+      },
+      {
+        "Source": "releases/download/scda-blkg1-v1.0.0/SCDA_BLKG1-Editable.sdc",
+        "Destination": "Packages/MapsEd/SCDA_BLKG1.sdc",
+        "Hash": "d5394b65a1550dbb789b7c24da838c5891c18b6c",
+        "Size": 621645
+      },
+      {
+        "Source": "releases/download/scda-blkg1-v1.0.0/SCDA_BLKG1-i.utc",
+        "Destination": "Packages/Textures/SCDA_BLKG1-i.utc",
+        "Hash": "0e15644dc2b21b8aacbc499de92bf612932630d8",
+        "Size": 219
+      },
+      {
+        "Source": "releases/download/scda-blkg1-v1.0.0/SCDA_BLKG1_VS.usx",
+        "Destination": "Packages/StaticMeshes/SCDA_BLKG1_VS.usx",
+        "Hash": "742da59cb2a1d279c8d875e2d7487e720fa24d19",
+        "Size": 38274854
+      }
     ]
   },
   {
@@ -91,10 +178,30 @@
     "Commit": "0000000000000000000000000000000000000000",
     "NotesPath": "ports/splinter-cell-double-agent/boss-house/README.md",
     "Files": [
-      { "Source": "releases/download/scda-bosg2-v1.0.0/SCDA_BOSG2-Playable.sdc", "Destination": "Packages/Maps/SCDA_BOSG2.sdc", "Hash": "ae9e5b549ee923052a2cf4cc4dbae5357d75b6dd", "Size": 361175 },
-      { "Source": "releases/download/scda-bosg2-v1.0.0/SCDA_BOSG2-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_BOSG2.sdc", "Hash": "9b19005d93fe972c25471e355c804e4d92256c45", "Size": 482483 },
-      { "Source": "releases/download/scda-bosg2-v1.0.0/SCDA_BOSG2-i.utc", "Destination": "Packages/Textures/SCDA_BOSG2-i.utc", "Hash": "af7aaa7fb1a6a7b77afef20ec24507849b47c50c", "Size": 218 },
-      { "Source": "releases/download/scda-bosg2-v1.0.0/SCDA_BOSG2_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_BOSG2_VS.usx", "Hash": "1943d96b48c683ba77a805be6a77f656146100fc", "Size": 30783734 }
+      {
+        "Source": "releases/download/scda-bosg2-v1.0.0/SCDA_BOSG2-Playable.sdc",
+        "Destination": "Packages/Maps/SCDA_BOSG2.sdc",
+        "Hash": "ae9e5b549ee923052a2cf4cc4dbae5357d75b6dd",
+        "Size": 361175
+      },
+      {
+        "Source": "releases/download/scda-bosg2-v1.0.0/SCDA_BOSG2-Editable.sdc",
+        "Destination": "Packages/MapsEd/SCDA_BOSG2.sdc",
+        "Hash": "9b19005d93fe972c25471e355c804e4d92256c45",
+        "Size": 482483
+      },
+      {
+        "Source": "releases/download/scda-bosg2-v1.0.0/SCDA_BOSG2-i.utc",
+        "Destination": "Packages/Textures/SCDA_BOSG2-i.utc",
+        "Hash": "af7aaa7fb1a6a7b77afef20ec24507849b47c50c",
+        "Size": 218
+      },
+      {
+        "Source": "releases/download/scda-bosg2-v1.0.0/SCDA_BOSG2_VS.usx",
+        "Destination": "Packages/StaticMeshes/SCDA_BOSG2_VS.usx",
+        "Hash": "1943d96b48c683ba77a805be6a77f656146100fc",
+        "Size": 30783734
+      }
     ]
   },
   {
@@ -106,10 +213,30 @@
     "Commit": "0000000000000000000000000000000000000000",
     "NotesPath": "ports/splinter-cell-double-agent/dawn-waves/README.md",
     "Files": [
-      { "Source": "releases/download/scda-dwg-v1.0.0/SCDA_DWG-Playable.sdc", "Destination": "Packages/Maps/SCDA_DWG.sdc", "Hash": "9d4817d878193f440c5ca8afd31d1306664e1301", "Size": 236149 },
-      { "Source": "releases/download/scda-dwg-v1.0.0/SCDA_DWG-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_DWG.sdc", "Hash": "192e3e9cf65249ea20cbee880366d59e55302b87", "Size": 320996 },
-      { "Source": "releases/download/scda-dwg-v1.0.0/SCDA_DWG-i.utc", "Destination": "Packages/Textures/SCDA_DWG-i.utc", "Hash": "6ee2f377708fe9783b1ede68e61723071a510c06", "Size": 216 },
-      { "Source": "releases/download/scda-dwg-v1.0.0/SCDA_DWG_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_DWG_VS.usx", "Hash": "d98cbcc254f68f475a8672e71245839a4664ce09", "Size": 29930047 }
+      {
+        "Source": "releases/download/scda-dwg-v1.0.0/SCDA_DWG-Playable.sdc",
+        "Destination": "Packages/Maps/SCDA_DWG.sdc",
+        "Hash": "9d4817d878193f440c5ca8afd31d1306664e1301",
+        "Size": 236149
+      },
+      {
+        "Source": "releases/download/scda-dwg-v1.0.0/SCDA_DWG-Editable.sdc",
+        "Destination": "Packages/MapsEd/SCDA_DWG.sdc",
+        "Hash": "192e3e9cf65249ea20cbee880366d59e55302b87",
+        "Size": 320996
+      },
+      {
+        "Source": "releases/download/scda-dwg-v1.0.0/SCDA_DWG-i.utc",
+        "Destination": "Packages/Textures/SCDA_DWG-i.utc",
+        "Hash": "6ee2f377708fe9783b1ede68e61723071a510c06",
+        "Size": 216
+      },
+      {
+        "Source": "releases/download/scda-dwg-v1.0.0/SCDA_DWG_VS.usx",
+        "Destination": "Packages/StaticMeshes/SCDA_DWG_VS.usx",
+        "Hash": "d98cbcc254f68f475a8672e71245839a4664ce09",
+        "Size": 29930047
+      }
     ]
   },
   {
@@ -121,10 +248,30 @@
     "Commit": "0000000000000000000000000000000000000000",
     "NotesPath": "ports/splinter-cell-double-agent/motorway-90/README.md",
     "Files": [
-      { "Source": "releases/download/scda-motg4-v1.0.0/SCDA_MOTG4-Playable.sdc", "Destination": "Packages/Maps/SCDA_MOTG4.sdc", "Hash": "e7f2b671626047f6fe6eb3c7112af1592a35ba10", "Size": 524433 },
-      { "Source": "releases/download/scda-motg4-v1.0.0/SCDA_MOTG4-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_MOTG4.sdc", "Hash": "3e442f91b448faf2c6f97dc5ffbcac3a1c55e718", "Size": 716840 },
-      { "Source": "releases/download/scda-motg4-v1.0.0/SCDA_MOTG4-i.utc", "Destination": "Packages/Textures/SCDA_MOTG4-i.utc", "Hash": "710978bb7f51083d9697f654c236f58e3011f1f2", "Size": 218 },
-      { "Source": "releases/download/scda-motg4-v1.0.0/SCDA_MOTG4_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_MOTG4_VS.usx", "Hash": "fd0c264bbbd3c67e325bda6d0fd9eb97c695aaa3", "Size": 47770158 }
+      {
+        "Source": "releases/download/scda-motg4-v1.0.0/SCDA_MOTG4-Playable.sdc",
+        "Destination": "Packages/Maps/SCDA_MOTG4.sdc",
+        "Hash": "e7f2b671626047f6fe6eb3c7112af1592a35ba10",
+        "Size": 524433
+      },
+      {
+        "Source": "releases/download/scda-motg4-v1.0.0/SCDA_MOTG4-Editable.sdc",
+        "Destination": "Packages/MapsEd/SCDA_MOTG4.sdc",
+        "Hash": "3e442f91b448faf2c6f97dc5ffbcac3a1c55e718",
+        "Size": 716840
+      },
+      {
+        "Source": "releases/download/scda-motg4-v1.0.0/SCDA_MOTG4-i.utc",
+        "Destination": "Packages/Textures/SCDA_MOTG4-i.utc",
+        "Hash": "710978bb7f51083d9697f654c236f58e3011f1f2",
+        "Size": 218
+      },
+      {
+        "Source": "releases/download/scda-motg4-v1.0.0/SCDA_MOTG4_VS.usx",
+        "Destination": "Packages/StaticMeshes/SCDA_MOTG4_VS.usx",
+        "Hash": "fd0c264bbbd3c67e325bda6d0fd9eb97c695aaa3",
+        "Size": 47770158
+      }
     ]
   },
   {
@@ -136,10 +283,30 @@
     "Commit": "0000000000000000000000000000000000000000",
     "NotesPath": "ports/splinter-cell-double-agent/red-diamond/README.md",
     "Files": [
-      { "Source": "releases/download/scda-redg6-v1.0.0/SCDA_REDG6-Playable.sdc", "Destination": "Packages/Maps/SCDA_REDG6.sdc", "Hash": "516a7623aef30f0279a105e22a903b86d9089429", "Size": 644461 },
-      { "Source": "releases/download/scda-redg6-v1.0.0/SCDA_REDG6-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_REDG6.sdc", "Hash": "d262bd702367ccaade875a4a897ea0025076b782", "Size": 688916 },
-      { "Source": "releases/download/scda-redg6-v1.0.0/SCDA_REDG6-i.utc", "Destination": "Packages/Textures/SCDA_REDG6-i.utc", "Hash": "da1259ba46eb9402d72cdd88170b64b46c3a7a63", "Size": 218 },
-      { "Source": "releases/download/scda-redg6-v1.0.0/SCDA_REDG6_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_REDG6_VS.usx", "Hash": "b5cb59f7ec707bc65102079c445b4bcd04fe2d98", "Size": 37809622 }
+      {
+        "Source": "releases/download/scda-redg6-v1.0.0/SCDA_REDG6-Playable.sdc",
+        "Destination": "Packages/Maps/SCDA_REDG6.sdc",
+        "Hash": "516a7623aef30f0279a105e22a903b86d9089429",
+        "Size": 644461
+      },
+      {
+        "Source": "releases/download/scda-redg6-v1.0.0/SCDA_REDG6-Editable.sdc",
+        "Destination": "Packages/MapsEd/SCDA_REDG6.sdc",
+        "Hash": "d262bd702367ccaade875a4a897ea0025076b782",
+        "Size": 688916
+      },
+      {
+        "Source": "releases/download/scda-redg6-v1.0.0/SCDA_REDG6-i.utc",
+        "Destination": "Packages/Textures/SCDA_REDG6-i.utc",
+        "Hash": "da1259ba46eb9402d72cdd88170b64b46c3a7a63",
+        "Size": 218
+      },
+      {
+        "Source": "releases/download/scda-redg6-v1.0.0/SCDA_REDG6_VS.usx",
+        "Destination": "Packages/StaticMeshes/SCDA_REDG6_VS.usx",
+        "Hash": "b5cb59f7ec707bc65102079c445b4bcd04fe2d98",
+        "Size": 37809622
+      }
     ]
   },
   {
@@ -151,10 +318,30 @@
     "Commit": "0000000000000000000000000000000000000000",
     "NotesPath": "ports/splinter-cell-double-agent/slaughterhouse/README.md",
     "Files": [
-      { "Source": "releases/download/scda-slhg7-v1.0.0/SCDA_SLHG7-Playable.sdc", "Destination": "Packages/Maps/SCDA_SLHG7.sdc", "Hash": "382cea7921c1b1da6d6e136346d8c118198fa31b", "Size": 483647 },
-      { "Source": "releases/download/scda-slhg7-v1.0.0/SCDA_SLHG7-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_SLHG7.sdc", "Hash": "bfe7c62bd24dbcee499182639c727d0aecc69cfb", "Size": 617245 },
-      { "Source": "releases/download/scda-slhg7-v1.0.0/SCDA_SLHG7-i.utc", "Destination": "Packages/Textures/SCDA_SLHG7-i.utc", "Hash": "db48c6876344974d7615a27c435a46a2c3ceb4ae", "Size": 218 },
-      { "Source": "releases/download/scda-slhg7-v1.0.0/SCDA_SLHG7_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_SLHG7_VS.usx", "Hash": "b8fb4fd7dd0e9531e5b3b843815dc86d6033a8a4", "Size": 38576594 }
+      {
+        "Source": "releases/download/scda-slhg7-v1.0.0/SCDA_SLHG7-Playable.sdc",
+        "Destination": "Packages/Maps/SCDA_SLHG7.sdc",
+        "Hash": "382cea7921c1b1da6d6e136346d8c118198fa31b",
+        "Size": 483647
+      },
+      {
+        "Source": "releases/download/scda-slhg7-v1.0.0/SCDA_SLHG7-Editable.sdc",
+        "Destination": "Packages/MapsEd/SCDA_SLHG7.sdc",
+        "Hash": "bfe7c62bd24dbcee499182639c727d0aecc69cfb",
+        "Size": 617245
+      },
+      {
+        "Source": "releases/download/scda-slhg7-v1.0.0/SCDA_SLHG7-i.utc",
+        "Destination": "Packages/Textures/SCDA_SLHG7-i.utc",
+        "Hash": "db48c6876344974d7615a27c435a46a2c3ceb4ae",
+        "Size": 218
+      },
+      {
+        "Source": "releases/download/scda-slhg7-v1.0.0/SCDA_SLHG7_VS.usx",
+        "Destination": "Packages/StaticMeshes/SCDA_SLHG7_VS.usx",
+        "Hash": "b8fb4fd7dd0e9531e5b3b843815dc86d6033a8a4",
+        "Size": 38576594
+      }
     ]
   },
   {
@@ -166,10 +353,30 @@
     "Commit": "0000000000000000000000000000000000000000",
     "NotesPath": "ports/splinter-cell-double-agent/terminus/README.md",
     "Files": [
-      { "Source": "releases/download/scda-terg5-v1.0.0/SCDA_TERG5-Playable.sdc", "Destination": "Packages/Maps/SCDA_TERG5.sdc", "Hash": "4f2c21b1a4d83d01b8c2e9f412af6e83dca7b825", "Size": 345792 },
-      { "Source": "releases/download/scda-terg5-v1.0.0/SCDA_TERG5-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_TERG5.sdc", "Hash": "a879ceb547d49c55b8765681ba6fbf2f9d0f263b", "Size": 478430 },
-      { "Source": "releases/download/scda-terg5-v1.0.0/SCDA_TERG5-i.utc", "Destination": "Packages/Textures/SCDA_TERG5-i.utc", "Hash": "3c83ff877d1b1e3740228afc03fdfcdd0d86418f", "Size": 218 },
-      { "Source": "releases/download/scda-terg5-v1.0.0/SCDA_TERG5_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_TERG5_VS.usx", "Hash": "e7510d6a0713dcb3de4de337c0cc016b13e1a886", "Size": 42576371 }
+      {
+        "Source": "releases/download/scda-terg5-v1.0.0/SCDA_TERG5-Playable.sdc",
+        "Destination": "Packages/Maps/SCDA_TERG5.sdc",
+        "Hash": "4f2c21b1a4d83d01b8c2e9f412af6e83dca7b825",
+        "Size": 345792
+      },
+      {
+        "Source": "releases/download/scda-terg5-v1.0.0/SCDA_TERG5-Editable.sdc",
+        "Destination": "Packages/MapsEd/SCDA_TERG5.sdc",
+        "Hash": "a879ceb547d49c55b8765681ba6fbf2f9d0f263b",
+        "Size": 478430
+      },
+      {
+        "Source": "releases/download/scda-terg5-v1.0.0/SCDA_TERG5-i.utc",
+        "Destination": "Packages/Textures/SCDA_TERG5-i.utc",
+        "Hash": "3c83ff877d1b1e3740228afc03fdfcdd0d86418f",
+        "Size": 218
+      },
+      {
+        "Source": "releases/download/scda-terg5-v1.0.0/SCDA_TERG5_VS.usx",
+        "Destination": "Packages/StaticMeshes/SCDA_TERG5_VS.usx",
+        "Hash": "e7510d6a0713dcb3de4de337c0cc016b13e1a886",
+        "Size": 42576371
+      }
     ]
   },
   {
@@ -181,10 +388,30 @@
     "Commit": "0000000000000000000000000000000000000000",
     "NotesPath": "ports/splinter-cell-double-agent/uss-wisdom/README.md",
     "Files": [
-      { "Source": "releases/download/scda-ussg8-v1.0.0/SCDA_USSG8-Playable.sdc", "Destination": "Packages/Maps/SCDA_USSG8.sdc", "Hash": "599a7909a64d73874faf99d89ef5b4a925a98a9b", "Size": 210749 },
-      { "Source": "releases/download/scda-ussg8-v1.0.0/SCDA_USSG8-Editable.sdc", "Destination": "Packages/MapsEd/SCDA_USSG8.sdc", "Hash": "9e19c7d935a6693d94fdf58d6167d42c8985c994", "Size": 274989 },
-      { "Source": "releases/download/scda-ussg8-v1.0.0/SCDA_USSG8-i.utc", "Destination": "Packages/Textures/SCDA_USSG8-i.utc", "Hash": "f64e86ea8f6e8f029be247a805c2751e4567606c", "Size": 219 },
-      { "Source": "releases/download/scda-ussg8-v1.0.0/SCDA_USSG8_VS.usx", "Destination": "Packages/StaticMeshes/SCDA_USSG8_VS.usx", "Hash": "f8eb0f438955426975406161281ec694d2c52736", "Size": 33379520 }
+      {
+        "Source": "releases/download/scda-ussg8-v1.0.0/SCDA_USSG8-Playable.sdc",
+        "Destination": "Packages/Maps/SCDA_USSG8.sdc",
+        "Hash": "599a7909a64d73874faf99d89ef5b4a925a98a9b",
+        "Size": 210749
+      },
+      {
+        "Source": "releases/download/scda-ussg8-v1.0.0/SCDA_USSG8-Editable.sdc",
+        "Destination": "Packages/MapsEd/SCDA_USSG8.sdc",
+        "Hash": "9e19c7d935a6693d94fdf58d6167d42c8985c994",
+        "Size": 274989
+      },
+      {
+        "Source": "releases/download/scda-ussg8-v1.0.0/SCDA_USSG8-i.utc",
+        "Destination": "Packages/Textures/SCDA_USSG8-i.utc",
+        "Hash": "f64e86ea8f6e8f029be247a805c2751e4567606c",
+        "Size": 219
+      },
+      {
+        "Source": "releases/download/scda-ussg8-v1.0.0/SCDA_USSG8_VS.usx",
+        "Destination": "Packages/StaticMeshes/SCDA_USSG8_VS.usx",
+        "Hash": "f8eb0f438955426975406161281ec694d2c52736",
+        "Size": 33379520
+      }
     ]
   },
   {
@@ -214,16 +441,22 @@
     "Id": "assets/ge007-facility",
     "Name": "GoldenEye 007: Reloaded — Facility",
     "Category": "Editor assets",
-    "Version": "v1.0.0",
+    "Version": "v1.1.0",
     "Game": "GoldenEye 007: Reloaded",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "assets/ge007-facility/v1.0.0/README.md",
+    "NotesPath": "assets/ge007-facility/v1.1.0/README.md",
     "Files": [
       {
-        "Source": "releases/download/ge007-facility-v1.0.0/GE007_Facility.usx",
+        "Source": "releases/download/ge007-facility-v1.1.0/GE007_Facility.usx",
         "Destination": "Packages/StaticMeshes/GE007_Facility.usx",
         "Hash": "b6c83f183b6b07aab2a31e75c5e47418334f4cd3",
         "Size": 89318571
+      },
+      {
+        "Source": "releases/download/ge007-facility-v1.1.0/GE007_Facility_TXT.utx",
+        "Destination": "Packages/Textures/GE007_Facility_TXT.utx",
+        "Hash": "ff05ad5003b312fb973fb686fc3a6333c8becd4a",
+        "Size": 8155949
       }
     ]
   },
@@ -254,16 +487,22 @@
     "Id": "assets/ge007-solar",
     "Name": "GoldenEye 007: Reloaded — Solar",
     "Category": "Editor assets",
-    "Version": "v1.0.0",
+    "Version": "v1.1.0",
     "Game": "GoldenEye 007: Reloaded",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "assets/ge007-solar/v1.0.0/README.md",
+    "NotesPath": "assets/ge007-solar/v1.1.0/README.md",
     "Files": [
       {
-        "Source": "releases/download/ge007-solar-v1.0.0/GE007_Solar.usx",
+        "Source": "releases/download/ge007-solar-v1.1.0/GE007_Solar.usx",
         "Destination": "Packages/StaticMeshes/GE007_Solar.usx",
         "Hash": "acbe9ad4ea5b00456d3d428f550c71821204f432",
         "Size": 53978172
+      },
+      {
+        "Source": "releases/download/ge007-solar-v1.1.0/GE007_Solar_TXT.utx",
+        "Destination": "Packages/Textures/GE007_Solar_TXT.utx",
+        "Hash": "2b3023844c7ab2231ec818ad1d2628cd446c60e3",
+        "Size": 11694952
       }
     ]
   },
@@ -294,16 +533,22 @@
     "Id": "assets/ge007-plant",
     "Name": "GoldenEye 007: Reloaded — Plant",
     "Category": "Editor assets",
-    "Version": "v1.0.0",
+    "Version": "v1.1.0",
     "Game": "GoldenEye 007: Reloaded",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "assets/ge007-plant/v1.0.0/README.md",
+    "NotesPath": "assets/ge007-plant/v1.1.0/README.md",
     "Files": [
       {
-        "Source": "releases/download/ge007-plant-v1.0.0/GE007_Plant.usx",
+        "Source": "releases/download/ge007-plant-v1.1.0/GE007_Plant.usx",
         "Destination": "Packages/StaticMeshes/GE007_Plant.usx",
         "Hash": "62524ecd870c488c215936052c1c7ba41b987348",
         "Size": 96975439
+      },
+      {
+        "Source": "releases/download/ge007-plant-v1.1.0/GE007_Plant_TXT.utx",
+        "Destination": "Packages/Textures/GE007_Plant_TXT.utx",
+        "Hash": "cf134e8fa4eb0b2a9bc95444abccb3327d07778e",
+        "Size": 14911478
       }
     ]
   },
@@ -334,16 +579,22 @@
     "Id": "assets/ge007-peak",
     "Name": "GoldenEye 007: Reloaded — Peak",
     "Category": "Editor assets",
-    "Version": "v1.0.0",
+    "Version": "v1.1.0",
     "Game": "GoldenEye 007: Reloaded",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "assets/ge007-peak/v1.0.0/README.md",
+    "NotesPath": "assets/ge007-peak/v1.1.0/README.md",
     "Files": [
       {
-        "Source": "releases/download/ge007-peak-v1.0.0/GE007_Peak.usx",
+        "Source": "releases/download/ge007-peak-v1.1.0/GE007_Peak.usx",
         "Destination": "Packages/StaticMeshes/GE007_Peak.usx",
         "Hash": "a2116c3f3a9d8b48ec91633bc2f502d4a914a01d",
         "Size": 174573964
+      },
+      {
+        "Source": "releases/download/ge007-peak-v1.1.0/GE007_Peak_TXT.utx",
+        "Destination": "Packages/Textures/GE007_Peak_TXT.utx",
+        "Hash": "3ef66e57625b2fbf61f00ae1f26b230abed01e11",
+        "Size": 18188325
       }
     ]
   },
@@ -374,16 +625,22 @@
     "Id": "assets/ge007-carrier",
     "Name": "GoldenEye 007: Reloaded — Carrier",
     "Category": "Editor assets",
-    "Version": "v1.0.0",
+    "Version": "v1.1.0",
     "Game": "GoldenEye 007: Reloaded",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "assets/ge007-carrier/v1.0.0/README.md",
+    "NotesPath": "assets/ge007-carrier/v1.1.0/README.md",
     "Files": [
       {
-        "Source": "releases/download/ge007-carrier-v1.0.0/GE007_Carrier.usx",
+        "Source": "releases/download/ge007-carrier-v1.1.0/GE007_Carrier.usx",
         "Destination": "Packages/StaticMeshes/GE007_Carrier.usx",
         "Hash": "758bc7d20b3bdde6c932b7c748b7be832a63c313",
         "Size": 79193965
+      },
+      {
+        "Source": "releases/download/ge007-carrier-v1.1.0/GE007_Carrier_TXT.utx",
+        "Destination": "Packages/Textures/GE007_Carrier_TXT.utx",
+        "Hash": "79b6820954dce5b4e2903d6a17fa7364eb2892b7",
+        "Size": 10287869
       }
     ]
   },
@@ -414,16 +671,22 @@
     "Id": "assets/ge007-docks",
     "Name": "GoldenEye 007: Reloaded — Docks",
     "Category": "Editor assets",
-    "Version": "v1.0.0",
+    "Version": "v1.1.0",
     "Game": "GoldenEye 007: Reloaded",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "assets/ge007-docks/v1.0.0/README.md",
+    "NotesPath": "assets/ge007-docks/v1.1.0/README.md",
     "Files": [
       {
-        "Source": "releases/download/ge007-docks-v1.0.0/GE007_Docks.usx",
+        "Source": "releases/download/ge007-docks-v1.1.0/GE007_Docks.usx",
         "Destination": "Packages/StaticMeshes/GE007_Docks.usx",
         "Hash": "0530f1c960ae966836da17c69ac987c7e251ce2e",
         "Size": 109456603
+      },
+      {
+        "Source": "releases/download/ge007-docks-v1.1.0/GE007_Docks_TXT.utx",
+        "Destination": "Packages/Textures/GE007_Docks_TXT.utx",
+        "Hash": "60cfc99cefc8428f9160c2b374576d4e5c59e979",
+        "Size": 15304484
       }
     ]
   },
@@ -454,16 +717,22 @@
     "Id": "assets/ge007-industrial",
     "Name": "GoldenEye 007: Reloaded — Industrial",
     "Category": "Editor assets",
-    "Version": "v1.0.0",
+    "Version": "v1.1.0",
     "Game": "GoldenEye 007: Reloaded",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "assets/ge007-industrial/v1.0.0/README.md",
+    "NotesPath": "assets/ge007-industrial/v1.1.0/README.md",
     "Files": [
       {
-        "Source": "releases/download/ge007-industrial-v1.0.0/GE007_Industrial.usx",
+        "Source": "releases/download/ge007-industrial-v1.1.0/GE007_Industrial.usx",
         "Destination": "Packages/StaticMeshes/GE007_Industrial.usx",
         "Hash": "391c04236efab268095d6c445e21e816488efb86",
         "Size": 79379746
+      },
+      {
+        "Source": "releases/download/ge007-industrial-v1.1.0/GE007_Industrial_TXT.utx",
+        "Destination": "Packages/Textures/GE007_Industrial_TXT.utx",
+        "Hash": "896f8a36d30fb6533df063e625282ab62d80d1ba",
+        "Size": 13066347
       }
     ]
   },
@@ -494,16 +763,22 @@
     "Id": "assets/ge007-station",
     "Name": "GoldenEye 007: Reloaded — Station",
     "Category": "Editor assets",
-    "Version": "v1.0.0",
+    "Version": "v1.1.0",
     "Game": "GoldenEye 007: Reloaded",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "assets/ge007-station/v1.0.0/README.md",
+    "NotesPath": "assets/ge007-station/v1.1.0/README.md",
     "Files": [
       {
-        "Source": "releases/download/ge007-station-v1.0.0/GE007_Station.usx",
+        "Source": "releases/download/ge007-station-v1.1.0/GE007_Station.usx",
         "Destination": "Packages/StaticMeshes/GE007_Station.usx",
         "Hash": "f8e453b8e90b81e664dc137eb69f969259a22dad",
         "Size": 45306111
+      },
+      {
+        "Source": "releases/download/ge007-station-v1.1.0/GE007_Station_TXT.utx",
+        "Destination": "Packages/Textures/GE007_Station_TXT.utx",
+        "Hash": "27673945f956ad5626ba512f5affe43f6ed1d98b",
+        "Size": 16499446
       }
     ]
   },
@@ -534,16 +809,22 @@
     "Id": "assets/ge007-jungle",
     "Name": "GoldenEye 007: Reloaded — Jungle",
     "Category": "Editor assets",
-    "Version": "v1.0.0",
+    "Version": "v1.1.0",
     "Game": "GoldenEye 007: Reloaded",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "assets/ge007-jungle/v1.0.0/README.md",
+    "NotesPath": "assets/ge007-jungle/v1.1.0/README.md",
     "Files": [
       {
-        "Source": "releases/download/ge007-jungle-v1.0.0/GE007_Jungle.usx",
+        "Source": "releases/download/ge007-jungle-v1.1.0/GE007_Jungle.usx",
         "Destination": "Packages/StaticMeshes/GE007_Jungle.usx",
         "Hash": "c8be81ce4590ebdeace1a8085a2c73f819a0ae86",
         "Size": 57498312
+      },
+      {
+        "Source": "releases/download/ge007-jungle-v1.1.0/GE007_Jungle_TXT.utx",
+        "Destination": "Packages/Textures/GE007_Jungle_TXT.utx",
+        "Hash": "f19d7a44547175c69c7dce5b8aefb17ccded0986",
+        "Size": 16684483
       }
     ]
   },
@@ -574,16 +855,22 @@
     "Id": "assets/ge007-sewer",
     "Name": "GoldenEye 007: Reloaded — Sewer",
     "Category": "Editor assets",
-    "Version": "v1.0.0",
+    "Version": "v1.1.0",
     "Game": "GoldenEye 007: Reloaded",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "assets/ge007-sewer/v1.0.0/README.md",
+    "NotesPath": "assets/ge007-sewer/v1.1.0/README.md",
     "Files": [
       {
-        "Source": "releases/download/ge007-sewer-v1.0.0/GE007_Sewer.usx",
+        "Source": "releases/download/ge007-sewer-v1.1.0/GE007_Sewer.usx",
         "Destination": "Packages/StaticMeshes/GE007_Sewer.usx",
         "Hash": "6beaa71c40fc9a2e630730a762a92c0560bf6b29",
         "Size": 82159497
+      },
+      {
+        "Source": "releases/download/ge007-sewer-v1.1.0/GE007_Sewer_TXT.utx",
+        "Destination": "Packages/Textures/GE007_Sewer_TXT.utx",
+        "Hash": "1160fc8bffb18d062d6a6431c4aec5dd4a189b22",
+        "Size": 4264331
       }
     ]
   },
@@ -614,16 +901,22 @@
     "Id": "assets/ge007-nightclub",
     "Name": "GoldenEye 007: Reloaded — Nightclub",
     "Category": "Editor assets",
-    "Version": "v1.0.0",
+    "Version": "v1.1.0",
     "Game": "GoldenEye 007: Reloaded",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "assets/ge007-nightclub/v1.0.0/README.md",
+    "NotesPath": "assets/ge007-nightclub/v1.1.0/README.md",
     "Files": [
       {
-        "Source": "releases/download/ge007-nightclub-v1.0.0/GE007_Nightclub.usx",
+        "Source": "releases/download/ge007-nightclub-v1.1.0/GE007_Nightclub.usx",
         "Destination": "Packages/StaticMeshes/GE007_Nightclub.usx",
         "Hash": "86f8a310f6e67e7904b99a68c814d810b9dc9178",
         "Size": 34754004
+      },
+      {
+        "Source": "releases/download/ge007-nightclub-v1.1.0/GE007_Nightclub_TXT.utx",
+        "Destination": "Packages/Textures/GE007_Nightclub_TXT.utx",
+        "Hash": "26ec71712357cbb550a2313c3b5c62b7413aa5af",
+        "Size": 5874723
       }
     ]
   },
@@ -654,16 +947,22 @@
     "Id": "assets/ge007-outpost",
     "Name": "GoldenEye 007: Reloaded — Outpost",
     "Category": "Editor assets",
-    "Version": "v1.0.0",
+    "Version": "v1.1.0",
     "Game": "GoldenEye 007: Reloaded",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "assets/ge007-outpost/v1.0.0/README.md",
+    "NotesPath": "assets/ge007-outpost/v1.1.0/README.md",
     "Files": [
       {
-        "Source": "releases/download/ge007-outpost-v1.0.0/GE007_Outpost.usx",
+        "Source": "releases/download/ge007-outpost-v1.1.0/GE007_Outpost.usx",
         "Destination": "Packages/StaticMeshes/GE007_Outpost.usx",
         "Hash": "5e76c2058da2c49fb9c6db8fb874a82b5664d331",
         "Size": 147242492
+      },
+      {
+        "Source": "releases/download/ge007-outpost-v1.1.0/GE007_Outpost_TXT.utx",
+        "Destination": "Packages/Textures/GE007_Outpost_TXT.utx",
+        "Hash": "615d7806b6a3b792f06d62be05b7226045d953a9",
+        "Size": 17584428
       }
     ]
   },
@@ -694,16 +993,22 @@
     "Id": "assets/ge007-archives",
     "Name": "GoldenEye 007: Reloaded — Archives",
     "Category": "Editor assets",
-    "Version": "v1.0.0",
+    "Version": "v1.1.0",
     "Game": "GoldenEye 007: Reloaded",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "assets/ge007-archives/v1.0.0/README.md",
+    "NotesPath": "assets/ge007-archives/v1.1.0/README.md",
     "Files": [
       {
-        "Source": "releases/download/ge007-archives-v1.0.0/GE007_Archives.usx",
+        "Source": "releases/download/ge007-archives-v1.1.0/GE007_Archives.usx",
         "Destination": "Packages/StaticMeshes/GE007_Archives.usx",
         "Hash": "2d1063e1f01f579e9013ded8ddc18d7cbadd13c6",
         "Size": 92634779
+      },
+      {
+        "Source": "releases/download/ge007-archives-v1.1.0/GE007_Archives_TXT.utx",
+        "Destination": "Packages/Textures/GE007_Archives_TXT.utx",
+        "Hash": "13df4138c2c67b5cc8a21e35d8152f0ff4315884",
+        "Size": 16747459
       }
     ]
   },
@@ -734,16 +1039,988 @@
     "Id": "assets/ge007-memorial",
     "Name": "GoldenEye 007: Reloaded — Memorial",
     "Category": "Editor assets",
-    "Version": "v1.0.0",
+    "Version": "v1.1.0",
     "Game": "GoldenEye 007: Reloaded",
     "Commit": "0000000000000000000000000000000000000000",
-    "NotesPath": "assets/ge007-memorial/v1.0.0/README.md",
+    "NotesPath": "assets/ge007-memorial/v1.1.0/README.md",
     "Files": [
       {
-        "Source": "releases/download/ge007-memorial-v1.0.0/GE007_Memorial.usx",
+        "Source": "releases/download/ge007-memorial-v1.1.0/GE007_Memorial.usx",
         "Destination": "Packages/StaticMeshes/GE007_Memorial.usx",
         "Hash": "aa63630fb591045327804b7946645b0a3d0489fa",
         "Size": 111754949
+      },
+      {
+        "Source": "releases/download/ge007-memorial-v1.1.0/GE007_Memorial_TXT.utx",
+        "Destination": "Packages/Textures/GE007_Memorial_TXT.utx",
+        "Hash": "56215960e9dd222c557dfbae8bd0a0971c525f4b",
+        "Size": 28769663
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/backlot",
+    "Name": "Backlot (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/backlot/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-backlot-v1.0.0/COD4_backlot.usx",
+        "Destination": "Packages/StaticMeshes/COD4_backlot.usx",
+        "Hash": "1d5674606c2fe1c82e79bd0d84ba5b492e093e5a",
+        "Size": 104772023
+      },
+      {
+        "Source": "releases/download/cod4-backlot-v1.0.0/COD4_backlot_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_backlot_BSP.sdc",
+        "Hash": "9b5d2ad412c744dd89f16baedc7c9aba5edee7dd",
+        "Size": 2210397
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-backlot",
+    "Name": "Call of Duty 4 - Backlot",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-backlot/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-backlot-v1.0.0/COD4_backlot.usx",
+        "Destination": "Packages/StaticMeshes/COD4_backlot.usx",
+        "Hash": "1d5674606c2fe1c82e79bd0d84ba5b492e093e5a",
+        "Size": 104772023
+      },
+      {
+        "Source": "releases/download/cod4-backlot-v1.0.0/COD4_backlot_TXT.utx",
+        "Destination": "Packages/Textures/COD4_backlot_TXT.utx",
+        "Hash": "620f3f3fab972097f4ecf6f92980ec6c4a8c03b8",
+        "Size": 45117228
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/bloc",
+    "Name": "Bloc (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/bloc/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-bloc-v1.0.0/COD4_bloc.usx",
+        "Destination": "Packages/StaticMeshes/COD4_bloc.usx",
+        "Hash": "c8520f6b57c9815c86e30cb32b56a8320655dd6d",
+        "Size": 91126295
+      },
+      {
+        "Source": "releases/download/cod4-bloc-v1.0.0/COD4_bloc_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_bloc_BSP.sdc",
+        "Hash": "6e9b0b9937607742ab919cd1ddc95e70070b525a",
+        "Size": 2442982
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-bloc",
+    "Name": "Call of Duty 4 - Bloc",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-bloc/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-bloc-v1.0.0/COD4_bloc.usx",
+        "Destination": "Packages/StaticMeshes/COD4_bloc.usx",
+        "Hash": "c8520f6b57c9815c86e30cb32b56a8320655dd6d",
+        "Size": 91126295
+      },
+      {
+        "Source": "releases/download/cod4-bloc-v1.0.0/COD4_bloc_TXT.utx",
+        "Destination": "Packages/Textures/COD4_bloc_TXT.utx",
+        "Hash": "13ce2eae534719af02d2d51647fd15fed0c4f8b1",
+        "Size": 41930678
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/bog",
+    "Name": "Bog (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/bog/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-bog-v1.0.0/COD4_bog.usx",
+        "Destination": "Packages/StaticMeshes/COD4_bog.usx",
+        "Hash": "f86646ad4d7839f334c76b69164024c144584124",
+        "Size": 86668557
+      },
+      {
+        "Source": "releases/download/cod4-bog-v1.0.0/COD4_bog_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_bog_BSP.sdc",
+        "Hash": "3fb6056f537673eb972ae3f4495a3f5469ff2a7b",
+        "Size": 1378238
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-bog",
+    "Name": "Call of Duty 4 - Bog",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-bog/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-bog-v1.0.0/COD4_bog.usx",
+        "Destination": "Packages/StaticMeshes/COD4_bog.usx",
+        "Hash": "f86646ad4d7839f334c76b69164024c144584124",
+        "Size": 86668557
+      },
+      {
+        "Source": "releases/download/cod4-bog-v1.0.0/COD4_bog_TXT.utx",
+        "Destination": "Packages/Textures/COD4_bog_TXT.utx",
+        "Hash": "a7475ddaa2183043171901a35bb81e6f895be826",
+        "Size": 50973665
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/broadcast",
+    "Name": "Broadcast (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/broadcast/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-broadcast-v1.0.0/COD4_broadcast.usx",
+        "Destination": "Packages/StaticMeshes/COD4_broadcast.usx",
+        "Hash": "65c45fe242a98cdc41820304b91625b600e6e1d7",
+        "Size": 96382145
+      },
+      {
+        "Source": "releases/download/cod4-broadcast-v1.0.0/COD4_broadcast_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_broadcast_BSP.sdc",
+        "Hash": "b41ca45de8fe0268976e810aab059a2a91e6d033",
+        "Size": 1622779
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-broadcast",
+    "Name": "Call of Duty 4 - Broadcast",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-broadcast/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-broadcast-v1.0.0/COD4_broadcast.usx",
+        "Destination": "Packages/StaticMeshes/COD4_broadcast.usx",
+        "Hash": "65c45fe242a98cdc41820304b91625b600e6e1d7",
+        "Size": 96382145
+      },
+      {
+        "Source": "releases/download/cod4-broadcast-v1.0.0/COD4_broadcast_TXT.utx",
+        "Destination": "Packages/Textures/COD4_broadcast_TXT.utx",
+        "Hash": "56a00a889e29e3ee3db7a3a62789bee64b43f013",
+        "Size": 49550719
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/chinatown",
+    "Name": "Chinatown (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/chinatown/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-chinatown-v1.0.0/COD4_carentan.usx",
+        "Destination": "Packages/StaticMeshes/COD4_carentan.usx",
+        "Hash": "74e4c92d6d0b3533f01e1d349a7052c4e09e760e",
+        "Size": 112298537
+      },
+      {
+        "Source": "releases/download/cod4-chinatown-v1.0.0/COD4_carentan_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_carentan_BSP.sdc",
+        "Hash": "53e663da4602788735e774c0ad024c0ad9bf2e81",
+        "Size": 1818471
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-chinatown",
+    "Name": "Call of Duty 4 - Chinatown",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-chinatown/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-chinatown-v1.0.0/COD4_carentan.usx",
+        "Destination": "Packages/StaticMeshes/COD4_carentan.usx",
+        "Hash": "74e4c92d6d0b3533f01e1d349a7052c4e09e760e",
+        "Size": 112298537
+      },
+      {
+        "Source": "releases/download/cod4-chinatown-v1.0.0/COD4_carentan_TXT.utx",
+        "Destination": "Packages/Textures/COD4_carentan_TXT.utx",
+        "Hash": "32cace8fa0e47e2462af6d0ab6a3c09401f7e7bd",
+        "Size": 35203916
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/wet-work",
+    "Name": "Wet Work (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/wet-work/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-wet-work-v1.0.0/COD4_cargoship.usx",
+        "Destination": "Packages/StaticMeshes/COD4_cargoship.usx",
+        "Hash": "753d89fca9c13a9daa18dbd4cdb3eccaa3abad00",
+        "Size": 53195525
+      },
+      {
+        "Source": "releases/download/cod4-wet-work-v1.0.0/COD4_cargoship_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_cargoship_BSP.sdc",
+        "Hash": "7c146a69e6cb5a410fd96d5edaa12bd1282f156d",
+        "Size": 1379828
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-wet-work",
+    "Name": "Call of Duty 4 - Wet Work",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-wet-work/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-wet-work-v1.0.0/COD4_cargoship.usx",
+        "Destination": "Packages/StaticMeshes/COD4_cargoship.usx",
+        "Hash": "753d89fca9c13a9daa18dbd4cdb3eccaa3abad00",
+        "Size": 53195525
+      },
+      {
+        "Source": "releases/download/cod4-wet-work-v1.0.0/COD4_cargoship_TXT.utx",
+        "Destination": "Packages/Textures/COD4_cargoship_TXT.utx",
+        "Hash": "825327d72b8e793cb61536b9a8491ebedeaa641b",
+        "Size": 18339590
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/district",
+    "Name": "District (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/district/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-district-v1.0.0/COD4_citystreets.usx",
+        "Destination": "Packages/StaticMeshes/COD4_citystreets.usx",
+        "Hash": "3d6442a0d9255cf1ac9725c182c380e3d746fc55",
+        "Size": 103872806
+      },
+      {
+        "Source": "releases/download/cod4-district-v1.0.0/COD4_citystreets_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_citystreets_BSP.sdc",
+        "Hash": "5d41372ff4a424a035897ea5d2566663b872aa6e",
+        "Size": 1851527
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-district",
+    "Name": "Call of Duty 4 - District",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-district/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-district-v1.0.0/COD4_citystreets.usx",
+        "Destination": "Packages/StaticMeshes/COD4_citystreets.usx",
+        "Hash": "3d6442a0d9255cf1ac9725c182c380e3d746fc55",
+        "Size": 103872806
+      },
+      {
+        "Source": "releases/download/cod4-district-v1.0.0/COD4_citystreets_TXT.utx",
+        "Destination": "Packages/Textures/COD4_citystreets_TXT.utx",
+        "Hash": "9396f51e00f91b6a6993d49d333aa16a6a92a777",
+        "Size": 43053141
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/ambush",
+    "Name": "Ambush (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/ambush/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-ambush-v1.0.0/COD4_convoy.usx",
+        "Destination": "Packages/StaticMeshes/COD4_convoy.usx",
+        "Hash": "27a2fb57786367e3eb17b94259d65a070323d3d1",
+        "Size": 120573165
+      },
+      {
+        "Source": "releases/download/cod4-ambush-v1.0.0/COD4_convoy_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_convoy_BSP.sdc",
+        "Hash": "4e276ae549f583b16050321fb4e0426624ee2e19",
+        "Size": 1894954
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-ambush",
+    "Name": "Call of Duty 4 - Ambush",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-ambush/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-ambush-v1.0.0/COD4_convoy.usx",
+        "Destination": "Packages/StaticMeshes/COD4_convoy.usx",
+        "Hash": "27a2fb57786367e3eb17b94259d65a070323d3d1",
+        "Size": 120573165
+      },
+      {
+        "Source": "releases/download/cod4-ambush-v1.0.0/COD4_convoy_TXT.utx",
+        "Destination": "Packages/Textures/COD4_convoy_TXT.utx",
+        "Hash": "4dce134d3b3de5c1ffce02963d5ddb45187e9e66",
+        "Size": 48054370
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/countdown",
+    "Name": "Countdown (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/countdown/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-countdown-v1.0.0/COD4_countdown.usx",
+        "Destination": "Packages/StaticMeshes/COD4_countdown.usx",
+        "Hash": "5abe768ddef30a8b73f87c286a59616991c9fa12",
+        "Size": 104249081
+      },
+      {
+        "Source": "releases/download/cod4-countdown-v1.0.0/COD4_countdown_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_countdown_BSP.sdc",
+        "Hash": "94c1be386aa85ea455c0c28befd56cd5057e7547",
+        "Size": 1767921
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-countdown",
+    "Name": "Call of Duty 4 - Countdown",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-countdown/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-countdown-v1.0.0/COD4_countdown.usx",
+        "Destination": "Packages/StaticMeshes/COD4_countdown.usx",
+        "Hash": "5abe768ddef30a8b73f87c286a59616991c9fa12",
+        "Size": 104249081
+      },
+      {
+        "Source": "releases/download/cod4-countdown-v1.0.0/COD4_countdown_TXT.utx",
+        "Destination": "Packages/Textures/COD4_countdown_TXT.utx",
+        "Hash": "211fd80d865935b87db967914e489852fca22166",
+        "Size": 44956153
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/crash",
+    "Name": "Crash (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/crash/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-crash-v1.0.0/COD4_crash.usx",
+        "Destination": "Packages/StaticMeshes/COD4_crash.usx",
+        "Hash": "47e2e93b7571dd3497db4d000ae0377951b62c76",
+        "Size": 93019778
+      },
+      {
+        "Source": "releases/download/cod4-crash-v1.0.0/COD4_crash_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_crash_BSP.sdc",
+        "Hash": "bd6848ae7c87756ec0e7eead5e7641ff04f9aadb",
+        "Size": 2224433
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-crash",
+    "Name": "Call of Duty 4 - Crash",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-crash/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-crash-v1.0.0/COD4_crash.usx",
+        "Destination": "Packages/StaticMeshes/COD4_crash.usx",
+        "Hash": "47e2e93b7571dd3497db4d000ae0377951b62c76",
+        "Size": 93019778
+      },
+      {
+        "Source": "releases/download/cod4-crash-v1.0.0/COD4_crash_TXT.utx",
+        "Destination": "Packages/Textures/COD4_crash_TXT.utx",
+        "Hash": "dc693ffb624c8f7b3241c1d5c4c352c4926d6ab2",
+        "Size": 48499730
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/winter-crash",
+    "Name": "Winter Crash (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/winter-crash/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-winter-crash-v1.0.0/COD4_crash_snow.usx",
+        "Destination": "Packages/StaticMeshes/COD4_crash_snow.usx",
+        "Hash": "d31dcd3b66cec18db4cc590797c034124bb6ff9f",
+        "Size": 98839816
+      },
+      {
+        "Source": "releases/download/cod4-winter-crash-v1.0.0/COD4_crash_snow_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_crash_snow_BSP.sdc",
+        "Hash": "05db29187967dabd57aa351c148b3ee062b7e762",
+        "Size": 2183513
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-winter-crash",
+    "Name": "Call of Duty 4 - Winter Crash",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-winter-crash/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-winter-crash-v1.0.0/COD4_crash_snow.usx",
+        "Destination": "Packages/StaticMeshes/COD4_crash_snow.usx",
+        "Hash": "d31dcd3b66cec18db4cc590797c034124bb6ff9f",
+        "Size": 98839816
+      },
+      {
+        "Source": "releases/download/cod4-winter-crash-v1.0.0/COD4_crash_snow_TXT.utx",
+        "Destination": "Packages/Textures/COD4_crash_snow_TXT.utx",
+        "Hash": "8041c97b97e2df59ba96ad675c2a97e344d1b309",
+        "Size": 51709905
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/creek",
+    "Name": "Creek (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/creek/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-creek-v1.0.0/COD4_creek.usx",
+        "Destination": "Packages/StaticMeshes/COD4_creek.usx",
+        "Hash": "0c4e2495733c93f0ba622aeab72c88c5041fb259",
+        "Size": 106883391
+      },
+      {
+        "Source": "releases/download/cod4-creek-v1.0.0/COD4_creek_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_creek_BSP.sdc",
+        "Hash": "1631a8176a19bd36d6364c93a5e1a504f417298f",
+        "Size": 2695006
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-creek",
+    "Name": "Call of Duty 4 - Creek",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-creek/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-creek-v1.0.0/COD4_creek.usx",
+        "Destination": "Packages/StaticMeshes/COD4_creek.usx",
+        "Hash": "0c4e2495733c93f0ba622aeab72c88c5041fb259",
+        "Size": 106883391
+      },
+      {
+        "Source": "releases/download/cod4-creek-v1.0.0/COD4_creek_TXT.utx",
+        "Destination": "Packages/Textures/COD4_creek_TXT.utx",
+        "Hash": "0d46dad39acb4aff8e26ba9988b9ef1349a4f14d",
+        "Size": 48310385
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/crossfire",
+    "Name": "Crossfire (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/crossfire/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-crossfire-v1.0.0/COD4_crossfire.usx",
+        "Destination": "Packages/StaticMeshes/COD4_crossfire.usx",
+        "Hash": "60da54ed997cb2926291c334ce7cba263dd6aaf2",
+        "Size": 89822266
+      },
+      {
+        "Source": "releases/download/cod4-crossfire-v1.0.0/COD4_crossfire_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_crossfire_BSP.sdc",
+        "Hash": "da620caa1dc1d8d0f43e9bcd7a0a1c6c0107bc0a",
+        "Size": 1469019
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-crossfire",
+    "Name": "Call of Duty 4 - Crossfire",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-crossfire/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-crossfire-v1.0.0/COD4_crossfire.usx",
+        "Destination": "Packages/StaticMeshes/COD4_crossfire.usx",
+        "Hash": "60da54ed997cb2926291c334ce7cba263dd6aaf2",
+        "Size": 89822266
+      },
+      {
+        "Source": "releases/download/cod4-crossfire-v1.0.0/COD4_crossfire_TXT.utx",
+        "Destination": "Packages/Textures/COD4_crossfire_TXT.utx",
+        "Hash": "604f06f135c1606246dc6ee4cb92f7ef4c9a0990",
+        "Size": 39070480
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/downpour",
+    "Name": "Downpour (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/downpour/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-downpour-v1.0.0/COD4_farm.usx",
+        "Destination": "Packages/StaticMeshes/COD4_farm.usx",
+        "Hash": "69e08cf9d9c222d13f73d17c4224f845a25340c6",
+        "Size": 104996987
+      },
+      {
+        "Source": "releases/download/cod4-downpour-v1.0.0/COD4_farm_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_farm_BSP.sdc",
+        "Hash": "f50db52745026ad1fc2dae282da61dc8529366d8",
+        "Size": 2344256
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-downpour",
+    "Name": "Call of Duty 4 - Downpour",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-downpour/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-downpour-v1.0.0/COD4_farm.usx",
+        "Destination": "Packages/StaticMeshes/COD4_farm.usx",
+        "Hash": "69e08cf9d9c222d13f73d17c4224f845a25340c6",
+        "Size": 104996987
+      },
+      {
+        "Source": "releases/download/cod4-downpour-v1.0.0/COD4_farm_TXT.utx",
+        "Destination": "Packages/Textures/COD4_farm_TXT.utx",
+        "Hash": "70d5164e90bc277cdb9c1b06b18786ace2b6ee81",
+        "Size": 48645562
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/killhouse",
+    "Name": "Killhouse (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/killhouse/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-killhouse-v1.0.0/COD4_killhouse.usx",
+        "Destination": "Packages/StaticMeshes/COD4_killhouse.usx",
+        "Hash": "e6ad5ffb3fe1dcf63644d6b9fb62a828d622d9ba",
+        "Size": 90229176
+      },
+      {
+        "Source": "releases/download/cod4-killhouse-v1.0.0/COD4_killhouse_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_killhouse_BSP.sdc",
+        "Hash": "be18d282a0c996e32ff339873ac49e17c6b1e9e0",
+        "Size": 1229364
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-killhouse",
+    "Name": "Call of Duty 4 - Killhouse",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-killhouse/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-killhouse-v1.0.0/COD4_killhouse.usx",
+        "Destination": "Packages/StaticMeshes/COD4_killhouse.usx",
+        "Hash": "e6ad5ffb3fe1dcf63644d6b9fb62a828d622d9ba",
+        "Size": 90229176
+      },
+      {
+        "Source": "releases/download/cod4-killhouse-v1.0.0/COD4_killhouse_TXT.utx",
+        "Destination": "Packages/Textures/COD4_killhouse_TXT.utx",
+        "Hash": "cc134ced7a990bc95271fbcbfbf491c90cfb606f",
+        "Size": 31802129
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/overgrown",
+    "Name": "Overgrown (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/overgrown/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-overgrown-v1.0.0/COD4_overgrown.usx",
+        "Destination": "Packages/StaticMeshes/COD4_overgrown.usx",
+        "Hash": "d005d273747881c37bd365ba9e7edbc5dd6fa7b1",
+        "Size": 102100907
+      },
+      {
+        "Source": "releases/download/cod4-overgrown-v1.0.0/COD4_overgrown_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_overgrown_BSP.sdc",
+        "Hash": "5f57aa3eaf4f47fcaf56072a7526ef4b414c6655",
+        "Size": 2565279
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-overgrown",
+    "Name": "Call of Duty 4 - Overgrown",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-overgrown/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-overgrown-v1.0.0/COD4_overgrown.usx",
+        "Destination": "Packages/StaticMeshes/COD4_overgrown.usx",
+        "Hash": "d005d273747881c37bd365ba9e7edbc5dd6fa7b1",
+        "Size": 102100907
+      },
+      {
+        "Source": "releases/download/cod4-overgrown-v1.0.0/COD4_overgrown_TXT.utx",
+        "Destination": "Packages/Textures/COD4_overgrown_TXT.utx",
+        "Hash": "e482fdfa2bc905991df6abdf64efe8d56796afc1",
+        "Size": 46195398
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/pipeline",
+    "Name": "Pipeline (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/pipeline/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-pipeline-v1.0.0/COD4_pipeline.usx",
+        "Destination": "Packages/StaticMeshes/COD4_pipeline.usx",
+        "Hash": "110621cd173fc1682c53b80f176b00807f73bc73",
+        "Size": 114962483
+      },
+      {
+        "Source": "releases/download/cod4-pipeline-v1.0.0/COD4_pipeline_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_pipeline_BSP.sdc",
+        "Hash": "841540489d6bbf17863be0a53c75891f012a4a80",
+        "Size": 2337134
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-pipeline",
+    "Name": "Call of Duty 4 - Pipeline",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-pipeline/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-pipeline-v1.0.0/COD4_pipeline.usx",
+        "Destination": "Packages/StaticMeshes/COD4_pipeline.usx",
+        "Hash": "110621cd173fc1682c53b80f176b00807f73bc73",
+        "Size": 114962483
+      },
+      {
+        "Source": "releases/download/cod4-pipeline-v1.0.0/COD4_pipeline_TXT.utx",
+        "Destination": "Packages/Textures/COD4_pipeline_TXT.utx",
+        "Hash": "d8c635d7e8a5c6fa76656eee37057ac458e298e2",
+        "Size": 55735563
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/shipment",
+    "Name": "Shipment (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/shipment/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-shipment-v1.0.0/COD4_shipment.usx",
+        "Destination": "Packages/StaticMeshes/COD4_shipment.usx",
+        "Hash": "63d8e5e79a832538d133039f1990ab2b9c610165",
+        "Size": 64692257
+      },
+      {
+        "Source": "releases/download/cod4-shipment-v1.0.0/COD4_shipment_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_shipment_BSP.sdc",
+        "Hash": "21f4ed35901479a767ac20a8062a5b458fde682f",
+        "Size": 458899
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-shipment",
+    "Name": "Call of Duty 4 - Shipment",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-shipment/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-shipment-v1.0.0/COD4_shipment.usx",
+        "Destination": "Packages/StaticMeshes/COD4_shipment.usx",
+        "Hash": "63d8e5e79a832538d133039f1990ab2b9c610165",
+        "Size": 64692257
+      },
+      {
+        "Source": "releases/download/cod4-shipment-v1.0.0/COD4_shipment_TXT.utx",
+        "Destination": "Packages/Textures/COD4_shipment_TXT.utx",
+        "Hash": "ffd561d9821732e15337ac1b551b573efa42fe31",
+        "Size": 33225061
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/showdown",
+    "Name": "Showdown (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/showdown/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-showdown-v1.0.0/COD4_showdown.usx",
+        "Destination": "Packages/StaticMeshes/COD4_showdown.usx",
+        "Hash": "157b7323365e86bc35223792530879db104873ec",
+        "Size": 79113311
+      },
+      {
+        "Source": "releases/download/cod4-showdown-v1.0.0/COD4_showdown_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_showdown_BSP.sdc",
+        "Hash": "058bba691fe75fe234b39e857219d99614752409",
+        "Size": 1801307
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-showdown",
+    "Name": "Call of Duty 4 - Showdown",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-showdown/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-showdown-v1.0.0/COD4_showdown.usx",
+        "Destination": "Packages/StaticMeshes/COD4_showdown.usx",
+        "Hash": "157b7323365e86bc35223792530879db104873ec",
+        "Size": 79113311
+      },
+      {
+        "Source": "releases/download/cod4-showdown-v1.0.0/COD4_showdown_TXT.utx",
+        "Destination": "Packages/Textures/COD4_showdown_TXT.utx",
+        "Hash": "368fe57c01e9cf1ddb51182da5afd3908047f80e",
+        "Size": 36220965
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/strike",
+    "Name": "Strike (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/strike/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-strike-v1.0.0/COD4_strike.usx",
+        "Destination": "Packages/StaticMeshes/COD4_strike.usx",
+        "Hash": "20a3de384cab02d0f8b21016c9aeb70f36efe76a",
+        "Size": 94510503
+      },
+      {
+        "Source": "releases/download/cod4-strike-v1.0.0/COD4_strike_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_strike_BSP.sdc",
+        "Hash": "d9f2c35d0877b4c77da2fd2d254b11ac75f2015e",
+        "Size": 1913201
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-strike",
+    "Name": "Call of Duty 4 - Strike",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-strike/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-strike-v1.0.0/COD4_strike.usx",
+        "Destination": "Packages/StaticMeshes/COD4_strike.usx",
+        "Hash": "20a3de384cab02d0f8b21016c9aeb70f36efe76a",
+        "Size": 94510503
+      },
+      {
+        "Source": "releases/download/cod4-strike-v1.0.0/COD4_strike_TXT.utx",
+        "Destination": "Packages/Textures/COD4_strike_TXT.utx",
+        "Hash": "ad92efba2ff09a4ce917a44d0b5130ce28a417b3",
+        "Size": 41617961
+      }
+    ]
+  },
+  {
+    "Id": "ports/call-of-duty-4/vacant",
+    "Name": "Vacant (editable BSP)",
+    "Category": "Ports",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "ports/call-of-duty-4/vacant/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-vacant-v1.0.0/COD4_vacant.usx",
+        "Destination": "Packages/StaticMeshes/COD4_vacant.usx",
+        "Hash": "268ae97c643bc83d8221c12a0ea7191ca7177936",
+        "Size": 97589953
+      },
+      {
+        "Source": "releases/download/cod4-vacant-v1.0.0/COD4_vacant_BSP.sdc",
+        "Destination": "Packages/MapsEd/COD4_vacant_BSP.sdc",
+        "Hash": "0aaf7917226acb14eccc4f832a165352b1802a65",
+        "Size": 1300697
+      }
+    ]
+  },
+  {
+    "Id": "assets/cod4-vacant",
+    "Name": "Call of Duty 4 - Vacant",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "Call of Duty 4: Modern Warfare",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/cod4-vacant/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/cod4-vacant-v1.0.0/COD4_vacant.usx",
+        "Destination": "Packages/StaticMeshes/COD4_vacant.usx",
+        "Hash": "268ae97c643bc83d8221c12a0ea7191ca7177936",
+        "Size": 97589953
+      },
+      {
+        "Source": "releases/download/cod4-vacant-v1.0.0/COD4_vacant_TXT.utx",
+        "Destination": "Packages/Textures/COD4_vacant_TXT.utx",
+        "Hash": "7ad5d2220a392928558a75e0689ac17123c499f9",
+        "Size": 56862411
       }
     ]
   }
