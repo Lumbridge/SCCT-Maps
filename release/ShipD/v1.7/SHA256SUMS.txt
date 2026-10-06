@@ -1,0 +1,4 @@
+706e0d854b26214cdf75c72a3e23b5ea8964f69bad74f749e0fca5532dd627eb  Packages/Maps/ShipD.sdc
+9115d2ec6fa5cc304375af0459463864b522b23356c4c37259ca07e90dda462b  Packages/MapsEd/ShipD.sdc
+10626c2d4fe16538da0f2f787c21f5f0fc0107da1ddcd4209724aa7dc2c3f119  Packages/StaticMeshes/ShipD_STM.usx
+a9940d954ef7838cc2b212eac650aeabe8b7291194a6f2d1d0f1405e2cef85d5  Packages/Textures/ShipD-i.utc
