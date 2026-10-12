@@ -1,5 +1,5 @@
 Moonlight Park v1.0 - Splinter Cell: Chaos Theory Versus
-Released 12 October 2026
+Updated 12 October 2026
 
 An off-season British seaside amusement park at night. Package name: MoonD.
 
