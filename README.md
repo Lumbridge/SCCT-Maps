@@ -19,7 +19,7 @@ Maps for **Splinter Cell: Chaos Theory Versus**: recovered originals you can edi
 | Map | Package | Version | Files |
 | --- | --- | --- | --- |
 | Shipment | `ShipD` | v1.7 | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/shipd-v1.7/Shipment-v1.7.zip) · [Editor files](release/ShipD/v1.7/Packages/MapsEd) · [Source assets](src/ShipD) |
-| Moonlight Park | `MoonD` | v1 | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/moond-v1/Moonlight-Park-v1.zip) · [Editor files](release/MoonD/v1/Packages/MapsEd) |
+| Moonlight Park | `MoonD` | v1.0 | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/moond-v1.0/Moonlight-Park-v1.0.zip) · [Editor files](release/MoonD/v1.0/Packages/MapsEd) |
 
 ![Shipment map preview](src/ShipD/TGA%20textures/LevelPreview_Menu_256_display_check.png)
 

@@ -1,4 +1,4 @@
-Moonlight Park v1 - Splinter Cell: Chaos Theory Versus
+Moonlight Park v1.0 - Splinter Cell: Chaos Theory Versus
 Released 12 October 2026
 
 An off-season British seaside amusement park at night. Package name: MoonD.
@@ -38,4 +38,4 @@ Packages/Textures/MoonD-i.utc
 Everything else the map uses comes with Enhanced SCCT Versus 4.0.
 
 The matching editor source is available in the repository at
-release/MoonD/v1/Packages/MapsEd/MoonD.sdc, outside this playable ZIP.
+release/MoonD/v1.0/Packages/MapsEd/MoonD.sdc, outside this playable ZIP.
