@@ -1,7 +1,7 @@
 # GoldenEye 007: Reloaded — Sewer assets v1.0.0
 
-Reusable SCCT static meshes with embedded textures and materials from the multiplayer Sewer scenery conversion. Install this entry from the SCCT Map Manager's **Asset Packs** section. It installs `Packages/StaticMeshes/GE007_Sewer.usx` only.
+Static meshes from the Sewer multiplayer scenery, with their textures and materials, for your own SCCT maps. Install from the SCCT Map Manager's **Asset Packs** section. It installs `Packages/StaticMeshes/GE007_Sewer.usx` only.
 
-The same package is included with the [editable Sewer port](../../../ports/goldeneye-007-reloaded/sewer/README.md). Meshes have local, base-centred pivots for placement in new maps. Spatially separated props are individual meshes; overlapping components stay together. Large connected scenery may have multiple `_C` chunks. Review collision and approximated shaders when reusing them. No playable map or multiplayer gameplay is included in this asset pack.
+The [editable Sewer port](../../../ports/goldeneye-007-reloaded/sewer/README.md) uses the same package. Props are separate meshes with base-centred pivots. Large scenery may be split into `_C` chunks. Check collision and the approximated shaders before use. No playable map is included.
 
-[Release and downloads](https://github.com/Lumbridge/SCCT-Maps/releases/tag/ge007-sewer-v1.0.0). Close the editor before installation and preserve locally edited packages.
+[Release and downloads](https://github.com/Lumbridge/SCCT-Maps/releases/tag/ge007-sewer-v1.0.0). Close the editor before installing and keep any packages you have edited.

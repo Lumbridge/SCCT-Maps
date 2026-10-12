@@ -1,6 +1,6 @@
 # Recovered maps (editable)
 
-Existing maps converted back into editable form with the Reloaded Editor. They are not 1:1 with the originals, but they are a solid base for building enhanced versions.
+Existing maps turned back into editable maps. They are not 1:1 with the originals, but they are a good base for enhanced versions.
 
 | Map | Map file | Extra mesh packages |
 | --- | --- | --- |
@@ -10,4 +10,4 @@ Existing maps converted back into editable form with the Reloaded Editor. They a
 | Clarity Soft | `ClarD.sdc` | `ClarD_Recovered_Assets.usx`, `ClarD_Assets.usx` |
 | Heliport 1.1 | `HELI02.sdc` | None |
 
-Use Enhanced SCCT Versus 3.6 and the [Reloaded Editor](https://github.com/Lumbridge/SCCT_Versus_Reloaded_Editor). Copy a map's whole `Packages` folder into `Enhanced SCCT Versus 3.6\Packages`, then open the map from `MapsEd` in the editor. Each map's own notes list what it replaces.
+You need Enhanced SCCT Versus 3.6 and the [Reloaded Editor](https://github.com/Lumbridge/SCCT_Versus_Reloaded_Editor). Copy a map's whole `Packages` folder into `Enhanced SCCT Versus 3.6\Packages`, then open the map from `MapsEd` in the editor. Each map's notes say what it replaces.

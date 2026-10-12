@@ -1,6 +1,6 @@
 # GoldenEye 007: Reloaded multiplayer scenery
 
-Fourteen editable scenery ports, each with a separate release and reusable asset-pack catalog entry. Gameplay and source lighting are not reconstructed.
+Fourteen editable scenery ports. Each has its own release and an asset pack. No gameplay or source lighting.
 
 | Map | Notes | Download |
 | --- | --- | --- |

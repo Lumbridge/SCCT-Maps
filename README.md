@@ -4,9 +4,9 @@ Maps for **Splinter Cell: Chaos Theory Versus**: recovered originals you can edi
 
 ## Installing maps
 
-**Easiest:** use [SCCT Map Manager](https://github.com/Lumbridge/SCCT-Map-Manager). It downloads any map in this collection, installs it, and can disable or update it later.
+Easiest: use [SCCT Map Manager](https://github.com/Lumbridge/SCCT-Map-Manager). It downloads and installs any map here, and can disable or update it later.
 
-**By hand:** download the map's ZIP (or its `Packages` folder from this repository), close the game, back up any files with the same names, and copy `Packages` into your Enhanced SCCT Versus 3.6 installation. Keep every file that comes with the map; other players need the same files to join you.
+By hand: download the map's ZIP (or its `Packages` folder from this repository), close the game, back up files with the same names, and copy `Packages` into your Enhanced SCCT Versus 3.6 installation. Keep every file that comes with the map. Other players need the same files to join you.
 
 | Folder | Contents |
 | --- | --- |
@@ -27,7 +27,7 @@ Maps for **Splinter Cell: Chaos Theory Versus**: recovered originals you can edi
 
 ## Enhanced maps
 
-Edited versions of existing levels, kept separate from the recovered originals.
+Edited versions of existing maps.
 
 | Map | Package | Files |
 | --- | --- | --- |
@@ -35,7 +35,7 @@ Edited versions of existing levels, kept separate from the recovered originals.
 
 ## Recovered maps (editable)
 
-Existing maps converted back into editable form. They replace the installed copies of the same name. Brush history is not preserved, and rebuilding lighting can change their look.
+Existing maps turned back into editable maps. They replace the installed maps of the same name. Brush history is not preserved, and rebuilding lighting can change their look.
 
 | Map | Package | Files |
 | --- | --- | --- |
@@ -59,16 +59,16 @@ Existing maps converted back into editable form. They replace the installed copi
 | Splinter Cell: Double Agent (PC) | Terminus (`SCDA_TERG5`) | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/scda-terg5-v1.0.0/Terminus-SCDA-v1.0.0.zip) · [Release v1.0.0](https://github.com/Lumbridge/SCCT-Maps/releases/tag/scda-terg5-v1.0.0) · [Port notes](ports/splinter-cell-double-agent/terminus/README.md) |
 | Splinter Cell: Double Agent (PC) | USS Wisdom (`SCDA_USSG8`) | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/scda-ussg8-v1.0.0/USS-Wisdom-SCDA-v1.0.0.zip) · [Release v1.0.0](https://github.com/Lumbridge/SCCT-Maps/releases/tag/scda-ussg8-v1.0.0) · [Port notes](ports/splinter-cell-double-agent/uss-wisdom/README.md) |
 
-The eight Double Agent maps share [one set of collection notes](ports/splinter-cell-double-agent/README.md), which covers what they have in common. Each has its own v1.0.0 release and installs from the Map Manager.
+The eight Double Agent maps share [one set of collection notes](ports/splinter-cell-double-agent/README.md). Each has its own v1.0.0 release and installs from the Map Manager.
 
-[GoldenEye 007: Reloaded multiplayer scenery](ports/goldeneye-007-reloaded/README.md) includes all 14 multiplayer layouts as editable SCCT scenery. Each map has its own release, a Ports entry, and a separate reusable asset pack in the Map Manager. Gameplay and source lighting are not reconstructed.
+[GoldenEye 007: Reloaded multiplayer scenery](ports/goldeneye-007-reloaded/README.md): all 14 multiplayer maps as editable SCCT scenery. Each has its own release, a Ports entry and an asset pack in the Map Manager. No gameplay or source lighting.
 
 ## Community map pack
 
-[All 56 community maps](community/README.md), each with its assets, install notes and checksums. These are the original compiled maps, not editable versions.
+[All 56 community maps](community/README.md), each with its assets, install notes and checksums. These are the original compiled maps, not editable.
 
 ## For map makers
 
-[Rainbow Six Vegas: Calypso Casino v1.0.0](assets/r6v-calypso-casino/v1.0.0/README.md) is a pack of converted meshes and textures for use in your own maps: [download it](https://github.com/Lumbridge/SCCT-Maps/releases/download/r6v-calypso-casino-v1.0.0/Calypso-Casino-Editor-Assets-v1.0.0.zip) or install it from **Tools → Textures & static meshes** in the Map Manager. Publishing details for the manager's catalogue are in the [Map Manager docs](https://github.com/Lumbridge/SCCT-Map-Manager/blob/main/docs/publishing.md).
+[Rainbow Six Vegas: Calypso Casino v1.0.0](assets/r6v-calypso-casino/v1.0.0/README.md) is a pack of meshes and textures for your own maps: [download it](https://github.com/Lumbridge/SCCT-Maps/releases/download/r6v-calypso-casino-v1.0.0/Calypso-Casino-Editor-Assets-v1.0.0.zip) or install it from **Tools → Textures & static meshes** in the Map Manager. How to publish to the manager's catalogue is in the [Map Manager docs](https://github.com/Lumbridge/SCCT-Map-Manager/blob/main/docs/publishing.md).
 
-The fourteen GoldenEye packages are also available separately from **Asset Packs**; each includes its map's converted meshes, materials and textures.
+The fourteen GoldenEye packages are also in **Asset Packs**. Each has its map's meshes, materials and textures.

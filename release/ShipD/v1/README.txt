@@ -2,14 +2,11 @@ Shipment v1 - Splinter Cell: Chaos Theory Versus
 Updated 11 September 2026
 
 INSTALL
-Close the game and extract this ZIP. Copy the enclosed Packages folder into
-your Versus installation directory, merging its folders. For standalone
-Enhanced SCCT Versus, use the directory containing Packages and System.
-Start Versus and select Shipment.
-
-Back up older ShipD files before replacing them. Keep the filenames and
-subfolders intact. All players should use the same map version and packages.
-This replaces the earlier v1 download; install the refreshed ZIP on every client.
+Close the game, extract the ZIP and copy its Packages folder into your
+Versus installation (the folder that contains Packages and System),
+merging folders. Start Versus and select Shipment.
+Back up older ShipD files first. All players need the same version.
+This replaces the earlier v1 download. Install it on every client.
 
 Included files:
 Packages/Maps/ShipD.sdc
@@ -17,6 +14,5 @@ Packages/StaticMeshes/ShipD_STM.usx
 Packages/Textures/ShipD_TXT.utx
 Packages/Textures/ShipD-i.utc
 
-This refresh includes the latest saved playable map and menu settings.
-The custom mesh and texture packages are unchanged from the previous download.
-The matching editor source is available in the repository, outside this playable ZIP.
+The mesh and texture packages are unchanged from the previous download.
+The editor source is in the repository, not in this ZIP.

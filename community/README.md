@@ -1,14 +1,14 @@
 # Community map pack
 
-All 56 maps from the community map pack, one folder per map with the files it needs and a SHA-256 manifest. These are the original compiled maps; there are no editable (`MapsEd`) versions here. See the [recovered maps](../recovered) for those.
+All 56 maps from the community map pack, one folder per map with the files it needs and a SHA-256 manifest. These are the original compiled maps, not editable (`MapsEd`) versions. For those, see the [recovered maps](../recovered).
 
 ## Install
 
 1. Close the game and back up any files with the same names.
 2. Copy the map's `Packages` folder (and `System`, where present) into your game installation, merging folders.
-3. Copy [`_shared/Packages`](_shared) too: loose supporting files that could not be tied to one map.
+3. Copy [`_shared/Packages`](_shared) too. These are loose files that could not be tied to one map.
 
-Each map's notes list the game packages it expects to find installed. Dependencies were checked file by file against an Enhanced SCCT Versus 3.6 installation, not by playing every map.
+Each map's notes list the game packages it needs. These were checked against an Enhanced SCCT Versus 3.6 installation, not by playing every map.
 
 Original author readmes are kept where they were found. The pack's stray `.tmp` backups and a contest entry form were left out. [Original map list](mapList.txt)
 
@@ -71,6 +71,6 @@ Original author readmes are kept where they were found. The pack's stray `.tmp` 
 | Warehouse (SMBP) | `WAREXT` | [Map and assets](Warehouse%20%28SMBP%29/Packages) &middot; [Notes](Warehouse%20%28SMBP%29/README.md) |
 | Zioplex | `ZCT03` | [Map and assets](Zioplex/Packages) &middot; [Notes](Zioplex/README.md) |
 
-## Original pack inconsistency
+## Known issue
 
-The source pack contains different `SKY08-i.utc` files in `Packages/StaticMeshes` and `Packages/Textures`. Both are preserved in their original locations in UMP Vertigo Plaza; runtime package selection has not been tested.
+The pack has two different `SKY08-i.utc` files, one in `Packages/StaticMeshes` and one in `Packages/Textures`. Both are kept where they were in UMP Vertigo Plaza. Which one the game loads has not been tested.

@@ -1,6 +1,6 @@
 # Enhanced maps
 
-Edited versions of existing SCCT Versus levels, kept separately from the recovered originals.
+Edited versions of existing SCCT Versus maps, kept apart from the recovered originals.
 
 | Map | Package | Files |
 | --- | --- | --- |

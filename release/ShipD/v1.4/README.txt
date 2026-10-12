@@ -8,13 +8,10 @@ CHANGES
 - Fixed the wetroom door getting stuck open.
 
 INSTALL
-Close the game and extract this ZIP. Copy the enclosed Packages folder into
-your Versus installation directory, merging its folders. For standalone
-Enhanced SCCT Versus, use the directory containing Packages and System.
-Start Versus and select Shipment.
-
-Back up older ShipD files before replacing them. Keep the filenames and
-subfolders intact. All players should use the same map version and packages.
+Close the game, extract the ZIP and copy its Packages folder into your
+Versus installation (the folder that contains Packages and System),
+merging folders. Start Versus and select Shipment.
+Back up older ShipD files first. All players need the same version.
 
 Included playable files:
 Packages/Maps/ShipD.sdc
@@ -22,5 +19,5 @@ Packages/StaticMeshes/ShipD_STM.usx
 Packages/Textures/ShipD_TXT.utx
 Packages/Textures/ShipD-i.utc
 
-The matching editor source is available in the repository at
-release/ShipD/v1.4/Packages/MapsEd/ShipD.sdc, outside this playable ZIP.
+Editor source (in the repository, not in this ZIP):
+release/ShipD/v1.4/Packages/MapsEd/ShipD.sdc

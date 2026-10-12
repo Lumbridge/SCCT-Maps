@@ -1,6 +1,6 @@
 # Splinter Cell: Double Agent ports
 
-The eight versus maps from Splinter Cell: Double Agent (PC), converted for Enhanced SCCT Versus 3.6. Each one is self-contained: a playable map, an editable map for the [Reloaded Editor](https://github.com/Lumbridge/SCCT_Versus_Reloaded_Editor), a map-settings file, and one converted package holding that map's meshes and materials.
+The eight versus maps from Splinter Cell: Double Agent (PC), ported to Enhanced SCCT Versus 3.6. Each map is four files: a playable map, an editable map for the [Reloaded Editor](https://github.com/Lumbridge/SCCT_Versus_Reloaded_Editor), a map-settings file and one package with that map's meshes and materials.
 
 | Map | Package | Source map | Meshes | Files |
 | --- | --- | --- | --- | --- |
@@ -15,20 +15,18 @@ The eight versus maps from Splinter Cell: Double Agent (PC), converted for Enhan
 
 ## Install
 
-Close the game and the editor, back up any files with the same names, then copy each map's four files to the paths listed in its notes. The maps are independent of each other, so install only the ones you want. Nothing here replaces an existing Chaos Theory map. Keep every file a map comes with; other players need the same ones to join you.
+Close the game and the editor, back up files with the same names, then copy each map's four files to the paths in its notes. Install only the maps you want. They do not depend on each other and do not replace any Chaos Theory map. Other players need the same files to join you.
 
 ## Map names
 
-The display names above are the ones Double Agent itself uses. Each source map ships a description package (`PKG_BLKG1_Desc.mcd` and the rest) naming a menu string, and those strings resolve in the game's English menu text: `BLKG1` is Blackwing, `MOTG4` is Motorway 90, and so on. The `SCDA_` prefix on the package names keeps them clear of the Chaos Theory map codes.
+The names are the ones Double Agent uses in its English menu: `BLKG1` is Blackwing, `MOTG4` is Motorway 90, and so on. The `SCDA_` prefix keeps the package names clear of the Chaos Theory map codes.
 
-## What to expect
+## Known issues
 
-These are converted assets with SCCT-compatible materials, not a finished conversion. Review collision, materials, lighting and gameplay before building on them. They have not been playtested in game.
+- Converted assets, not a finished conversion. Check collision, materials, lighting and gameplay before building on them.
+- Not playtested in game.
+- The `-i.utc` map-settings files are bare: no map name, game-mode list or briefing images, so the menu entry is empty until you fill them in. The [Calypso Casino port](../rainbow-six-vegas/calypso-casino/README.md) is the same.
+- Each map uses one mesh package, `SCDA_<CODE>_VS`, and nothing else beyond the game and editor. The older `SCDA_DWG.usx` and `DA_BOSG2_OpacityFixed.usx` are not part of these ports.
+- The playable maps and `-i.utc` files were built as `SCDA_<CODE>_VSPlacements` and renamed so the `Maps` and `MapsEd` names match. The contents are unchanged, but the renamed files have not been loaded in game yet.
 
-Each map's imports were read out of its package tables: every one references exactly a single mesh package, `SCDA_<CODE>_VS`, and nothing else beyond what the game and editor provide natively. Earlier working packages left in the map-editing copy (`SCDA_DWG.usx` and `DA_BOSG2_OpacityFixed.usx`) are superseded and are not part of these ports.
-
-The `-i.utc` map-settings files are minimal. They carry the settings object but no map name, game-mode list or briefing images, so a map's menu entry is bare until those are filled in. The [Calypso Casino port](../rainbow-six-vegas/calypso-casino/README.md) ships the same way.
-
-The playable maps and their `-i.utc` files were built under the names `SCDA_<CODE>_VSPlacements`; the release assets drop that suffix so the `Maps` and `MapsEd` names match, as they do everywhere else in this collection. The file contents are untouched, and neither map carries an internal reference to its own filename, but the renamed files have not been loaded in game yet.
-
-Each map is published as its own release, tagged `scda-<code>-v1.0.0`, carrying the four files loose plus a ZIP of the same build. The checksums in each map's folder describe that build, and the Map Manager installs it from the same release.
+Each map has its own release, tagged `scda-<code>-v1.0.0`, with the four files and a ZIP of the same build. The checksums in each map's folder are for that build, and the Map Manager installs it from the same release.
