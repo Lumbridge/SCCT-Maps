@@ -1,5 +1,5 @@
 Shipment v1.7 - Splinter Cell: Chaos Theory Versus
-Updated 6 October 2026
+Updated 12 October 2026
 
 CHANGES
 - Much more scenery: over 300 new props, including props from Call of
