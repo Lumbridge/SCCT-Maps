@@ -1,0 +1,3 @@
+992a075927e5ecdb8ae3a6188d8a8297f66ad7ac064913ad74b819034527e798  Packages/Maps/MoonD.sdc
+6360ed03dd0753601ddd8dc9196909e40a4f8da42703f968574f2c8fb548aaaa  Packages/MapsEd/MoonD.sdc
+daf2c3844b11be2ba51a0946ed753106dc8bd07296ecebb2595d5c6f7baa6cd1  Packages/Textures/MoonD-i.utc
