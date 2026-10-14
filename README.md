@@ -19,7 +19,7 @@ By hand: download the map's ZIP (or its `Packages` folder from this repository),
 | Map | Package | Version | Files |
 | --- | --- | --- | --- |
 | Shipment | `ShipD` | v1.8 | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/shipd-v1.8/Shipment-v1.8.zip) · [Editor files](release/ShipD/v1.8/Packages/MapsEd) · [Source assets](src/ShipD) |
-| Moonlight Park | `MoonD` | v1.2 | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/moond-v1.2/Moonlight-Park-v1.2.zip) · [Editor files](release/MoonD/v1.2/Packages/MapsEd) |
+| Moonlight Park | `MoonD` | v1.3 | [Download ZIP](https://github.com/Lumbridge/SCCT-Maps/releases/download/moond-v1.3/Moonlight-Park-v1.3.zip) · [Editor files](release/MoonD/v1.3/Packages/MapsEd) |
 
 ![Shipment map preview](src/ShipD/TGA%20textures/LevelPreview_Menu_256_display_check.png)
 
