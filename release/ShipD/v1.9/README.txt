@@ -3,7 +3,6 @@ Released 22 October 2026
 
 CHANGES
 - Fixed the elevator button.
-- Smaller download: removed textures the map no longer uses.
 
 INSTALL
 Close the game, extract the ZIP and copy its Packages folder into your
