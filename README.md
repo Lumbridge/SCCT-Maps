@@ -63,6 +63,10 @@ The eight Double Agent maps share [one set of collection notes](ports/splinter-c
 
 [GoldenEye 007: Reloaded multiplayer scenery](ports/goldeneye-007-reloaded/README.md): all 14 multiplayer maps as editable SCCT scenery. Each has its own release, a Ports entry and an asset pack in the Map Manager. No gameplay or source lighting.
 
+## Stock maps
+
+[The stock SVM 4.0 maps](stock/README.md), playable and editor versions, copied unmodified from the install. Your game already has them.
+
 ## Community map pack
 
 [All 56 community maps](community/README.md), each with its assets, install notes and checksums. These are the original compiled maps, not editable.
