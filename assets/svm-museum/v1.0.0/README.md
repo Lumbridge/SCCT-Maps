@@ -1,0 +1,19 @@
+# SCCT Versus - Museum assets v1.0.0
+
+The asset packages from the SCCT Versus 4.0 install that belong to Museum (`MuseD`, `MuseE`, `MuseT`): its meshes, textures, animations and sounds, plus each map's sound list and menu image. Install from the SCCT Map Manager's **Asset Packs** section.
+
+| Package | Folder | Contents |
+| --- | --- | --- |
+| `MuseD-i.utc` | `Packages/Textures` | Map-selection image for `MuseD` |
+| `MuseE-i.utc` | `Packages/Textures` | Map-selection image for `MuseE` |
+| `MuseT-i.utc` | `Packages/Textures` | Map-selection image for `MuseT` |
+| `Amb_Museum.uax` | `Packages/Sounds` | 32 sounds |
+| `MuseD.uas` | `Packages/Sounds` | Sound list for `MuseD` |
+| `MuseE.uas` | `Packages/Sounds` | Sound list for `MuseE` |
+| `MuseT.uas` | `Packages/Sounds` | Sound list for `MuseT` |
+
+These packages also load from [Core game assets](../../svm-core/v1.0.0/README.md). Install those packs too.
+
+These are unmodified copies of Ubisoft's files. Your game may already have them. The pack is for map makers who want the set in one place.
+
+[Release and downloads](https://github.com/Lumbridge/SCCT-Maps/releases/tag/svm-museum-v1.0.0).

@@ -76,3 +76,5 @@ The eight Double Agent maps share [one set of collection notes](ports/splinter-c
 [Rainbow Six Vegas: Calypso Casino v1.0.0](assets/r6v-calypso-casino/v1.0.0/README.md) is a pack of meshes and textures for your own maps: [download it](https://github.com/Lumbridge/SCCT-Maps/releases/download/r6v-calypso-casino-v1.0.0/Calypso-Casino-Editor-Assets-v1.0.0.zip) or install it from **Tools → Textures & static meshes** in the Map Manager. How to publish to the manager's catalogue is in the [Map Manager docs](https://github.com/Lumbridge/SCCT-Map-Manager/blob/main/docs/publishing.md).
 
 The fourteen GoldenEye packages are also in **Asset Packs**. Each has its map's meshes, materials and textures.
+
+Every stock asset from the SCCT Versus 4.0 install is also in **Asset Packs**, split into 36 packs: [Core game assets](assets/svm-core/v1.0.0/README.md), [Shared props](assets/svm-shared-props/v1.0.0/README.md) and one pack per stock map (for example [Bank](assets/svm-bank/v1.0.0/README.md)). Each pack lists the other packs it loads from.

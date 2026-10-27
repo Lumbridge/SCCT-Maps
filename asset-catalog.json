@@ -2023,5 +2023,2645 @@
         "Size": 56862411
       }
     ]
+  },
+  {
+    "Id": "assets/svm-core",
+    "Name": "SCCT Versus - Core game assets",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-core/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-core-v1.0.0/SEffectStatic.usx",
+        "Destination": "Packages/StaticMeshes/SEffectStatic.usx",
+        "Hash": "cff607503c46cae1bc783aa10492b3022e7ac026",
+        "Size": 188466
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/SGameplayObjects.usx",
+        "Destination": "Packages/StaticMeshes/SGameplayObjects.usx",
+        "Hash": "9829f138676fafa203be13fbf5faca11a6b77567",
+        "Size": 818553
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/TestMapStaticM.usx",
+        "Destination": "Packages/StaticMeshes/TestMapStaticM.usx",
+        "Hash": "8c9782859786c52898dfd841efe528f24b2d25b0",
+        "Size": 254607
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/common_mgm.utx",
+        "Destination": "Packages/Textures/common_mgm.utx",
+        "Hash": "398d46eea5cc69aa19fd6f1176bb7331d9547288",
+        "Size": 833088
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/CTF_txt_xbox.utx",
+        "Destination": "Packages/Textures/CTF_txt_xbox.utx",
+        "Hash": "473769ef0fbc19ce4f1200942ab9e93a581270ab",
+        "Size": 11965
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/Echelon.utx",
+        "Destination": "Packages/Textures/Echelon.utx",
+        "Hash": "9bb33d4db84b0547f8380bff4c6a3683e06a95e9",
+        "Size": 444502
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/EditorTex.utx",
+        "Destination": "Packages/Textures/EditorTex.utx",
+        "Hash": "390b9a066e43eaa06568d8915946f716dfff95ef",
+        "Size": 46734
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/GUIFont.utx",
+        "Destination": "Packages/Textures/GUIFont.utx",
+        "Hash": "fcd2c102558566f47dffd2dd50bf4753a76d7610",
+        "Size": 708658
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/GUIFontPC.utx",
+        "Destination": "Packages/Textures/GUIFontPC.utx",
+        "Hash": "0f7b6b2772c66ba1e7c32489642ac1928487885c",
+        "Size": 107780
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/help_path.utx",
+        "Destination": "Packages/Textures/help_path.utx",
+        "Hash": "d966f223eaba7c9c25e990dd110acbdd38de22a7",
+        "Size": 207339
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/Hud_mgm.utx",
+        "Destination": "Packages/Textures/Hud_mgm.utx",
+        "Hash": "cae06f1cad6ca62b35496e57a2190d091dbcc714",
+        "Size": 1056919
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/HUDFont.utx",
+        "Destination": "Packages/Textures/HUDFont.utx",
+        "Hash": "44ade677595b0f14ae251c47364d55c9161632ca",
+        "Size": 157104
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/Menu_generique.utx",
+        "Destination": "Packages/Textures/Menu_generique.utx",
+        "Hash": "f6985713f8e5d47dfe830286d5506f85fb6a9bc9",
+        "Size": 35470
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/Menu_PC.utx",
+        "Destination": "Packages/Textures/Menu_PC.utx",
+        "Hash": "86d69a562e1b8bdc02cbdc19544b4df27d50559e",
+        "Size": 88132
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/Options_mgm.utx",
+        "Destination": "Packages/Textures/Options_mgm.utx",
+        "Hash": "c220457d1ea9914b89472164a835e0bbe79bd8b1",
+        "Size": 533331
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/SFont.utx",
+        "Destination": "Packages/Textures/SFont.utx",
+        "Hash": "65b7d4c363e24d54187ea2bd16a42ce65ab01818",
+        "Size": 351049
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/sfx.utx",
+        "Destination": "Packages/Textures/sfx.utx",
+        "Hash": "7719cc771104bb0a980b2faa153665447e00390c",
+        "Size": 1183240
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/SFX_xbox.utx",
+        "Destination": "Packages/Textures/SFX_xbox.utx",
+        "Hash": "3cd88c756f2a07e386978450c6263ff503c8fe21",
+        "Size": 69328
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/SGameplayObjectsTex.utx",
+        "Destination": "Packages/Textures/SGameplayObjectsTex.utx",
+        "Hash": "ce9f81bf6adf007fd61d7a12e515f58e50d77537",
+        "Size": 809815
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/SGameplayObjectsTex_led.utx",
+        "Destination": "Packages/Textures/SGameplayObjectsTex_led.utx",
+        "Hash": "fd13d0868b2133c3e406fb2afdc2826926f216b0",
+        "Size": 2051
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/SGameplayObjectsTex_XBOX.utx",
+        "Destination": "Packages/Textures/SGameplayObjectsTex_XBOX.utx",
+        "Hash": "e40c3cfa8c6b631b95a1bd7cf4d4b0788ceaf18d",
+        "Size": 1399
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/SGoggleTextures.utx",
+        "Destination": "Packages/Textures/SGoggleTextures.utx",
+        "Hash": "0a349fc55e4c6d3a3b696d9b0be6048b0e7d0f2a",
+        "Size": 18594
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/SHudTextures.utx",
+        "Destination": "Packages/Textures/SHudTextures.utx",
+        "Hash": "f1ae3b3e1412fd158f6c53d975aa0619eb3d09bd",
+        "Size": 1270759
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/SPersoTextures.utx",
+        "Destination": "Packages/Textures/SPersoTextures.utx",
+        "Hash": "75e9caa16fed677bea040ed0d810ae3b837d618a",
+        "Size": 1504072
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/SPersoTextures_ps2.utx",
+        "Destination": "Packages/Textures/SPersoTextures_ps2.utx",
+        "Hash": "54e3023b1647f102eb8ad96dc976e9c27092c01b",
+        "Size": 15449
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/SRadarTex.utx",
+        "Destination": "Packages/Textures/SRadarTex.utx",
+        "Hash": "bb58e1845131173f2722c51c1b34a035f996195b",
+        "Size": 29042
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/SWeaponTex.utx",
+        "Destination": "Packages/Textures/SWeaponTex.utx",
+        "Hash": "0a8fa0a122c9f148ed5d049ef0f803a14cf6113f",
+        "Size": 379032
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/TestMapTextures.utx",
+        "Destination": "Packages/Textures/TestMapTextures.utx",
+        "Hash": "d395cce5d380fe24f4a91fc3ee6da1a276c12d21",
+        "Size": 6428814
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/Tutorials.utx",
+        "Destination": "Packages/Textures/Tutorials.utx",
+        "Hash": "da3921cd18933cee867ca25b3f3594eb21adb4a3",
+        "Size": 1183920
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/Tutorials_PC.utx",
+        "Destination": "Packages/Textures/Tutorials_PC.utx",
+        "Hash": "42d8f89b49247a6e0bfd8a608d9cb0b5e5c3f1f6",
+        "Size": 1118063
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/SGoggle.ukx",
+        "Destination": "Packages/Animations/SGoggle.ukx",
+        "Hash": "a78446428c42ea7c22ba4e222fc5ab17039430c3",
+        "Size": 43573
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/SPerso.ukx",
+        "Destination": "Packages/Animations/SPerso.ukx",
+        "Hash": "337426d0d6543486456b6bcc0da399885bc09ae4",
+        "Size": 4860725
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/SWeapon.ukx",
+        "Destination": "Packages/Animations/SWeapon.ukx",
+        "Hash": "f05347434af5d80dfbdb00bd5c9f0af5966a73e1",
+        "Size": 158252
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/SWeaponFirst.ukx",
+        "Destination": "Packages/Animations/SWeaponFirst.ukx",
+        "Hash": "10d8aadd2d3df8a678b5e54aa5853783aeaa1000",
+        "Size": 1717688
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/Armes_impacts.uax",
+        "Destination": "Packages/Sounds/Armes_impacts.uax",
+        "Hash": "6d7a9ead2cbcceec596e5afc7eb355451ef9a248",
+        "Size": 7493142
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/Entry.uas",
+        "Destination": "Packages/Sounds/Entry.uas",
+        "Hash": "24dc046f258a0f0766ab4c505ca904b8a52563d8",
+        "Size": 5350986
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/Interface.uax",
+        "Destination": "Packages/Sounds/Interface.uax",
+        "Hash": "0c2743dafce4f567ed74769c6223f9ac4396a4ff",
+        "Size": 1764103
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/Interface_PT.uax",
+        "Destination": "Packages/Sounds/Interface_PT.uax",
+        "Hash": "43517ac801b9230a75c098431579044c8fb809db",
+        "Size": 2067636
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/Lobby.uas",
+        "Destination": "Packages/Sounds/Lobby.uas",
+        "Hash": "24dc046f258a0f0766ab4c505ca904b8a52563d8",
+        "Size": 5350986
+      },
+      {
+        "Source": "releases/download/svm-core-v1.0.0/Sound_Persos.uax",
+        "Destination": "Packages/Sounds/Sound_Persos.uax",
+        "Hash": "08e5f16447d5c99d45d197ca5bed88ac499972a4",
+        "Size": 4820988
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-shared-props",
+    "Name": "SCCT Versus - Shared props",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-shared-props/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-shared-props-v1.0.0/chantier_poc.usx",
+        "Destination": "Packages/StaticMeshes/chantier_poc.usx",
+        "Hash": "b8d4705e25bd7188f7f492c85e9e4b930f883c51",
+        "Size": 2945213
+      },
+      {
+        "Source": "releases/download/svm-shared-props-v1.0.0/chantier_poc_stm.usx",
+        "Destination": "Packages/StaticMeshes/chantier_poc_stm.usx",
+        "Hash": "074d48b252e2bc9ac7fa68f3ea1190339337e9ce",
+        "Size": 1526916
+      },
+      {
+        "Source": "releases/download/svm-shared-props-v1.0.0/CTF_static.usx",
+        "Destination": "Packages/StaticMeshes/CTF_static.usx",
+        "Hash": "9c19ee2cd715cde860dbd474221843a541c9dd2c",
+        "Size": 20295
+      },
+      {
+        "Source": "releases/download/svm-shared-props-v1.0.0/SM_Reactor.usx",
+        "Destination": "Packages/StaticMeshes/SM_Reactor.usx",
+        "Hash": "645ccfc893fb65462dd21a5bb965a3b8024f8f22",
+        "Size": 22353
+      },
+      {
+        "Source": "releases/download/svm-shared-props-v1.0.0/Bunker.utx",
+        "Destination": "Packages/Textures/Bunker.utx",
+        "Hash": "78de3e939631606eae2cb0e2a0871c58a6978ea0",
+        "Size": 3062771
+      },
+      {
+        "Source": "releases/download/svm-shared-props-v1.0.0/drpoc_chantier.utx",
+        "Destination": "Packages/Textures/drpoc_chantier.utx",
+        "Hash": "19b70bbba234a81529107baa1fdee4e161678924",
+        "Size": 1377931
+      },
+      {
+        "Source": "releases/download/svm-shared-props-v1.0.0/drpoc_chantier_XBOX.utx",
+        "Destination": "Packages/Textures/drpoc_chantier_XBOX.utx",
+        "Hash": "480cbf5d9f78197c8f66c3e79f7a07ae545fd60a",
+        "Size": 1370259
+      },
+      {
+        "Source": "releases/download/svm-shared-props-v1.0.0/nd133.utx",
+        "Destination": "Packages/Textures/nd133.utx",
+        "Hash": "7c7436629b737151fd3fd1881f3ed232c3f32594",
+        "Size": 58263
+      },
+      {
+        "Source": "releases/download/svm-shared-props-v1.0.0/nd133_1mesh.ukx",
+        "Destination": "Packages/Animations/nd133_1mesh.ukx",
+        "Hash": "d981c713b0f2ea01aaea5ad02dcfe08001b686d3",
+        "Size": 114121
+      },
+      {
+        "Source": "releases/download/svm-shared-props-v1.0.0/nd133_anm.ukx",
+        "Destination": "Packages/Animations/nd133_anm.ukx",
+        "Hash": "ab802426dc69d6d4e1803d460ee266ea13d7b097",
+        "Size": 326788
+      },
+      {
+        "Source": "releases/download/svm-shared-props-v1.0.0/Scam_cine.ukx",
+        "Destination": "Packages/Animations/Scam_cine.ukx",
+        "Hash": "fbe96feebe22f018e01978d40b65b1a9044eb37d",
+        "Size": 6885
+      },
+      {
+        "Source": "releases/download/svm-shared-props-v1.0.0/Amb_Building.uax",
+        "Destination": "Packages/Sounds/Amb_Building.uax",
+        "Hash": "04a910dfe4f4648d5d16a48523e8acf181ff1f93",
+        "Size": 3086908
+      },
+      {
+        "Source": "releases/download/svm-shared-props-v1.0.0/amb_Com.uax",
+        "Destination": "Packages/Sounds/amb_Com.uax",
+        "Hash": "67fbe5d75eb334b6e5be7c7c5ea1e63291253766",
+        "Size": 1132375
+      },
+      {
+        "Source": "releases/download/svm-shared-props-v1.0.0/Amb_Dep.uax",
+        "Destination": "Packages/Sounds/Amb_Dep.uax",
+        "Hash": "b996f92a08e935812a1224e2a7429b846f98307d",
+        "Size": 1279574
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-aquarius",
+    "Name": "SCCT Versus - Aquarius",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-aquarius/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-aquarius-v1.0.0/Aquarium_STM.usx",
+        "Destination": "Packages/StaticMeshes/Aquarium_STM.usx",
+        "Hash": "d85e0206789b2d64308f84cf872b8772b280afd0",
+        "Size": 6668303
+      },
+      {
+        "Source": "releases/download/svm-aquarius-v1.0.0/EAQ_STM.usx",
+        "Destination": "Packages/StaticMeshes/EAQ_STM.usx",
+        "Hash": "92228a6df42ba87cad2d813ecefd8c581c9f56a5",
+        "Size": 22123
+      },
+      {
+        "Source": "releases/download/svm-aquarius-v1.0.0/STM_Poc_AquaTest.usx",
+        "Destination": "Packages/StaticMeshes/STM_Poc_AquaTest.usx",
+        "Hash": "a8131a029c592f37bcee676763bdaabb2e4c3394",
+        "Size": 370921
+      },
+      {
+        "Source": "releases/download/svm-aquarius-v1.0.0/AquaD-i.utc",
+        "Destination": "Packages/Textures/AquaD-i.utc",
+        "Hash": "f6183e56244ea48d7bc51c8af6203c22de2ec2fc",
+        "Size": 191028
+      },
+      {
+        "Source": "releases/download/svm-aquarius-v1.0.0/AquaE-i.utc",
+        "Destination": "Packages/Textures/AquaE-i.utc",
+        "Hash": "ed5c8dd36345ef789ad5722152159e098b48e765",
+        "Size": 191594
+      },
+      {
+        "Source": "releases/download/svm-aquarius-v1.0.0/Aquarium_TXT.utx",
+        "Destination": "Packages/Textures/Aquarium_TXT.utx",
+        "Hash": "653d97e4ddf6a8a0d8b799556afe9c042f726eba",
+        "Size": 3493007
+      },
+      {
+        "Source": "releases/download/svm-aquarius-v1.0.0/AquaT-i.utc",
+        "Destination": "Packages/Textures/AquaT-i.utc",
+        "Hash": "134c000cc90b54dc7f5dc41aa27f60c4116ae17a",
+        "Size": 191609
+      },
+      {
+        "Source": "releases/download/svm-aquarius-v1.0.0/AQU_anm.ukx",
+        "Destination": "Packages/Animations/AQU_anm.ukx",
+        "Hash": "0785fedadd1e5ab5a0d8670c03780b4174c0cd72",
+        "Size": 706364
+      },
+      {
+        "Source": "releases/download/svm-aquarius-v1.0.0/Amb_Aqua.uax",
+        "Destination": "Packages/Sounds/Amb_Aqua.uax",
+        "Hash": "1a17e851687aaf2c20d1c61548c0ad69f27b02ea",
+        "Size": 3638481
+      },
+      {
+        "Source": "releases/download/svm-aquarius-v1.0.0/AquaD.uas",
+        "Destination": "Packages/Sounds/AquaD.uas",
+        "Hash": "c531479cf9a4b0cbc2c4e8a04f6abcc793fcf5f0",
+        "Size": 8925466
+      },
+      {
+        "Source": "releases/download/svm-aquarius-v1.0.0/AquaE.uas",
+        "Destination": "Packages/Sounds/AquaE.uas",
+        "Hash": "c531479cf9a4b0cbc2c4e8a04f6abcc793fcf5f0",
+        "Size": 8925466
+      },
+      {
+        "Source": "releases/download/svm-aquarius-v1.0.0/AquaT.uas",
+        "Destination": "Packages/Sounds/AquaT.uas",
+        "Hash": "c531479cf9a4b0cbc2c4e8a04f6abcc793fcf5f0",
+        "Size": 8925466
+      },
+      {
+        "Source": "releases/download/svm-aquarius-v1.0.0/MC_aquaExt.mux",
+        "Destination": "Packages/Sounds/MC_aquaExt.mux",
+        "Hash": "29915b6525ad1fd0213a80061e5f7d59ffb54fdb",
+        "Size": 107
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-bank",
+    "Name": "SCCT Versus - Bank",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-bank/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-bank-v1.0.0/BNK_STM.usx",
+        "Destination": "Packages/StaticMeshes/BNK_STM.usx",
+        "Hash": "bc613c90eaa5560f14578facb68a1cb908eae395",
+        "Size": 6255297
+      },
+      {
+        "Source": "releases/download/svm-bank-v1.0.0/BankD-i.utc",
+        "Destination": "Packages/Textures/BankD-i.utc",
+        "Hash": "dbd3a4e6d90c567bf1a2123ef4a6d2816f39cabe",
+        "Size": 187674
+      },
+      {
+        "Source": "releases/download/svm-bank-v1.0.0/BankP-i.utc",
+        "Destination": "Packages/Textures/BankP-i.utc",
+        "Hash": "1a3b2223a595bb7917e3fa0e5c737c67d84880de",
+        "Size": 187901
+      },
+      {
+        "Source": "releases/download/svm-bank-v1.0.0/TXT_BNK.utx",
+        "Destination": "Packages/Textures/TXT_BNK.utx",
+        "Hash": "b2014931ac60ad2b6ada16daca97f008c01ae9a5",
+        "Size": 3019002
+      },
+      {
+        "Source": "releases/download/svm-bank-v1.0.0/amb_Bank.uax",
+        "Destination": "Packages/Sounds/amb_Bank.uax",
+        "Hash": "70627b9bc8ee1b62dac02544f4d1f779e76d8753",
+        "Size": 1043268
+      },
+      {
+        "Source": "releases/download/svm-bank-v1.0.0/BankD.uas",
+        "Destination": "Packages/Sounds/BankD.uas",
+        "Hash": "5091f02b3a0d89efc4095e03bae35f93481a62ea",
+        "Size": 3952264
+      },
+      {
+        "Source": "releases/download/svm-bank-v1.0.0/BankP.uas",
+        "Destination": "Packages/Sounds/BankP.uas",
+        "Hash": "5091f02b3a0d89efc4095e03bae35f93481a62ea",
+        "Size": 3952264
+      },
+      {
+        "Source": "releases/download/svm-bank-v1.0.0/MC_bnk_helico.mux",
+        "Destination": "Packages/Sounds/MC_bnk_helico.mux",
+        "Hash": "22d52a0c575878a4242562824fe26f5dd29b5013",
+        "Size": 119
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-cinema",
+    "Name": "SCCT Versus - Cinema",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-cinema/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-cinema-v1.0.0/STM_INI.usx",
+        "Destination": "Packages/StaticMeshes/STM_INI.usx",
+        "Hash": "4b4eb41386374a5d3d05d5324fe5dc836581f744",
+        "Size": 2449670
+      },
+      {
+        "Source": "releases/download/svm-cinema-v1.0.0/CineE-i.utc",
+        "Destination": "Packages/Textures/CineE-i.utc",
+        "Hash": "fbebdff0436f853aaceee708852356460a0fd3bb",
+        "Size": 167373
+      },
+      {
+        "Source": "releases/download/svm-cinema-v1.0.0/CineS-i.utc",
+        "Destination": "Packages/Textures/CineS-i.utc",
+        "Hash": "9ef6aa36a9314829751a54ad24468c019fe25474",
+        "Size": 166097
+      },
+      {
+        "Source": "releases/download/svm-cinema-v1.0.0/CineU-i.utc",
+        "Destination": "Packages/Textures/CineU-i.utc",
+        "Hash": "37f85438bc7503d551a575b53d26a6c5208ef4a2",
+        "Size": 475054
+      },
+      {
+        "Source": "releases/download/svm-cinema-v1.0.0/TXT_INI.utx",
+        "Destination": "Packages/Textures/TXT_INI.utx",
+        "Hash": "0f29204cba04f64eec125a7879bd1a9f90c24545",
+        "Size": 2538714
+      },
+      {
+        "Source": "releases/download/svm-cinema-v1.0.0/Amb_Ini.uax",
+        "Destination": "Packages/Sounds/Amb_Ini.uax",
+        "Hash": "6e575ef8fefde99e4fce6433784c1841c96e0ff6",
+        "Size": 1752497
+      },
+      {
+        "Source": "releases/download/svm-cinema-v1.0.0/CineE.uas",
+        "Destination": "Packages/Sounds/CineE.uas",
+        "Hash": "98efda64293e76e8c0277ac10e12b755f9728f61",
+        "Size": 3488096
+      },
+      {
+        "Source": "releases/download/svm-cinema-v1.0.0/CineS.uas",
+        "Destination": "Packages/Sounds/CineS.uas",
+        "Hash": "a584313693af379d3d6c6fd73a95215a54c593d7",
+        "Size": 6922133
+      },
+      {
+        "Source": "releases/download/svm-cinema-v1.0.0/CineU.uas",
+        "Destination": "Packages/Sounds/CineU.uas",
+        "Hash": "98efda64293e76e8c0277ac10e12b755f9728f61",
+        "Size": 3488096
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-clarity-soft",
+    "Name": "SCCT Versus - Clarity Soft",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-clarity-soft/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-clarity-soft-v1.0.0/Poly.usx",
+        "Destination": "Packages/StaticMeshes/Poly.usx",
+        "Hash": "ce1d08fb21efdb1815d1872b0fad0e48a400c8a0",
+        "Size": 308471
+      },
+      {
+        "Source": "releases/download/svm-clarity-soft-v1.0.0/ClarD-i.utc",
+        "Destination": "Packages/Textures/ClarD-i.utc",
+        "Hash": "c33d4fef536ed8fb409be68248842eb04f18af38",
+        "Size": 211985
+      },
+      {
+        "Source": "releases/download/svm-clarity-soft-v1.0.0/claritysoft.utx",
+        "Destination": "Packages/Textures/claritysoft.utx",
+        "Hash": "778550f92c64d430e0dc70043eaa21a814d82285",
+        "Size": 2068461
+      },
+      {
+        "Source": "releases/download/svm-clarity-soft-v1.0.0/ClarD.uas",
+        "Destination": "Packages/Sounds/ClarD.uas",
+        "Hash": "1b7019380a0441ced1e37177973951cc1fc419ce",
+        "Size": 3195410
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-club-house",
+    "Name": "SCCT Versus - Club House",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-club-house/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-club-house-v1.0.0/CLU04_STM.usx",
+        "Destination": "Packages/StaticMeshes/CLU04_STM.usx",
+        "Hash": "7de27a7db4fe7a4f493aac3016e2cfcbf4eb5f2d",
+        "Size": 5363261
+      },
+      {
+        "Source": "releases/download/svm-club-house-v1.0.0/ECH_STM.usx",
+        "Destination": "Packages/StaticMeshes/ECH_STM.usx",
+        "Hash": "3f9e48085562eecfb9fd5cfbd8dea124e6bf455b",
+        "Size": 116003
+      },
+      {
+        "Source": "releases/download/svm-club-house-v1.0.0/CLU04_TXT.utx",
+        "Destination": "Packages/Textures/CLU04_TXT.utx",
+        "Hash": "c6f433830fde1c34439c8b7df0899664e32521d8",
+        "Size": 2094505
+      },
+      {
+        "Source": "releases/download/svm-club-house-v1.0.0/ClubD-i.utc",
+        "Destination": "Packages/Textures/ClubD-i.utc",
+        "Hash": "73f4fcb602b5b841455b3d34ff302bd4fddf9d60",
+        "Size": 189437
+      },
+      {
+        "Source": "releases/download/svm-club-house-v1.0.0/ClubE-i.utc",
+        "Destination": "Packages/Textures/ClubE-i.utc",
+        "Hash": "d814e26fcdbb1331020fa6d71e111f82859294fc",
+        "Size": 189816
+      },
+      {
+        "Source": "releases/download/svm-club-house-v1.0.0/ClubS-i.utc",
+        "Destination": "Packages/Textures/ClubS-i.utc",
+        "Hash": "9e2d56b2e8cc2cfa2d8a8cc95e32536d9ac93153",
+        "Size": 281366
+      },
+      {
+        "Source": "releases/download/svm-club-house-v1.0.0/ClubT-i.utc",
+        "Destination": "Packages/Textures/ClubT-i.utc",
+        "Hash": "d8cb1acf07d4bbfc847655b1fa4a0dde4c1ee25e",
+        "Size": 190076
+      },
+      {
+        "Source": "releases/download/svm-club-house-v1.0.0/CLU_anims.ukx",
+        "Destination": "Packages/Animations/CLU_anims.ukx",
+        "Hash": "6beced38b780127d5792196fada9ca4203d9d827",
+        "Size": 1634977
+      },
+      {
+        "Source": "releases/download/svm-club-house-v1.0.0/Amb_Club.uax",
+        "Destination": "Packages/Sounds/Amb_Club.uax",
+        "Hash": "224f21e3405c63a570b3cc96c76d86ed5d232b64",
+        "Size": 2862014
+      },
+      {
+        "Source": "releases/download/svm-club-house-v1.0.0/ClubD.uas",
+        "Destination": "Packages/Sounds/ClubD.uas",
+        "Hash": "1097628616cf3e7f3af93b6238a822028dff7a05",
+        "Size": 6657001
+      },
+      {
+        "Source": "releases/download/svm-club-house-v1.0.0/ClubE.uas",
+        "Destination": "Packages/Sounds/ClubE.uas",
+        "Hash": "1097628616cf3e7f3af93b6238a822028dff7a05",
+        "Size": 6657001
+      },
+      {
+        "Source": "releases/download/svm-club-house-v1.0.0/ClubS.uas",
+        "Destination": "Packages/Sounds/ClubS.uas",
+        "Hash": "77f9a71d509face4087168507d655d15a0bc09b2",
+        "Size": 7780652
+      },
+      {
+        "Source": "releases/download/svm-club-house-v1.0.0/ClubT.uas",
+        "Destination": "Packages/Sounds/ClubT.uas",
+        "Hash": "1097628616cf3e7f3af93b6238a822028dff7a05",
+        "Size": 6657001
+      },
+      {
+        "Source": "releases/download/svm-club-house-v1.0.0/MC_clu_ext.mux",
+        "Destination": "Packages/Sounds/MC_clu_ext.mux",
+        "Hash": "b457aede865fa6266c0d98d80a539999f74d2cfa",
+        "Size": 115
+      },
+      {
+        "Source": "releases/download/svm-club-house-v1.0.0/MC_clu_OpenVerriere_Air.mux",
+        "Destination": "Packages/Sounds/MC_clu_OpenVerriere_Air.mux",
+        "Hash": "d63e8f343ee9e752dddc55a89b559c49e1ed7c36",
+        "Size": 123
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-cpusa",
+    "Name": "SCCT Versus - Cpusa",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-cpusa/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-cpusa-v1.0.0/PCF09_STM.usx",
+        "Destination": "Packages/StaticMeshes/PCF09_STM.usx",
+        "Hash": "dc890769bb31dfc24d2e33f37fcee8b35b672ce8",
+        "Size": 7304280
+      },
+      {
+        "Source": "releases/download/svm-cpusa-v1.0.0/CpusS-i.utc",
+        "Destination": "Packages/Textures/CpusS-i.utc",
+        "Hash": "cab410b2d3466ab4f6d7518ded042dd17ea52e0c",
+        "Size": 215051
+      },
+      {
+        "Source": "releases/download/svm-cpusa-v1.0.0/PCF09_TXT.utx",
+        "Destination": "Packages/Textures/PCF09_TXT.utx",
+        "Hash": "05f9b26a7e498107d647501e3d8cf3c478db49e1",
+        "Size": 9602613
+      },
+      {
+        "Source": "releases/download/svm-cpusa-v1.0.0/CpusS.uas",
+        "Destination": "Packages/Sounds/CpusS.uas",
+        "Hash": "c3a494bdccd44ddf117fb81b11077a22eb1ec89a",
+        "Size": 8293212
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-deftech-belew",
+    "Name": "SCCT Versus - Deftech Belew",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-deftech-belew/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-deftech-belew-v1.0.0/DTK_SPECIFIC_MESH.usx",
+        "Destination": "Packages/StaticMeshes/DTK_SPECIFIC_MESH.usx",
+        "Hash": "c5a2e8ea80627a520fcc20c441d732afc278a8e3",
+        "Size": 1071520
+      },
+      {
+        "Source": "releases/download/svm-deftech-belew-v1.0.0/DTK_STATICMESHS_TC.usx",
+        "Destination": "Packages/StaticMeshes/DTK_STATICMESHS_TC.usx",
+        "Hash": "a67ca7e9539d35c6e59b23c8ee8c1de08ff24871",
+        "Size": 4934481
+      },
+      {
+        "Source": "releases/download/svm-deftech-belew-v1.0.0/DeftD-i.utc",
+        "Destination": "Packages/Textures/DeftD-i.utc",
+        "Hash": "8be004898a2d9e856f4ba5fd9e4694f3175293b9",
+        "Size": 169374
+      },
+      {
+        "Source": "releases/download/svm-deftech-belew-v1.0.0/DeftS-i.utc",
+        "Destination": "Packages/Textures/DeftS-i.utc",
+        "Hash": "13f3b6c0de36049413074a524dcf280d0438ce2b",
+        "Size": 169357
+      },
+      {
+        "Source": "releases/download/svm-deftech-belew-v1.0.0/DTK_TEXTURES_TC.utx",
+        "Destination": "Packages/Textures/DTK_TEXTURES_TC.utx",
+        "Hash": "44fa86e47317384c700e72f539bd10113907cc2b",
+        "Size": 2065804
+      },
+      {
+        "Source": "releases/download/svm-deftech-belew-v1.0.0/DTK_XBOX.utx",
+        "Destination": "Packages/Textures/DTK_XBOX.utx",
+        "Hash": "89d21e40905ae93ee94e0ad50e0b47020287d0c1",
+        "Size": 1112230
+      },
+      {
+        "Source": "releases/download/svm-deftech-belew-v1.0.0/SFX_DTK_xbox.utx",
+        "Destination": "Packages/Textures/SFX_DTK_xbox.utx",
+        "Hash": "ef520da1bbc414ed64734efc066dfd5e367e4b1a",
+        "Size": 24217
+      },
+      {
+        "Source": "releases/download/svm-deftech-belew-v1.0.0/SGPOTexE.utx",
+        "Destination": "Packages/Textures/SGPOTexE.utx",
+        "Hash": "72524d71c9ffc04d9117ba50f546c76cf2d0b398",
+        "Size": 2367
+      },
+      {
+        "Source": "releases/download/svm-deftech-belew-v1.0.0/SGPOTexE_led.utx",
+        "Destination": "Packages/Textures/SGPOTexE_led.utx",
+        "Hash": "6e1b7b58c8420e8086f806b3986031ecba988273",
+        "Size": 918
+      },
+      {
+        "Source": "releases/download/svm-deftech-belew-v1.0.0/amb_Belew.uax",
+        "Destination": "Packages/Sounds/amb_Belew.uax",
+        "Hash": "c7e9da011e191d731506fae6b0af2e774aabc64b",
+        "Size": 1958969
+      },
+      {
+        "Source": "releases/download/svm-deftech-belew-v1.0.0/DeftD.uas",
+        "Destination": "Packages/Sounds/DeftD.uas",
+        "Hash": "2be8ce4fd039f60bad1efad5ec3b03459bbc3590",
+        "Size": 4319133
+      },
+      {
+        "Source": "releases/download/svm-deftech-belew-v1.0.0/DeftS.uas",
+        "Destination": "Packages/Sounds/DeftS.uas",
+        "Hash": "2be8ce4fd039f60bad1efad5ec3b03459bbc3590",
+        "Size": 4319133
+      },
+      {
+        "Source": "releases/download/svm-deftech-belew-v1.0.0/MC_dtk_ext.mux",
+        "Destination": "Packages/Sounds/MC_dtk_ext.mux",
+        "Hash": "87ba5323ba4d13877ae8b6bdb6a434885e6fb1f0",
+        "Size": 107
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-factory",
+    "Name": "SCCT Versus - Factory",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-factory/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-factory-v1.0.0/FAC_STM.usx",
+        "Destination": "Packages/StaticMeshes/FAC_STM.usx",
+        "Hash": "bb6a3b77884e94557b623cd29aa75d5cb1e08568",
+        "Size": 4796601
+      },
+      {
+        "Source": "releases/download/svm-factory-v1.0.0/POC_Fac_SM.usx",
+        "Destination": "Packages/StaticMeshes/POC_Fac_SM.usx",
+        "Hash": "46cde8388e61093ceb70000cbf3ed371ecec147a",
+        "Size": 35752
+      },
+      {
+        "Source": "releases/download/svm-factory-v1.0.0/FAC_TXT.utx",
+        "Destination": "Packages/Textures/FAC_TXT.utx",
+        "Hash": "06272bcf007b3d213f3cd7848506803bcb053d6e",
+        "Size": 3176190
+      },
+      {
+        "Source": "releases/download/svm-factory-v1.0.0/FactD-i.utc",
+        "Destination": "Packages/Textures/FactD-i.utc",
+        "Hash": "0dabd14c3110d3ae8d0588e495a99c2d0fdab0b9",
+        "Size": 183482
+      },
+      {
+        "Source": "releases/download/svm-factory-v1.0.0/FactE-i.utc",
+        "Destination": "Packages/Textures/FactE-i.utc",
+        "Hash": "9dbe95ee4fe31f5ad23d67ced0d786fdeee96beb",
+        "Size": 183860
+      },
+      {
+        "Source": "releases/download/svm-factory-v1.0.0/FactP-i.utc",
+        "Destination": "Packages/Textures/FactP-i.utc",
+        "Hash": "69bb22cc77266de94ce20a29449660ad49c8bb73",
+        "Size": 183494
+      },
+      {
+        "Source": "releases/download/svm-factory-v1.0.0/FactT-i.utc",
+        "Destination": "Packages/Textures/FactT-i.utc",
+        "Hash": "7880082056e20261e18757f0ead98865ffe663f1",
+        "Size": 182556
+      },
+      {
+        "Source": "releases/download/svm-factory-v1.0.0/FAC_anm.ukx",
+        "Destination": "Packages/Animations/FAC_anm.ukx",
+        "Hash": "57fb14337d941c8763e123b1749a50017e0d6150",
+        "Size": 628088
+      },
+      {
+        "Source": "releases/download/svm-factory-v1.0.0/Amb_factory.uax",
+        "Destination": "Packages/Sounds/Amb_factory.uax",
+        "Hash": "4294ab0713669ddcd24d83144ce676d606ab19e5",
+        "Size": 2204368
+      },
+      {
+        "Source": "releases/download/svm-factory-v1.0.0/FactD.uas",
+        "Destination": "Packages/Sounds/FactD.uas",
+        "Hash": "ff315afd6fa9f1fc67073497c7816f42f104c559",
+        "Size": 4407880
+      },
+      {
+        "Source": "releases/download/svm-factory-v1.0.0/FactE.uas",
+        "Destination": "Packages/Sounds/FactE.uas",
+        "Hash": "ff315afd6fa9f1fc67073497c7816f42f104c559",
+        "Size": 4407880
+      },
+      {
+        "Source": "releases/download/svm-factory-v1.0.0/FactP.uas",
+        "Destination": "Packages/Sounds/FactP.uas",
+        "Hash": "ff315afd6fa9f1fc67073497c7816f42f104c559",
+        "Size": 4407880
+      },
+      {
+        "Source": "releases/download/svm-factory-v1.0.0/FactT.uas",
+        "Destination": "Packages/Sounds/FactT.uas",
+        "Hash": "ff315afd6fa9f1fc67073497c7816f42f104c559",
+        "Size": 4407880
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-ghost-town",
+    "Name": "SCCT Versus - Ghost Town",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-ghost-town/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-ghost-town-v1.0.0/GhosS-i.utc",
+        "Destination": "Packages/Textures/GhosS-i.utc",
+        "Hash": "26e6ef5ab7f66f8551e1fdf536519cba66c5572e",
+        "Size": 56163
+      },
+      {
+        "Source": "releases/download/svm-ghost-town-v1.0.0/GhosS.uas",
+        "Destination": "Packages/Sounds/GhosS.uas",
+        "Hash": "c3a494bdccd44ddf117fb81b11077a22eb1ec89a",
+        "Size": 8293212
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-krauser-lab",
+    "Name": "SCCT Versus - Krauser Lab",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-krauser-lab/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-krauser-lab-v1.0.0/KRA07_Dedouble.usx",
+        "Destination": "Packages/StaticMeshes/KRA07_Dedouble.usx",
+        "Hash": "8de0a9bb31e04ac6d1768ea0da49bb147b040440",
+        "Size": 1217037
+      },
+      {
+        "Source": "releases/download/svm-krauser-lab-v1.0.0/KRA07_NEW.usx",
+        "Destination": "Packages/StaticMeshes/KRA07_NEW.usx",
+        "Hash": "12bc8f7ffb4455b61d8d3e73a332a13ff7c4e82d",
+        "Size": 173674
+      },
+      {
+        "Source": "releases/download/svm-krauser-lab-v1.0.0/KRA07_Specifik_XBox.usx",
+        "Destination": "Packages/StaticMeshes/KRA07_Specifik_XBox.usx",
+        "Hash": "0605fa139e00e7b527395db803dbb659b53e5243",
+        "Size": 79338
+      },
+      {
+        "Source": "releases/download/svm-krauser-lab-v1.0.0/krauser_stm.usx",
+        "Destination": "Packages/StaticMeshes/krauser_stm.usx",
+        "Hash": "492c2d7fdf301a0fac02133e3abce26a4ea9d1e5",
+        "Size": 4457135
+      },
+      {
+        "Source": "releases/download/svm-krauser-lab-v1.0.0/KrauE-i.utc",
+        "Destination": "Packages/Textures/KrauE-i.utc",
+        "Hash": "3001257039c47f25bd58506765efedf0a668853f",
+        "Size": 210556
+      },
+      {
+        "Source": "releases/download/svm-krauser-lab-v1.0.0/krauser_txt.utx",
+        "Destination": "Packages/Textures/krauser_txt.utx",
+        "Hash": "995228442e51a3619c2bb4ab8b47271264e4ba25",
+        "Size": 2453843
+      },
+      {
+        "Source": "releases/download/svm-krauser-lab-v1.0.0/krauser_txt_XBOX.utx",
+        "Destination": "Packages/Textures/krauser_txt_XBOX.utx",
+        "Hash": "779dd7f101fc993f5f92a774d5ddd0958edba868",
+        "Size": 364962
+      },
+      {
+        "Source": "releases/download/svm-krauser-lab-v1.0.0/KrauU-i.utc",
+        "Destination": "Packages/Textures/KrauU-i.utc",
+        "Hash": "a0a4281e411cba4834b7b3482960fa524bb45360",
+        "Size": 184158
+      },
+      {
+        "Source": "releases/download/svm-krauser-lab-v1.0.0/SFX_KRA_xbox.utx",
+        "Destination": "Packages/Textures/SFX_KRA_xbox.utx",
+        "Hash": "b70155250c8988d584a65c0e120aa9a0f9325498",
+        "Size": 303797
+      },
+      {
+        "Source": "releases/download/svm-krauser-lab-v1.0.0/Amb_Krauser.uax",
+        "Destination": "Packages/Sounds/Amb_Krauser.uax",
+        "Hash": "3fc760b5d5397b801a6bc962f34bba83fc213ea4",
+        "Size": 3206061
+      },
+      {
+        "Source": "releases/download/svm-krauser-lab-v1.0.0/KrauE.uas",
+        "Destination": "Packages/Sounds/KrauE.uas",
+        "Hash": "5d990cb7540e0738eb092425c9a30980d42f0bef",
+        "Size": 3877479
+      },
+      {
+        "Source": "releases/download/svm-krauser-lab-v1.0.0/KrauU.uas",
+        "Destination": "Packages/Sounds/KrauU.uas",
+        "Hash": "5d990cb7540e0738eb092425c9a30980d42f0bef",
+        "Size": 3877479
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-missile-strike",
+    "Name": "SCCT Versus - Missile Strike",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-missile-strike/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-missile-strike-v1.0.0/Missile.usx",
+        "Destination": "Packages/StaticMeshes/Missile.usx",
+        "Hash": "d2e2db2ec295e92f9c2c1be345b68da8f2765a38",
+        "Size": 6187148
+      },
+      {
+        "Source": "releases/download/svm-missile-strike-v1.0.0/STM_MER.usx",
+        "Destination": "Packages/StaticMeshes/STM_MER.usx",
+        "Hash": "31732da2429826f89c05717547d78157c995bf4b",
+        "Size": 3533310
+      },
+      {
+        "Source": "releases/download/svm-missile-strike-v1.0.0/MissD-i.utc",
+        "Destination": "Packages/Textures/MissD-i.utc",
+        "Hash": "8104a738c1775a73713d4ca7987341d975d23c33",
+        "Size": 189285
+      },
+      {
+        "Source": "releases/download/svm-missile-strike-v1.0.0/MissE-i.utc",
+        "Destination": "Packages/Textures/MissE-i.utc",
+        "Hash": "663fd24190f49c1d27ae514d615df473f6dd0d18",
+        "Size": 189511
+      },
+      {
+        "Source": "releases/download/svm-missile-strike-v1.0.0/MissP-i.utc",
+        "Destination": "Packages/Textures/MissP-i.utc",
+        "Hash": "2eae9e2d86eb9a78c3e61c1ab13cd55eaa591e5f",
+        "Size": 189303
+      },
+      {
+        "Source": "releases/download/svm-missile-strike-v1.0.0/TXT_MER.utx",
+        "Destination": "Packages/Textures/TXT_MER.utx",
+        "Hash": "689f54afb9d1fdd596c88a76e02030fe5c4cf0ab",
+        "Size": 7130133
+      },
+      {
+        "Source": "releases/download/svm-missile-strike-v1.0.0/MIS_ANM.ukx",
+        "Destination": "Packages/Animations/MIS_ANM.ukx",
+        "Hash": "f8ec226b199d6ffdfb433e8171176dbea6215a7f",
+        "Size": 882634
+      },
+      {
+        "Source": "releases/download/svm-missile-strike-v1.0.0/Amb_Miss.uax",
+        "Destination": "Packages/Sounds/Amb_Miss.uax",
+        "Hash": "f1315e935166b42b339855394ae7138ce2782882",
+        "Size": 3438074
+      },
+      {
+        "Source": "releases/download/svm-missile-strike-v1.0.0/MC_mis_ext_mer1.mux",
+        "Destination": "Packages/Sounds/MC_mis_ext_mer1.mux",
+        "Hash": "0c74b970e55393f4b3893b50c1f02ecc198dc95f",
+        "Size": 123
+      },
+      {
+        "Source": "releases/download/svm-missile-strike-v1.0.0/MissD.uas",
+        "Destination": "Packages/Sounds/MissD.uas",
+        "Hash": "38ebe3b420afc402af302b1dc3a11e345e9db91c",
+        "Size": 4740013
+      },
+      {
+        "Source": "releases/download/svm-missile-strike-v1.0.0/MissE.uas",
+        "Destination": "Packages/Sounds/MissE.uas",
+        "Hash": "38ebe3b420afc402af302b1dc3a11e345e9db91c",
+        "Size": 4740013
+      },
+      {
+        "Source": "releases/download/svm-missile-strike-v1.0.0/MissP.uas",
+        "Destination": "Packages/Sounds/MissP.uas",
+        "Hash": "38ebe3b420afc402af302b1dc3a11e345e9db91c",
+        "Size": 4740013
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-mount-hospital",
+    "Name": "SCCT Versus - Mount Hospital",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-mount-hospital/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-mount-hospital-v1.0.0/EMH_STM.usx",
+        "Destination": "Packages/StaticMeshes/EMH_STM.usx",
+        "Hash": "53b6be85e9181349160e50441ca0b353e06482da",
+        "Size": 14983
+      },
+      {
+        "Source": "releases/download/svm-mount-hospital-v1.0.0/SM_UMP.usx",
+        "Destination": "Packages/StaticMeshes/SM_UMP.usx",
+        "Hash": "3850a8ab9335e97b032f772e66956da6174544d3",
+        "Size": 646388
+      },
+      {
+        "Source": "releases/download/svm-mount-hospital-v1.0.0/UMPMHOSM.usx",
+        "Destination": "Packages/StaticMeshes/UMPMHOSM.usx",
+        "Hash": "12f2e0e3bd2e36afd778406370d133a6633652a4",
+        "Size": 107001
+      },
+      {
+        "Source": "releases/download/svm-mount-hospital-v1.0.0/MHOsfx_xbox.utx",
+        "Destination": "Packages/Textures/MHOsfx_xbox.utx",
+        "Hash": "585f8f4ed8eb5752d761ed7ce53b5e8a886fbb0e",
+        "Size": 134743
+      },
+      {
+        "Source": "releases/download/svm-mount-hospital-v1.0.0/MHOtex_xbox.utx",
+        "Destination": "Packages/Textures/MHOtex_xbox.utx",
+        "Hash": "256a042ea1e4aa026da724dbc4b379f5b508d612",
+        "Size": 1270539
+      },
+      {
+        "Source": "releases/download/svm-mount-hospital-v1.0.0/MounE-i.utc",
+        "Destination": "Packages/Textures/MounE-i.utc",
+        "Hash": "6e4592ca8d54cc39af3a481e4fcf7fa79999e9e0",
+        "Size": 183271
+      },
+      {
+        "Source": "releases/download/svm-mount-hospital-v1.0.0/MounS-i.utc",
+        "Destination": "Packages/Textures/MounS-i.utc",
+        "Hash": "5f2ac666ed259881747dd8631f3bd20cb86d6727",
+        "Size": 182480
+      },
+      {
+        "Source": "releases/download/svm-mount-hospital-v1.0.0/MounU-i.utc",
+        "Destination": "Packages/Textures/MounU-i.utc",
+        "Hash": "27f4ade78ce7a40e1ce4d6f0e3747dd8e1b1a123",
+        "Size": 724328
+      },
+      {
+        "Source": "releases/download/svm-mount-hospital-v1.0.0/TX_UMP.utx",
+        "Destination": "Packages/Textures/TX_UMP.utx",
+        "Hash": "252b142f7924c41f1c4cf198c31390a4c752de86",
+        "Size": 978007
+      },
+      {
+        "Source": "releases/download/svm-mount-hospital-v1.0.0/UMPANIM.utx",
+        "Destination": "Packages/Textures/UMPANIM.utx",
+        "Hash": "6bcc177eedc52e3913d3a11bc8d98dec5d10d913",
+        "Size": 1021706
+      },
+      {
+        "Source": "releases/download/svm-mount-hospital-v1.0.0/Amb_Mount.uax",
+        "Destination": "Packages/Sounds/Amb_Mount.uax",
+        "Hash": "b6448772406cd17ec561829ca9b7dae61de22df3",
+        "Size": 2640099
+      },
+      {
+        "Source": "releases/download/svm-mount-hospital-v1.0.0/MounE.uas",
+        "Destination": "Packages/Sounds/MounE.uas",
+        "Hash": "06c61926f6435708f703f582737bc3f84a460141",
+        "Size": 3454530
+      },
+      {
+        "Source": "releases/download/svm-mount-hospital-v1.0.0/MounS.uas",
+        "Destination": "Packages/Sounds/MounS.uas",
+        "Hash": "a584313693af379d3d6c6fd73a95215a54c593d7",
+        "Size": 6922133
+      },
+      {
+        "Source": "releases/download/svm-mount-hospital-v1.0.0/MounU.uas",
+        "Destination": "Packages/Sounds/MounU.uas",
+        "Hash": "06c61926f6435708f703f582737bc3f84a460141",
+        "Size": 3454530
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-museum",
+    "Name": "SCCT Versus - Museum",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-museum/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-museum-v1.0.0/MuseD-i.utc",
+        "Destination": "Packages/Textures/MuseD-i.utc",
+        "Hash": "90909d74228b37a0296ce3a98ad8e202efa34db2",
+        "Size": 174511
+      },
+      {
+        "Source": "releases/download/svm-museum-v1.0.0/MuseE-i.utc",
+        "Destination": "Packages/Textures/MuseE-i.utc",
+        "Hash": "aa5b5ef38c6bb5e3b87288ff466ac3293ce75f2f",
+        "Size": 174638
+      },
+      {
+        "Source": "releases/download/svm-museum-v1.0.0/MuseT-i.utc",
+        "Destination": "Packages/Textures/MuseT-i.utc",
+        "Hash": "2e7e941461605f0f020116fa7104a25461031a6b",
+        "Size": 174523
+      },
+      {
+        "Source": "releases/download/svm-museum-v1.0.0/Amb_Museum.uax",
+        "Destination": "Packages/Sounds/Amb_Museum.uax",
+        "Hash": "7702b822e98a8a7af043bbfab42602bd90dc7f34",
+        "Size": 1595516
+      },
+      {
+        "Source": "releases/download/svm-museum-v1.0.0/MuseD.uas",
+        "Destination": "Packages/Sounds/MuseD.uas",
+        "Hash": "f0623bf323f211f2e6d717dcb1e72a9ed47c4ffd",
+        "Size": 3754263
+      },
+      {
+        "Source": "releases/download/svm-museum-v1.0.0/MuseE.uas",
+        "Destination": "Packages/Sounds/MuseE.uas",
+        "Hash": "f0623bf323f211f2e6d717dcb1e72a9ed47c4ffd",
+        "Size": 3754263
+      },
+      {
+        "Source": "releases/download/svm-museum-v1.0.0/MuseT.uas",
+        "Destination": "Packages/Sounds/MuseT.uas",
+        "Hash": "f0623bf323f211f2e6d717dcb1e72a9ed47c4ffd",
+        "Size": 3754263
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-offshore-oilrig",
+    "Name": "SCCT Versus - Offshore Oilrig",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-offshore-oilrig/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-offshore-oilrig-v1.0.0/Oilrig_SM.usx",
+        "Destination": "Packages/StaticMeshes/Oilrig_SM.usx",
+        "Hash": "8b4349eccb95684be0524e0ab6300f8e8da02942",
+        "Size": 4397868
+      },
+      {
+        "Source": "releases/download/svm-offshore-oilrig-v1.0.0/OffsD-i.utc",
+        "Destination": "Packages/Textures/OffsD-i.utc",
+        "Hash": "c84d734071fe66d1efedf69de048a6a2ec6ffe13",
+        "Size": 154137
+      },
+      {
+        "Source": "releases/download/svm-offshore-oilrig-v1.0.0/Oilrig_TXT.utx",
+        "Destination": "Packages/Textures/Oilrig_TXT.utx",
+        "Hash": "38fff551258c5aaf6074d909c7c028221a52af32",
+        "Size": 898373
+      },
+      {
+        "Source": "releases/download/svm-offshore-oilrig-v1.0.0/OffsD.uas",
+        "Destination": "Packages/Sounds/OffsD.uas",
+        "Hash": "1b7019380a0441ced1e37177973951cc1fc419ce",
+        "Size": 3195410
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-orphanage",
+    "Name": "SCCT Versus - Orphanage",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-orphanage/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-orphanage-v1.0.0/STM_ORP.usx",
+        "Destination": "Packages/StaticMeshes/STM_ORP.usx",
+        "Hash": "f8ac2cb4ea272fc482c37de9ff4f62381824ac63",
+        "Size": 5074535
+      },
+      {
+        "Source": "releases/download/svm-orphanage-v1.0.0/OrphD-i.utc",
+        "Destination": "Packages/Textures/OrphD-i.utc",
+        "Hash": "5ad150104a35e2a2245c123ecde70e487d0907bb",
+        "Size": 180849
+      },
+      {
+        "Source": "releases/download/svm-orphanage-v1.0.0/OrphE-i.utc",
+        "Destination": "Packages/Textures/OrphE-i.utc",
+        "Hash": "2ea1406c55d1e220d6087dd8cc0eeac5b842f24b",
+        "Size": 181793
+      },
+      {
+        "Source": "releases/download/svm-orphanage-v1.0.0/OrphS-i.utc",
+        "Destination": "Packages/Textures/OrphS-i.utc",
+        "Hash": "116c29fbcb575c9e8c43b658bf5d6be711c139da",
+        "Size": 213717
+      },
+      {
+        "Source": "releases/download/svm-orphanage-v1.0.0/OrphT-i.utc",
+        "Destination": "Packages/Textures/OrphT-i.utc",
+        "Hash": "dc6432f8b99d38da6a866a70dcf651ef386084d3",
+        "Size": 181800
+      },
+      {
+        "Source": "releases/download/svm-orphanage-v1.0.0/TXT_ORP.utx",
+        "Destination": "Packages/Textures/TXT_ORP.utx",
+        "Hash": "6ae608acb53beb5648eb0cd40642d08cdd223963",
+        "Size": 1984579
+      },
+      {
+        "Source": "releases/download/svm-orphanage-v1.0.0/orf_anm.ukx",
+        "Destination": "Packages/Animations/orf_anm.ukx",
+        "Hash": "33f788b451714998f67abdf686bf7ff9c2fac0fc",
+        "Size": 1508033
+      },
+      {
+        "Source": "releases/download/svm-orphanage-v1.0.0/Amb_Orph.uax",
+        "Destination": "Packages/Sounds/Amb_Orph.uax",
+        "Hash": "a24b32de48b3af970d39934be2869a7a1413295e",
+        "Size": 2117601
+      },
+      {
+        "Source": "releases/download/svm-orphanage-v1.0.0/MC_Explo_Groupe_Serre.mux",
+        "Destination": "Packages/Sounds/MC_Explo_Groupe_Serre.mux",
+        "Hash": "da580143fc2a4141356ca6fb63c6eaf573f797fa",
+        "Size": 190
+      },
+      {
+        "Source": "releases/download/svm-orphanage-v1.0.0/MC_orph_explo_groupe.mux",
+        "Destination": "Packages/Sounds/MC_orph_explo_groupe.mux",
+        "Hash": "a6844e7ad719d686e9277a71d5b0fca465ad5b0a",
+        "Size": 189
+      },
+      {
+        "Source": "releases/download/svm-orphanage-v1.0.0/MC_orph_explo_plancher.mux",
+        "Destination": "Packages/Sounds/MC_orph_explo_plancher.mux",
+        "Hash": "09440f272a63ba1e8f26692324296ac1f228038c",
+        "Size": 195
+      },
+      {
+        "Source": "releases/download/svm-orphanage-v1.0.0/MC_orph_ext_cour.mux",
+        "Destination": "Packages/Sounds/MC_orph_ext_cour.mux",
+        "Hash": "387c4c98fc186df3c87b791ef4fe117e3589a530",
+        "Size": 125
+      },
+      {
+        "Source": "releases/download/svm-orphanage-v1.0.0/MC_orph_ext_jardin.mux",
+        "Destination": "Packages/Sounds/MC_orph_ext_jardin.mux",
+        "Hash": "38539ccc246a7231c6b258dec320abc81620272e",
+        "Size": 133
+      },
+      {
+        "Source": "releases/download/svm-orphanage-v1.0.0/OrphD.uas",
+        "Destination": "Packages/Sounds/OrphD.uas",
+        "Hash": "865fdf1943fa3d0fc36f11f7d88ea8f90c82c0e3",
+        "Size": 7114176
+      },
+      {
+        "Source": "releases/download/svm-orphanage-v1.0.0/OrphE.uas",
+        "Destination": "Packages/Sounds/OrphE.uas",
+        "Hash": "865fdf1943fa3d0fc36f11f7d88ea8f90c82c0e3",
+        "Size": 7114176
+      },
+      {
+        "Source": "releases/download/svm-orphanage-v1.0.0/OrphS.uas",
+        "Destination": "Packages/Sounds/OrphS.uas",
+        "Hash": "9b5b352a8c72e0f0fdae224c41969fdb18c96ba9",
+        "Size": 8237827
+      },
+      {
+        "Source": "releases/download/svm-orphanage-v1.0.0/OrphT.uas",
+        "Destination": "Packages/Sounds/OrphT.uas",
+        "Hash": "865fdf1943fa3d0fc36f11f7d88ea8f90c82c0e3",
+        "Size": 7114176
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-panama-bank",
+    "Name": "SCCT Versus - Panama Bank",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-panama-bank/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-panama-bank-v1.0.0/panama.usx",
+        "Destination": "Packages/StaticMeshes/panama.usx",
+        "Hash": "1014ef0b28a627c511c74e8ce57aa6e540a7bf4b",
+        "Size": 2698585
+      },
+      {
+        "Source": "releases/download/svm-panama-bank-v1.0.0/PanaD-i.utc",
+        "Destination": "Packages/Textures/PanaD-i.utc",
+        "Hash": "e6f5f154ff3e561a1152f1325abe686ff7238d26",
+        "Size": 203563
+      },
+      {
+        "Source": "releases/download/svm-panama-bank-v1.0.0/Panama_TXT.utx",
+        "Destination": "Packages/Textures/Panama_TXT.utx",
+        "Hash": "6bf19bc7bca8646239e8b1b59a4cb0ff913022e0",
+        "Size": 3646364
+      },
+      {
+        "Source": "releases/download/svm-panama-bank-v1.0.0/PanaS-i.utc",
+        "Destination": "Packages/Textures/PanaS-i.utc",
+        "Hash": "8b77de1e7935a71c092bf192f9c41fcb749a68ed",
+        "Size": 269032
+      },
+      {
+        "Source": "releases/download/svm-panama-bank-v1.0.0/amb_panama02.uax",
+        "Destination": "Packages/Sounds/amb_panama02.uax",
+        "Hash": "70627b9bc8ee1b62dac02544f4d1f779e76d8753",
+        "Size": 1043268
+      },
+      {
+        "Source": "releases/download/svm-panama-bank-v1.0.0/PanaD.uas",
+        "Destination": "Packages/Sounds/PanaD.uas",
+        "Hash": "5091f02b3a0d89efc4095e03bae35f93481a62ea",
+        "Size": 3952264
+      },
+      {
+        "Source": "releases/download/svm-panama-bank-v1.0.0/PanaS.uas",
+        "Destination": "Packages/Sounds/PanaS.uas",
+        "Hash": "5091f02b3a0d89efc4095e03bae35f93481a62ea",
+        "Size": 3952264
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-polar-base",
+    "Name": "SCCT Versus - Polar Base",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-polar-base/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-polar-base-v1.0.0/Map17_STM.usx",
+        "Destination": "Packages/StaticMeshes/Map17_STM.usx",
+        "Hash": "bf808a7426bb5ad322f12393abcfd5085a1aad41",
+        "Size": 5397562
+      },
+      {
+        "Source": "releases/download/svm-polar-base-v1.0.0/Map17_TXT.utx",
+        "Destination": "Packages/Textures/Map17_TXT.utx",
+        "Hash": "a6149768a1b1ac80e7501d63102e2f9b2c0e72db",
+        "Size": 5206444
+      },
+      {
+        "Source": "releases/download/svm-polar-base-v1.0.0/PolaD-i.utc",
+        "Destination": "Packages/Textures/PolaD-i.utc",
+        "Hash": "26a3e5545012d5c762958d69d75176b1418bc51a",
+        "Size": 245602
+      },
+      {
+        "Source": "releases/download/svm-polar-base-v1.0.0/PolaE-i.utc",
+        "Destination": "Packages/Textures/PolaE-i.utc",
+        "Hash": "98c821aa5092594c7303156109afe68c75832f14",
+        "Size": 246380
+      },
+      {
+        "Source": "releases/download/svm-polar-base-v1.0.0/PolaP-i.utc",
+        "Destination": "Packages/Textures/PolaP-i.utc",
+        "Hash": "7a565daad498990439e061e70482c3df191caaf9",
+        "Size": 245585
+      },
+      {
+        "Source": "releases/download/svm-polar-base-v1.0.0/PolaT-i.utc",
+        "Destination": "Packages/Textures/PolaT-i.utc",
+        "Hash": "e710440cb1349ed08d32e8a2706b7b215a4df3b3",
+        "Size": 246016
+      },
+      {
+        "Source": "releases/download/svm-polar-base-v1.0.0/map17_anm.ukx",
+        "Destination": "Packages/Animations/map17_anm.ukx",
+        "Hash": "126ed27cce8ac010155600a8eacc2503993aeb92",
+        "Size": 347578
+      },
+      {
+        "Source": "releases/download/svm-polar-base-v1.0.0/Amb_Polarbase.uax",
+        "Destination": "Packages/Sounds/Amb_Polarbase.uax",
+        "Hash": "ce2a336045870fff729ddf476fcc3d6897b1d247",
+        "Size": 1645619
+      },
+      {
+        "Source": "releases/download/svm-polar-base-v1.0.0/MC_pol_vent.mux",
+        "Destination": "Packages/Sounds/MC_pol_vent.mux",
+        "Hash": "d191f67a41432050bead468d02140819eb2b6c19",
+        "Size": 91
+      },
+      {
+        "Source": "releases/download/svm-polar-base-v1.0.0/PolaD.uas",
+        "Destination": "Packages/Sounds/PolaD.uas",
+        "Hash": "67e06666afbd4d498d6a7dbab8223222f91b25cb",
+        "Size": 4516956
+      },
+      {
+        "Source": "releases/download/svm-polar-base-v1.0.0/PolaE.uas",
+        "Destination": "Packages/Sounds/PolaE.uas",
+        "Hash": "67e06666afbd4d498d6a7dbab8223222f91b25cb",
+        "Size": 4516956
+      },
+      {
+        "Source": "releases/download/svm-polar-base-v1.0.0/PolaP.uas",
+        "Destination": "Packages/Sounds/PolaP.uas",
+        "Hash": "67e06666afbd4d498d6a7dbab8223222f91b25cb",
+        "Size": 4516956
+      },
+      {
+        "Source": "releases/download/svm-polar-base-v1.0.0/PolaT.uas",
+        "Destination": "Packages/Sounds/PolaT.uas",
+        "Hash": "67e06666afbd4d498d6a7dbab8223222f91b25cb",
+        "Size": 4516956
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-prison",
+    "Name": "SCCT Versus - Prison",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-prison/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-prison-v1.0.0/Penitentiary_STM.usx",
+        "Destination": "Packages/StaticMeshes/Penitentiary_STM.usx",
+        "Hash": "09bf2157e3c9b8c95598e63bf349333a01c02729",
+        "Size": 15478515
+      },
+      {
+        "Source": "releases/download/svm-prison-v1.0.0/Prison_STC.usx",
+        "Destination": "Packages/StaticMeshes/Prison_STC.usx",
+        "Hash": "72431df88158b4c25f4d6daf53bf155539a1c517",
+        "Size": 4402637
+      },
+      {
+        "Source": "releases/download/svm-prison-v1.0.0/Penitentiary_TXT.utx",
+        "Destination": "Packages/Textures/Penitentiary_TXT.utx",
+        "Hash": "6d3c236a92f5919b3bc262ec69e572e027f0dea6",
+        "Size": 34559420
+      },
+      {
+        "Source": "releases/download/svm-prison-v1.0.0/PrisD-i.utc",
+        "Destination": "Packages/Textures/PrisD-i.utc",
+        "Hash": "709b845fc24a2a9afdcff66250b6dadb954a6adc",
+        "Size": 171197
+      },
+      {
+        "Source": "releases/download/svm-prison-v1.0.0/Prison_TEX.utx",
+        "Destination": "Packages/Textures/Prison_TEX.utx",
+        "Hash": "0be70fb33b8f4937aa81e9d4fef4f254a9dee403",
+        "Size": 2895620
+      },
+      {
+        "Source": "releases/download/svm-prison-v1.0.0/Amb_Penitentiary.uax",
+        "Destination": "Packages/Sounds/Amb_Penitentiary.uax",
+        "Hash": "2dca19d088d0a3eee6176adeb96c989c80c83b3f",
+        "Size": 3827532
+      },
+      {
+        "Source": "releases/download/svm-prison-v1.0.0/PrisD.uas",
+        "Destination": "Packages/Sounds/PrisD.uas",
+        "Hash": "b5e654310fc65502f2bc1ddcac5f506239156cf4",
+        "Size": 11493040
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-pyrocryptic",
+    "Name": "SCCT Versus - Pyrocryptic",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-pyrocryptic/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-pyrocryptic-v1.0.0/crypt01_sm.usx",
+        "Destination": "Packages/StaticMeshes/crypt01_sm.usx",
+        "Hash": "c66497399415506ea8f57e4efdf5f1934e4f9f29",
+        "Size": 4374470
+      },
+      {
+        "Source": "releases/download/svm-pyrocryptic-v1.0.0/crypt_txt.utx",
+        "Destination": "Packages/Textures/crypt_txt.utx",
+        "Hash": "027f814a78f8bd222d7ca31093da5fa9cd5ebdac",
+        "Size": 10340841
+      },
+      {
+        "Source": "releases/download/svm-pyrocryptic-v1.0.0/PyroD-i.utc",
+        "Destination": "Packages/Textures/PyroD-i.utc",
+        "Hash": "a6d109ecf657ef2506fc04a0fdb1c0c5ccd684bb",
+        "Size": 216357
+      },
+      {
+        "Source": "releases/download/svm-pyrocryptic-v1.0.0/PyroD.uas",
+        "Destination": "Packages/Sounds/PyroD.uas",
+        "Hash": "1b7019380a0441ced1e37177973951cc1fc419ce",
+        "Size": 3195410
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-river-mall",
+    "Name": "SCCT Versus - River Mall",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-river-mall/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-river-mall-v1.0.0/ERM_STM.usx",
+        "Destination": "Packages/StaticMeshes/ERM_STM.usx",
+        "Hash": "2661cb57c281d457367e20cbeb65c0dcf2147dbf",
+        "Size": 355005
+      },
+      {
+        "Source": "releases/download/svm-river-mall-v1.0.0/Mall_tibu_stc.usx",
+        "Destination": "Packages/StaticMeshes/Mall_tibu_stc.usx",
+        "Hash": "2380281812fac577aed387849ec78162d4a7cff8",
+        "Size": 2067153
+      },
+      {
+        "Source": "releases/download/svm-river-mall-v1.0.0/STM_MALL.usx",
+        "Destination": "Packages/StaticMeshes/STM_MALL.usx",
+        "Hash": "2c4a8c79fd8b430363eb7eedad3045350ff628d1",
+        "Size": 4520047
+      },
+      {
+        "Source": "releases/download/svm-river-mall-v1.0.0/Mall_tibu.utx",
+        "Destination": "Packages/Textures/Mall_tibu.utx",
+        "Hash": "7aa5756b52bda7c29c011310c56234e2de4e955e",
+        "Size": 1008960
+      },
+      {
+        "Source": "releases/download/svm-river-mall-v1.0.0/RiveD-i.utc",
+        "Destination": "Packages/Textures/RiveD-i.utc",
+        "Hash": "0bf2652c2127f6f824fac123e69afa0487fbfe34",
+        "Size": 189859
+      },
+      {
+        "Source": "releases/download/svm-river-mall-v1.0.0/RiveE-i.utc",
+        "Destination": "Packages/Textures/RiveE-i.utc",
+        "Hash": "3b07c6ee10bce28124b3003dcf9a3a449624af2f",
+        "Size": 190313
+      },
+      {
+        "Source": "releases/download/svm-river-mall-v1.0.0/RiveP-i.utc",
+        "Destination": "Packages/Textures/RiveP-i.utc",
+        "Hash": "ee6d733d2a0c76fce20ec8866a7f0cbb71872a1e",
+        "Size": 189862
+      },
+      {
+        "Source": "releases/download/svm-river-mall-v1.0.0/TXT_MAL.utx",
+        "Destination": "Packages/Textures/TXT_MAL.utx",
+        "Hash": "02580b6aef95ae207779cf70941347d535e53ff6",
+        "Size": 2345434
+      },
+      {
+        "Source": "releases/download/svm-river-mall-v1.0.0/MAL_anm.ukx",
+        "Destination": "Packages/Animations/MAL_anm.ukx",
+        "Hash": "b80e5009468d4a992719c9934746e77d0044c52e",
+        "Size": 107612
+      },
+      {
+        "Source": "releases/download/svm-river-mall-v1.0.0/RiveD.uas",
+        "Destination": "Packages/Sounds/RiveD.uas",
+        "Hash": "4bfa6651565c94ea8bca5b9eb3aa920c67a5aaef",
+        "Size": 3859803
+      },
+      {
+        "Source": "releases/download/svm-river-mall-v1.0.0/RiveE.uas",
+        "Destination": "Packages/Sounds/RiveE.uas",
+        "Hash": "4bfa6651565c94ea8bca5b9eb3aa920c67a5aaef",
+        "Size": 3859803
+      },
+      {
+        "Source": "releases/download/svm-river-mall-v1.0.0/RiveP.uas",
+        "Destination": "Packages/Sounds/RiveP.uas",
+        "Hash": "4bfa6651565c94ea8bca5b9eb3aa920c67a5aaef",
+        "Size": 3859803
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-sanctuary",
+    "Name": "SCCT Versus - Sanctuary",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-sanctuary/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-sanctuary-v1.0.0/CHU01_SM.usx",
+        "Destination": "Packages/StaticMeshes/CHU01_SM.usx",
+        "Hash": "38d46e96d5a0bc9cb760486fd370e757e987cbd8",
+        "Size": 3522568
+      },
+      {
+        "Source": "releases/download/svm-sanctuary-v1.0.0/ESA20_STM.usx",
+        "Destination": "Packages/StaticMeshes/ESA20_STM.usx",
+        "Hash": "8954262345b4182bbb27998906c9ebcbe0623dcb",
+        "Size": 137545
+      },
+      {
+        "Source": "releases/download/svm-sanctuary-v1.0.0/CHU01_TXT.utx",
+        "Destination": "Packages/Textures/CHU01_TXT.utx",
+        "Hash": "16c254d57e0406066f7ea4242dbbb0960c339d6f",
+        "Size": 1878242
+      },
+      {
+        "Source": "releases/download/svm-sanctuary-v1.0.0/ESA20_TXT.utx",
+        "Destination": "Packages/Textures/ESA20_TXT.utx",
+        "Hash": "658893e1dbae9e7354e1e1a4147fa4a9ecb70c38",
+        "Size": 452177
+      },
+      {
+        "Source": "releases/download/svm-sanctuary-v1.0.0/SancD-i.utc",
+        "Destination": "Packages/Textures/SancD-i.utc",
+        "Hash": "36224584052258dd82ff05b7219d0254cc4791ad",
+        "Size": 192058
+      },
+      {
+        "Source": "releases/download/svm-sanctuary-v1.0.0/SancE-i.utc",
+        "Destination": "Packages/Textures/SancE-i.utc",
+        "Hash": "7bedfff75692afefe3e24726e7cb399ee41db6c7",
+        "Size": 156890
+      },
+      {
+        "Source": "releases/download/svm-sanctuary-v1.0.0/SancD.uas",
+        "Destination": "Packages/Sounds/SancD.uas",
+        "Hash": "6310708ccf022c119cc6d662d6c2904286c90883",
+        "Size": 3918770
+      },
+      {
+        "Source": "releases/download/svm-sanctuary-v1.0.0/SancE.uas",
+        "Destination": "Packages/Sounds/SancE.uas",
+        "Hash": "2be8ce4fd039f60bad1efad5ec3b03459bbc3590",
+        "Size": 4319133
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-schermerhorn",
+    "Name": "SCCT Versus - Schermerhorn",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-schermerhorn/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-schermerhorn-v1.0.0/fixsm.usx",
+        "Destination": "Packages/StaticMeshes/fixsm.usx",
+        "Hash": "d02deac470377ee6d15a563b6d0d5bbaa432866c",
+        "Size": 886
+      },
+      {
+        "Source": "releases/download/svm-schermerhorn-v1.0.0/SM_Egouts.usx",
+        "Destination": "Packages/StaticMeshes/SM_Egouts.usx",
+        "Hash": "50a4923c85c58cedca6e6882e1c0a0fbc29ac60a",
+        "Size": 6663121
+      },
+      {
+        "Source": "releases/download/svm-schermerhorn-v1.0.0/fixtxt.utx",
+        "Destination": "Packages/Textures/fixtxt.utx",
+        "Hash": "492ed656518335f1d6c7c40fba155676b0ec9861",
+        "Size": 66010
+      },
+      {
+        "Source": "releases/download/svm-schermerhorn-v1.0.0/ScheE-i.utc",
+        "Destination": "Packages/Textures/ScheE-i.utc",
+        "Hash": "c1e01eb4971d3d833636793a596e8692887e0ec8",
+        "Size": 151206
+      },
+      {
+        "Source": "releases/download/svm-schermerhorn-v1.0.0/ScheU-i.utc",
+        "Destination": "Packages/Textures/ScheU-i.utc",
+        "Hash": "cb19f592a785d825a15bb9cfb1daf0152fc365c3",
+        "Size": 202223
+      },
+      {
+        "Source": "releases/download/svm-schermerhorn-v1.0.0/SFX_SCH_xbox.utx",
+        "Destination": "Packages/Textures/SFX_SCH_xbox.utx",
+        "Hash": "79933fa5cd5eb25b4df8eae0a0a249fdd9c7793c",
+        "Size": 164766
+      },
+      {
+        "Source": "releases/download/svm-schermerhorn-v1.0.0/Tex_Egouts.utx",
+        "Destination": "Packages/Textures/Tex_Egouts.utx",
+        "Hash": "e6a9edc4e36b325eac10b9b467093fc247bcfa4e",
+        "Size": 3154343
+      },
+      {
+        "Source": "releases/download/svm-schermerhorn-v1.0.0/Tex_Egouts_XBox.utx",
+        "Destination": "Packages/Textures/Tex_Egouts_XBox.utx",
+        "Hash": "3f595763f09d3af090ce5ea530d108af0a7c4195",
+        "Size": 1166722
+      },
+      {
+        "Source": "releases/download/svm-schermerhorn-v1.0.0/Amb_Egouts.uax",
+        "Destination": "Packages/Sounds/Amb_Egouts.uax",
+        "Hash": "d0a19280bcf5486647533ac388757595d60ce203",
+        "Size": 3381871
+      },
+      {
+        "Source": "releases/download/svm-schermerhorn-v1.0.0/ScheE.uas",
+        "Destination": "Packages/Sounds/ScheE.uas",
+        "Hash": "7c03cd3e9af66c6ce4884024b48a4698af1d8abc",
+        "Size": 3805109
+      },
+      {
+        "Source": "releases/download/svm-schermerhorn-v1.0.0/ScheU.uas",
+        "Destination": "Packages/Sounds/ScheU.uas",
+        "Hash": "7c03cd3e9af66c6ce4884024b48a4698af1d8abc",
+        "Size": 3805109
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-shadow-moses",
+    "Name": "SCCT Versus - Shadow Moses",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-shadow-moses/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-shadow-moses-v1.0.0/Shadow_V2.usx",
+        "Destination": "Packages/StaticMeshes/Shadow_V2.usx",
+        "Hash": "dd17ef552d557dd221628e7c7f4e644a9ddfe1e1",
+        "Size": 1495600
+      },
+      {
+        "Source": "releases/download/svm-shadow-moses-v1.0.0/ShadowMoses_SM.usx",
+        "Destination": "Packages/StaticMeshes/ShadowMoses_SM.usx",
+        "Hash": "3e560edfafeda080b00c8a95fb5a8076dc94a1ec",
+        "Size": 4321822
+      },
+      {
+        "Source": "releases/download/svm-shadow-moses-v1.0.0/ShadD-i.utc",
+        "Destination": "Packages/Textures/ShadD-i.utc",
+        "Hash": "1501f8a939eef3ddb1c64fb5c4a1f190f0e9e0be",
+        "Size": 104458
+      },
+      {
+        "Source": "releases/download/svm-shadow-moses-v1.0.0/Shadow_V2.utx",
+        "Destination": "Packages/Textures/Shadow_V2.utx",
+        "Hash": "0709fa58a6d7dbdf5598005570db81e71958922e",
+        "Size": 1485475
+      },
+      {
+        "Source": "releases/download/svm-shadow-moses-v1.0.0/ShadowMoses_T.utx",
+        "Destination": "Packages/Textures/ShadowMoses_T.utx",
+        "Hash": "db17a67362451a10c529894a3d92763887441ae2",
+        "Size": 8660048
+      },
+      {
+        "Source": "releases/download/svm-shadow-moses-v1.0.0/ShadP-i.utc",
+        "Destination": "Packages/Textures/ShadP-i.utc",
+        "Hash": "7eaae9b80852cde2077df832bb6327835f2df1d8",
+        "Size": 105835
+      },
+      {
+        "Source": "releases/download/svm-shadow-moses-v1.0.0/ShadD.uas",
+        "Destination": "Packages/Sounds/ShadD.uas",
+        "Hash": "1b7019380a0441ced1e37177973951cc1fc419ce",
+        "Size": 3195410
+      },
+      {
+        "Source": "releases/download/svm-shadow-moses-v1.0.0/ShadP.uas",
+        "Destination": "Packages/Sounds/ShadP.uas",
+        "Hash": "ff315afd6fa9f1fc67073497c7816f42f104c559",
+        "Size": 4407880
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-skyscraper",
+    "Name": "SCCT Versus - Skyscraper",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-skyscraper/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-skyscraper-v1.0.0/SKV22_STM.usx",
+        "Destination": "Packages/StaticMeshes/SKV22_STM.usx",
+        "Hash": "6aa43ccba59a687126ebba013c8861f0a46f1341",
+        "Size": 510830
+      },
+      {
+        "Source": "releases/download/svm-skyscraper-v1.0.0/SM_SKY09.usx",
+        "Destination": "Packages/StaticMeshes/SM_SKY09.usx",
+        "Hash": "cbcaf4b5b9d9abf398abcd7e416c9a9356e51da4",
+        "Size": 3312238
+      },
+      {
+        "Source": "releases/download/svm-skyscraper-v1.0.0/stm_spy.usx",
+        "Destination": "Packages/StaticMeshes/stm_spy.usx",
+        "Hash": "fff127f641ad7a13a40255d42df27ec764d8c26b",
+        "Size": 4956464
+      },
+      {
+        "Source": "releases/download/svm-skyscraper-v1.0.0/SKV22_TXT.utx",
+        "Destination": "Packages/Textures/SKV22_TXT.utx",
+        "Hash": "4d305db1259794bc823bf7dcaba59ba0fa83ddff",
+        "Size": 4784209
+      },
+      {
+        "Source": "releases/download/svm-skyscraper-v1.0.0/SkysD-i.utc",
+        "Destination": "Packages/Textures/SkysD-i.utc",
+        "Hash": "44f3e44d88baf4101cfcc5558fa9974926d0400e",
+        "Size": 191778
+      },
+      {
+        "Source": "releases/download/svm-skyscraper-v1.0.0/SkysP-i.utc",
+        "Destination": "Packages/Textures/SkysP-i.utc",
+        "Hash": "5325332fff635962b81fdb7d5dc2bc8a613f2075",
+        "Size": 191972
+      },
+      {
+        "Source": "releases/download/svm-skyscraper-v1.0.0/TX_SKY09.utx",
+        "Destination": "Packages/Textures/TX_SKY09.utx",
+        "Hash": "3a814bbfda248fb96025ec219201ecb7c875d994",
+        "Size": 2079722
+      },
+      {
+        "Source": "releases/download/svm-skyscraper-v1.0.0/txt_spy.utx",
+        "Destination": "Packages/Textures/txt_spy.utx",
+        "Hash": "471c43aca523b86120debd76ff5adce9b8aa45fb",
+        "Size": 4291964
+      },
+      {
+        "Source": "releases/download/svm-skyscraper-v1.0.0/Amb_Skyscraper.uax",
+        "Destination": "Packages/Sounds/Amb_Skyscraper.uax",
+        "Hash": "ef0f0d156b54fdc2ce6d12b1c0928e5a94b7e749",
+        "Size": 717435
+      },
+      {
+        "Source": "releases/download/svm-skyscraper-v1.0.0/SkysD.uas",
+        "Destination": "Packages/Sounds/SkysD.uas",
+        "Hash": "80a2554c94ef0ec3f8037674e5857e8791348271",
+        "Size": 5730060
+      },
+      {
+        "Source": "releases/download/svm-skyscraper-v1.0.0/SkysP.uas",
+        "Destination": "Packages/Sounds/SkysP.uas",
+        "Hash": "80a2554c94ef0ec3f8037674e5857e8791348271",
+        "Size": 5730060
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-slaughterhouse",
+    "Name": "SCCT Versus - Slaughterhouse",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-slaughterhouse/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-slaughterhouse-v1.0.0/SLH07_STM.usx",
+        "Destination": "Packages/StaticMeshes/SLH07_STM.usx",
+        "Hash": "a10f4ca7fadd96a80b51ccce814f4eba664c4025",
+        "Size": 533933
+      },
+      {
+        "Source": "releases/download/svm-slaughterhouse-v1.0.0/SlauS-i.utc",
+        "Destination": "Packages/Textures/SlauS-i.utc",
+        "Hash": "095d2fc7b5e0fe1b91919d47b35f871a314d4367",
+        "Size": 243496
+      },
+      {
+        "Source": "releases/download/svm-slaughterhouse-v1.0.0/SLH07_TXT.utx",
+        "Destination": "Packages/Textures/SLH07_TXT.utx",
+        "Hash": "b22878b78836547f87da86693c89f0f2a3f06cda",
+        "Size": 2086683
+      },
+      {
+        "Source": "releases/download/svm-slaughterhouse-v1.0.0/SlauS.uas",
+        "Destination": "Packages/Sounds/SlauS.uas",
+        "Hash": "ff315afd6fa9f1fc67073497c7816f42f104c559",
+        "Size": 4407880
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-station",
+    "Name": "SCCT Versus - Station",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-station/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-station-v1.0.0/EST_STM.usx",
+        "Destination": "Packages/StaticMeshes/EST_STM.usx",
+        "Hash": "61bc4af25a35700533e7096cfe20cd145c1fbf37",
+        "Size": 61088
+      },
+      {
+        "Source": "releases/download/svm-station-v1.0.0/GAR_STM.usx",
+        "Destination": "Packages/StaticMeshes/GAR_STM.usx",
+        "Hash": "c76865462d086e34202f00dd6612a0064389528c",
+        "Size": 4840434
+      },
+      {
+        "Source": "releases/download/svm-station-v1.0.0/EST_TXT.utx",
+        "Destination": "Packages/Textures/EST_TXT.utx",
+        "Hash": "7d4ab9aa25fb27b213820745b2760cd61823598c",
+        "Size": 67290
+      },
+      {
+        "Source": "releases/download/svm-station-v1.0.0/GAR_TXT.utx",
+        "Destination": "Packages/Textures/GAR_TXT.utx",
+        "Hash": "e9e2b7c425cd8d632951a63f8e5cf1e524af98c1",
+        "Size": 4108959
+      },
+      {
+        "Source": "releases/download/svm-station-v1.0.0/StatD-i.utc",
+        "Destination": "Packages/Textures/StatD-i.utc",
+        "Hash": "3ca46c2a81da2452249c2d37e58e93c4abca253f",
+        "Size": 168733
+      },
+      {
+        "Source": "releases/download/svm-station-v1.0.0/StatE-i.utc",
+        "Destination": "Packages/Textures/StatE-i.utc",
+        "Hash": "8eb5dde52168eb369d91e2ee159ee5e7f4b764ac",
+        "Size": 169570
+      },
+      {
+        "Source": "releases/download/svm-station-v1.0.0/StatS-i.utc",
+        "Destination": "Packages/Textures/StatS-i.utc",
+        "Hash": "959da1d8e1277f4f0b8c6443ee1297f98d3608bd",
+        "Size": 168694
+      },
+      {
+        "Source": "releases/download/svm-station-v1.0.0/GAR_anm.ukx",
+        "Destination": "Packages/Animations/GAR_anm.ukx",
+        "Hash": "e122de7dbad85ddadd4dfd56296349106073a854",
+        "Size": 1625873
+      },
+      {
+        "Source": "releases/download/svm-station-v1.0.0/Amb_Gare.uax",
+        "Destination": "Packages/Sounds/Amb_Gare.uax",
+        "Hash": "e108ace5f50f97a633ecfbf5839cea5dc743ac5f",
+        "Size": 2273880
+      },
+      {
+        "Source": "releases/download/svm-station-v1.0.0/MC_gare_ambExt.mux",
+        "Destination": "Packages/Sounds/MC_gare_ambExt.mux",
+        "Hash": "81b40f8c773a416bc169d5d2b6a865c399cd8756",
+        "Size": 115
+      },
+      {
+        "Source": "releases/download/svm-station-v1.0.0/MC_gare_train.mux",
+        "Destination": "Packages/Sounds/MC_gare_train.mux",
+        "Hash": "373a13e45dfc47600f5643da07cfb740e45ac4ac",
+        "Size": 140
+      },
+      {
+        "Source": "releases/download/svm-station-v1.0.0/StatD.uas",
+        "Destination": "Packages/Sounds/StatD.uas",
+        "Hash": "a584313693af379d3d6c6fd73a95215a54c593d7",
+        "Size": 6922133
+      },
+      {
+        "Source": "releases/download/svm-station-v1.0.0/StatE.uas",
+        "Destination": "Packages/Sounds/StatE.uas",
+        "Hash": "a584313693af379d3d6c6fd73a95215a54c593d7",
+        "Size": 6922133
+      },
+      {
+        "Source": "releases/download/svm-station-v1.0.0/StatS.uas",
+        "Destination": "Packages/Sounds/StatS.uas",
+        "Hash": "a584313693af379d3d6c6fd73a95215a54c593d7",
+        "Size": 6922133
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-steel-squat",
+    "Name": "SCCT Versus - Steel Squat",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-steel-squat/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-steel-squat-v1.0.0/ESS_STM.usx",
+        "Destination": "Packages/StaticMeshes/ESS_STM.usx",
+        "Hash": "b1ca113cdefd5f0fa4ed8201601c54b32cc37a73",
+        "Size": 14265
+      },
+      {
+        "Source": "releases/download/svm-steel-squat-v1.0.0/SQU13_STM.usx",
+        "Destination": "Packages/StaticMeshes/SQU13_STM.usx",
+        "Hash": "769eaa9aa76ed99901ddfd868eb1ce811697e823",
+        "Size": 4687878
+      },
+      {
+        "Source": "releases/download/svm-steel-squat-v1.0.0/SQU13_txt.utx",
+        "Destination": "Packages/Textures/SQU13_txt.utx",
+        "Hash": "c7b94afbdf12c4cec56261804e42921f8b43a98c",
+        "Size": 3713064
+      },
+      {
+        "Source": "releases/download/svm-steel-squat-v1.0.0/SteeD-i.utc",
+        "Destination": "Packages/Textures/SteeD-i.utc",
+        "Hash": "24eca15a534ca3a62a254241c280a83b97b49338",
+        "Size": 247687
+      },
+      {
+        "Source": "releases/download/svm-steel-squat-v1.0.0/SteeE-i.utc",
+        "Destination": "Packages/Textures/SteeE-i.utc",
+        "Hash": "7a5cbac7dc9467e8ce45f9dd8d427e2d6b263694",
+        "Size": 248312
+      },
+      {
+        "Source": "releases/download/svm-steel-squat-v1.0.0/SteeP-i.utc",
+        "Destination": "Packages/Textures/SteeP-i.utc",
+        "Hash": "697f77849e7fae34173121d54fa6733b16d126b1",
+        "Size": 247693
+      },
+      {
+        "Source": "releases/download/svm-steel-squat-v1.0.0/SteeT-i.utc",
+        "Destination": "Packages/Textures/SteeT-i.utc",
+        "Hash": "80f35deb426c68b6f6608c191aab22fa946d94fa",
+        "Size": 248366
+      },
+      {
+        "Source": "releases/download/svm-steel-squat-v1.0.0/sqt13_anm.ukx",
+        "Destination": "Packages/Animations/sqt13_anm.ukx",
+        "Hash": "87064adca8d8e31b6f003bdd8adb69bcc2a7dd73",
+        "Size": 264629
+      },
+      {
+        "Source": "releases/download/svm-steel-squat-v1.0.0/Amb_Squat.uax",
+        "Destination": "Packages/Sounds/Amb_Squat.uax",
+        "Hash": "b7f97e4d76ba46789b470ab259afd0b130911376",
+        "Size": 3261678
+      },
+      {
+        "Source": "releases/download/svm-steel-squat-v1.0.0/MC_mur_destroy.mux",
+        "Destination": "Packages/Sounds/MC_mur_destroy.mux",
+        "Hash": "f2dbe0210da5e38ab077300fbce9e52a5acb6bb7",
+        "Size": 155
+      },
+      {
+        "Source": "releases/download/svm-steel-squat-v1.0.0/MC_Squ_rue_ext.mux",
+        "Destination": "Packages/Sounds/MC_Squ_rue_ext.mux",
+        "Hash": "0b4f560afbda9fc990f9a3b795a78954bbd8f4be",
+        "Size": 103
+      },
+      {
+        "Source": "releases/download/svm-steel-squat-v1.0.0/SteeD.uas",
+        "Destination": "Packages/Sounds/SteeD.uas",
+        "Hash": "c3a494bdccd44ddf117fb81b11077a22eb1ec89a",
+        "Size": 8293212
+      },
+      {
+        "Source": "releases/download/svm-steel-squat-v1.0.0/SteeE.uas",
+        "Destination": "Packages/Sounds/SteeE.uas",
+        "Hash": "c3a494bdccd44ddf117fb81b11077a22eb1ec89a",
+        "Size": 8293212
+      },
+      {
+        "Source": "releases/download/svm-steel-squat-v1.0.0/SteeP.uas",
+        "Destination": "Packages/Sounds/SteeP.uas",
+        "Hash": "c3a494bdccd44ddf117fb81b11077a22eb1ec89a",
+        "Size": 8293212
+      },
+      {
+        "Source": "releases/download/svm-steel-squat-v1.0.0/SteeT.uas",
+        "Destination": "Packages/Sounds/SteeT.uas",
+        "Hash": "c3a494bdccd44ddf117fb81b11077a22eb1ec89a",
+        "Size": 8293212
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-stronghold",
+    "Name": "SCCT Versus - Stronghold",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-stronghold/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-stronghold-v1.0.0/Island.usx",
+        "Destination": "Packages/StaticMeshes/Island.usx",
+        "Hash": "f20483d7c4dd98f20413ce508fec5a200aabbbc3",
+        "Size": 8407327
+      },
+      {
+        "Source": "releases/download/svm-stronghold-v1.0.0/STRH_meshes.usx",
+        "Destination": "Packages/StaticMeshes/STRH_meshes.usx",
+        "Hash": "8ca47ca418284629c4a93302cb754c654ae4179c",
+        "Size": 2693300
+      },
+      {
+        "Source": "releases/download/svm-stronghold-v1.0.0/STRH_txt.utx",
+        "Destination": "Packages/Textures/STRH_txt.utx",
+        "Hash": "2bb68fabc96d4a988b6c062f795f05ff969b43a6",
+        "Size": 5260742
+      },
+      {
+        "Source": "releases/download/svm-stronghold-v1.0.0/StroD-i.utc",
+        "Destination": "Packages/Textures/StroD-i.utc",
+        "Hash": "515b0133be6360ba622211c129b1ed48f879f735",
+        "Size": 193909
+      },
+      {
+        "Source": "releases/download/svm-stronghold-v1.0.0/Amb_Stronghold.uax",
+        "Destination": "Packages/Sounds/Amb_Stronghold.uax",
+        "Hash": "62a6aefcaa43aace9879821386faeb1695a047f2",
+        "Size": 588
+      },
+      {
+        "Source": "releases/download/svm-stronghold-v1.0.0/StroD.uas",
+        "Destination": "Packages/Sounds/StroD.uas",
+        "Hash": "fed039ad4ec0e0ca8a6031a771d589e8ec8b9cc7",
+        "Size": 4012872
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-tme",
+    "Name": "SCCT Versus - TME30-33",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-tme/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-tme-v1.0.0/TME01_STM.usx",
+        "Destination": "Packages/StaticMeshes/TME01_STM.usx",
+        "Hash": "295df04f0473e23390e9d8b2d20c3f88642cf9f3",
+        "Size": 3126914
+      },
+      {
+        "Source": "releases/download/svm-tme-v1.0.0/TME01_TXT.utx",
+        "Destination": "Packages/Textures/TME01_TXT.utx",
+        "Hash": "68e4f30e6fda630f1921f62a0173c1d62a3f0f94",
+        "Size": 6160846
+      },
+      {
+        "Source": "releases/download/svm-tme-v1.0.0/TME30-i.utc",
+        "Destination": "Packages/Textures/TME30-i.utc",
+        "Hash": "5b0a505410df0894bdc1742b5cb858fcb4bdc75b",
+        "Size": 83171
+      },
+      {
+        "Source": "releases/download/svm-tme-v1.0.0/TME32-i.utc",
+        "Destination": "Packages/Textures/TME32-i.utc",
+        "Hash": "361fcc86e3b88a3202fbe1f8cdf60f933fbfa281",
+        "Size": 79168
+      },
+      {
+        "Source": "releases/download/svm-tme-v1.0.0/TME33-i.utc",
+        "Destination": "Packages/Textures/TME33-i.utc",
+        "Hash": "4c906384342f65be12b35e7cc3dd9299ac3bbc0b",
+        "Size": 78854
+      },
+      {
+        "Source": "releases/download/svm-tme-v1.0.0/TME01_anm.ukx",
+        "Destination": "Packages/Animations/TME01_anm.ukx",
+        "Hash": "7244a2ff822cb1256ebfafd9780fdd1b685845d3",
+        "Size": 2983734
+      },
+      {
+        "Source": "releases/download/svm-tme-v1.0.0/Amb_Tme.uax",
+        "Destination": "Packages/Sounds/Amb_Tme.uax",
+        "Hash": "41e01ee2ee786674a7f184c009454004c1ddfc49",
+        "Size": 1405300
+      },
+      {
+        "Source": "releases/download/svm-tme-v1.0.0/MC_tme_exploMur.mux",
+        "Destination": "Packages/Sounds/MC_tme_exploMur.mux",
+        "Hash": "f528f624a2c64ce2f37bdcdc5727c863ad4113c7",
+        "Size": 153
+      },
+      {
+        "Source": "releases/download/svm-tme-v1.0.0/TME30.uas",
+        "Destination": "Packages/Sounds/TME30.uas",
+        "Hash": "4bd0f1af056fc586512a6614712629dddeeeb0b2",
+        "Size": 3470097
+      },
+      {
+        "Source": "releases/download/svm-tme-v1.0.0/TME32.uas",
+        "Destination": "Packages/Sounds/TME32.uas",
+        "Hash": "f36c07199221e8352301a8ba303d5be182c7e44b",
+        "Size": 3469953
+      },
+      {
+        "Source": "releases/download/svm-tme-v1.0.0/TME33.uas",
+        "Destination": "Packages/Sounds/TME33.uas",
+        "Hash": "f36c07199221e8352301a8ba303d5be182c7e44b",
+        "Size": 3469953
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-tsp",
+    "Name": "SCCT Versus - TSP20-29",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-tsp/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-tsp-v1.0.0/TSP01_STM.usx",
+        "Destination": "Packages/StaticMeshes/TSP01_STM.usx",
+        "Hash": "7dd81341f31cdfdf286c1f5fff9d3d0114422b29",
+        "Size": 4829243
+      },
+      {
+        "Source": "releases/download/svm-tsp-v1.0.0/TSP01_TXT.utx",
+        "Destination": "Packages/Textures/TSP01_TXT.utx",
+        "Hash": "dacbd15a4d7f901ed36bed1453241f467d989910",
+        "Size": 7377164
+      },
+      {
+        "Source": "releases/download/svm-tsp-v1.0.0/TSP20-i.utc",
+        "Destination": "Packages/Textures/TSP20-i.utc",
+        "Hash": "c379ce6be5d81ea8d9277667a7bc4e815bb92b2e",
+        "Size": 79407
+      },
+      {
+        "Source": "releases/download/svm-tsp-v1.0.0/TSP21-i.utc",
+        "Destination": "Packages/Textures/TSP21-i.utc",
+        "Hash": "8ad486d383d772c22482fc6440021f61b31df6f8",
+        "Size": 73403
+      },
+      {
+        "Source": "releases/download/svm-tsp-v1.0.0/TSP22-i.utc",
+        "Destination": "Packages/Textures/TSP22-i.utc",
+        "Hash": "34a6f166aa490ea24d6967871719321c3799023a",
+        "Size": 74950
+      },
+      {
+        "Source": "releases/download/svm-tsp-v1.0.0/TSP23-i.utc",
+        "Destination": "Packages/Textures/TSP23-i.utc",
+        "Hash": "df08847048589966780427a64a1d09d84ee257f7",
+        "Size": 73102
+      },
+      {
+        "Source": "releases/download/svm-tsp-v1.0.0/TSP29-i.utc",
+        "Destination": "Packages/Textures/TSP29-i.utc",
+        "Hash": "536a397748c878ea3fb7278d614dd83d352b55f6",
+        "Size": 80981
+      },
+      {
+        "Source": "releases/download/svm-tsp-v1.0.0/TSP01_anm.ukx",
+        "Destination": "Packages/Animations/TSP01_anm.ukx",
+        "Hash": "ae34a0413b62e20b1c0618ef03340f582d80cbf8",
+        "Size": 4407197
+      },
+      {
+        "Source": "releases/download/svm-tsp-v1.0.0/Amb_Tsp.uax",
+        "Destination": "Packages/Sounds/Amb_Tsp.uax",
+        "Hash": "ef725182fa567350883d23ca4c1cc3e48fbbf990",
+        "Size": 1255396
+      },
+      {
+        "Source": "releases/download/svm-tsp-v1.0.0/TSP20.uas",
+        "Destination": "Packages/Sounds/TSP20.uas",
+        "Hash": "eee054e5900714784ec4a1d5d5853c23342dfc82",
+        "Size": 3496047
+      },
+      {
+        "Source": "releases/download/svm-tsp-v1.0.0/TSP21.uas",
+        "Destination": "Packages/Sounds/TSP21.uas",
+        "Hash": "551de614ea7b5b0895ee83a1eb9bad592c12005a",
+        "Size": 3496047
+      },
+      {
+        "Source": "releases/download/svm-tsp-v1.0.0/TSP22.uas",
+        "Destination": "Packages/Sounds/TSP22.uas",
+        "Hash": "3d53c6623cff01330a58e345e9ce9d09d9d442eb",
+        "Size": 3496047
+      },
+      {
+        "Source": "releases/download/svm-tsp-v1.0.0/TSP23.uas",
+        "Destination": "Packages/Sounds/TSP23.uas",
+        "Hash": "7a634c4ecf94605c6e5f631ddd52bb6771474110",
+        "Size": 3496047
+      },
+      {
+        "Source": "releases/download/svm-tsp-v1.0.0/TSP29.uas",
+        "Destination": "Packages/Sounds/TSP29.uas",
+        "Hash": "551de614ea7b5b0895ee83a1eb9bad592c12005a",
+        "Size": 3496047
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-terminus",
+    "Name": "SCCT Versus - Terminus",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-terminus/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-terminus-v1.0.0/Terminus_STM.usx",
+        "Destination": "Packages/StaticMeshes/Terminus_STM.usx",
+        "Hash": "909c9320ab897096ee49e1767cab062450f6d840",
+        "Size": 35806297
+      },
+      {
+        "Source": "releases/download/svm-terminus-v1.0.0/TermD-i.utc",
+        "Destination": "Packages/Textures/TermD-i.utc",
+        "Hash": "2727560075f08aa1da0f6d0ff82928f182de1f7d",
+        "Size": 205461
+      },
+      {
+        "Source": "releases/download/svm-terminus-v1.0.0/Terminus_TXT.utx",
+        "Destination": "Packages/Textures/Terminus_TXT.utx",
+        "Hash": "ed1c8076000aec602477b8679721d2e7b52f825f",
+        "Size": 14130079
+      },
+      {
+        "Source": "releases/download/svm-terminus-v1.0.0/Amb_Terminus.uax",
+        "Destination": "Packages/Sounds/Amb_Terminus.uax",
+        "Hash": "941a9a04c9765260cba1ac3c18d2c68d60f0b4da",
+        "Size": 3175535
+      },
+      {
+        "Source": "releases/download/svm-terminus-v1.0.0/TermD.uas",
+        "Destination": "Packages/Sounds/TermD.uas",
+        "Hash": "ff315afd6fa9f1fc67073497c7816f42f104c559",
+        "Size": 4407880
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-vertigo-plaza",
+    "Name": "SCCT Versus - Vertigo Plaza",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-vertigo-plaza/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-vertigo-plaza-v1.0.0/EVP_STM.usx",
+        "Destination": "Packages/StaticMeshes/EVP_STM.usx",
+        "Hash": "7259a0634cd002ce796c52ad8824c97d6b756496",
+        "Size": 10913
+      },
+      {
+        "Source": "releases/download/svm-vertigo-plaza-v1.0.0/SKYMZ1-i.utc",
+        "Destination": "Packages/Textures/SKYMZ1-i.utc",
+        "Hash": "527ea157b75e7f8269f35d47c15aa426feaae526",
+        "Size": 511215
+      },
+      {
+        "Source": "releases/download/svm-vertigo-plaza-v1.0.0/VertE-i.utc",
+        "Destination": "Packages/Textures/VertE-i.utc",
+        "Hash": "21ef627683a4c71de2ab2866a7967d545ed7bd82",
+        "Size": 161814
+      },
+      {
+        "Source": "releases/download/svm-vertigo-plaza-v1.0.0/VertU-i.utc",
+        "Destination": "Packages/Textures/VertU-i.utc",
+        "Hash": "0b6fd065ec3608a2ebd88d12cab6d1edd513defd",
+        "Size": 511984
+      },
+      {
+        "Source": "releases/download/svm-vertigo-plaza-v1.0.0/VertX-i.utc",
+        "Destination": "Packages/Textures/VertX-i.utc",
+        "Hash": "b5b162a6291f0f948b681e1c34b023f85d20669e",
+        "Size": 161498
+      },
+      {
+        "Source": "releases/download/svm-vertigo-plaza-v1.0.0/VertE.uas",
+        "Destination": "Packages/Sounds/VertE.uas",
+        "Hash": "1b7019380a0441ced1e37177973951cc1fc419ce",
+        "Size": 3195410
+      },
+      {
+        "Source": "releases/download/svm-vertigo-plaza-v1.0.0/VertU.uas",
+        "Destination": "Packages/Sounds/VertU.uas",
+        "Hash": "1b7019380a0441ced1e37177973951cc1fc419ce",
+        "Size": 3195410
+      },
+      {
+        "Source": "releases/download/svm-vertigo-plaza-v1.0.0/VertX.uas",
+        "Destination": "Packages/Sounds/VertX.uas",
+        "Hash": "ca78bfb6c2fc8e79d224498a9f5aac5094f56e4b",
+        "Size": 6083647
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-warehouse",
+    "Name": "SCCT Versus - Warehouse",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-warehouse/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-warehouse-v1.0.0/FX_WAR_warp.usx",
+        "Destination": "Packages/StaticMeshes/FX_WAR_warp.usx",
+        "Hash": "8e3283329b1c68874b0f75d3971d55f724337c31",
+        "Size": 95430
+      },
+      {
+        "Source": "releases/download/svm-warehouse-v1.0.0/stm_war.usx",
+        "Destination": "Packages/StaticMeshes/stm_war.usx",
+        "Hash": "2fc1c8b8e46a7df93db11fef5b573e4673de5cb6",
+        "Size": 7289835
+      },
+      {
+        "Source": "releases/download/svm-warehouse-v1.0.0/SFX_WAR_xbox.utx",
+        "Destination": "Packages/Textures/SFX_WAR_xbox.utx",
+        "Hash": "a516bbcc23414d46ae08992c99b75079471526b9",
+        "Size": 243253
+      },
+      {
+        "Source": "releases/download/svm-warehouse-v1.0.0/txt_war.utx",
+        "Destination": "Packages/Textures/txt_war.utx",
+        "Hash": "8e8963f421cb87b37aa7d3f8bad81b7c97782fe0",
+        "Size": 2407395
+      },
+      {
+        "Source": "releases/download/svm-warehouse-v1.0.0/WareD-i.utc",
+        "Destination": "Packages/Textures/WareD-i.utc",
+        "Hash": "cec0ca1669c6393518383568aae327df277cc6d4",
+        "Size": 178830
+      },
+      {
+        "Source": "releases/download/svm-warehouse-v1.0.0/WareP-i.utc",
+        "Destination": "Packages/Textures/WareP-i.utc",
+        "Hash": "f5a1e35c652f5455149ceba79ad49fe5d433db37",
+        "Size": 178397
+      },
+      {
+        "Source": "releases/download/svm-warehouse-v1.0.0/MC_war_ext.mux",
+        "Destination": "Packages/Sounds/MC_war_ext.mux",
+        "Hash": "87ba5323ba4d13877ae8b6bdb6a434885e6fb1f0",
+        "Size": 107
+      },
+      {
+        "Source": "releases/download/svm-warehouse-v1.0.0/WareD.uas",
+        "Destination": "Packages/Sounds/WareD.uas",
+        "Hash": "12aa829fcfcd863c6b73190c5f13f756d1aec8cb",
+        "Size": 4280674
+      },
+      {
+        "Source": "releases/download/svm-warehouse-v1.0.0/WareP.uas",
+        "Destination": "Packages/Sounds/WareP.uas",
+        "Hash": "12aa829fcfcd863c6b73190c5f13f756d1aec8cb",
+        "Size": 4280674
+      }
+    ]
+  },
+  {
+    "Id": "assets/svm-zioplex",
+    "Name": "SCCT Versus - Zioplex",
+    "Category": "Editor assets",
+    "Version": "v1.0.0",
+    "Game": "SCCT Versus",
+    "Commit": "0000000000000000000000000000000000000000",
+    "NotesPath": "assets/svm-zioplex/v1.0.0/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/svm-zioplex-v1.0.0/Lev01_sm.usx",
+        "Destination": "Packages/StaticMeshes/Lev01_sm.usx",
+        "Hash": "a0c503db799b2a2c2be8ee6dc508b342a021b55c",
+        "Size": 1815082
+      },
+      {
+        "Source": "releases/download/svm-zioplex-v1.0.0/ZCT_TX.utx",
+        "Destination": "Packages/Textures/ZCT_TX.utx",
+        "Hash": "cd91f38290367dee7a11bcc621303822983f8b1f",
+        "Size": 2187849
+      },
+      {
+        "Source": "releases/download/svm-zioplex-v1.0.0/ZiopD-i.utc",
+        "Destination": "Packages/Textures/ZiopD-i.utc",
+        "Hash": "0a98741e5fc06932ae1201c3b750fb7c6ae1c5fe",
+        "Size": 198720
+      },
+      {
+        "Source": "releases/download/svm-zioplex-v1.0.0/ZiopS-i.utc",
+        "Destination": "Packages/Textures/ZiopS-i.utc",
+        "Hash": "d65245e9f6c8fb194a57d50b6501744ca3e0f8cb",
+        "Size": 198738
+      },
+      {
+        "Source": "releases/download/svm-zioplex-v1.0.0/ZiopD.uas",
+        "Destination": "Packages/Sounds/ZiopD.uas",
+        "Hash": "1b7019380a0441ced1e37177973951cc1fc419ce",
+        "Size": 3195410
+      },
+      {
+        "Source": "releases/download/svm-zioplex-v1.0.0/ZiopS.uas",
+        "Destination": "Packages/Sounds/ZiopS.uas",
+        "Hash": "1b7019380a0441ced1e37177973951cc1fc419ce",
+        "Size": 3195410
+      }
+    ]
   }
 ]
