@@ -1,0 +1,2 @@
+e3b8b23f2b06921cd78fc2ef724abf63196db1550ddfb1940181d0936f516fd2  Packages/Maps/ShipD.sdc
+a1230121ca6301cf35d4e0f8a3d8b3e507e610164968e7b1d7c713efd8f89088  Packages/Textures/ShipD-i.utc

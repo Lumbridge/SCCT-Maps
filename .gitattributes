@@ -22,3 +22,5 @@
 /community/** -text
 /community/**/*.md text eol=lf
 /community/**/SHA256SUMS.txt text eol=lf
+# Keep the checksummed MoonD mission text identical across checkouts.
+/release/MoonD/v1.8/System/_PC_/MoonD.int text eol=lf
