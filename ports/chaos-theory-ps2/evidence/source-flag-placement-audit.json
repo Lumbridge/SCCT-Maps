@@ -1,0 +1,61 @@
+{
+  "maps": 14,
+  "checks": [
+    {
+      "code": "DTK02P",
+      "sourceProxyVialPosesExact": 6
+    },
+    {
+      "code": "FAC13P",
+      "sourceProxyVialPosesExact": 6
+    },
+    {
+      "code": "GAR09P",
+      "sourceProxyVialPosesExact": 4
+    },
+    {
+      "code": "INI01P",
+      "sourceProxyVialPosesExact": 0
+    },
+    {
+      "code": "KRA07P",
+      "sourceProxyVialPosesExact": 6
+    },
+    {
+      "code": "MHO05P",
+      "sourceProxyVialPosesExact": 5
+    },
+    {
+      "code": "MIS10P",
+      "sourceProxyVialPosesExact": 4
+    },
+    {
+      "code": "MUS04P",
+      "sourceProxyVialPosesExact": 0
+    },
+    {
+      "code": "ORP14P",
+      "sourceProxyVialPosesExact": 4
+    },
+    {
+      "code": "SCH03P",
+      "sourceProxyVialPosesExact": 4
+    },
+    {
+      "code": "SKY08P",
+      "sourceProxyVialPosesExact": 3
+    },
+    {
+      "code": "TME12P",
+      "sourceProxyVialPosesExact": 0
+    },
+    {
+      "code": "TSP11P",
+      "sourceProxyVialPosesExact": 0
+    },
+    {
+      "code": "WAR06P",
+      "sourceProxyVialPosesExact": 9
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "computer_mesh": {
+    "source": {
+      "table": "common:31",
+      "ref": 22
+    },
+    "alias": "nd133_1mesh.nd133_mesh",
+    "kind": "SkeletalMesh",
+    "pc_file": "D:\\Games\\Steam Games\\steamapps\\common\\Splintercell Chaos Theory\\Versus\\Packages\\Animations\\nd133_1mesh.ukx",
+    "pc_export": 19,
+    "proof": [
+      "source-mesh-prefix.json",
+      "skeleton-bind-comparison.json",
+      "animation-track-comparison.json"
+    ],
+    "fidelity": "Same original PS2-authored asset: identical bounds/sphere,266 source vertices,18 exact bind bones,72 exact animation tracks. Native PS2 GPU LOD vertex bytes remain cooked; rendered vertex equivalence is not claimed."
+  },
+  "computer_animation": {
+    "source": {
+      "table": "common:31",
+      "ref": 16
+    },
+    "alias": "nd133_1mesh.nd133_mesh",
+    "kind": "MeshAnimation",
+    "pc_export": 8
+  },
+  "animations": {
+    "853910": "nd133_hack_ps2",
+    "853905": "nd133_alarm_ps2",
+    "853866": "nd133_ctf_seq_ps2",
+    "854024": "nd133_keyboard_in_ps2"
+  },
+  "computer_default_material_slots": [
+    {
+      "table": "common:10",
+      "ref": 31
+    },
+    {
+      "table": "common:10",
+      "ref": 23
+    },
+    {
+      "table": "common:10",
+      "ref": 30
+    },
+    {
+      "table": "common:10",
+      "ref": 24
+    }
+  ],
+  "computer_state_materials": {
+    "856858": {
+      "table": "common:10",
+      "ref": 25
+    },
+    "856859": {
+      "table": "common:10",
+      "ref": 24
+    },
+    "856848": {
+      "table": "common:10",
+      "ref": 22
+    },
+    "856854": {
+      "table": "common:10",
+      "ref": 26
+    },
+    "856841": {
+      "table": "common:10",
+      "ref": 28
+    }
+  },
+  "flag_vial_mesh": {
+    "table": "common:29",
+    "ref": 1
+  },
+  "modem": {
+    "source_class": {
+      "table": "common:2",
+      "ref": 4291
+    },
+    "source_class_global": 179930,
+    "mesh": {
+      "table": "common:7",
+      "ref": 11
+    },
+    "material_slots": [
+      {
+        "table": "common:8",
+        "ref": 153
+      },
+      {
+        "table": "common:8",
+        "ref": 5
+      }
+    ],
+    "defaults": "modem-defaults.json",
+    "draw_scale": 1.0,
+    "active_sound": {
+      "table": "common:3",
+      "ref": 86
+    },
+    "secondary_sound": {
+      "table": "common:3",
+      "ref": 87
+    },
+    "source_mesh_metrics": {
+      "vertices": 112,
+      "triangles": 56
+    },
+    "pc_geometry_reuse": false
+  },
+  "source_class_defaults": "source-class-defaults.json",
+  "needed_captured_object_keys": [
+    {
+      "table": "common:29",
+      "ref": 1
+    },
+    {
+      "table": "common:30",
+      "ref": 4
+    },
+    {
+      "table": "common:30",
+      "ref": 3
+    },
+    {
+      "table": "common:30",
+      "ref": 1
+    },
+    {
+      "table": "common:30",
+      "ref": 2
+    },
+    {
+      "table": "common:10",
+      "ref": 25
+    },
+    {
+      "table": "common:10",
+      "ref": 24
+    },
+    {
+      "table": "common:10",
+      "ref": 22
+    },
+    {
+      "table": "common:10",
+      "ref": 26
+    },
+    {
+      "table": "common:10",
+      "ref": 28
+    },
+    {
+      "table": "common:10",
+      "ref": 1
+    },
+    {
+      "table": "common:10",
+      "ref": 4
+    },
+    {
+      "table": "common:10",
+      "ref": 3
+    },
+    {
+      "table": "common:10",
+      "ref": 2
+    },
+    {
+      "table": "common:10",
+      "ref": 13
+    },
+    {
+      "table": "common:10",
+      "ref": 11
+    },
+    {
+      "table": "common:10",
+      "ref": 31
+    },
+    {
+      "table": "common:10",
+      "ref": 23
+    },
+    {
+      "table": "common:10",
+      "ref": 30
+    },
+    {
+      "table": "common:10",
+      "ref": 15
+    },
+    {
+      "table": "common:10",
+      "ref": 18
+    },
+    {
+      "table": "common:10",
+      "ref": 20
+    },
+    {
+      "table": "common:10",
+      "ref": 21
+    },
+    {
+      "table": "common:10",
+      "ref": 9
+    },
+    {
+      "table": "common:10",
+      "ref": 6
+    },
+    {
+      "table": "common:10",
+      "ref": 17
+    },
+    {
+      "table": "common:10",
+      "ref": 5
+    },
+    {
+      "table": "common:10",
+      "ref": 16
+    },
+    {
+      "table": "common:10",
+      "ref": 10
+    },
+    {
+      "table": "common:10",
+      "ref": 8
+    },
+    {
+      "table": "common:10",
+      "ref": 7
+    },
+    {
+      "table": "common:10",
+      "ref": 12
+    },
+    {
+      "table": "common:10",
+      "ref": 19
+    },
+    {
+      "table": "common:10",
+      "ref": 14
+    },
+    {
+      "table": "common:7",
+      "ref": 11
+    },
+    {
+      "table": "common:8",
+      "ref": 153
+    },
+    {
+      "table": "common:8",
+      "ref": 5
+    },
+    {
+      "table": "common:8",
+      "ref": 3
+    },
+    {
+      "table": "common:8",
+      "ref": 46
+    },
+    {
+      "table": "common:8",
+      "ref": 47
+    },
+    {
+      "table": "common:8",
+      "ref": 49
+    }
+  ],
+  "capture_helper": "objective_captures.recover_objective_assets(replay_or_registry)",
+  "capture_graph_complete": true,
+  "missing_dependencies": []
+}

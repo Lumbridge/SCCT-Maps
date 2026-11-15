@@ -63,6 +63,17 @@ The eight Double Agent maps share [one set of collection notes](ports/splinter-c
 
 [GoldenEye 007: Reloaded multiplayer scenery](ports/goldeneye-007-reloaded/README.md): all 14 multiplayer maps as editable SCCT scenery. Each has its own release, a Ports entry and an asset pack in the Map Manager. No gameplay or source lighting.
 
+<!-- ps2-original:start -->
+
+[Original PlayStation 2 Versus maps](ports/chaos-theory-ps2/README.md): fourteen
+compiled levels, including tutorials, with `P` package/display suffixes. This
+collection is available to OpenSCCT after its runtime release gate; native
+Enhanced/Reloaded publication remains pending separate validation. OpenSCCT
+load/render checks pass all fourteen maps and the shared objective profile passes
+on DTK02P. OpenSCCT packs require game 0.8.156 or later.
+
+<!-- ps2-original:end -->
+
 ## Stock maps
 
 [The stock SVM 4.0 maps](stock/README.md), playable and editor versions, copied unmodified from the install. Your game already has them.

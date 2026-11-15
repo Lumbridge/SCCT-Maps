@@ -1,0 +1,83 @@
+{
+  "status": "passed",
+  "maps": [
+    {
+      "code": "DTK02P",
+      "warnings": 2
+    },
+    {
+      "code": "FAC13P",
+      "warnings": 0
+    },
+    {
+      "code": "GAR09P",
+      "warnings": 0
+    },
+    {
+      "code": "INI01P",
+      "warnings": 0
+    },
+    {
+      "code": "KRA07P",
+      "warnings": 0
+    },
+    {
+      "code": "MHO05P",
+      "warnings": 0
+    },
+    {
+      "code": "MIS10P",
+      "warnings": 0
+    },
+    {
+      "code": "MUS04P",
+      "warnings": 0
+    },
+    {
+      "code": "ORP14P",
+      "warnings": 0
+    },
+    {
+      "code": "SCH03P",
+      "warnings": 0
+    },
+    {
+      "code": "SKY08P",
+      "warnings": 0
+    },
+    {
+      "code": "TME12P",
+      "warnings": 0
+    },
+    {
+      "code": "TSP11P",
+      "warnings": 0
+    },
+    {
+      "code": "WAR06P",
+      "warnings": 0
+    }
+  ],
+  "evidence": [
+    {
+      "path": "work/final-mapshots/run.log",
+      "size": 10787,
+      "sha256": "1e113ed216815e9b9c0b8003d1f0e307fc8e37a73db022f5a99cdf939714172f"
+    },
+    {
+      "path": "work/final-mapshots/tme-env-fixed.log",
+      "size": 985,
+      "sha256": "8ae1749f3abcd5c8c220cfe107e649673ddb6372a201e0aeff366d04ce466e61"
+    },
+    {
+      "path": "work/final-mapshots/war-asset-fixed.log",
+      "size": 1064,
+      "sha256": "ec5ac1e4933e6b36b6f059d964561e27cb166a78fb410161f0c9ab13a966e0dc"
+    }
+  ],
+  "warnings": {
+    "DTK02P": "Two source-null material slots; source audit retained separately.",
+    "TME12P": "Pure environment shader preserved; runtime fix rerun has zero warnings.",
+    "WAR06P": "Recovered warmTexture147; zero-warning rerun passed."
+  }
+}

@@ -1,0 +1,552 @@
+{
+  "source_start": 2303313,
+  "source_end": 2304466,
+  "bones": [
+    {
+      "index": 0,
+      "source_start": 2303314,
+      "global_id": 860021,
+      "pc_name": "ROOT",
+      "parent": 0,
+      "num_children": 5,
+      "rotation": [
+        0.0,
+        -0.0,
+        0.0,
+        -1.0
+      ],
+      "position": [
+        -1.0144389153986715e-23,
+        -5.618207410407194e-07,
+        -12.852960586547852,
+        0.0
+      ],
+      "rest": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_rotation": true,
+      "exact_position": true,
+      "exact_parent": true,
+      "exact_children": true
+    },
+    {
+      "index": 1,
+      "source_start": 2303378,
+      "global_id": 860030,
+      "pc_name": "B_vol_G",
+      "parent": 0,
+      "num_children": 3,
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "position": [
+        22.840805053710938,
+        24.581008911132812,
+        12.42852783203125,
+        0.0
+      ],
+      "rest": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_rotation": true,
+      "exact_position": true,
+      "exact_parent": true,
+      "exact_children": true
+    },
+    {
+      "index": 2,
+      "source_start": 2303442,
+      "global_id": 860029,
+      "pc_name": "vol_G",
+      "parent": 1,
+      "num_children": 0,
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "position": [
+        -1.9073486328125e-06,
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "rest": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_rotation": true,
+      "exact_position": true,
+      "exact_parent": true,
+      "exact_children": true
+    },
+    {
+      "index": 3,
+      "source_start": 2303506,
+      "global_id": 860035,
+      "pc_name": "B_verrou2",
+      "parent": 1,
+      "num_children": 1,
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "position": [
+        -33.23251724243164,
+        -16.99382781982422,
+        24.039552688598633,
+        0.0
+      ],
+      "rest": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_rotation": true,
+      "exact_position": true,
+      "exact_parent": true,
+      "exact_children": true
+    },
+    {
+      "index": 4,
+      "source_start": 2303570,
+      "global_id": 860031,
+      "pc_name": "verrou2",
+      "parent": 3,
+      "num_children": 0,
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "position": [
+        -1.9073486328125e-06,
+        -0.0,
+        -2.658205032348633,
+        0.0
+      ],
+      "rest": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_rotation": true,
+      "exact_position": true,
+      "exact_parent": true,
+      "exact_children": true
+    },
+    {
+      "index": 5,
+      "source_start": 2303634,
+      "global_id": 860023,
+      "pc_name": "B_verrou1",
+      "parent": 1,
+      "num_children": 1,
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "position": [
+        -12.885476112365723,
+        -16.993825912475586,
+        24.039552688598633,
+        0.0
+      ],
+      "rest": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_rotation": true,
+      "exact_position": true,
+      "exact_parent": true,
+      "exact_children": true
+    },
+    {
+      "index": 6,
+      "source_start": 2303698,
+      "global_id": 860038,
+      "pc_name": "verrou1",
+      "parent": 5,
+      "num_children": 0,
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "position": [
+        0.0,
+        -0.0,
+        -2.658205032348633,
+        0.0
+      ],
+      "rest": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_rotation": true,
+      "exact_position": true,
+      "exact_parent": true,
+      "exact_children": true
+    },
+    {
+      "index": 7,
+      "source_start": 2303762,
+      "global_id": 860036,
+      "pc_name": "B_vol_D",
+      "parent": 0,
+      "num_children": 3,
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "position": [
+        22.840803146362305,
+        -24.22801971435547,
+        12.42852783203125,
+        0.0
+      ],
+      "rest": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_rotation": true,
+      "exact_position": true,
+      "exact_parent": true,
+      "exact_children": true
+    },
+    {
+      "index": 8,
+      "source_start": 2303826,
+      "global_id": 860024,
+      "pc_name": "vol_D",
+      "parent": 7,
+      "num_children": 0,
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "position": [
+        0.0,
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "rest": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_rotation": true,
+      "exact_position": true,
+      "exact_parent": true,
+      "exact_children": true
+    },
+    {
+      "index": 9,
+      "source_start": 2303890,
+      "global_id": 860033,
+      "pc_name": "B_verrou4",
+      "parent": 7,
+      "num_children": 1,
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "position": [
+        -12.753417015075684,
+        17.02392578125,
+        24.03955078125,
+        0.0
+      ],
+      "rest": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_rotation": true,
+      "exact_position": true,
+      "exact_parent": true,
+      "exact_children": true
+    },
+    {
+      "index": 10,
+      "source_start": 2303954,
+      "global_id": 860026,
+      "pc_name": "verrou4",
+      "parent": 9,
+      "num_children": 0,
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "position": [
+        0.0,
+        -9.5367431640625e-07,
+        -2.658203125,
+        0.0
+      ],
+      "rest": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_rotation": true,
+      "exact_position": true,
+      "exact_parent": true,
+      "exact_children": true
+    },
+    {
+      "index": 11,
+      "source_start": 2304018,
+      "global_id": 860027,
+      "pc_name": "B_verrou3",
+      "parent": 7,
+      "num_children": 1,
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "position": [
+        -33.629356384277344,
+        17.059995651245117,
+        24.03955078125,
+        0.0
+      ],
+      "rest": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_rotation": true,
+      "exact_position": true,
+      "exact_parent": true,
+      "exact_children": true
+    },
+    {
+      "index": 12,
+      "source_start": 2304082,
+      "global_id": 860022,
+      "pc_name": "verrou3",
+      "parent": 11,
+      "num_children": 0,
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "position": [
+        9.5367431640625e-07,
+        -4.76837158203125e-07,
+        -2.658203125,
+        0.0
+      ],
+      "rest": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_rotation": true,
+      "exact_position": true,
+      "exact_parent": true,
+      "exact_children": true
+    },
+    {
+      "index": 13,
+      "source_start": 2304146,
+      "global_id": 860025,
+      "pc_name": "B_thermos",
+      "parent": 0,
+      "num_children": 1,
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "position": [
+        -0.23508071899414062,
+        0.17401942610740662,
+        2.839920997619629,
+        0.0
+      ],
+      "rest": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_rotation": true,
+      "exact_position": true,
+      "exact_parent": true,
+      "exact_children": true
+    },
+    {
+      "index": 14,
+      "source_start": 2304210,
+      "global_id": 860028,
+      "pc_name": "thermos",
+      "parent": 13,
+      "num_children": 0,
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "position": [
+        -4.76837158203125e-07,
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "rest": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_rotation": true,
+      "exact_position": true,
+      "exact_parent": true,
+      "exact_children": true
+    },
+    {
+      "index": 15,
+      "source_start": 2304274,
+      "global_id": 860032,
+      "pc_name": "socle",
+      "parent": 0,
+      "num_children": 0,
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "position": [
+        1.389752033945961e-25,
+        7.696769444009988e-09,
+        0.17608165740966797,
+        0.0
+      ],
+      "rest": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_rotation": true,
+      "exact_position": true,
+      "exact_parent": true,
+      "exact_children": true
+    },
+    {
+      "index": 16,
+      "source_start": 2304338,
+      "global_id": 860037,
+      "pc_name": "B_clavier",
+      "parent": 0,
+      "num_children": 1,
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "position": [
+        43.435333251953125,
+        -0.21050015091896057,
+        4.359671592712402,
+        0.0
+      ],
+      "rest": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_rotation": true,
+      "exact_position": true,
+      "exact_parent": true,
+      "exact_children": true
+    },
+    {
+      "index": 17,
+      "source_start": 2304402,
+      "global_id": 860034,
+      "pc_name": "clavier",
+      "parent": 16,
+      "num_children": 0,
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "position": [
+        0.0,
+        -16.69829750061035,
+        0.0,
+        0.0
+      ],
+      "rest": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_rotation": true,
+      "exact_position": true,
+      "exact_parent": true,
+      "exact_children": true
+    }
+  ],
+  "pc_counts": {
+    "points": 266,
+    "wedges": 593,
+    "faces": 460,
+    "influences": 266
+  }
+}

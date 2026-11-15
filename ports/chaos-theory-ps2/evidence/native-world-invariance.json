@@ -1,0 +1,2887 @@
+{
+  "status": "passed",
+  "scope": "Decoded BSP geometry, render sections, lightmaps, export identities and non-objective properties; objective deltas constrained explicitly. Earlier movement receipts apply to unchanged geometry, not a fresh execution of revised bytes.",
+  "nativeStandCompatibilitySha256": null,
+  "maps": [
+    {
+      "code": "DTK02P",
+      "beforeSha256": "aa12bb4521623986b1aa5bcf6b99ea735e2e6fb3ed777f366a8bda7e4c3b0be1",
+      "afterSha256": "f6548cd644633d51b2cdb65ff9e92fbada999e52feb80fde653d2df7a7e05fb4",
+      "geometrySha256": "61734c219669273586cc22138e90515cf7b41bca187de4d9cfd29f5780b0b40f",
+      "renderAndLightmapsSha256": "06a5f4a8c57c6b7fb89a68f0e6728e2f8cfc26306da3d6cdb72fe6ea13acdf48",
+      "checkedPropertyBags": 816,
+      "unchangedPlayerStarts": 9,
+      "onlyExpectedObjectiveChanges": [
+        {
+          "name": "SComputerObjectiveTrigger0",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger2302",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger5",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger1",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger4",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag0",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                2852.176513671875,
+                -3459.72216796875,
+                629.8345336914062
+              ],
+              "after": [
+                2839.176513671875,
+                -3459.737060546875,
+                629.8345336914062
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                2852.176513671875,
+                -3459.72216796875,
+                629.8345336914062
+              ],
+              "after": [
+                2839.176513671875,
+                -3459.737060546875,
+                629.8345336914062
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag5",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                2058.334228515625,
+                -4980.36279296875,
+                629.7496948242188
+              ],
+              "after": [
+                2058.1748046875,
+                -4993.36181640625,
+                629.7496948242188
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                2058.334228515625,
+                -4980.36279296875,
+                629.7496948242188
+              ],
+              "after": [
+                2058.1748046875,
+                -4993.36181640625,
+                629.7496948242188
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag1",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                2579.022216796875,
+                -2165.701904296875,
+                629.6097412109375
+              ],
+              "after": [
+                2579.017333984375,
+                -2178.701904296875,
+                629.6097412109375
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                2579.022216796875,
+                -2165.701904296875,
+                629.6097412109375
+              ],
+              "after": [
+                2579.017333984375,
+                -2178.701904296875,
+                629.6097412109375
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger3",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag4",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                3239.47607421875,
+                -5664.09423828125,
+                629.8734741210938
+              ],
+              "after": [
+                3226.47607421875,
+                -5664.04931640625,
+                629.8784790039062
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                3239.47607421875,
+                -5664.09423828125,
+                629.8734741210938
+              ],
+              "after": [
+                3226.47607421875,
+                -5664.04931640625,
+                629.8784790039062
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag3",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -2811.9482421875,
+                -2811.049072265625,
+                629.0
+              ],
+              "after": [
+                -2811.9482421875,
+                -2824.049072265625,
+                629.0
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -2811.9482421875,
+                -2811.049072265625,
+                629.0
+              ],
+              "after": [
+                -2811.9482421875,
+                -2824.049072265625,
+                629.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag2",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -1748.97119140625,
+                -3168.098876953125,
+                631.00146484375
+              ],
+              "after": [
+                -1748.9761962890625,
+                -3155.098876953125,
+                631.00146484375
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -1748.97119140625,
+                -3168.098876953125,
+                631.00146484375
+              ],
+              "after": [
+                -1748.9761962890625,
+                -3155.098876953125,
+                631.00146484375
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "code": "FAC13P",
+      "beforeSha256": "032c10955d694a09c9413c949564ef32be3902d520170e7b2953274ed8725e63",
+      "afterSha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c",
+      "geometrySha256": "6081f004b2ac7c97f155e63af1baa37b3f1dafd94f61280dd50a48a9ec0161bd",
+      "renderAndLightmapsSha256": "70c55145cf7cff04dc742459f2714fd593fccdae9332bc36f4e7751a335398c6",
+      "checkedPropertyBags": 645,
+      "unchangedPlayerStarts": 6,
+      "onlyExpectedObjectiveChanges": [
+        {
+          "name": "SComputerObjectiveTrigger228",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag246",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                1895.6326904296875,
+                -2703.18408203125,
+                -11.0
+              ],
+              "after": [
+                1895.652587890625,
+                -2690.18408203125,
+                -11.0
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                1895.6326904296875,
+                -2703.18408203125,
+                -11.0
+              ],
+              "after": [
+                1895.652587890625,
+                -2690.18408203125,
+                -11.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger234",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger238",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag243",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -2185.425537109375,
+                -3107.46728515625,
+                817.738037109375
+              ],
+              "after": [
+                -2185.355712890625,
+                -3120.467041015625,
+                817.738037109375
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -2185.425537109375,
+                -3107.46728515625,
+                817.738037109375
+              ],
+              "after": [
+                -2185.355712890625,
+                -3120.467041015625,
+                817.738037109375
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag247",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -226.01089477539062,
+                -4732.234375,
+                501.0
+              ],
+              "after": [
+                -213.01089477539062,
+                -4732.234375,
+                501.0
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -226.01089477539062,
+                -4732.234375,
+                501.0
+              ],
+              "after": [
+                -213.01089477539062,
+                -4732.234375,
+                501.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag245",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -3774.0400390625,
+                -6562.6845703125,
+                -10.351432800292969
+              ],
+              "after": [
+                -3774.06005859375,
+                -6549.6845703125,
+                -10.351432800292969
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -3774.0400390625,
+                -6562.6845703125,
+                -10.351432800292969
+              ],
+              "after": [
+                -3774.06005859375,
+                -6549.6845703125,
+                -10.351432800292969
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag242",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -3093.84814453125,
+                -1104.41015625,
+                249.0
+              ],
+              "after": [
+                -3106.84814453125,
+                -1104.41015625,
+                249.0
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -3093.84814453125,
+                -1104.41015625,
+                249.0
+              ],
+              "after": [
+                -3106.84814453125,
+                -1104.41015625,
+                249.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger668",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger387",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag244",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -1194.111328125,
+                -4702.27490234375,
+                -11.0
+              ],
+              "after": [
+                -1194.111328125,
+                -4715.27490234375,
+                -11.0
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -1194.111328125,
+                -4702.27490234375,
+                -11.0
+              ],
+              "after": [
+                -1194.111328125,
+                -4715.27490234375,
+                -11.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger232",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger236",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger399",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger407",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "code": "GAR09P",
+      "beforeSha256": "276d98039391f16b8143b7563c30e889c35ce7a0dfc203d0a3b97676a712f130",
+      "afterSha256": "221057da684073b4ce70a3f8b0bb831580eb4a3fa60682eedbccfdaf19aa6802",
+      "geometrySha256": "3aa7e324c825b0b0c51a44e672822c9d681e0f0c9cef71475062eefd0ce62c04",
+      "renderAndLightmapsSha256": "fe49df058fd1b877703297cd7d4e919d5f4e002ba55e50e25a21344079292a48",
+      "checkedPropertyBags": 443,
+      "unchangedPlayerStarts": 7,
+      "onlyExpectedObjectiveChanges": [
+        {
+          "name": "SFlag5680",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                1626.3387451171875,
+                -3132.823974609375,
+                625.0
+              ],
+              "after": [
+                1639.338623046875,
+                -3132.873779296875,
+                625.0
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                1626.3387451171875,
+                -3132.823974609375,
+                625.0
+              ],
+              "after": [
+                1639.338623046875,
+                -3132.873779296875,
+                625.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger9335",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger5715",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger1381",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger263",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag6104",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -2008.0657958984375,
+                -3267.29248046875,
+                625.0
+              ],
+              "after": [
+                -1995.06591796875,
+                -3267.357177734375,
+                625.0
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -2008.0657958984375,
+                -3267.29248046875,
+                625.0
+              ],
+              "after": [
+                -1995.06591796875,
+                -3267.357177734375,
+                625.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag5688",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -410.2222900390625,
+                -4196.81787109375,
+                114.0
+              ],
+              "after": [
+                -410.1076354980469,
+                -4209.8173828125,
+                114.0
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -410.2222900390625,
+                -4196.81787109375,
+                114.0
+              ],
+              "after": [
+                -410.1076354980469,
+                -4209.8173828125,
+                114.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag5684",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -28.280868530273438,
+                -5803.6884765625,
+                119.0
+              ],
+              "after": [
+                -28.37060546875,
+                -5790.68896484375,
+                119.0
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -28.280868530273438,
+                -5803.6884765625,
+                119.0
+              ],
+              "after": [
+                -28.37060546875,
+                -5790.68896484375,
+                119.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "code": "INI01P",
+      "beforeSha256": "51e6ec7e96170479763d010428069393c1feb65ba10e257f1ac856aa94ab68c9",
+      "afterSha256": "665e2de289407729a10432505c23710aaae053711f93af85f28de067f5c50390",
+      "geometrySha256": "0a1a0a261b499a2c5e4d14a95ad29fa0fbaa7387391bc9c96b1003161c96cc60",
+      "renderAndLightmapsSha256": "029ff7c35f889dbb9daa7fd26955de90d2a69d2b6e3eb78b03567801a1710b36",
+      "checkedPropertyBags": 492,
+      "unchangedPlayerStarts": 8,
+      "onlyExpectedObjectiveChanges": [
+        {
+          "name": "SComputerObjectiveTrigger245",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger248",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger258",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger255",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "code": "KRA07P",
+      "beforeSha256": "842613e0b2c7760b2cb10b8114566c4541f3e3dcc35b7e5cf8fbc519637b6cd9",
+      "afterSha256": "902731bacf9b929fbd6e2d315c507d3c56f1b355424293e1ebf79070cd9718cd",
+      "geometrySha256": "c7cba6ca0173cd8aeb18489aaadaca795b8c23a1db7a5c959b7f792e395c11c4",
+      "renderAndLightmapsSha256": "a6ba0b0f4f1737337d340e18189eb2d74a34b2cbece32757dbd8262bc9115108",
+      "checkedPropertyBags": 665,
+      "unchangedPlayerStarts": 7,
+      "onlyExpectedObjectiveChanges": [
+        {
+          "name": "SFlag325",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                4308.7890625,
+                -2264.512939453125,
+                113.32791137695312
+              ],
+              "after": [
+                4295.7890625,
+                -2264.52294921875,
+                113.32791137695312
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                4308.7890625,
+                -2264.512939453125,
+                113.32791137695312
+              ],
+              "after": [
+                4295.7890625,
+                -2264.52294921875,
+                113.32791137695312
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger249",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger11186",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger2",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger1676",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag286",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                693.8482055664062,
+                -4161.560546875,
+                -333.9801025390625
+              ],
+              "after": [
+                680.8482666015625,
+                -4161.6005859375,
+                -333.9801025390625
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                693.8482055664062,
+                -4161.560546875,
+                -333.9801025390625
+              ],
+              "after": [
+                680.8482666015625,
+                -4161.6005859375,
+                -333.9801025390625
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag320",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                902.8338623046875,
+                -4523.9638671875,
+                690.4553833007812
+              ],
+              "after": [
+                902.8438110351562,
+                -4536.9638671875,
+                690.4553833007812
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                902.8338623046875,
+                -4523.9638671875,
+                690.4553833007812
+              ],
+              "after": [
+                902.8438110351562,
+                -4536.9638671875,
+                690.4553833007812
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger1",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag228",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                1596.358154296875,
+                -4793.81689453125,
+                -333.9801025390625
+              ],
+              "after": [
+                1596.3182373046875,
+                -4780.81689453125,
+                -333.9801025390625
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                1596.358154296875,
+                -4793.81689453125,
+                -333.9801025390625
+              ],
+              "after": [
+                1596.3182373046875,
+                -4780.81689453125,
+                -333.9801025390625
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger4",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag281",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                610.357666015625,
+                -3114.1181640625,
+                690.0177001953125
+              ],
+              "after": [
+                610.357666015625,
+                -3127.1181640625,
+                690.0177001953125
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                610.357666015625,
+                -3114.1181640625,
+                690.0177001953125
+              ],
+              "after": [
+                610.357666015625,
+                -3127.1181640625,
+                690.0177001953125
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag224",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                4284.20361328125,
+                -1155.1785888671875,
+                113.32791137695312
+              ],
+              "after": [
+                4284.21337890625,
+                -1168.1785888671875,
+                113.32791137695312
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                4284.20361328125,
+                -1155.1785888671875,
+                113.32791137695312
+              ],
+              "after": [
+                4284.21337890625,
+                -1168.1785888671875,
+                113.32791137695312
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "code": "MHO05P",
+      "beforeSha256": "844e9ff53e0390f26cbb1beabab2a97008ec22c80430272bd7478b9ab4c6ef9b",
+      "afterSha256": "f25816ff9563b281857022491e933d1f74c8e4c4e86a2b30c1298e494e8d46d1",
+      "geometrySha256": "a702be7bf9d75aa2211e10dac7ac6bbb324373c17cd8b0f2f3c77e2ef1c2373c",
+      "renderAndLightmapsSha256": "630d868dce521bbc0a844ef7f368ac77633273668b60f355371701a266fd2011",
+      "checkedPropertyBags": 748,
+      "unchangedPlayerStarts": 7,
+      "onlyExpectedObjectiveChanges": [
+        {
+          "name": "SFlag347",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                2187.12109375,
+                -178.80360412597656,
+                275.48089599609375
+              ],
+              "after": [
+                2190.64111328125,
+                -191.31796264648438,
+                275.48089599609375
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                2187.12109375,
+                -178.80360412597656,
+                275.48089599609375
+              ],
+              "after": [
+                2190.64111328125,
+                -191.31796264648438,
+                275.48089599609375
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger8",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger7",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger2",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger1",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger5",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag3",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                2905.093505859375,
+                -1742.6346435546875,
+                273.39569091796875
+              ],
+              "after": [
+                2904.9638671875,
+                -1729.63525390625,
+                273.39569091796875
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                2905.093505859375,
+                -1742.6346435546875,
+                273.39569091796875
+              ],
+              "after": [
+                2904.9638671875,
+                -1729.63525390625,
+                273.39569091796875
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag381",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                2597.898193359375,
+                1105.6844482421875,
+                -206.5702667236328
+              ],
+              "after": [
+                2597.79345703125,
+                1092.684814453125,
+                -206.5702667236328
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                2597.898193359375,
+                1105.6844482421875,
+                -206.5702667236328
+              ],
+              "after": [
+                2597.79345703125,
+                1092.684814453125,
+                -206.5702667236328
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag2",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                2907.01611328125,
+                -1771.977783203125,
+                -206.62896728515625
+              ],
+              "after": [
+                2907.69384765625,
+                -1758.9954833984375,
+                -206.62896728515625
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                2907.01611328125,
+                -1771.977783203125,
+                -206.62896728515625
+              ],
+              "after": [
+                2907.69384765625,
+                -1758.9954833984375,
+                -206.62896728515625
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag4",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                2148.33984375,
+                -3861.35888671875,
+                273.45672607421875
+              ],
+              "after": [
+                2135.33984375,
+                -3861.319091796875,
+                273.45672607421875
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                2148.33984375,
+                -3861.35888671875,
+                273.45672607421875
+              ],
+              "after": [
+                2135.33984375,
+                -3861.319091796875,
+                273.45672607421875
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "code": "MIS10P",
+      "beforeSha256": "a22fb902a16dfedb700ee997c7009d7fea1bba6aba5560cd112b6448cb957bce",
+      "afterSha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea",
+      "geometrySha256": "beebd12e7ed52a73315aad070d3d051fb38c3e4f8a6887986d2ce8250c403f08",
+      "renderAndLightmapsSha256": "879de7da9bd29db3ea1ac816474b70a07ffbfd7fe93894cb90e37d3e29ed9d9d",
+      "checkedPropertyBags": 865,
+      "unchangedPlayerStarts": 8,
+      "onlyExpectedObjectiveChanges": [
+        {
+          "name": "SComputerObjectiveTrigger246",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger2220",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger284",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag258",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -6560.45263671875,
+                3009.35302734375,
+                -1550.984619140625
+              ],
+              "after": [
+                -6547.45263671875,
+                3009.35302734375,
+                -1550.984619140625
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -6560.45263671875,
+                3009.35302734375,
+                -1550.984619140625
+              ],
+              "after": [
+                -6547.45263671875,
+                3009.35302734375,
+                -1550.984619140625
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger2214",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger3036",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger268",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag238",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -7072.03125,
+                3006.869140625,
+                -1550.22802734375
+              ],
+              "after": [
+                -7085.03125,
+                3006.869140625,
+                -1550.2330322265625
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -7072.03125,
+                3006.869140625,
+                -1550.22802734375
+              ],
+              "after": [
+                -7085.03125,
+                3006.869140625,
+                -1550.2330322265625
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag227",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -7874.337890625,
+                -38.862884521484375,
+                -1070.22802734375
+              ],
+              "after": [
+                -7861.337890625,
+                -38.823001861572266,
+                -1070.2330322265625
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -7874.337890625,
+                -38.862884521484375,
+                -1070.22802734375
+              ],
+              "after": [
+                -7861.337890625,
+                -38.823001861572266,
+                -1070.2330322265625
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag255",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -10454.658203125,
+                -469.134765625,
+                -1546.22802734375
+              ],
+              "after": [
+                -10454.6982421875,
+                -456.13482666015625,
+                -1546.2330322265625
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -10454.658203125,
+                -469.134765625,
+                -1546.22802734375
+              ],
+              "after": [
+                -10454.6982421875,
+                -456.13482666015625,
+                -1546.2330322265625
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger272",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger263",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger276",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger280",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "code": "MUS04P",
+      "beforeSha256": "23b88a9c777c41f2f9770daab76a8546bc60e082711acedc13d129562bef881f",
+      "afterSha256": "9ef891a53d8ad0402a5e955aba0de74af99f7a78f8e5b790c834a34e950ecaa7",
+      "geometrySha256": "fcb56c9666c0164a4986d662bb04fa7bfb4a673a72cf285b2818c5dbed7e063d",
+      "renderAndLightmapsSha256": "aa7cab9890b1fb7fb45eb3d4e732df1d7989b51464e3cedad4966e1bc64c0aeb",
+      "checkedPropertyBags": 903,
+      "unchangedPlayerStarts": 8,
+      "onlyExpectedObjectiveChanges": [
+        {
+          "name": "SComputerObjectiveTrigger7",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger4",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger345",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger1615",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger5",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger1",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag0",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -3540.029052734375,
+                -5707.45654296875,
+                35.404296875
+              ],
+              "after": [
+                -3540.0390625,
+                -5694.45654296875,
+                35.404296875
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -3540.029052734375,
+                -5707.45654296875,
+                35.404296875
+              ],
+              "after": [
+                -3540.0390625,
+                -5694.45654296875,
+                35.404296875
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag1",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -6209.25244140625,
+                -3674.227783203125,
+                21.404296875
+              ],
+              "after": [
+                -6209.19775390625,
+                -3687.227783203125,
+                21.404296875
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -6209.25244140625,
+                -3674.227783203125,
+                21.404296875
+              ],
+              "after": [
+                -6209.19775390625,
+                -3687.227783203125,
+                21.404296875
+              ]
+            }
+          }
+        },
+        {
+          "name": "UnknownGlobalPS2_875007",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "UnknownGlobalPS2_875338",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -154.57948303222656,
+                -3839.588134765625,
+                -15.0
+              ],
+              "after": [
+                -141.58029174804688,
+                -3839.732666015625,
+                -15.0
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -154.57948303222656,
+                -3839.588134765625,
+                -15.0
+              ],
+              "after": [
+                -141.58029174804688,
+                -3839.732666015625,
+                -15.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger2",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "code": "ORP14P",
+      "beforeSha256": "733a31928f7f09289c7090d376b36c0496707496847ef699bdd2486585947c28",
+      "afterSha256": "85eebe4d16fdfe8aa78af1b3d6657c4fdd75882904e422a171156b7c882a928b",
+      "geometrySha256": "fb2dcd1aaedfb0028ee9a883c5a3af05fdb1c7131be3029625ce448c4a40371f",
+      "renderAndLightmapsSha256": "9b3658e0ca634d08198213f366627092d3deab0219c7933a3b2e0c750efdb6fe",
+      "checkedPropertyBags": 1083,
+      "unchangedPlayerStarts": 8,
+      "onlyExpectedObjectiveChanges": [
+        {
+          "name": "SComputerObjectiveTrigger25810",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger3261",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger8554",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger283",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger8542",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag2093",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                5.083115100860596,
+                3314.176513671875,
+                -142.93215942382812
+              ],
+              "after": [
+                4.993378162384033,
+                3301.1767578125,
+                -142.93215942382812
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                5.083115100860596,
+                3314.176513671875,
+                -142.93215942382812
+              ],
+              "after": [
+                4.993378162384033,
+                3301.1767578125,
+                -142.93215942382812
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag2094",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -1653.08349609375,
+                -2770.176513671875,
+                -142.93215942382812
+              ],
+              "after": [
+                -1652.9937744140625,
+                -2757.1767578125,
+                -142.93215942382812
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -1653.08349609375,
+                -2770.176513671875,
+                -142.93215942382812
+              ],
+              "after": [
+                -1652.9937744140625,
+                -2757.1767578125,
+                -142.93215942382812
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag2095",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                3163.499755859375,
+                -174.03591918945312,
+                -142.94020080566406
+              ],
+              "after": [
+                3150.499755859375,
+                -173.99603271484375,
+                -142.94020080566406
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                3163.499755859375,
+                -174.03591918945312,
+                -142.94020080566406
+              ],
+              "after": [
+                3150.499755859375,
+                -173.99603271484375,
+                -142.94020080566406
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag2092",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                2719.8896484375,
+                -2018.61279296875,
+                -142.92880249023438
+              ],
+              "after": [
+                2719.8896484375,
+                -2031.61279296875,
+                -142.92880249023438
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                2719.8896484375,
+                -2018.61279296875,
+                -142.92880249023438
+              ],
+              "after": [
+                2719.8896484375,
+                -2031.61279296875,
+                -142.92880249023438
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "code": "SCH03P",
+      "beforeSha256": "f82a7b4d1833a8f9e2e17fd11d50df6f863919ae0e360583e5e85e153fbcafe4",
+      "afterSha256": "a8b43fa3ce3968d0e6dccd4eaae668eb850cb644707049be08c399d62e380162",
+      "geometrySha256": "f8b24ba649a03033802f48d9fa8e6c1ce601d93c0172108e5aa3d7c61ae5cb33",
+      "renderAndLightmapsSha256": "f5a9fd6105ad6818653b9ed3e2f6109d3e6e61a9c7694def7301d6f37c91246a",
+      "checkedPropertyBags": 555,
+      "unchangedPlayerStarts": 8,
+      "onlyExpectedObjectiveChanges": [
+        {
+          "name": "SComputerObjectiveTrigger0",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag0",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                7625.33056640625,
+                3140.08642578125,
+                -79.41961669921875
+              ],
+              "after": [
+                7612.33349609375,
+                3140.355712890625,
+                -79.41961669921875
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                7625.33056640625,
+                3140.08642578125,
+                -79.41961669921875
+              ],
+              "after": [
+                7612.33349609375,
+                3140.355712890625,
+                -79.41961669921875
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag1",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                6301.16357421875,
+                5157.5,
+                -781.208740234375
+              ],
+              "after": [
+                6288.1640625,
+                5157.58984375,
+                -781.208740234375
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                6301.16357421875,
+                5157.5,
+                -781.208740234375
+              ],
+              "after": [
+                6288.1640625,
+                5157.58984375,
+                -781.208740234375
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger1",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag288",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                1397.6466064453125,
+                2974.564453125,
+                240.3396759033203
+              ],
+              "after": [
+                1410.637939453125,
+                2974.728759765625,
+                239.89605712890625
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                1397.6466064453125,
+                2974.564453125,
+                240.3396759033203
+              ],
+              "after": [
+                1410.637939453125,
+                2974.728759765625,
+                239.89605712890625
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger226",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger5101",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag292",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -473.53143310546875,
+                1855.5576171875,
+                992.79638671875
+              ],
+              "after": [
+                -473.62615966796875,
+                1868.5572509765625,
+                992.8163452148438
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -473.53143310546875,
+                1855.5576171875,
+                992.79638671875
+              ],
+              "after": [
+                -473.62615966796875,
+                1868.5572509765625,
+                992.8163452148438
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "code": "SKY08P",
+      "beforeSha256": "7cceae923352228297a95fa09745999c03b2c7a83526cd0b3d8f2eb93e9ac06c",
+      "afterSha256": "2d64cb115ff094c3ceeca2416b8c2432eb3bc42f86ca366408580c2eedcb83ef",
+      "geometrySha256": "b924d12b5c751e8f76e84c87d2a10afd11f4fe65bc4c92f42396f5c6cc2799df",
+      "renderAndLightmapsSha256": "97e01c1177a6826e3c059ff018f7d6796d63687997d884e8d5143b9105bbd7c4",
+      "checkedPropertyBags": 668,
+      "unchangedPlayerStarts": 7,
+      "onlyExpectedObjectiveChanges": [
+        {
+          "name": "SFlag4072",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -4615.66650390625,
+                -2531.563720703125,
+                -265.887451171875
+              ],
+              "after": [
+                -4628.666015625,
+                -2531.4541015625,
+                -265.887451171875
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -4615.66650390625,
+                -2531.563720703125,
+                -265.887451171875
+              ],
+              "after": [
+                -4628.666015625,
+                -2531.4541015625,
+                -265.887451171875
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger212",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger265",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag257",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                4510.34814453125,
+                4406.7744140625,
+                -461.8603515625
+              ],
+              "after": [
+                4523.34814453125,
+                4406.7744140625,
+                -461.8603515625
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                4510.34814453125,
+                4406.7744140625,
+                -461.8603515625
+              ],
+              "after": [
+                4523.34814453125,
+                4406.7744140625,
+                -461.8603515625
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger313",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag4077",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                2606.247314453125,
+                -4777.5166015625,
+                -273.490966796875
+              ],
+              "after": [
+                2593.247314453125,
+                -4777.55126953125,
+                -273.490966796875
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                2606.247314453125,
+                -4777.5166015625,
+                -273.490966796875
+              ],
+              "after": [
+                2593.247314453125,
+                -4777.55126953125,
+                -273.490966796875
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger241",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger207",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger254",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "code": "TME12P",
+      "beforeSha256": "ddfbc48147cd4c42b9739d6ae6477ec6dc3ffddae4abaeebe158b734b45e1473",
+      "afterSha256": "50ee109b9085f6684eb6d7e5627951eab4eb234472270dc700b5c51c8ddd4cc1",
+      "geometrySha256": "c570b3d72aab3137f2a8075248dd6a33cd57ce756759a76d576372fb1928bd31",
+      "renderAndLightmapsSha256": "b5dbf0b4ee037d9fe8d3097306030a1985929101e7dee136667fff6f3b9aa89a",
+      "checkedPropertyBags": 428,
+      "unchangedPlayerStarts": 2,
+      "onlyExpectedObjectiveChanges": [
+        {
+          "name": "SComputerObjectiveTrigger4409",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "code": "TSP11P",
+      "beforeSha256": "cab76a1d7a6eb5a5b76ffebfa9b3857c0b8b99d0d6cd324a54e89a5ac315f18c",
+      "afterSha256": "6df6be7ecdd8be44d192570e79b6d4a3276f15736d52c0a5406fb07dde759690",
+      "geometrySha256": "8bb14b35d97ced25e1baf4277ade77992ed33ebce7075eff7a7e47f68fb015a1",
+      "renderAndLightmapsSha256": "392fd7d290b40ab392f6c4e101cdeb3a2da7fff98a11da5cbdb720e3a011cd90",
+      "checkedPropertyBags": 531,
+      "unchangedPlayerStarts": 1,
+      "onlyExpectedObjectiveChanges": [
+        {
+          "name": "SComputerObjectiveTrigger2243",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger1062",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "code": "WAR06P",
+      "beforeSha256": "e541e5c55bbafd308594f0e959bdb9d519ba9e8a3cbcf01c295f6e286a783e53",
+      "afterSha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b",
+      "geometrySha256": "55fb8c39338df451f978a1a0dd4cf37e63296048be0efd16639d3878db0d59ec",
+      "renderAndLightmapsSha256": "b8d7458c191ebe85bcb71ee6e7c6ae5042d3beaeed85d223080246ab7fed00dd",
+      "checkedPropertyBags": 674,
+      "unchangedPlayerStarts": 6,
+      "onlyExpectedObjectiveChanges": [
+        {
+          "name": "SComputerObjectiveTrigger4275",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger13941",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger267",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger4300",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag412",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                2335.7373046875,
+                3308.21826171875,
+                -398.9932556152344
+              ],
+              "after": [
+                2348.7373046875,
+                3308.2431640625,
+                -398.9932556152344
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                2335.7373046875,
+                3308.21826171875,
+                -398.9932556152344
+              ],
+              "after": [
+                2348.7373046875,
+                3308.2431640625,
+                -398.9932556152344
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag415",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                1651.82421875,
+                637.9342041015625,
+                -397.9932556152344
+              ],
+              "after": [
+                1651.789306640625,
+                624.9342651367188,
+                -397.9932556152344
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                1651.82421875,
+                637.9342041015625,
+                -397.9932556152344
+              ],
+              "after": [
+                1651.789306640625,
+                624.9342651367188,
+                -397.9932556152344
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag391",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -925.2127075195312,
+                -1336.2491455078125,
+                241.77557373046875
+              ],
+              "after": [
+                -924.56982421875,
+                -1323.2650146484375,
+                241.77557373046875
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -925.2127075195312,
+                -1336.2491455078125,
+                241.77557373046875
+              ],
+              "after": [
+                -924.56982421875,
+                -1323.2650146484375,
+                241.77557373046875
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger8549",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger13949",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger8197",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger4434",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SComputerObjectiveTrigger13945",
+          "class": "SComputerObjectiveTrigger",
+          "delta": {
+            "UseRelativeLocation": {
+              "before": null,
+              "after": [
+                90.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag425",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                3756.452392578125,
+                4294.501953125,
+                -399.9932556152344
+              ],
+              "after": [
+                3769.451416015625,
+                4294.65673828125,
+                -399.9932556152344
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                3756.452392578125,
+                4294.501953125,
+                -399.9932556152344
+              ],
+              "after": [
+                3769.451416015625,
+                4294.65673828125,
+                -399.9932556152344
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag409",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                931.2022094726562,
+                -1494.6763916015625,
+                -142.1433563232422
+              ],
+              "after": [
+                918.2022094726562,
+                -1494.6864013671875,
+                -142.13836669921875
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                931.2022094726562,
+                -1494.6763916015625,
+                -142.1433563232422
+              ],
+              "after": [
+                918.2022094726562,
+                -1494.6864013671875,
+                -142.13836669921875
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag402",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                -985.2127075195312,
+                -1211.2491455078125,
+                -142.22442626953125
+              ],
+              "after": [
+                -984.56982421875,
+                -1198.2650146484375,
+                -142.22442626953125
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                -985.2127075195312,
+                -1211.2491455078125,
+                -142.22442626953125
+              ],
+              "after": [
+                -984.56982421875,
+                -1198.2650146484375,
+                -142.22442626953125
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag397",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                2968.4287109375,
+                1529.23974609375,
+                241.00674438476562
+              ],
+              "after": [
+                2968.40869140625,
+                1516.23974609375,
+                241.00674438476562
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                2968.4287109375,
+                1529.23974609375,
+                241.00674438476562
+              ],
+              "after": [
+                2968.40869140625,
+                1516.23974609375,
+                241.00674438476562
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag421",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                3380.035400390625,
+                -1309.841796875,
+                241.00674438476562
+              ],
+              "after": [
+                3379.731201171875,
+                -1296.8453369140625,
+                241.00674438476562
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                3380.035400390625,
+                -1309.841796875,
+                241.00674438476562
+              ],
+              "after": [
+                3379.731201171875,
+                -1296.8453369140625,
+                241.00674438476562
+              ]
+            }
+          }
+        },
+        {
+          "name": "SFlag428",
+          "class": "SFlag",
+          "delta": {
+            "Location": {
+              "before": [
+                3007.9755859375,
+                4289.8232421875,
+                -398.9932556152344
+              ],
+              "after": [
+                2994.9755859375,
+                4289.84326171875,
+                -398.9932556152344
+              ]
+            },
+            "InitialLocation": {
+              "before": [
+                3007.9755859375,
+                4289.8232421875,
+                -398.9932556152344
+              ],
+              "after": [
+                2994.9755859375,
+                4289.84326171875,
+                -398.9932556152344
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

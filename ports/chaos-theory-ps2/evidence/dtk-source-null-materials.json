@@ -1,0 +1,60 @@
+{
+  "format": "scct.ps2.source-null-material",
+  "objects": [
+    {
+      "source": "DTK02.bin",
+      "table": "map:2",
+      "ref": 45,
+      "globalName": 861538,
+      "start": 4773541,
+      "end": 4794010,
+      "sourcePayloadSha256": "9cb0724d7e8b228909a33c2289a6030b3f8c46fe1aaa88452096804248e523a6",
+      "sourceProperties": {
+        "Materials": [
+          {
+            "EnableCollision": true,
+            "Material": -41
+          },
+          {
+            "EnableCollision": true,
+            "Material": 0
+          }
+        ]
+      },
+      "renderMaterials": {
+        "P2_865023.UnknownGlobalPS2_861538.default1": {
+          "flags": {},
+          "index": 69
+        }
+      }
+    },
+    {
+      "source": "DTK02.bin",
+      "table": "map:2",
+      "ref": 59,
+      "globalName": 865080,
+      "start": 4338303,
+      "end": 4431646,
+      "sourcePayloadSha256": "819bfb79d5cefb327e12b9836842f18b57ca08d95b0ea902a2e51d7f8177c533",
+      "sourceProperties": {
+        "Materials": [
+          {
+            "EnableCollision": true,
+            "Material": -18
+          },
+          {
+            "EnableCollision": true,
+            "Material": 0
+          }
+        ]
+      },
+      "renderMaterials": {
+        "P2_865023.UnknownGlobalPS2_865080.default1": {
+          "flags": {},
+          "index": 76
+        }
+      }
+    }
+  ],
+  "conclusion": "Both remainingDTKrender warnings are authored staticmesh nullmaterialslot1, not missing extractedtextures."
+}

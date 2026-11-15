@@ -1,0 +1,282 @@
+{
+  "format": "scct.ps2.versus.source",
+  "version": 1,
+  "volume": "SLES_53287",
+  "iso_size": 4232052736,
+  "map_codes": [
+    "DTK02",
+    "FAC13",
+    "GAR09",
+    "INI01",
+    "KRA07",
+    "MHO05",
+    "MIS10",
+    "MUS04",
+    "ORP14",
+    "SCH03",
+    "SKY08",
+    "TME12",
+    "TSP11",
+    "WAR06"
+  ],
+  "files": [
+    {
+      "path": "MAPS/COM_ONL.LIN",
+      "size": 3909990,
+      "sha256": "be3b920fcc3a3b3327bab169e5edb33ac99c8b400d79c9490e36a778a2f63fcf",
+      "sector": 1971648
+    },
+    {
+      "path": "MAPS/DTK02.LIN",
+      "size": 2226641,
+      "sha256": "9a3930496b95886d3e9125b24ad7de61e2a99cfe547e940bb9c0a53ed7bab20c",
+      "sector": 1986098
+    },
+    {
+      "path": "MAPS/ENTRY.LIN",
+      "size": 2951081,
+      "sha256": "0b526cc89c49e652d6a49a94babfd58371a9cecb0a1f299e1836f3979118d7c5",
+      "sector": 1974335
+    },
+    {
+      "path": "MAPS/FAC13.LIN",
+      "size": 2448135,
+      "sha256": "cc028fe91f23231cb0d93aac61fe2512b6ad7f7d4b8899f8234b06754bd9d3f9",
+      "sector": 1991152
+    },
+    {
+      "path": "MAPS/GAR09.LIN",
+      "size": 1659268,
+      "sha256": "3f3274290f399756160f6447ab7f7ca1b6ee42b3302a5cb63c7dd17278be6dca",
+      "sector": 1996010
+    },
+    {
+      "path": "MAPS/INI01.LIN",
+      "size": 2317114,
+      "sha256": "c172368245342f16c2f562de062f5c8dd8d7d97f93909f1186b7a51f73d953b9",
+      "sector": 2000709
+    },
+    {
+      "path": "MAPS/KRA07.LIN",
+      "size": 2334114,
+      "sha256": "f7fce18cdf10260e54d5cf9e960bdf6c87cc7f86390efc6e8e241af6c13649f1",
+      "sector": 2005582
+    },
+    {
+      "path": "MAPS/LOBBY.LIN",
+      "size": 2334779,
+      "sha256": "2cdfb98bf21ac6267e9c78f139e52b2ce4a9b4b65c85c4fa429541a87b9a6148",
+      "sector": 1980008
+    },
+    {
+      "path": "MAPS/MHO05.LIN",
+      "size": 3099809,
+      "sha256": "96e97c96f8a1026a2a2eadcb7ec7ec6208032841d5fa48a224980e15b99896a0",
+      "sector": 2010384
+    },
+    {
+      "path": "MAPS/MIS10.LIN",
+      "size": 2687677,
+      "sha256": "bc06a88f81eef06117b2231d7f8af0c48f96d7fdde9963f03c6d9a8ef82c6f9f",
+      "sector": 2015567
+    },
+    {
+      "path": "MAPS/MUS04.LIN",
+      "size": 2197819,
+      "sha256": "0fd151d8764831673eb780a03e2d0f5a129ae000b28c25081b91cf527fa3b25b",
+      "sector": 2026068
+    },
+    {
+      "path": "MAPS/ORP14.LIN",
+      "size": 1836688,
+      "sha256": "da5b0bdef6412ce804caf026f638530b9ca6e6233f17cc9c2a53265aa0d46689",
+      "sector": 2030798
+    },
+    {
+      "path": "MAPS/SCH03.LIN",
+      "size": 2388666,
+      "sha256": "ed1f0763010c58fc496d134f95a5dd52879ff1e46b8bc65fc679b7c062da3465",
+      "sector": 2041758
+    },
+    {
+      "path": "MAPS/SKY08.LIN",
+      "size": 2821941,
+      "sha256": "b52d80adf82a2f57f5327b2b50b6ac8d9e7a78f13c138af54f5bf0636d7f3abe",
+      "sector": 2046859
+    },
+    {
+      "path": "MAPS/TME12.LIN",
+      "size": 1675993,
+      "sha256": "99c1f6f769d93e8039cd10029b8a579a2a06ff70491210ded9bf154092d6300e",
+      "sector": 2051876
+    },
+    {
+      "path": "MAPS/TSP11.LIN",
+      "size": 2741807,
+      "sha256": "495ec36b84b6ef870f2f17bd59c8c1fb767eb2fbda7263fba7c1c49aa1b4e61b",
+      "sector": 2056287
+    },
+    {
+      "path": "MAPS/WAR06.LIN",
+      "size": 2410286,
+      "sha256": "9762e5bbcb20525e9d9f6fc882fdbb30d541a5278b12b3d196842e991cb424cb",
+      "sector": 2061288
+    },
+    {
+      "path": "ON_LINS.UMD",
+      "size": 9670656,
+      "sha256": "c1b5604cefa26d8065d2da41dd416b07562d9bc31dc801cadaf1451d40c5ec1a",
+      "sector": 1966926
+    },
+    {
+      "path": "SOUND_ON/AMBDTK02.SND",
+      "size": 8122368,
+      "sha256": "ad1a671241b222074fa4e2703f8e072692103f46446a290ab4a0eee6c847bdb6",
+      "sector": 1987186
+    },
+    {
+      "path": "SOUND_ON/AMBENTRY.SND",
+      "size": 8667136,
+      "sha256": "51c2ddbe6a3aab7837a83d7a163e03934ff66ea0e0fae6db3cfbe9280ca57a08",
+      "sector": 1975776
+    },
+    {
+      "path": "SOUND_ON/AMBFAC13.SND",
+      "size": 7499776,
+      "sha256": "2e63aedad3876f9a8775fea2008c198c4634840fdf7adc1408a6af7298b2dc28",
+      "sector": 1992348
+    },
+    {
+      "path": "SOUND_ON/AMBGAR09.SND",
+      "size": 7962624,
+      "sha256": "dc871a098df521d5c8dd562a67359ae2bec77fefd7316f6743db530b3dac5846",
+      "sector": 1996821
+    },
+    {
+      "path": "SOUND_ON/AMBINI01.SND",
+      "size": 7661568,
+      "sha256": "00e4895444bcadf74af602da93031172cbface4feb1fdc2c35ed4f5afefbd708",
+      "sector": 2001841
+    },
+    {
+      "path": "SOUND_ON/AMBKRA07.SND",
+      "size": 7499776,
+      "sha256": "b7a09b12f93b77f24ff58bb5b73326a17e7842948018e827f6f62e93368aebf0",
+      "sector": 2006722
+    },
+    {
+      "path": "SOUND_ON/AMBLOBBY.SND",
+      "size": 10135552,
+      "sha256": "b91ceaa1903517bfb49bd3ea154378d1eaa8ff5c704e50c4e863f9233a435851",
+      "sector": 1981149
+    },
+    {
+      "path": "SOUND_ON/AMBMHO05.SND",
+      "size": 7514112,
+      "sha256": "a63dc29a42df7b65f47453bca8de401c4c51509f22c945b9a0fd6aff275ada4a",
+      "sector": 2011898
+    },
+    {
+      "path": "SOUND_ON/AMBMIS10.SND",
+      "size": 18817024,
+      "sha256": "35588571de065b0ff6456c57acdcf0a9588697d476d62ba7528d1d7d501e220b",
+      "sector": 2016880
+    },
+    {
+      "path": "SOUND_ON/AMBMUS04.SND",
+      "size": 7487488,
+      "sha256": "135dc5e2e373354d89ff8a466898802b9f7052b4eaaeda6f678f377fd6a3d1d7",
+      "sector": 2027142
+    },
+    {
+      "path": "SOUND_ON/AMBORP14.SND",
+      "size": 20609024,
+      "sha256": "eebf3c6ef9525a28521534be3da8a752d6ef1e201cd2d654e569133dc1c912d1",
+      "sector": 2031695
+    },
+    {
+      "path": "SOUND_ON/AMBSCH03.SND",
+      "size": 8056832,
+      "sha256": "bfa068a9fc2ae50b1e22a587b44663334e5a41940e09e1c8bda54e35cdb644d2",
+      "sector": 2042925
+    },
+    {
+      "path": "SOUND_ON/AMBSKY08.SND",
+      "size": 7452672,
+      "sha256": "8728aba1e9f043f0c10b3c33f208a9bee3d4ac9348796f95a757361f0ba213bc",
+      "sector": 2048237
+    },
+    {
+      "path": "SOUND_ON/AMBTME12.SND",
+      "size": 7356416,
+      "sha256": "4ade8f171c4616ed70392dc1bb08077755e488a8a63f29120ec64de9f83b5899",
+      "sector": 2052695
+    },
+    {
+      "path": "SOUND_ON/AMBTSP11.SND",
+      "size": 7499776,
+      "sha256": "7b1ede23771340b62f0a8bbb4027054c384956316f2774258e2eb494ada5a2d1",
+      "sector": 2057626
+    },
+    {
+      "path": "SOUND_ON/AMBWAR06.SND",
+      "size": 8122368,
+      "sha256": "262e15fc91dd1c526691200dd66946505241f6ef44b5b897e1b5016f1f7c11f4",
+      "sector": 2062465
+    },
+    {
+      "path": "SOUND_ON/ARMES.SB1",
+      "size": 405976,
+      "sha256": "f7255522de697d5f4bb2ffe88bad49ce91c2e60a6576867ca0a990e094ea8a6b",
+      "sector": 1973561
+    },
+    {
+      "path": "SOUND_ON/DIVERMOV.SB1",
+      "size": 139044,
+      "sha256": "2f64f5a736e17aed855417d7e94a4114c8d31d405c4476a056291b4e67c8f153",
+      "sector": 1973972
+    },
+    {
+      "path": "SOUND_ON/FOOTSTPS.SB1",
+      "size": 159900,
+      "sha256": "b4fc29e1129215254fbc5c93486e461282ba372c9352dfcc370cb2df25b6caed",
+      "sector": 1973760
+    },
+    {
+      "path": "SOUND_ON/GADGETS.SB1",
+      "size": 171072,
+      "sha256": "0d66374b3fe79d820f2c901ec2f00f7ab00abcbef11dec9ec9dea18174393fc5",
+      "sector": 1973839
+    },
+    {
+      "path": "SOUND_ON/IMPACTS.SB1",
+      "size": 266360,
+      "sha256": "23832ce0b6bec78e96de83754f116b8495d1bcae2f0bcd45de84059be1897481",
+      "sector": 1974040
+    },
+    {
+      "path": "SOUND_ON/INTERFAC.SB1",
+      "size": 192380,
+      "sha256": "76c59f3a3eb5b939d6522406a326f49d5ff884f2960cf99fe010e06a898fc7a0",
+      "sector": 1974241
+    },
+    {
+      "path": "SOUND_ON/MATOSVET.SB1",
+      "size": 141316,
+      "sha256": "b793403350c836fc9e1abf5344a387bf16d26ed814462a50e176c2635e49cabb",
+      "sector": 1974171
+    },
+    {
+      "path": "SOUND_ON/ONOMATOP.SB1",
+      "size": 99520,
+      "sha256": "b7a81af6f6c8e84e20e171c3b37e9e5c47e8b1dbb320fe26c78b004025498e9f",
+      "sector": 1973923
+    },
+    {
+      "path": "SOUND_ON/PANDORA.SP1",
+      "size": 6144,
+      "sha256": "5648174cbfd6a50e1e471671a9088b77225a7eab668515a5016eb8da19b1b5bf",
+      "sector": 1973558
+    }
+  ]
+}

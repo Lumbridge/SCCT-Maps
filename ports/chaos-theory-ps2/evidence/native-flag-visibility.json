@@ -1,0 +1,16 @@
+{
+  "source_file": "SC3_ON.ELF",
+  "source_sha256": "86ca75c3f3f07a345fa97970a5cc3a158ed2cfc8f68ca0e0eaa5e3efb3592113",
+  "deactivate": {
+    "function": "0x444860",
+    "write": "0x4448A8..0x4448BC",
+    "operation": "byte(this+0x30D) |= 0x08",
+    "effect": "bHidden=True"
+  },
+  "identity_proof": {
+    "function": "0x16D510..0x16D568",
+    "operation": "Extract bit3 at+0x30D from actor/default pair; resolve property global2038 via17A050 before setting its replicated dirty index",
+    "global_id": 2038,
+    "property": "bHidden"
+  }
+}

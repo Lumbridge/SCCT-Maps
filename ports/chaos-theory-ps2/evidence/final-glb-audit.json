@@ -1,0 +1,457 @@
+{
+  "maps": 14,
+  "errors": [],
+  "source_track_correspondence": "animation-track-comparison.json (all72tracks exact PS2/retainedPC)",
+  "native_zero_semantics": "native-zero-quaternion-semantics.json",
+  "overlay_asset_count": 41,
+  "checks": [
+    {
+      "code": "DTK02",
+      "file": "work\\ps2-build\\svmap\\DTK02P\\render\\chars\\nd133_1mesh\\nd133_mesh.glb",
+      "sha256": "c0d1a5a733b366a67d847e1d74cfd1941d623efaabed3bc4d3266bcfa1886912",
+      "adapted_tracks": [
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "thermos"
+        }
+      ],
+      "rotation_tracks": 72,
+      "translation_tracks": 72,
+      "rotation_keys": 745,
+      "translation_keys": 218,
+      "nonzero_quaternions_unchanged": true,
+      "all_source_translations_preserved": true,
+      "time_arrays_preserved": true,
+      "source_slots_and_runtime_state_materials": true,
+      "vial_modem_mesh_and_audio_bindings": true
+    },
+    {
+      "code": "FAC13",
+      "file": "work\\ps2-build\\svmap\\FAC13P\\render\\chars\\nd133_1mesh\\nd133_mesh.glb",
+      "sha256": "c0d1a5a733b366a67d847e1d74cfd1941d623efaabed3bc4d3266bcfa1886912",
+      "adapted_tracks": [
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "thermos"
+        }
+      ],
+      "rotation_tracks": 72,
+      "translation_tracks": 72,
+      "rotation_keys": 745,
+      "translation_keys": 218,
+      "nonzero_quaternions_unchanged": true,
+      "all_source_translations_preserved": true,
+      "time_arrays_preserved": true,
+      "source_slots_and_runtime_state_materials": true,
+      "vial_modem_mesh_and_audio_bindings": true
+    },
+    {
+      "code": "GAR09",
+      "file": "work\\ps2-build\\svmap\\GAR09P\\render\\chars\\nd133_1mesh\\nd133_mesh.glb",
+      "sha256": "c0d1a5a733b366a67d847e1d74cfd1941d623efaabed3bc4d3266bcfa1886912",
+      "adapted_tracks": [
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "thermos"
+        }
+      ],
+      "rotation_tracks": 72,
+      "translation_tracks": 72,
+      "rotation_keys": 745,
+      "translation_keys": 218,
+      "nonzero_quaternions_unchanged": true,
+      "all_source_translations_preserved": true,
+      "time_arrays_preserved": true,
+      "source_slots_and_runtime_state_materials": true,
+      "vial_modem_mesh_and_audio_bindings": true
+    },
+    {
+      "code": "INI01",
+      "file": "work\\ps2-build\\svmap\\INI01P\\render\\chars\\nd133_1mesh\\nd133_mesh.glb",
+      "sha256": "c0d1a5a733b366a67d847e1d74cfd1941d623efaabed3bc4d3266bcfa1886912",
+      "adapted_tracks": [
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "thermos"
+        }
+      ],
+      "rotation_tracks": 72,
+      "translation_tracks": 72,
+      "rotation_keys": 745,
+      "translation_keys": 218,
+      "nonzero_quaternions_unchanged": true,
+      "all_source_translations_preserved": true,
+      "time_arrays_preserved": true,
+      "source_slots_and_runtime_state_materials": true,
+      "vial_modem_mesh_and_audio_bindings": true
+    },
+    {
+      "code": "KRA07",
+      "file": "work\\ps2-build\\svmap\\KRA07P\\render\\chars\\nd133_1mesh\\nd133_mesh.glb",
+      "sha256": "c0d1a5a733b366a67d847e1d74cfd1941d623efaabed3bc4d3266bcfa1886912",
+      "adapted_tracks": [
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "thermos"
+        }
+      ],
+      "rotation_tracks": 72,
+      "translation_tracks": 72,
+      "rotation_keys": 745,
+      "translation_keys": 218,
+      "nonzero_quaternions_unchanged": true,
+      "all_source_translations_preserved": true,
+      "time_arrays_preserved": true,
+      "source_slots_and_runtime_state_materials": true,
+      "vial_modem_mesh_and_audio_bindings": true
+    },
+    {
+      "code": "MHO05",
+      "file": "work\\ps2-build\\svmap\\MHO05P\\render\\chars\\nd133_1mesh\\nd133_mesh.glb",
+      "sha256": "c0d1a5a733b366a67d847e1d74cfd1941d623efaabed3bc4d3266bcfa1886912",
+      "adapted_tracks": [
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "thermos"
+        }
+      ],
+      "rotation_tracks": 72,
+      "translation_tracks": 72,
+      "rotation_keys": 745,
+      "translation_keys": 218,
+      "nonzero_quaternions_unchanged": true,
+      "all_source_translations_preserved": true,
+      "time_arrays_preserved": true,
+      "source_slots_and_runtime_state_materials": true,
+      "vial_modem_mesh_and_audio_bindings": true
+    },
+    {
+      "code": "MIS10",
+      "file": "work\\ps2-build\\svmap\\MIS10P\\render\\chars\\nd133_1mesh\\nd133_mesh.glb",
+      "sha256": "c0d1a5a733b366a67d847e1d74cfd1941d623efaabed3bc4d3266bcfa1886912",
+      "adapted_tracks": [
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "thermos"
+        }
+      ],
+      "rotation_tracks": 72,
+      "translation_tracks": 72,
+      "rotation_keys": 745,
+      "translation_keys": 218,
+      "nonzero_quaternions_unchanged": true,
+      "all_source_translations_preserved": true,
+      "time_arrays_preserved": true,
+      "source_slots_and_runtime_state_materials": true,
+      "vial_modem_mesh_and_audio_bindings": true
+    },
+    {
+      "code": "MUS04",
+      "file": "work\\ps2-build\\svmap\\MUS04P\\render\\chars\\nd133_1mesh\\nd133_mesh.glb",
+      "sha256": "c0d1a5a733b366a67d847e1d74cfd1941d623efaabed3bc4d3266bcfa1886912",
+      "adapted_tracks": [
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "thermos"
+        }
+      ],
+      "rotation_tracks": 72,
+      "translation_tracks": 72,
+      "rotation_keys": 745,
+      "translation_keys": 218,
+      "nonzero_quaternions_unchanged": true,
+      "all_source_translations_preserved": true,
+      "time_arrays_preserved": true,
+      "source_slots_and_runtime_state_materials": true,
+      "vial_modem_mesh_and_audio_bindings": true
+    },
+    {
+      "code": "ORP14",
+      "file": "work\\ps2-build\\svmap\\ORP14P\\render\\chars\\nd133_1mesh\\nd133_mesh.glb",
+      "sha256": "c0d1a5a733b366a67d847e1d74cfd1941d623efaabed3bc4d3266bcfa1886912",
+      "adapted_tracks": [
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "thermos"
+        }
+      ],
+      "rotation_tracks": 72,
+      "translation_tracks": 72,
+      "rotation_keys": 745,
+      "translation_keys": 218,
+      "nonzero_quaternions_unchanged": true,
+      "all_source_translations_preserved": true,
+      "time_arrays_preserved": true,
+      "source_slots_and_runtime_state_materials": true,
+      "vial_modem_mesh_and_audio_bindings": true
+    },
+    {
+      "code": "SCH03",
+      "file": "work\\ps2-build\\svmap\\SCH03P\\render\\chars\\nd133_1mesh\\nd133_mesh.glb",
+      "sha256": "c0d1a5a733b366a67d847e1d74cfd1941d623efaabed3bc4d3266bcfa1886912",
+      "adapted_tracks": [
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "thermos"
+        }
+      ],
+      "rotation_tracks": 72,
+      "translation_tracks": 72,
+      "rotation_keys": 745,
+      "translation_keys": 218,
+      "nonzero_quaternions_unchanged": true,
+      "all_source_translations_preserved": true,
+      "time_arrays_preserved": true,
+      "source_slots_and_runtime_state_materials": true,
+      "vial_modem_mesh_and_audio_bindings": true
+    },
+    {
+      "code": "SKY08",
+      "file": "work\\ps2-build\\svmap\\SKY08P\\render\\chars\\nd133_1mesh\\nd133_mesh.glb",
+      "sha256": "c0d1a5a733b366a67d847e1d74cfd1941d623efaabed3bc4d3266bcfa1886912",
+      "adapted_tracks": [
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "thermos"
+        }
+      ],
+      "rotation_tracks": 72,
+      "translation_tracks": 72,
+      "rotation_keys": 745,
+      "translation_keys": 218,
+      "nonzero_quaternions_unchanged": true,
+      "all_source_translations_preserved": true,
+      "time_arrays_preserved": true,
+      "source_slots_and_runtime_state_materials": true,
+      "vial_modem_mesh_and_audio_bindings": true
+    },
+    {
+      "code": "TME12",
+      "file": "work\\ps2-build\\svmap\\TME12P\\render\\chars\\nd133_1mesh\\nd133_mesh.glb",
+      "sha256": "c0d1a5a733b366a67d847e1d74cfd1941d623efaabed3bc4d3266bcfa1886912",
+      "adapted_tracks": [
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "thermos"
+        }
+      ],
+      "rotation_tracks": 72,
+      "translation_tracks": 72,
+      "rotation_keys": 745,
+      "translation_keys": 218,
+      "nonzero_quaternions_unchanged": true,
+      "all_source_translations_preserved": true,
+      "time_arrays_preserved": true,
+      "source_slots_and_runtime_state_materials": true,
+      "vial_modem_mesh_and_audio_bindings": true
+    },
+    {
+      "code": "TSP11",
+      "file": "work\\ps2-build\\svmap\\TSP11P\\render\\chars\\nd133_1mesh\\nd133_mesh.glb",
+      "sha256": "c0d1a5a733b366a67d847e1d74cfd1941d623efaabed3bc4d3266bcfa1886912",
+      "adapted_tracks": [
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "thermos"
+        }
+      ],
+      "rotation_tracks": 72,
+      "translation_tracks": 72,
+      "rotation_keys": 745,
+      "translation_keys": 218,
+      "nonzero_quaternions_unchanged": true,
+      "all_source_translations_preserved": true,
+      "time_arrays_preserved": true,
+      "source_slots_and_runtime_state_materials": true,
+      "vial_modem_mesh_and_audio_bindings": true
+    },
+    {
+      "code": "WAR06",
+      "file": "work\\ps2-build\\svmap\\WAR06P\\render\\chars\\nd133_1mesh\\nd133_mesh.glb",
+      "sha256": "c0d1a5a733b366a67d847e1d74cfd1941d623efaabed3bc4d3266bcfa1886912",
+      "adapted_tracks": [
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_alarm_ps2",
+          "bone": "thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "B_thermos"
+        },
+        {
+          "sequence": "nd133_ctf_seq_ps2",
+          "bone": "thermos"
+        }
+      ],
+      "rotation_tracks": 72,
+      "translation_tracks": 72,
+      "rotation_keys": 745,
+      "translation_keys": 218,
+      "nonzero_quaternions_unchanged": true,
+      "all_source_translations_preserved": true,
+      "time_arrays_preserved": true,
+      "source_slots_and_runtime_state_materials": true,
+      "vial_modem_mesh_and_audio_bindings": true
+    }
+  ]
+}
