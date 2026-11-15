@@ -65,12 +65,11 @@ The eight Double Agent maps share [one set of collection notes](ports/splinter-c
 
 <!-- ps2-original:start -->
 
-[Original PlayStation 2 Versus maps](ports/chaos-theory-ps2/README.md): fourteen
-compiled levels, including tutorials, with `P` package/display suffixes. This
-collection is available to OpenSCCT after its runtime release gate; native
-Enhanced/Reloaded publication remains pending separate validation. OpenSCCT
-load/render checks pass all fourteen maps and the shared objective profile passes
-on DTK02P. OpenSCCT packs require game 0.8.156 or later.
+[Original PlayStation2 Versus maps](ports/chaos-theory-ps2/README.md): fourteen
+compiled levels, including tutorials, with `P` package/display suffixes. The
+Enhanced/Reloaded native collection and separate OpenSCCT packs have source,
+asset and runtime validation receipts. OpenSCCT packs require game0.8.156 or later.
+The two releases retain separate immutable source origins and compatibility policies.
 
 <!-- ps2-original:end -->
 

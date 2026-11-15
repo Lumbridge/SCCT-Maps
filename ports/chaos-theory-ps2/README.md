@@ -4,10 +4,9 @@ Fourteen levels recovered from the European PlayStation 2 disc of *Splinter Cell
 Chaos Theory* (`SLES_53287`), including both tutorials. The package code and display
 name end in `P`, for example `ORP14P` / **Orphanage P**, so they coexist with PC maps.
 
-This source release supports the separately published OpenSCCT collection.
-Native Enhanced/Reloaded publication remains pending separate validation. OpenSCCT
+Native loading, menu and representative extraction/neutralization checks pass. OpenSCCT
 passes load/render checks on all fourteen maps and the original objective profile
-smoke on DTK02P. OpenSCCT downloads use the OpenSCCT-Content catalog after runtime0.8.156 is published.
+smoke on DTK02P. See the release assets and per-map validation receipts.
 
 | Map | Package | Notes |
 | --- | --- | --- |
@@ -28,8 +27,7 @@ smoke on DTK02P. OpenSCCT downloads use the OpenSCCT-Content catalog after runti
 
 ## Installing
 
-The planned native release is for Enhanced/Reloaded Versus. It is not in
-the native catalog until validation completes. It will install the complete map and
+The native release is for Enhanced/Reloaded Versus. Install the complete map and
 its supplied `P2_` packages through SCCT Map Manager or copy the release ZIP's
 `Packages` tree into the game. Other players need matching files. Editable brush
 history is not recovered; these are converted compiled levels.
@@ -87,12 +85,19 @@ preview/loading images, all with matching decoded pixels.
 ## Validation
 
 Automated source/serialization/pixel/geometry/animation audits pass. They do not
-establish a completed match or visual parity during play. Native loading, host
-menu enumeration and actual native matches remain pending in this draft. The
+establish a completed match or visual parity during play. Native loading and host-menu checks pass for all fourteen maps; representative
+extraction and neutralization interactions pass on the final candidate. The
 OpenSCCT real client/server smoke checks the vial, console, panner, alarm, modem,
 destruction and carried-vial binding on DTK02P; all fourteen maps pass load/render
 captures. This does not claim fourteen completed matches. Per-map `validation.json`
 records the exact scope.
+
+The native final receipt records all fourteen final named worlds, all51 flag and
+77 computer endpoints, the host menu and representative normal Extraction,
+Sabotage and Neutralization interactions. Earlier walking/render checks are reused
+only with final decoded geometry, spawn and non-objective-property invariance.
+The native harness did not exercise a remote multiplayer client or subjective
+audio listening; it does not claim complete routes between every objective.
 
 The [evidence index](evidence/index.json) binds the portable audit reports to their
 SHA-256 hashes and to the original local report hashes. [Objective source

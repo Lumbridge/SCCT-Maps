@@ -3,13 +3,12 @@
 The original PlayStation 2 Versus level from *Splinter Cell: Chaos Theory*
 (`SLES_53287`), converted from `MAPS/ORP14.LIN`.
 
-OpenSCCT source, load/render and shared objective/input checks pass.
-Native Enhanced/Reloaded publication remains pending separate validation.
+Native loading, menu and representative extraction/neutralization checks pass.
 OpenSCCT load/render checks pass for this map; the shared original objective
 profile passes its DTK02P real client/server smoke. See
 [validation status](validation.json) for the exact scope.
 
-The planned native Enhanced/Reloaded release installs as `ORP14P`. Keep every package
+The native Enhanced/Reloaded release installs as `ORP14P`. Keep every package
 listed in [SHA256SUMS.txt](SHA256SUMS.txt); dependencies use the isolated `P2_`
 namespace. Install via SCCT Map Manager or the release ZIP's `Packages` tree.
 Other players need matching files. These compiled levels have no recovered brush

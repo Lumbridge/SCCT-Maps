@@ -1,23 +1,27 @@
 {
   "format": "scct.ps2.svm.validation-draft",
   "code": "DTK02P",
-  "candidateTreeSha256": "2461eec525e159a9a9de6d62d4874e86556e8efc566669fb4e0fc4284168d589",
+  "candidateTreeSha256": "dbca8f66ef38077c1e4b7a91f8b0154b2cdb6bf8dcaac1d87089f9170bab6879",
   "automated": {
     "status": "passed",
     "evidence": "../evidence/index.json"
   },
   "native": {
-    "load": "pending",
-    "menu": "pending",
-    "match": "pending",
-    "evidence": [],
-    "publication": "pending"
+    "load": "passed",
+    "menu": "passed",
+    "match": "passed",
+    "evidence": [
+      "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-FAC13P-f766ed2ade\\final-endpoint-collection\\DTK02P.json",
+      "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\release-ps2-v1\\native-world-invariance.json",
+      "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\batch-v7-named-proof\\receipt-final.json",
+      "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02P-4b6771c64a\\validation.json"
+    ]
   },
   "openscct": {
     "liveGameplay": "pending",
     "originalObjectives": "pending",
     "minimumSupportedVersion": "0.8.156",
-    "runtimeRelease": "Required before map publication; checked separately by release receipt",
+    "runtimeRelease": "passed",
     "loadRender": "passed",
     "objectiveAssets": "passed",
     "sharedObjectiveProfile": "passed onDTK02P",
@@ -26,7 +30,6 @@
     "sourceUseInput": {
       "status": "passed",
       "evidence": "../evidence/source-input-evidence.json"
-    },
-    "runtimeSourceCommit": "6ea666373e28220413474cc98b4208901fd47c8b"
+    }
   }
 }
