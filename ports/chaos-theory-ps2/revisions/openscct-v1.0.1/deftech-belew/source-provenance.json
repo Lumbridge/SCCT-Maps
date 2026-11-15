@@ -1,0 +1,71 @@
+{
+  "format": "scct.ps2.openscct.source-revision",
+  "version": "1.0.1",
+  "status": "runtime-and-content-verified-source-release-preparation",
+  "sourceCode": "DTK02",
+  "targetCode": "DTK02P",
+  "title": "Deftech Belew P",
+  "contentUpdate": true,
+  "sourceOrigin": {
+    "kind": "release",
+    "repo": "Lumbridge/SCCT-Maps",
+    "path": "releases/download/ps2-original-svm-openscct-v1.0.1/DTK02P.sdc",
+    "sha256": "6832ec2a4d875e75f0305becf8ab649ead05328bef616eba23916a0c7d83b591",
+    "mapId": "ports/chaos-theory-ps2/deftech-belew",
+    "status": "source-bytes-verified-new-immutable-release-required",
+    "commitBinding": "The content index records the real commit containing this versioned metadata; no self-referential commit placeholder is embedded here."
+  },
+  "originalDisc": "SLES_53287",
+  "original": {
+    "path": "MAPS/DTK02.LIN",
+    "size": 2226641,
+    "sha256": "9a3930496b95886d3e9125b24ad7de61e2a99cfe547e940bb9c0a53ed7bab20c"
+  },
+  "builderCommit": "5aa27e533097de319c46ed6109241afd368be1b2",
+  "converterArtifact": "SCCT-PS2-OpenSCCT-converter-source-v1.0.1.zip",
+  "converterManifestSha256": "377c8f7431cf86dce3b4abd49a9b5e2429e03b357e3acc1c84479d546fd62714",
+  "supportedRuntimeCommit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+  "minimumRuntimeVersion": "0.8.158",
+  "runtimeCandidateCommit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+  "runtimePublication": "https://github.com/Lumbridge/OpenSCCT/releases/tag/v0.8.158",
+  "English": {
+    "changes": [
+      {
+        "ref": 230,
+        "name": "SAlarm0",
+        "fields": [
+          {
+            "path": "AlarmName",
+            "source": "office_rdc",
+            "value": "Ground-floor office",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "AlarmName is displayed FString, not Tag/Event/FName. Literal French RdC (rez-de-chaussée) label expansion; do not alter the corresponding actor identifier."
+          }
+        ]
+      },
+      {
+        "ref": 487,
+        "name": "SAlarm23250",
+        "fields": [
+          {
+            "path": "AlarmName",
+            "source": "office_rdc",
+            "value": "Ground-floor office",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "AlarmName is displayed FString, not Tag/Event/FName. Literal French RdC (rez-de-chaussée) label expansion; do not alter the corresponding actor identifier."
+          }
+        ]
+      }
+    ],
+    "audit": "work/linear_loader/english-audit-v2/DTK02.json"
+  },
+  "nativeScope": "This OpenSCCT origin is independent of the pending 12-map native Neutralization-only revision.",
+  "verification": "Exact frozen source/canonical/asset audits and revised runtime CI/publication/input/visual/network verification pass. No fourteen completed matches are claimed.",
+  "converterArtifactSha256": "1dc76c3b009ca5358567c4b9350cf04fae6204816150aa9f4f3d7143367483b0"
+}

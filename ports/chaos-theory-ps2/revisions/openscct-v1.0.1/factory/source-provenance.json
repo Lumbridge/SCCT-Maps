@@ -1,0 +1,117 @@
+{
+  "format": "scct.ps2.openscct.source-revision",
+  "version": "1.0.1",
+  "status": "runtime-and-content-verified-source-release-preparation",
+  "sourceCode": "FAC13",
+  "targetCode": "FAC13P",
+  "title": "Factory P",
+  "contentUpdate": true,
+  "sourceOrigin": {
+    "kind": "release",
+    "repo": "Lumbridge/SCCT-Maps",
+    "path": "releases/download/ps2-original-svm-openscct-v1.0.1/FAC13P.sdc",
+    "sha256": "b10092649f3ba8f4e81e13c1d6351223e8e83f6db3c055f5f63a9541be039e7f",
+    "mapId": "ports/chaos-theory-ps2/factory",
+    "status": "source-bytes-verified-new-immutable-release-required",
+    "commitBinding": "The content index records the real commit containing this versioned metadata; no self-referential commit placeholder is embedded here."
+  },
+  "originalDisc": "SLES_53287",
+  "original": {
+    "path": "MAPS/FAC13.LIN",
+    "size": 2448135,
+    "sha256": "cc028fe91f23231cb0d93aac61fe2512b6ad7f7d4b8899f8234b06754bd9d3f9"
+  },
+  "builderCommit": "5aa27e533097de319c46ed6109241afd368be1b2",
+  "converterArtifact": "SCCT-PS2-OpenSCCT-converter-source-v1.0.1.zip",
+  "converterManifestSha256": "377c8f7431cf86dce3b4abd49a9b5e2429e03b357e3acc1c84479d546fd62714",
+  "supportedRuntimeCommit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+  "minimumRuntimeVersion": "0.8.158",
+  "runtimeCandidateCommit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+  "runtimePublication": "https://github.com/Lumbridge/OpenSCCT/releases/tag/v0.8.158",
+  "English": {
+    "changes": [
+      {
+        "ref": 340,
+        "name": "SAlarm4211",
+        "fields": [
+          {
+            "path": "AlarmName",
+            "source": "Salle des Generateurs",
+            "value": "Generator Room",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "LIN wording differs from FAC13.fra SAlarm4211 Générateurs; same room meaning and FAC13.eng wording Generator Room."
+          },
+          {
+            "path": "AlarmDescription",
+            "source": "Salle des Generateurs",
+            "value": "Generator Room",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "LIN wording differs from FAC13.fra SAlarm4211 Générateurs; same room meaning and FAC13.eng wording Generator Room."
+          },
+          {
+            "path": "AlarmDescriptionSpy",
+            "source": "Salle des Generateurs",
+            "value": "Generator Room",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "LIN wording differs from FAC13.fra SAlarm4211 Générateurs; same room meaning and FAC13.eng wording Generator Room."
+          }
+        ]
+      },
+      {
+        "ref": 584,
+        "name": "SAlarm5557",
+        "fields": [
+          {
+            "path": "AlarmName",
+            "source": "Salle des Machines",
+            "value": "Machine Room",
+            "status": "translated",
+            "method": "ISO-English-locale-casefold",
+            "sections": [
+              "SAlarm5557"
+            ],
+            "locale": "FAC13",
+            "note": null
+          },
+          {
+            "path": "AlarmDescription",
+            "source": "Salle des Machines",
+            "value": "Machine Room",
+            "status": "translated",
+            "method": "ISO-English-locale-casefold",
+            "sections": [
+              "SAlarm5557"
+            ],
+            "locale": "FAC13",
+            "note": null
+          },
+          {
+            "path": "AlarmDescriptionSpy",
+            "source": "Salle des Machines",
+            "value": "Machine Room",
+            "status": "translated",
+            "method": "ISO-English-locale-casefold",
+            "sections": [
+              "SAlarm5557"
+            ],
+            "locale": "FAC13",
+            "note": null
+          }
+        ]
+      }
+    ],
+    "audit": "work/linear_loader/english-audit-v2/FAC13.json"
+  },
+  "nativeScope": "This OpenSCCT origin is independent of the pending 12-map native Neutralization-only revision.",
+  "verification": "Exact frozen source/canonical/asset audits and revised runtime CI/publication/input/visual/network verification pass. No fourteen completed matches are claimed.",
+  "converterArtifactSha256": "1dc76c3b009ca5358567c4b9350cf04fae6204816150aa9f4f3d7143367483b0"
+}

@@ -1,0 +1,134 @@
+{
+  "format": "scct.ps2.english-display-audit",
+  "version": 2,
+  "maps": [
+    {
+      "map": "DTK02",
+      "status": "ready",
+      "counts": {
+        "translated": 2,
+        "intentional-English": 94,
+        "blank": 4
+      },
+      "protectedPropertyValuesVerified": 932
+    },
+    {
+      "map": "FAC13",
+      "status": "ready",
+      "counts": {
+        "intentional-English": 61,
+        "translated": 6
+      },
+      "protectedPropertyValuesVerified": 728
+    },
+    {
+      "map": "GAR09",
+      "status": "ready",
+      "counts": {
+        "translated": 40,
+        "intentional-English": 25
+      },
+      "protectedPropertyValuesVerified": 505
+    },
+    {
+      "map": "INI01",
+      "status": "ready",
+      "counts": {
+        "intentional-English": 32,
+        "blank": 8
+      },
+      "protectedPropertyValuesVerified": 581
+    },
+    {
+      "map": "KRA07",
+      "status": "ready",
+      "counts": {
+        "intentional-English": 161,
+        "translated": 4
+      },
+      "protectedPropertyValuesVerified": 1177
+    },
+    {
+      "map": "MHO05",
+      "status": "ready",
+      "counts": {
+        "intentional-English": 68,
+        "blank": 43
+      },
+      "protectedPropertyValuesVerified": 1067
+    },
+    {
+      "map": "MIS10",
+      "status": "ready",
+      "counts": {
+        "intentional-English": 46,
+        "blank": 15
+      },
+      "protectedPropertyValuesVerified": 1018
+    },
+    {
+      "map": "MUS04",
+      "status": "ready",
+      "counts": {
+        "intentional-English": 66,
+        "blank": 18,
+        "translated": 1
+      },
+      "protectedPropertyValuesVerified": 1111
+    },
+    {
+      "map": "ORP14",
+      "status": "ready",
+      "counts": {
+        "intentional-English": 57,
+        "translated": 9
+      },
+      "protectedPropertyValuesVerified": 1234
+    },
+    {
+      "map": "SCH03",
+      "status": "ready",
+      "counts": {
+        "intentional-English": 67,
+        "blank": 2
+      },
+      "protectedPropertyValuesVerified": 609
+    },
+    {
+      "map": "SKY08",
+      "status": "ready",
+      "counts": {
+        "intentional-English": 71,
+        "blank": 11
+      },
+      "protectedPropertyValuesVerified": 876
+    },
+    {
+      "map": "TME12",
+      "status": "ready",
+      "counts": {
+        "intentional-English": 35
+      },
+      "protectedPropertyValuesVerified": 440
+    },
+    {
+      "map": "TSP11",
+      "status": "ready",
+      "counts": {
+        "intentional-English": 36
+      },
+      "protectedPropertyValuesVerified": 642
+    },
+    {
+      "map": "WAR06",
+      "status": "ready",
+      "counts": {
+        "intentional-English": 52,
+        "blank": 11
+      },
+      "protectedPropertyValuesVerified": 736
+    }
+  ],
+  "immutableV1Modified": false,
+  "scope": "Authored map FString text only; MapSettings/class defaults additionally supported by the same opt-in helper. No geometry, identifiers, FNames or script keys are translated."
+}

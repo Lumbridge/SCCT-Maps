@@ -1,0 +1,631 @@
+{
+  "format": "scct.ps2.openscct.source-revision",
+  "version": "1.0.1",
+  "status": "runtime-and-content-verified-source-release-preparation",
+  "sourceCode": "GAR09",
+  "targetCode": "GAR09P",
+  "title": "Station P",
+  "contentUpdate": true,
+  "sourceOrigin": {
+    "kind": "release",
+    "repo": "Lumbridge/SCCT-Maps",
+    "path": "releases/download/ps2-original-svm-openscct-v1.0.1/GAR09P.sdc",
+    "sha256": "eea5620191899a3e8e41760ed5ac743fe0f70b64f92d640115ea6e243f09c0cb",
+    "mapId": "ports/chaos-theory-ps2/station",
+    "status": "source-bytes-verified-new-immutable-release-required",
+    "commitBinding": "The content index records the real commit containing this versioned metadata; no self-referential commit placeholder is embedded here."
+  },
+  "originalDisc": "SLES_53287",
+  "original": {
+    "path": "MAPS/GAR09.LIN",
+    "size": 1659268,
+    "sha256": "3f3274290f399756160f6447ab7f7ca1b6ee42b3302a5cb63c7dd17278be6dca"
+  },
+  "builderCommit": "5aa27e533097de319c46ed6109241afd368be1b2",
+  "converterArtifact": "SCCT-PS2-OpenSCCT-converter-source-v1.0.1.zip",
+  "converterManifestSha256": "377c8f7431cf86dce3b4abd49a9b5e2429e03b357e3acc1c84479d546fd62714",
+  "supportedRuntimeCommit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+  "minimumRuntimeVersion": "0.8.158",
+  "runtimeCandidateCommit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+  "runtimePublication": "https://github.com/Lumbridge/OpenSCCT/releases/tag/v0.8.158",
+  "English": {
+    "changes": [
+      {
+        "ref": 104,
+        "name": "SFlag5680",
+        "fields": [
+          {
+            "path": "TriggerName",
+            "source": "Couloir 1er étage",
+            "value": "Corridor second floor",
+            "status": "translated",
+            "method": "ISO-English-locale",
+            "sections": [
+              "SFlag5680"
+            ],
+            "locale": "GAR09",
+            "note": null
+          }
+        ]
+      },
+      {
+        "ref": 110,
+        "name": "SComputerObjectiveTrigger9335",
+        "fields": [
+          {
+            "path": "TriggerName",
+            "source": "Poste de contrôle 2",
+            "value": "Control Room 2",
+            "status": "translated",
+            "method": "ISO-English-locale",
+            "sections": [
+              "SComputerObjectiveTrigger9335"
+            ],
+            "locale": "GAR09",
+            "note": null
+          }
+        ]
+      },
+      {
+        "ref": 113,
+        "name": "SComputerObjectiveTrigger5715",
+        "fields": [
+          {
+            "path": "TriggerName",
+            "source": "Escaliers",
+            "value": "Stairs",
+            "status": "translated",
+            "method": "ISO-English-locale",
+            "sections": [
+              "SComputerObjectiveTrigger5715"
+            ],
+            "locale": "GAR09",
+            "note": null
+          }
+        ]
+      },
+      {
+        "ref": 114,
+        "name": "SComputerObjectiveTrigger1381",
+        "fields": [
+          {
+            "path": "TriggerName",
+            "source": "Poste de contrôle 1",
+            "value": "Control Room 1",
+            "status": "translated",
+            "method": "ISO-English-locale",
+            "sections": [
+              "SComputerObjectiveTrigger1381"
+            ],
+            "locale": "GAR09",
+            "note": null
+          }
+        ]
+      },
+      {
+        "ref": 116,
+        "name": "SComputerObjectiveTrigger263",
+        "fields": [
+          {
+            "path": "TriggerName",
+            "source": "Couloir 1er étage",
+            "value": "Corridor second floor",
+            "status": "translated",
+            "method": "ISO-English-locale",
+            "sections": [
+              "SComputerObjectiveTrigger263"
+            ],
+            "locale": "GAR09",
+            "note": null
+          }
+        ]
+      },
+      {
+        "ref": 122,
+        "name": "SFlag6104",
+        "fields": [
+          {
+            "path": "TriggerName",
+            "source": "Escaliers",
+            "value": "Stairs",
+            "status": "translated",
+            "method": "ISO-English-locale",
+            "sections": [
+              "SFlag6104"
+            ],
+            "locale": "GAR09",
+            "note": null
+          }
+        ]
+      },
+      {
+        "ref": 125,
+        "name": "SFlag5688",
+        "fields": [
+          {
+            "path": "TriggerName",
+            "source": "Poste de contrôle 2",
+            "value": "Control Room 2",
+            "status": "translated",
+            "method": "ISO-English-locale",
+            "sections": [
+              "SFlag5688"
+            ],
+            "locale": "GAR09",
+            "note": null
+          }
+        ]
+      },
+      {
+        "ref": 126,
+        "name": "SFlag5684",
+        "fields": [
+          {
+            "path": "TriggerName",
+            "source": "Poste de contrôle 1",
+            "value": "Control Room 1",
+            "status": "translated",
+            "method": "ISO-English-locale",
+            "sections": [
+              "SFlag5684"
+            ],
+            "locale": "GAR09",
+            "note": null
+          }
+        ]
+      },
+      {
+        "ref": 129,
+        "name": "SBombTargetObjectiveTrigger6105",
+        "fields": [
+          {
+            "path": "TriggerName",
+            "source": "Poste de contrôle 1",
+            "value": "Control Room 1",
+            "status": "translated",
+            "method": "ISO-English-locale",
+            "sections": [
+              "SBombTargetObjectiveTrigger6105"
+            ],
+            "locale": "GAR09",
+            "note": null
+          }
+        ]
+      },
+      {
+        "ref": 134,
+        "name": "SObjective1744",
+        "fields": [
+          {
+            "path": "Description",
+            "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+            "value": "Hack the control room terminal (access to the next zone).",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+          },
+          {
+            "path": "DescriptionDEF",
+            "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+            "value": "Protect the control room terminals to block access to the next zone.",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+          }
+        ]
+      },
+      {
+        "ref": 135,
+        "name": "SObjective5675",
+        "fields": [
+          {
+            "path": "Description",
+            "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+            "value": "Hack the control room terminal (access to the next zone).",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+          },
+          {
+            "path": "DescriptionDEF",
+            "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+            "value": "Protect the control room terminals to block access to the next zone.",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+          }
+        ]
+      },
+      {
+        "ref": 136,
+        "name": "SObjective5716",
+        "fields": [
+          {
+            "path": "Description",
+            "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+            "value": "Hack the control room terminal (access to the next zone).",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+          },
+          {
+            "path": "DescriptionDEF",
+            "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+            "value": "Protect the control room terminals to block access to the next zone.",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+          }
+        ]
+      },
+      {
+        "ref": 137,
+        "name": "SObjective1747",
+        "fields": [
+          {
+            "path": "Description",
+            "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+            "value": "Hack the control room terminal (access to the next zone).",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+          },
+          {
+            "path": "DescriptionDEF",
+            "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+            "value": "Protect the control room terminals to block access to the next zone.",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+          }
+        ]
+      },
+      {
+        "ref": 138,
+        "name": "SObjective6103",
+        "fields": [
+          {
+            "path": "Description",
+            "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+            "value": "Hack the control room terminal (access to the next zone).",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+          },
+          {
+            "path": "DescriptionDEF",
+            "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+            "value": "Protect the control room terminals to block access to the next zone.",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+          }
+        ]
+      },
+      {
+        "ref": 145,
+        "name": "SObjective5683",
+        "fields": [
+          {
+            "path": "Description",
+            "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+            "value": "Hack the control room terminal (access to the next zone).",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+          },
+          {
+            "path": "DescriptionDEF",
+            "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+            "value": "Protect the control room terminals to block access to the next zone.",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+          }
+        ]
+      },
+      {
+        "ref": 147,
+        "name": "SObjective5687",
+        "fields": [
+          {
+            "path": "Description",
+            "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+            "value": "Hack the control room terminal (access to the next zone).",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+          },
+          {
+            "path": "DescriptionDEF",
+            "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+            "value": "Protect the control room terminals to block access to the next zone.",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+          }
+        ]
+      },
+      {
+        "ref": 148,
+        "name": "SObjective3686",
+        "fields": [
+          {
+            "path": "Description",
+            "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+            "value": "Hack the control room terminal (access to the next zone).",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+          },
+          {
+            "path": "DescriptionDEF",
+            "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+            "value": "Protect the control room terminals to block access to the next zone.",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+          }
+        ]
+      },
+      {
+        "ref": 149,
+        "name": "SBombTargetObjectiveTrigger6122",
+        "fields": [
+          {
+            "path": "TriggerName",
+            "source": "Couloir 1er étage",
+            "value": "Corridor second floor",
+            "status": "translated",
+            "method": "ISO-English-locale",
+            "sections": [
+              "SBombTargetObjectiveTrigger6122"
+            ],
+            "locale": "GAR09",
+            "note": null
+          }
+        ]
+      },
+      {
+        "ref": 150,
+        "name": "SObjective6110",
+        "fields": [
+          {
+            "path": "Description",
+            "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+            "value": "Hack the control room terminal (access to the next zone).",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+          },
+          {
+            "path": "DescriptionDEF",
+            "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+            "value": "Protect the control room terminals to block access to the next zone.",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+          }
+        ]
+      },
+      {
+        "ref": 151,
+        "name": "SObjective6123",
+        "fields": [
+          {
+            "path": "Description",
+            "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+            "value": "Hack the control room terminal (access to the next zone).",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+          },
+          {
+            "path": "DescriptionDEF",
+            "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+            "value": "Protect the control room terminals to block access to the next zone.",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+          }
+        ]
+      },
+      {
+        "ref": 152,
+        "name": "SBombTargetObjectiveTrigger6127",
+        "fields": [
+          {
+            "path": "TriggerName",
+            "source": "Escaliers",
+            "value": "Stairs",
+            "status": "translated",
+            "method": "ISO-English-locale",
+            "sections": [
+              "SBombTargetObjectiveTrigger6127"
+            ],
+            "locale": "GAR09",
+            "note": null
+          }
+        ]
+      },
+      {
+        "ref": 153,
+        "name": "SObjective6128",
+        "fields": [
+          {
+            "path": "Description",
+            "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+            "value": "Hack the control room terminal (access to the next zone).",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+          },
+          {
+            "path": "DescriptionDEF",
+            "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+            "value": "Protect the control room terminals to block access to the next zone.",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+          }
+        ]
+      },
+      {
+        "ref": 154,
+        "name": "SBombTargetObjectiveTrigger6132",
+        "fields": [
+          {
+            "path": "TriggerName",
+            "source": "Poste de contrôle 2",
+            "value": "Control Room 2",
+            "status": "translated",
+            "method": "ISO-English-locale",
+            "sections": [
+              "SBombTargetObjectiveTrigger6132"
+            ],
+            "locale": "GAR09",
+            "note": null
+          }
+        ]
+      },
+      {
+        "ref": 155,
+        "name": "SObjective6133",
+        "fields": [
+          {
+            "path": "Description",
+            "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+            "value": "Hack the control room terminal (access to the next zone).",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+          },
+          {
+            "path": "DescriptionDEF",
+            "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+            "value": "Protect the control room terminals to block access to the next zone.",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+          }
+        ]
+      },
+      {
+        "ref": 237,
+        "name": "SInterrupteur56081",
+        "fields": [
+          {
+            "path": "sDescriptionText",
+            "source": "Volet",
+            "value": "Shutter",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal singular translation of authored LIN Volet; GAR09.fra/.eng use plural Volets/Shutters. Preserve authored singular."
+          }
+        ]
+      },
+      {
+        "ref": 238,
+        "name": "SInterrupteur498",
+        "fields": [
+          {
+            "path": "sDescriptionText",
+            "source": "Volet",
+            "value": "Shutter",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal singular translation of authored LIN Volet; GAR09.fra/.eng use plural Volets/Shutters. Preserve authored singular."
+          }
+        ]
+      },
+      {
+        "ref": 239,
+        "name": "SInterrupteur487",
+        "fields": [
+          {
+            "path": "sDescriptionText",
+            "source": "Volet",
+            "value": "Shutter",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal singular translation of authored LIN Volet; GAR09.fra/.eng use plural Volets/Shutters. Preserve authored singular."
+          }
+        ]
+      },
+      {
+        "ref": 358,
+        "name": "SInterrupteur490",
+        "fields": [
+          {
+            "path": "sDescriptionText",
+            "source": "Volet",
+            "value": "Shutter",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal singular translation of authored LIN Volet; GAR09.fra/.eng use plural Volets/Shutters. Preserve authored singular."
+          }
+        ]
+      }
+    ],
+    "audit": "work/linear_loader/english-audit-v2/GAR09.json"
+  },
+  "nativeScope": "This OpenSCCT origin is independent of the pending 12-map native Neutralization-only revision.",
+  "verification": "Exact frozen source/canonical/asset audits and revised runtime CI/publication/input/visual/network verification pass. No fourteen completed matches are claimed.",
+  "converterArtifactSha256": "1dc76c3b009ca5358567c4b9350cf04fae6204816150aa9f4f3d7143367483b0"
+}

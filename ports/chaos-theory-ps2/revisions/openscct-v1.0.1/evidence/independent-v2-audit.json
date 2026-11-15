@@ -1,0 +1,961 @@
+{
+  "status": "passed",
+  "maps": [
+    {
+      "map": "DTK02P",
+      "flags": [
+        "SFlag2",
+        "SFlag3",
+        "SFlag4",
+        "SFlag5",
+        "SFlag1",
+        "SFlag0"
+      ],
+      "englishChanges": [
+        {
+          "actor": "SAlarm23250",
+          "path": "AlarmName",
+          "source": "office_rdc",
+          "value": "Ground-floor office",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "AlarmName is displayed FString, not Tag/Event/FName. Literal French RdC (rez-de-chaussée) label expansion; do not alter the corresponding actor identifier."
+        },
+        {
+          "actor": "SAlarm0",
+          "path": "AlarmName",
+          "source": "office_rdc",
+          "value": "Ground-floor office",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "AlarmName is displayed FString, not Tag/Event/FName. Literal French RdC (rez-de-chaussée) label expansion; do not alter the corresponding actor identifier."
+        }
+      ],
+      "changedFiles": [
+        "manifest.json",
+        "sim/classes.json",
+        "sim/gameplay.json"
+      ],
+      "unchangedNonSimFiles": 142,
+      "gameplaySha256": "a9c0433293d9f7568f543d77c0bed72484013caaa274da6fc435c4dc4c22f51a"
+    },
+    {
+      "map": "FAC13P",
+      "flags": [
+        "SFlag242",
+        "SFlag243",
+        "SFlag244",
+        "SFlag245",
+        "SFlag246",
+        "SFlag247"
+      ],
+      "englishChanges": [
+        {
+          "actor": "SAlarm4211",
+          "path": "AlarmDescription",
+          "source": "Salle des Generateurs",
+          "value": "Generator Room",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "LIN wording differs from FAC13.fra SAlarm4211 Générateurs; same room meaning and FAC13.eng wording Generator Room."
+        },
+        {
+          "actor": "SAlarm4211",
+          "path": "AlarmDescriptionSpy",
+          "source": "Salle des Generateurs",
+          "value": "Generator Room",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "LIN wording differs from FAC13.fra SAlarm4211 Générateurs; same room meaning and FAC13.eng wording Generator Room."
+        },
+        {
+          "actor": "SAlarm4211",
+          "path": "AlarmName",
+          "source": "Salle des Generateurs",
+          "value": "Generator Room",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "LIN wording differs from FAC13.fra SAlarm4211 Générateurs; same room meaning and FAC13.eng wording Generator Room."
+        },
+        {
+          "actor": "SAlarm5557",
+          "path": "AlarmDescription",
+          "source": "Salle des Machines",
+          "value": "Machine Room",
+          "status": "translated",
+          "method": "ISO-English-locale-casefold",
+          "sections": [
+            "SAlarm5557"
+          ],
+          "locale": "FAC13",
+          "note": null
+        },
+        {
+          "actor": "SAlarm5557",
+          "path": "AlarmDescriptionSpy",
+          "source": "Salle des Machines",
+          "value": "Machine Room",
+          "status": "translated",
+          "method": "ISO-English-locale-casefold",
+          "sections": [
+            "SAlarm5557"
+          ],
+          "locale": "FAC13",
+          "note": null
+        },
+        {
+          "actor": "SAlarm5557",
+          "path": "AlarmName",
+          "source": "Salle des Machines",
+          "value": "Machine Room",
+          "status": "translated",
+          "method": "ISO-English-locale-casefold",
+          "sections": [
+            "SAlarm5557"
+          ],
+          "locale": "FAC13",
+          "note": null
+        }
+      ],
+      "changedFiles": [
+        "manifest.json",
+        "sim/classes.json",
+        "sim/gameplay.json"
+      ],
+      "unchangedNonSimFiles": 106,
+      "gameplaySha256": "02d3fd7cbc083b503dfa64f038d9e29d329f084b3e09c0afe7fc9dd64e1692f1"
+    },
+    {
+      "map": "GAR09P",
+      "flags": [
+        "SFlag5684",
+        "SFlag5688",
+        "SFlag6104",
+        "SFlag5680"
+      ],
+      "englishChanges": [
+        {
+          "actor": "SComputerObjectiveTrigger1381",
+          "path": "TriggerName",
+          "source": "Poste de contrôle 1",
+          "value": "Control Room 1",
+          "status": "translated",
+          "method": "ISO-English-locale",
+          "sections": [
+            "SComputerObjectiveTrigger1381"
+          ],
+          "locale": "GAR09",
+          "note": null
+        },
+        {
+          "actor": "SComputerObjectiveTrigger9335",
+          "path": "TriggerName",
+          "source": "Poste de contrôle 2",
+          "value": "Control Room 2",
+          "status": "translated",
+          "method": "ISO-English-locale",
+          "sections": [
+            "SComputerObjectiveTrigger9335"
+          ],
+          "locale": "GAR09",
+          "note": null
+        },
+        {
+          "actor": "SObjective5675",
+          "path": "Description",
+          "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+          "value": "Hack the control room terminal (access to the next zone).",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+        },
+        {
+          "actor": "SObjective5675",
+          "path": "DescriptionDEF",
+          "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+          "value": "Protect the control room terminals to block access to the next zone.",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+        },
+        {
+          "actor": "SInterrupteur487",
+          "path": "sDescriptionText",
+          "source": "Volet",
+          "value": "Shutter",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal singular translation of authored LIN Volet; GAR09.fra/.eng use plural Volets/Shutters. Preserve authored singular."
+        },
+        {
+          "actor": "SInterrupteur490",
+          "path": "sDescriptionText",
+          "source": "Volet",
+          "value": "Shutter",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal singular translation of authored LIN Volet; GAR09.fra/.eng use plural Volets/Shutters. Preserve authored singular."
+        },
+        {
+          "actor": "SInterrupteur498",
+          "path": "sDescriptionText",
+          "source": "Volet",
+          "value": "Shutter",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal singular translation of authored LIN Volet; GAR09.fra/.eng use plural Volets/Shutters. Preserve authored singular."
+        },
+        {
+          "actor": "SInterrupteur56081",
+          "path": "sDescriptionText",
+          "source": "Volet",
+          "value": "Shutter",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal singular translation of authored LIN Volet; GAR09.fra/.eng use plural Volets/Shutters. Preserve authored singular."
+        },
+        {
+          "actor": "SComputerObjectiveTrigger5715",
+          "path": "TriggerName",
+          "source": "Escaliers",
+          "value": "Stairs",
+          "status": "translated",
+          "method": "ISO-English-locale",
+          "sections": [
+            "SComputerObjectiveTrigger5715"
+          ],
+          "locale": "GAR09",
+          "note": null
+        },
+        {
+          "actor": "SObjective1747",
+          "path": "Description",
+          "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+          "value": "Hack the control room terminal (access to the next zone).",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+        },
+        {
+          "actor": "SObjective1747",
+          "path": "DescriptionDEF",
+          "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+          "value": "Protect the control room terminals to block access to the next zone.",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+        },
+        {
+          "actor": "SObjective5716",
+          "path": "Description",
+          "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+          "value": "Hack the control room terminal (access to the next zone).",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+        },
+        {
+          "actor": "SObjective5716",
+          "path": "DescriptionDEF",
+          "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+          "value": "Protect the control room terminals to block access to the next zone.",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+        },
+        {
+          "actor": "SObjective5683",
+          "path": "Description",
+          "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+          "value": "Hack the control room terminal (access to the next zone).",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+        },
+        {
+          "actor": "SObjective5683",
+          "path": "DescriptionDEF",
+          "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+          "value": "Protect the control room terminals to block access to the next zone.",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+        },
+        {
+          "actor": "SFlag5684",
+          "path": "TriggerName",
+          "source": "Poste de contrôle 1",
+          "value": "Control Room 1",
+          "status": "translated",
+          "method": "ISO-English-locale",
+          "sections": [
+            "SFlag5684"
+          ],
+          "locale": "GAR09",
+          "note": null
+        },
+        {
+          "actor": "SObjective5687",
+          "path": "Description",
+          "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+          "value": "Hack the control room terminal (access to the next zone).",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+        },
+        {
+          "actor": "SObjective5687",
+          "path": "DescriptionDEF",
+          "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+          "value": "Protect the control room terminals to block access to the next zone.",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+        },
+        {
+          "actor": "SFlag5688",
+          "path": "TriggerName",
+          "source": "Poste de contrôle 2",
+          "value": "Control Room 2",
+          "status": "translated",
+          "method": "ISO-English-locale",
+          "sections": [
+            "SFlag5688"
+          ],
+          "locale": "GAR09",
+          "note": null
+        },
+        {
+          "actor": "SObjective6103",
+          "path": "Description",
+          "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+          "value": "Hack the control room terminal (access to the next zone).",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+        },
+        {
+          "actor": "SObjective6103",
+          "path": "DescriptionDEF",
+          "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+          "value": "Protect the control room terminals to block access to the next zone.",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+        },
+        {
+          "actor": "SFlag6104",
+          "path": "TriggerName",
+          "source": "Escaliers",
+          "value": "Stairs",
+          "status": "translated",
+          "method": "ISO-English-locale",
+          "sections": [
+            "SFlag6104"
+          ],
+          "locale": "GAR09",
+          "note": null
+        },
+        {
+          "actor": "SComputerObjectiveTrigger263",
+          "path": "TriggerName",
+          "source": "Couloir 1er étage",
+          "value": "Corridor second floor",
+          "status": "translated",
+          "method": "ISO-English-locale",
+          "sections": [
+            "SComputerObjectiveTrigger263"
+          ],
+          "locale": "GAR09",
+          "note": null
+        },
+        {
+          "actor": "SObjective3686",
+          "path": "Description",
+          "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+          "value": "Hack the control room terminal (access to the next zone).",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+        },
+        {
+          "actor": "SObjective3686",
+          "path": "DescriptionDEF",
+          "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+          "value": "Protect the control room terminals to block access to the next zone.",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+        },
+        {
+          "actor": "SObjective6110",
+          "path": "Description",
+          "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+          "value": "Hack the control room terminal (access to the next zone).",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+        },
+        {
+          "actor": "SObjective6110",
+          "path": "DescriptionDEF",
+          "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+          "value": "Protect the control room terminals to block access to the next zone.",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+        },
+        {
+          "actor": "SFlag5680",
+          "path": "TriggerName",
+          "source": "Couloir 1er étage",
+          "value": "Corridor second floor",
+          "status": "translated",
+          "method": "ISO-English-locale",
+          "sections": [
+            "SFlag5680"
+          ],
+          "locale": "GAR09",
+          "note": null
+        },
+        {
+          "actor": "SBombTargetObjectiveTrigger6122",
+          "path": "TriggerName",
+          "source": "Couloir 1er étage",
+          "value": "Corridor second floor",
+          "status": "translated",
+          "method": "ISO-English-locale",
+          "sections": [
+            "SBombTargetObjectiveTrigger6122"
+          ],
+          "locale": "GAR09",
+          "note": null
+        },
+        {
+          "actor": "SObjective6123",
+          "path": "Description",
+          "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+          "value": "Hack the control room terminal (access to the next zone).",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+        },
+        {
+          "actor": "SObjective6123",
+          "path": "DescriptionDEF",
+          "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+          "value": "Protect the control room terminals to block access to the next zone.",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+        },
+        {
+          "actor": "SBombTargetObjectiveTrigger6127",
+          "path": "TriggerName",
+          "source": "Escaliers",
+          "value": "Stairs",
+          "status": "translated",
+          "method": "ISO-English-locale",
+          "sections": [
+            "SBombTargetObjectiveTrigger6127"
+          ],
+          "locale": "GAR09",
+          "note": null
+        },
+        {
+          "actor": "SObjective6128",
+          "path": "Description",
+          "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+          "value": "Hack the control room terminal (access to the next zone).",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+        },
+        {
+          "actor": "SObjective6128",
+          "path": "DescriptionDEF",
+          "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+          "value": "Protect the control room terminals to block access to the next zone.",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+        },
+        {
+          "actor": "SBombTargetObjectiveTrigger6132",
+          "path": "TriggerName",
+          "source": "Poste de contrôle 2",
+          "value": "Control Room 2",
+          "status": "translated",
+          "method": "ISO-English-locale",
+          "sections": [
+            "SBombTargetObjectiveTrigger6132"
+          ],
+          "locale": "GAR09",
+          "note": null
+        },
+        {
+          "actor": "SObjective6133",
+          "path": "Description",
+          "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+          "value": "Hack the control room terminal (access to the next zone).",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+        },
+        {
+          "actor": "SObjective6133",
+          "path": "DescriptionDEF",
+          "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+          "value": "Protect the control room terminals to block access to the next zone.",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+        },
+        {
+          "actor": "SBombTargetObjectiveTrigger6105",
+          "path": "TriggerName",
+          "source": "Poste de contrôle 1",
+          "value": "Control Room 1",
+          "status": "translated",
+          "method": "ISO-English-locale",
+          "sections": [
+            "SBombTargetObjectiveTrigger6105"
+          ],
+          "locale": "GAR09",
+          "note": null
+        },
+        {
+          "actor": "SObjective1744",
+          "path": "Description",
+          "source": "Piratez le terminal du poste de contrôle (accès vers la zone suivante).",
+          "value": "Hack the control room terminal (access to the next zone).",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN instruction; locale cook has different Terminal: CONTROL ROOM wording, so not silently substituted."
+        },
+        {
+          "actor": "SObjective1744",
+          "path": "DescriptionDEF",
+          "source": "Protégez les terminaux du poste de contrôle pour bloquer l'accès zone suivante.",
+          "value": "Protect the control room terminals to block access to the next zone.",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of authored LIN defender instruction; locale cook does not contain this exact sentence."
+        }
+      ],
+      "changedFiles": [
+        "manifest.json",
+        "sim/classes.json",
+        "sim/gameplay.json"
+      ],
+      "unchangedNonSimFiles": 126,
+      "gameplaySha256": "013c762eb11ab8e002f2e6a4c04a4f2ecc1a6955f68200d83af560d9cce22f5a"
+    },
+    {
+      "map": "INI01P",
+      "flags": [],
+      "englishChanges": [],
+      "changedFiles": [],
+      "unchangedNonSimFiles": 126,
+      "gameplaySha256": "6b4e3fa347bd3f8454a340d957cd09b3e461820a5398f9dc8a0c3ad3e8211e32"
+    },
+    {
+      "map": "KRA07P",
+      "flags": [
+        "SFlag281",
+        "SFlag286",
+        "SFlag320",
+        "SFlag228",
+        "SFlag325",
+        "SFlag224"
+      ],
+      "englishChanges": [
+        {
+          "actor": "SAlarm10",
+          "path": "AlarmName",
+          "source": "SAS n°2",
+          "value": "Airlock No. 2",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of French sas (airlock); source English locale retains SAS terminology elsewhere rather than translating it."
+        },
+        {
+          "actor": "UnknownGlobalPS2_871502",
+          "path": "AlarmName",
+          "source": "2nd floor SAS n°1",
+          "value": "2nd floor Airlock No. 1",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "KRA07.eng itself retains French SAS n°1 at SAlarm14404. Translate only the French noun/number notation."
+        },
+        {
+          "actor": "SAlarm11548",
+          "path": "AlarmName",
+          "source": "Irradiation Security ",
+          "value": "Irradiation Security",
+          "status": "translated",
+          "method": "ISO-English-locale",
+          "sections": [
+            "SAlarm10634",
+            "SAlarm11",
+            "SAlarm11548"
+          ],
+          "locale": "KRA07",
+          "note": null
+        },
+        {
+          "actor": "SAlarm10634",
+          "path": "AlarmName",
+          "source": "Irradiation Security ",
+          "value": "Irradiation Security",
+          "status": "translated",
+          "method": "ISO-English-locale",
+          "sections": [
+            "SAlarm10634",
+            "SAlarm11",
+            "SAlarm11548"
+          ],
+          "locale": "KRA07",
+          "note": null
+        }
+      ],
+      "changedFiles": [
+        "manifest.json",
+        "sim/classes.json",
+        "sim/gameplay.json"
+      ],
+      "unchangedNonSimFiles": 171,
+      "gameplaySha256": "5862cc6b495c6033f9d44ca079556529def0b64fbf915e3145e446531d2024b4"
+    },
+    {
+      "map": "MHO05P",
+      "flags": [
+        "SFlag347",
+        "SFlag3",
+        "SFlag4",
+        "SFlag381",
+        "SFlag2"
+      ],
+      "englishChanges": [],
+      "changedFiles": [
+        "manifest.json",
+        "sim/classes.json",
+        "sim/gameplay.json"
+      ],
+      "unchangedNonSimFiles": 143,
+      "gameplaySha256": "e41c4c65e212d201bbbd67450c332fb4cd0cb79e71afa37ab8db3a85502825e7"
+    },
+    {
+      "map": "MIS10P",
+      "flags": [
+        "SFlag255",
+        "SFlag227",
+        "SFlag258",
+        "SFlag238"
+      ],
+      "englishChanges": [],
+      "changedFiles": [
+        "manifest.json",
+        "sim/classes.json",
+        "sim/gameplay.json"
+      ],
+      "unchangedNonSimFiles": 166,
+      "gameplaySha256": "0f603083aaba126ef3a798fc1ccb3dc8e3725e0e71ab61a03b4e277d02163c3d"
+    },
+    {
+      "map": "MUS04P",
+      "flags": [],
+      "englishChanges": [
+        {
+          "actor": "SAlarm2",
+          "path": "AlarmName",
+          "source": "ALARME COULOIR",
+          "value": "Corridor alarm",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Source English locale retains this French label. Literal translation; actor IDs and alarm wiring unchanged."
+        }
+      ],
+      "changedFiles": [
+        "manifest.json",
+        "sim/gameplay.json"
+      ],
+      "unchangedNonSimFiles": 149,
+      "gameplaySha256": "a2d14329fb15c95d139fc488af3f0112bbd0e011dc09293ee10c05311baa46c5"
+    },
+    {
+      "map": "ORP14P",
+      "flags": [
+        "SFlag2092",
+        "SFlag2093",
+        "SFlag2094",
+        "SFlag2095"
+      ],
+      "englishChanges": [
+        {
+          "actor": "SAlarm3901",
+          "path": "AlarmDescription",
+          "source": "Salle Mercenaire alarm is active",
+          "value": "Mercenary Room alarm is active",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of mixed French/English authored LIN status. No corresponding English locale sentence."
+        },
+        {
+          "actor": "SAlarm3901",
+          "path": "AlarmDescriptionSpy",
+          "source": "Salle Mercenaire alarm activated",
+          "value": "Mercenary Room alarm activated",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of mixed French/English authored LIN status. No corresponding English locale sentence."
+        },
+        {
+          "actor": "SAlarm3901",
+          "path": "AlarmName",
+          "source": "Salle Mercenaire alarm",
+          "value": "Mercenary Room alarm",
+          "status": "translated",
+          "method": "reviewed-translation",
+          "sections": [],
+          "locale": null,
+          "note": "Literal translation of mixed French/English authored LIN label. No corresponding English locale sentence."
+        },
+        {
+          "actor": "SMission265",
+          "path": "Description",
+          "source": "Neutralisez trois ND133 sur cinq.",
+          "value": "Neutralise three out of five ND133.",
+          "status": "translated",
+          "method": "ISO-English-locale",
+          "sections": [
+            "SMission265"
+          ],
+          "locale": "ORP14",
+          "note": null
+        },
+        {
+          "actor": "SMission265",
+          "path": "DescriptionDEF",
+          "source": "Empêchez les intrus de neutraliser trois ND133.",
+          "value": "Prevent the intruders from neutralizing three ND133.",
+          "status": "translated",
+          "method": "ISO-English-locale",
+          "sections": [
+            "SMission265"
+          ],
+          "locale": "ORP14",
+          "note": null
+        },
+        {
+          "actor": "SMission268",
+          "path": "Description",
+          "source": "Amenez trois tubes aux zones de décontamination.",
+          "value": "Take three tubes to the decontamination zones.",
+          "status": "translated",
+          "method": "ISO-English-locale",
+          "sections": [
+            "SMission268"
+          ],
+          "locale": "ORP14",
+          "note": null
+        },
+        {
+          "actor": "SMission268",
+          "path": "DescriptionDEF",
+          "source": "Empêchez les intrus de voler trois tubes.",
+          "value": "Prevent the intruders from stealing three tubes.",
+          "status": "translated",
+          "method": "ISO-English-locale",
+          "sections": [
+            "SMission268"
+          ],
+          "locale": "ORP14",
+          "note": null
+        },
+        {
+          "actor": "SMission261",
+          "path": "Description",
+          "source": "Piratez deux ND133 sur trois.",
+          "value": "Hack into two out of three ND133.",
+          "status": "translated",
+          "method": "ISO-English-locale",
+          "sections": [
+            "SMission261"
+          ],
+          "locale": "ORP14",
+          "note": null
+        },
+        {
+          "actor": "SMission261",
+          "path": "DescriptionDEF",
+          "source": "Protégez les ND133.",
+          "value": "Protect the ND133.",
+          "status": "translated",
+          "method": "ISO-English-locale",
+          "sections": [
+            "SMission261"
+          ],
+          "locale": "ORP14",
+          "note": null
+        }
+      ],
+      "changedFiles": [
+        "manifest.json",
+        "sim/classes.json",
+        "sim/gameplay.json"
+      ],
+      "unchangedNonSimFiles": 166,
+      "gameplaySha256": "7b2776a8c33be23dc9a60279f99e055938c5f0b43a846dfe2c0d866c0f47186a"
+    },
+    {
+      "map": "SCH03P",
+      "flags": [
+        "SFlag0",
+        "SFlag1",
+        "SFlag288",
+        "SFlag292"
+      ],
+      "englishChanges": [],
+      "changedFiles": [
+        "manifest.json",
+        "sim/classes.json",
+        "sim/gameplay.json"
+      ],
+      "unchangedNonSimFiles": 184,
+      "gameplaySha256": "3b689b6b14288fd42fe555cf2b2c2393bccde53a9b0f892dc5944ebb465dec71"
+    },
+    {
+      "map": "SKY08P",
+      "flags": [
+        "SFlag4072",
+        "SFlag4077",
+        "SFlag257"
+      ],
+      "englishChanges": [],
+      "changedFiles": [
+        "manifest.json",
+        "sim/classes.json",
+        "sim/gameplay.json"
+      ],
+      "unchangedNonSimFiles": 179,
+      "gameplaySha256": "765cd59989a9ed37947de944d007e6db5e855b42d6729b815ceb15f0f08b5d46"
+    },
+    {
+      "map": "TME12P",
+      "flags": [],
+      "englishChanges": [],
+      "changedFiles": [],
+      "unchangedNonSimFiles": 119,
+      "gameplaySha256": "7a12846d4940d791496fb816e266e33fc838d377ad85f9e9239bf77c6c50a1f2"
+    },
+    {
+      "map": "TSP11P",
+      "flags": [],
+      "englishChanges": [],
+      "changedFiles": [],
+      "unchangedNonSimFiles": 150,
+      "gameplaySha256": "f4681b82f640fb31b84c8915ba29b8502cd834381b771ee48ff7d975b5786e0c"
+    },
+    {
+      "map": "WAR06P",
+      "flags": [
+        "SFlag409",
+        "SFlag402",
+        "SFlag391",
+        "SFlag421",
+        "SFlag415",
+        "SFlag397",
+        "SFlag425",
+        "SFlag428",
+        "SFlag412"
+      ],
+      "englishChanges": [],
+      "changedFiles": [
+        "manifest.json",
+        "sim/classes.json",
+        "sim/gameplay.json"
+      ],
+      "unchangedNonSimFiles": 139,
+      "gameplaySha256": "5d42c7225aa7b3a9c2e666f0565dc7a691a8f5add2c13d840a558c97561337ae"
+    }
+  ],
+  "totalFlags": 51,
+  "scope": "All14 maps retain byte-identical render/audio/collision/traversal/UI assets. All51 vial instances explicitly bind source/live/reset meshes. Only reviewed English display properties and two source-mesh class defaults change."
+}

@@ -1,0 +1,1975 @@
+{
+  "status": "passed",
+  "source": "work\\ps2\\ON_LINS.UMD",
+  "sourceSha256": "c1b5604cefa26d8065d2da41dd416b07562d9bc31dc801cadaf1451d40c5ec1a",
+  "members": [
+    {
+      "name": "DTK02.fra",
+      "offset": 8093696,
+      "size": 7456,
+      "flags": 0,
+      "decodedSha256": "b9e417fd4950195da575a11ab5d639f8a27cee87d6a6aae4a65e648f3be76b70"
+    },
+    {
+      "name": "DTK02.eng",
+      "offset": 9310208,
+      "size": 7323,
+      "flags": 0,
+      "decodedSha256": "4ddbf3538f0a367986438e37e27b94694e2399f78b0f4e91b1e723518e6c2671"
+    },
+    {
+      "name": "FAC13.fra",
+      "offset": 8142848,
+      "size": 4936,
+      "flags": 0,
+      "decodedSha256": "13af6daf56d4eaf6588709af38926c6f577aa1972a91f0de862a0498e4a3d124"
+    },
+    {
+      "name": "FAC13.eng",
+      "offset": 9353216,
+      "size": 4892,
+      "flags": 0,
+      "decodedSha256": "d90d1fd2b5d28391288d4abfb4c919c78cc907e25f95d0ba7424ceb6f30de52d"
+    },
+    {
+      "name": "GAR09.fra",
+      "offset": 8148992,
+      "size": 5182,
+      "flags": 0,
+      "decodedSha256": "ac43335b179239f3ad6b5f9db90c9919b18b71c8ce21f5b2eaabbd5a208213b2"
+    },
+    {
+      "name": "GAR09.eng",
+      "offset": 9359360,
+      "size": 5115,
+      "flags": 0,
+      "decodedSha256": "6c7e6e5b631ab93a7deeb44e2d5a30b6a2a5b54d057e20cfc772415345412687"
+    },
+    {
+      "name": "INI01.fra",
+      "offset": 8226816,
+      "size": 2685,
+      "flags": 0,
+      "decodedSha256": "731c5f2ced5d9a1dd0fd097ce96630ccbc83e3b178537cf53b7191e0574934bc"
+    },
+    {
+      "name": "INI01.eng",
+      "offset": 9424896,
+      "size": 2657,
+      "flags": 0,
+      "decodedSha256": "e849b3cae7ae0c78e8186a374371262e278d596c217f6698b4de2e20060473e4"
+    },
+    {
+      "name": "KRA07.fra",
+      "offset": 8230912,
+      "size": 11198,
+      "flags": 0,
+      "decodedSha256": "1e824c24e9ffd7935ecc18f0b54e0582abb3223516fd4466880a197f3461554a"
+    },
+    {
+      "name": "KRA07.eng",
+      "offset": 9428992,
+      "size": 11360,
+      "flags": 0,
+      "decodedSha256": "df87488c0785ceac17ef7c86caac05060d1acffc7858fbadf92b6cc25e6a276c"
+    },
+    {
+      "name": "MHO05.fra",
+      "offset": 8243200,
+      "size": 5569,
+      "flags": 0,
+      "decodedSha256": "c349405958d4e24af8b56fcb26a40fb2def1ce00711a0c5b1b78acaeaaa71a5c"
+    },
+    {
+      "name": "MHO05.eng",
+      "offset": 9441280,
+      "size": 5446,
+      "flags": 0,
+      "decodedSha256": "4d0f7ae1f481e132a4be830262cf4b319799d5da4c364ffc226addbad0ed3606"
+    },
+    {
+      "name": "MIS10.fra",
+      "offset": 8249344,
+      "size": 4259,
+      "flags": 0,
+      "decodedSha256": "e5f85c9f68395b4dc50318888173573cde937665054b30a0030c59b47dce9209"
+    },
+    {
+      "name": "MIS10.eng",
+      "offset": 9447424,
+      "size": 4425,
+      "flags": 0,
+      "decodedSha256": "8f08ca6dbc0f216ce4aef53037710dbbedb272c36c107f43c049af69b4d4a8ce"
+    },
+    {
+      "name": "MUS04.fra",
+      "offset": 8255488,
+      "size": 6104,
+      "flags": 0,
+      "decodedSha256": "3244ef84b5a2cf49cbb00bfdac437f3cf764624411c333462afb1870f8f288c7"
+    },
+    {
+      "name": "MUS04.eng",
+      "offset": 9453568,
+      "size": 5974,
+      "flags": 0,
+      "decodedSha256": "2ef9d4106434f7c773e46b47697c1e29cab45d916b2636120519c40c6a41d11b"
+    },
+    {
+      "name": "ORP14.fra",
+      "offset": 8261632,
+      "size": 3820,
+      "flags": 0,
+      "decodedSha256": "ddb33f0b528ec499a848711b14281e5df45ae153c94799964fcf75344259865c"
+    },
+    {
+      "name": "ORP14.eng",
+      "offset": 9459712,
+      "size": 3817,
+      "flags": 0,
+      "decodedSha256": "6cea805cc0d9e07835a1d12500aa62d35cd8d08f2e3bd56795d0bbcc799097c5"
+    },
+    {
+      "name": "SCH03.fra",
+      "offset": 8288256,
+      "size": 4630,
+      "flags": 0,
+      "decodedSha256": "454587a65f14d7635bcf6b02146f9dc92770b48a6417c09ab063e2497e85299c"
+    },
+    {
+      "name": "SCH03.eng",
+      "offset": 9484288,
+      "size": 4241,
+      "flags": 0,
+      "decodedSha256": "a39eb9908845ef97632abf0405abe6889f787c2d24c89fc5d69fd2798e215796"
+    },
+    {
+      "name": "SKY08.fra",
+      "offset": 8294400,
+      "size": 4898,
+      "flags": 0,
+      "decodedSha256": "350f681ecf6dc246d0644a9da1b9fa99538e49beff7381747376d2a85e25cdb7"
+    },
+    {
+      "name": "SKY08.eng",
+      "offset": 9490432,
+      "size": 4771,
+      "flags": 0,
+      "decodedSha256": "2fe462569bc0a97ee79c7adb3fdb9d9451ed59fe074aa5759d2d5b66a367b973"
+    },
+    {
+      "name": "TME12.fra",
+      "offset": 8300544,
+      "size": 3493,
+      "flags": 0,
+      "decodedSha256": "26260dde616fc3a17f0ec959122ce6dbfc56bcaff6879cf9690456e03d09692b"
+    },
+    {
+      "name": "TME12.eng",
+      "offset": 9496576,
+      "size": 3172,
+      "flags": 0,
+      "decodedSha256": "44dfbbc0c1ded8559779bf36cd97f375977108ad52297cbb86fdcd815545cfcc"
+    },
+    {
+      "name": "TSP11.fra",
+      "offset": 8304640,
+      "size": 4579,
+      "flags": 0,
+      "decodedSha256": "1d7e01a0a5a236cf7da34bb0234ba735239c994f4794db957e10fe8f74a3a747"
+    },
+    {
+      "name": "TSP11.eng",
+      "offset": 9500672,
+      "size": 4219,
+      "flags": 0,
+      "decodedSha256": "3d38e75e45deb2ea587f28a3637523f5ce9d0dd962f0b062a31abd280392926b"
+    },
+    {
+      "name": "WAR06.fra",
+      "offset": 8310784,
+      "size": 4302,
+      "flags": 0,
+      "decodedSha256": "de0fd2bac1f2f94851fac89e9526fd0075903801df980206f57f49f4cc02dddd"
+    },
+    {
+      "name": "WAR06.eng",
+      "offset": 9506816,
+      "size": 4208,
+      "flags": 0,
+      "decodedSha256": "a35b9a60afc4b11630ec821bd4324cc92a4e671e020e227cb28028ad254bb434"
+    },
+    {
+      "name": "SBase.fra",
+      "offset": 8265728,
+      "size": 20563,
+      "flags": 0,
+      "decodedSha256": "8daa91c669b9b3a574a021b4a30216eb775b5ef58ca3d57fbdfd58a38e67ae74"
+    },
+    {
+      "name": "SBase.eng",
+      "offset": 9463808,
+      "size": 19849,
+      "flags": 0,
+      "decodedSha256": "77ec7a20369cee390448b8dab3104bedc4bd42318013ccbc893b02961e5287d9"
+    },
+    {
+      "name": "Engine.fra",
+      "offset": 8101888,
+      "size": 2379,
+      "flags": 0,
+      "decodedSha256": "a6f7736084e67c5a4613bd8b4d5a74567236048351c77d0c671611066a177028"
+    },
+    {
+      "name": "Engine.eng",
+      "offset": 9318400,
+      "size": 2078,
+      "flags": 0,
+      "decodedSha256": "745d78cf05c83c0f5c763aaa5574f625da870d0a5381c566521a2819c5ba925b"
+    },
+    {
+      "name": "GUI.fra",
+      "offset": 8155136,
+      "size": 70150,
+      "flags": 0,
+      "decodedSha256": "43b86639db129663df857f0505b5d09384d5a01c2e1072ae7781e85cf3371d59"
+    },
+    {
+      "name": "GUI.eng",
+      "offset": 9365504,
+      "size": 57409,
+      "flags": 0,
+      "decodedSha256": "ab0e98027a8154b471b820e15690ede2a3ff15027b5ae1807331bb241edc39f4"
+    },
+    {
+      "name": "DTK02-i.fra",
+      "offset": 8318976,
+      "size": 7876,
+      "flags": 0,
+      "decodedSha256": "5670f8b7ccf466626f497995e5564768c15d374f6781a6b2194280ece0ff6fc2"
+    },
+    {
+      "name": "DTK02-i.eng",
+      "offset": 9515008,
+      "size": 7743,
+      "flags": 0,
+      "decodedSha256": "af742b1a67aff6681a1a82118aec23f35c9b69c61c186ce45fe2bb8692256c7b"
+    },
+    {
+      "name": "FAC13-i.fra",
+      "offset": 8327168,
+      "size": 4821,
+      "flags": 0,
+      "decodedSha256": "74eff7fd05dfa99753b17b508961babb473e43ecd9f98e3df2f28394ba45b8a4"
+    },
+    {
+      "name": "FAC13-i.eng",
+      "offset": 9523200,
+      "size": 4743,
+      "flags": 0,
+      "decodedSha256": "dcc32e2ec8d68d3622c53d5bdfb2702995577a5f4626f191aeea31ad81f6c7fe"
+    },
+    {
+      "name": "GAR09-i.fra",
+      "offset": 8333312,
+      "size": 4678,
+      "flags": 0,
+      "decodedSha256": "9e3435bab2db70f371b98b18a96734ebfdd923d200e9c76a0e6a072fbf8e12c1"
+    },
+    {
+      "name": "GAR09-i.eng",
+      "offset": 9529344,
+      "size": 4645,
+      "flags": 0,
+      "decodedSha256": "2ba2f72d6d455cf2ee883ecbc2074244f04621f079cb4feb4b450ab324a5455f"
+    },
+    {
+      "name": "INI01-i.fra",
+      "offset": 8339456,
+      "size": 5101,
+      "flags": 0,
+      "decodedSha256": "2c5eac63028526b94488ad2123c9fa78f586db323e558103f3c6b48d723ecfa0"
+    },
+    {
+      "name": "INI01-i.eng",
+      "offset": 9535488,
+      "size": 5132,
+      "flags": 0,
+      "decodedSha256": "bd3646bf0942f09024a45435c5b5d31376fffa72645bb8efb362383034763028"
+    },
+    {
+      "name": "KRA07-i.fra",
+      "offset": 8345600,
+      "size": 6936,
+      "flags": 0,
+      "decodedSha256": "a8be546455d044d382f9dd7e68f874cda504e92bb798b91677d996692dee9f39"
+    },
+    {
+      "name": "KRA07-i.eng",
+      "offset": 9541632,
+      "size": 8083,
+      "flags": 0,
+      "decodedSha256": "603b8778a39c775c6642cbe44183a683098f713889e7d53f81d7e1f73a3b298e"
+    },
+    {
+      "name": "MHO05-i.fra",
+      "offset": 8353792,
+      "size": 6960,
+      "flags": 0,
+      "decodedSha256": "1ff026eebeb4e6e944285176682491bc81727968fbfba100e6eaf098523a453e"
+    },
+    {
+      "name": "MHO05-i.eng",
+      "offset": 9549824,
+      "size": 8046,
+      "flags": 0,
+      "decodedSha256": "d45923f1feb7efcd002f90dceb0bdfd7d2bab75972ce03bc12c90b7e0ab369f1"
+    },
+    {
+      "name": "MIS10-i.fra",
+      "offset": 8361984,
+      "size": 4839,
+      "flags": 0,
+      "decodedSha256": "d78d6ebed74c0f88ae17bfefb9186e8c28ed0df5dd2375c496750984a60a727d"
+    },
+    {
+      "name": "MIS10-i.eng",
+      "offset": 9558016,
+      "size": 4866,
+      "flags": 0,
+      "decodedSha256": "559797d7aa58d747bac902a23656f7e3251c8996d07126f3a26149ac857d499e"
+    },
+    {
+      "name": "MUS04-i.fra",
+      "offset": 8368128,
+      "size": 6600,
+      "flags": 0,
+      "decodedSha256": "ef6086ef5b83ef75fc86dcd06ba9d98365f163fab13eb16ffe5db2a4157c9570"
+    },
+    {
+      "name": "MUS04-i.eng",
+      "offset": 9564160,
+      "size": 7833,
+      "flags": 0,
+      "decodedSha256": "4d04bdc2435196f42b3b8ba6648a6e5939eb6a01270ddfbb2cec4f64553b348a"
+    },
+    {
+      "name": "ORP14-i.fra",
+      "offset": 8376320,
+      "size": 4735,
+      "flags": 0,
+      "decodedSha256": "afc1c6d9ddb7db85c70b7a748627e119782d6b8548a3c1791544722a43528d44"
+    },
+    {
+      "name": "ORP14-i.eng",
+      "offset": 9572352,
+      "size": 4808,
+      "flags": 0,
+      "decodedSha256": "f0e648692ab14db3fd7314f081322b2d4ac2fc55fb90d345cf42b14149dd43fc"
+    },
+    {
+      "name": "SCH03-i.fra",
+      "offset": 8382464,
+      "size": 6583,
+      "flags": 0,
+      "decodedSha256": "e4c2d098cf094235754b4139999e2b9641ab21edb89c5d48d7f38a951fde30cb"
+    },
+    {
+      "name": "SCH03-i.eng",
+      "offset": 9578496,
+      "size": 7517,
+      "flags": 0,
+      "decodedSha256": "a39f9c6e918f287ed9b94ac28d63bcda44951ae909479eda2cf199907fcd98cf"
+    },
+    {
+      "name": "SKY08-i.fra",
+      "offset": 8390656,
+      "size": 6407,
+      "flags": 0,
+      "decodedSha256": "c472b15eb82731f6fa1152e64fd68ae64abdafde9c4b96eaac6610523b77135f"
+    },
+    {
+      "name": "SKY08-i.eng",
+      "offset": 9586688,
+      "size": 6145,
+      "flags": 0,
+      "decodedSha256": "c9a00df730daa4143238dca114d057d3569f44e3d2400bfb668fd530d48c45a9"
+    },
+    {
+      "name": "TME12-i.fra",
+      "offset": 8398848,
+      "size": 3243,
+      "flags": 0,
+      "decodedSha256": "a1bbab1ea2f6771322af868fa216027bed1051172d760c057307f5648aa5b30e"
+    },
+    {
+      "name": "TME12-i.eng",
+      "offset": 9594880,
+      "size": 3243,
+      "flags": 0,
+      "decodedSha256": "80d384f2e38e1499f62b0d3ae1cad3a07ea4bdabedcc82378597c01763aba872"
+    },
+    {
+      "name": "TSP11-i.fra",
+      "offset": 8402944,
+      "size": 501,
+      "flags": 0,
+      "decodedSha256": "25e1e092e6aa8ffb853bed69efd86468ed9bc1730b4d52e0a0e08e2033c70d38"
+    },
+    {
+      "name": "TSP11-i.eng",
+      "offset": 9598976,
+      "size": 501,
+      "flags": 0,
+      "decodedSha256": "73162bb09e0b5aa72abf9fc3b13ff7fdf008926be4de8c951bedb3105ecb8ad0"
+    },
+    {
+      "name": "WAR06-i.fra",
+      "offset": 8404992,
+      "size": 6164,
+      "flags": 0,
+      "decodedSha256": "72078ffe7a7e53bb64dcd5f1fe1572991b554cd0b1380858a1a91ee551889bd1"
+    },
+    {
+      "name": "WAR06-i.eng",
+      "offset": 9601024,
+      "size": 7443,
+      "flags": 0,
+      "decodedSha256": "4770dce8f661c48e1e8db55ae4b6e2d681aa4b9c1753579119b17995f48e5b17"
+    }
+  ],
+  "UI": [
+    {
+      "code": "DTK02P",
+      "path": "work\\release-ps2-openscct-v1\\source-native\\DTK02P-i.utc",
+      "sha256": "c3713fc13eafc288b0747cf5412c0e96b47a126bac12180dcef4e76a91a2e268",
+      "MapName": "Deftech Belew P",
+      "status": "exact-English-locale-overlay-and-P-suffix",
+      "localeChanges": [
+        {
+          "path": "LegendMap",
+          "source": "|April 19th, 2006, 9:32 PM||DefTech-Belew is a research and development defense contractor with multiple active contracts with the U.S. Military.",
+          "target": "|April 19, 2006, 9:32 PM||DefTech-Belew is a research and development defense contractor with multiple active contracts with the U.S. Military.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "LegendMapInBrief",
+          "source": "|1 : Spy insertion point.||2 : Building A.||3 : Building B.||4 : Building C.",
+          "target": "|1. Spy insertion point||2. Building A||3. Building B||4. Building C",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSpy",
+          "source": "A ND133 has been installed alongside the central ventilation system of the compound. If allowed to decompress, the virus will be disseminated to the employees and their families housed in corporate dormitories on site, up to 1200 civilian cases in the initial cycle of infection.    ",
+          "target": "An ND133 has been installed alongside the central ventilation system of the compound. If allowed to decompress, the virus will be disseminated to employees and their families housed in corporate dormitories on site, up to 1,200 civilian cases in the initial cycle of infection.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSentry",
+          "source": "A cryogenic container has been installed alongside the central ventilation system of the compound. You have to protect the container's content from the intruders. ",
+          "target": "A cryogenic container has been installed alongside the central ventilation system of the compound. You have to protect the container's contents from the intruders.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExplicationModeSentry",
+          "source": "Protect the tubes",
+          "target": "Prevent the spies from bringing 2 tubes to the exit.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExpliModeInBriefSpy",
+          "source": "From your outside insertion point, you can access the three buildings. Two linked ND133 (the neutralization of one means the capture of both) are present in each buidling's 2nd floor.| - Building A : The tubes are in The offices| - Building B : The tubes are servers' room| - Building C : The tubes ND133 are in the R&D Labs",
+          "target": "From your outside insertion point, you can access the three buildings. Two linked ND133 (the neutralization of one means the capture of both) are present on the 2nd floor of each buiding.| - Building A: The tubes are in the offices.| - Building B: The tubes are in the Servers' room.| - Building C: The tubes are in the R&D labs.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExpliModeInBriefSentry",
+          "source": "A cryogenic container has been installed alongside the central ventilation system of the compound. You have to protect the container's content from the intruders.| - Building A : The tubes are in The offices| - Building B : The tubes are servers' room| - Building C : The tubes ND133 are in the R&D Labs",
+          "target": "A cryogenic container has been installed alongside the central ventilation system of the compound. You have to protect the container's content from the intruders.| - Building A: The tubes are in the offices.| - Building B: The tubes are in the Servers' room.| - Building C: The tubes are in the R&D labs.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSpy",
+          "source": "Locate and neutralize two ND133",
+          "target": "Locate and neutralize two ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSentry",
+          "source": "Protect the ND133 and kill intruders",
+          "target": "Protect the ND133 and kill intruders.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSpy",
+          "source": "From your outside insertion point, you can access the three buildings. Two linked ND133 (the neutralization of one means the capture of both) are present in each buidling's 2nd floor.| - Building A : The two ND133 are in The offices| - Building B : The two ND133 are servers' room| - Building C : The two ND133 are in the R&D Labs",
+          "target": "From your outside insertion point, you can access the three buildings. Two linked ND133 (the neutralization of one means the capture of both) are present on the 2nd floor of each buiding.| - Building A: The ND133 are in the offices.| - Building B: The ND133 are in the Servers' room.| - Building C: The ND133 are in the R&D labs.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSpy",
+          "source": "Locate and neutralize two ND133",
+          "target": "Locate and neutralize two ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSentry",
+          "source": "From your outside insertion point, you can access the three buildings. Two linked ND133 (the neutralization of one means the capture of both) are present in each buidling's 2nd floor.| - Building A : The two ND133 are in The offices| - Building B : The two ND133 are servers' room| - Building C : The two ND133 are in the R&D Labs",
+          "target": "A cryogenic container has been installed alongside the central ventilation system of the compound. You have to protect the container's content from the intruders.| - Building A: The ND133 are in the offices.| - Building B: The ND133 are in the Servers' room.| - Building C: The ND133 are in the R&D labs.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSentry",
+          "source": "Protect the ND133 and kill intruders",
+          "target": "Protect the ND133 and kill intruders.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExplicationModeSpy",
+          "source": "Locate and neutralize two ND133",
+          "target": "Place modems to neutralize 2 ND133 from a distance.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExplicationModeSentry",
+          "source": "Protect the ND133 and kill intruders",
+          "target": "Prevent the spies from hacking 2 ND133 using modems.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExpliModeInBriefSpy",
+          "source": "From your outside insertion point, you can access the three buildings. Two linked ND133 (the neutralization of one means the capture of both) are present in each buidling's 2nd floor.| - Building A : The two ND133 are in The offices| - Building B : The two ND133 are servers' room| - Building C : The two ND133 are in the R&D Labs",
+          "target": "From your outside insertion point, you can access the three buildings. Two linked ND133 (the neutralization of one means the capture of both) are present on the 2nd floor of each buiding.| - Building A: The ND133 are in the offices.| - Building B: The ND133 are in the Servers' room.| - Building C: The ND133 are in the R&D labs.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.LegendModeInBriefSpy",
+          "source": "Locate and neutralize two ND133",
+          "target": "Locate and neutralize two ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExpliModeInBriefSentry",
+          "source": "From your outside insertion point, you can access the three buildings. Two linked ND133 (the neutralization of one means the capture of both) are present in each buidling's 2nd floor.| - Building A : The two ND133 are in The offices| - Building B : The two ND133 are servers' room| - Building C : The two ND133 are in the R&D Labs",
+          "target": "A cryogenic container has been installed alongside the central ventilation system of the compound. You have to protect the container's content from the intruders.| - Building A: The ND133 are in the offices.| - Building B: The ND133 are in the Servers' room.| - Building C: The ND133 are in the R&D labs.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.LegendModeInBriefSentry",
+          "source": "Protect the ND133 and kill intruders",
+          "target": "Protect the ND133 and kill intruders.",
+          "method": "stable-MapSettings-singleton"
+        }
+      ]
+    },
+    {
+      "code": "FAC13P",
+      "path": "work\\release-ps2-openscct-v1\\source-native\\FAC13P-i.utc",
+      "sha256": "c4fd6a99a6bc2b7614e746c75576f5b587f401dd5bb6df5aa3016b2e1c58aafa",
+      "MapName": "Factory P",
+      "status": "exact-English-locale-overlay-and-P-suffix",
+      "localeChanges": [
+        {
+          "path": "LegendMap",
+          "source": null,
+          "target": "March 10, 2008, 3:41 PM|Mannheim, Germany||An abandoned 19th-century factory, scheduled for demolition.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "LegendMapInBrief",
+          "source": null,
+          "target": "1. SPY INSERTION POINT|2. MERCENARY INSERTION POINT|3. MAIN HALL|4. THE MACHINE ROOM|5. GENERATOR ROOM|6. CORRIDOR A",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSpy",
+          "source": null,
+          "target": "This old factory is ARGUS PMC's bridgehead in Europe. Several ND133 are stored there.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSentry",
+          "source": null,
+          "target": "This old factory is ARGUS PMC's bridgehead in Europe. Several ND133 are stored there.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExplicationModeSpy",
+          "source": "Aucun Texte d'explication present.|Le leveldesigner de la map doit l'integrer",
+          "target": "Take three tubes to the decontamination zones.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExplicationModeSentry",
+          "source": "Mode sentry",
+          "target": "Prevent the intruders from stealing three tubes.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExpliModeInBriefSpy",
+          "source": "Texte expli non present. Le level designer doit l'integrer",
+          "target": "You must take three tubes to their decontamination zones. Each room has two tubes. MAIN HALL --> Machine Room or Corridor A. MACHINE ROOM --> Corridor A or Hall. GENERATOR ROOM --> Machine Room or Hall.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.LegendModeInBriefSpy",
+          "source": "Texte non present. Le level designer doit l'integrer",
+          "target": "Take three tubes to the decontamination zones.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExpliModeInBriefSentry",
+          "source": "Mode 2 sentry",
+          "target": "Prevent the intruders from taking three tubes to their decontamination zones. Each room has two tubes. MAIN HALL --> Machine Room or Corridor A. MACHINE ROOM --> Corridor A or Hall. GENERATOR ROOM --> Machine Room or Hall.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.LegendModeInBriefSentry",
+          "source": "Hello world",
+          "target": "Prevent the intruders from stealing three tubes.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSpy",
+          "source": "Aucun Texte d'explication present.|Le leveldesigner de la map doit l'integrer",
+          "target": "Neutralize three out of six ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSentry",
+          "source": "Mode sentry",
+          "target": "Prevent the intruders from neutralizing three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSpy",
+          "source": "Texte expli non present. Le level designer doit l'integrer",
+          "target": "You must neutralize three out of six ND133. Each room contains two.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSpy",
+          "source": "Texte non present. Le level designer doit l'integrer",
+          "target": "Neutralize three out of six ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSentry",
+          "source": "Mode 2 sentry",
+          "target": "You must prevent the intruders from neutralizing three out of six ND133. Each room contains two.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSentry",
+          "source": "Hello world",
+          "target": "Prevent the intruders from neutralizing three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExplicationModeSpy",
+          "source": "Aucun Texte d'explication present.|Le leveldesigner de la map doit l'integrer",
+          "target": "Hack into two out of three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExplicationModeSentry",
+          "source": "Mode sentry",
+          "target": "Protect the ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExpliModeInBriefSpy",
+          "source": "Texte expli non present. Le level designer doit l'integrer",
+          "target": "You must sabotage two ND133. There is one in each room.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.LegendModeInBriefSpy",
+          "source": "Texte non present. Le level designer doit l'integrer",
+          "target": "Hack into two out of three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExpliModeInBriefSentry",
+          "source": "Mode 2 sentry",
+          "target": "You must prevent the intruders from sabotaging two out of three ND133. There is one in each room.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.LegendModeInBriefSentry",
+          "source": "Hello world",
+          "target": "Protect the ND133.",
+          "method": "stable-MapSettings-singleton"
+        }
+      ]
+    },
+    {
+      "code": "GAR09P",
+      "path": "work\\release-ps2-openscct-v1\\source-native\\GAR09P-i.utc",
+      "sha256": "e0c0b046347f0d7fe0f1336ac472502c876f2a940508a8d5fd20b8c916150cd2",
+      "MapName": "Station P",
+      "status": "exact-English-locale-overlay-and-P-suffix",
+      "localeChanges": [
+        {
+          "path": "LegendMap",
+          "source": null,
+          "target": "March 10, 2008, 3:20 AM|Hoboken, New Jersey||A railroad depot in the middle of the night.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "LegendMapInBrief",
+          "source": null,
+          "target": "1. SPY INSERTION POINT|2. MERCENARY INSERTION POINT|3. ALLEYS|4. OBJECTIVES CONTROL ROOMS|5. OBJECTIVES 2ND FLOOR",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSpy",
+          "source": null,
+          "target": "ND133 have been positioned in this railroad depot to disrupt US Army logistics.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSentry",
+          "source": null,
+          "target": "ND133 have been positioned in this railroad depot to disrupt US Army logistics.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExplicationModeSpy",
+          "source": "Aucun Texte d'explication present.|Le leveldesigner de la map doit l'integrer",
+          "target": "Take three tubes to the decontamination zones.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExplicationModeSentry",
+          "source": "Mode sentry",
+          "target": "Prevent the intruders from stealing three tubes.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExpliModeInBriefSpy",
+          "source": "Texte expli non present. Le level designer doit l'integrer",
+          "target": "You must take three of the four tubes to their decontamination zones, at your insertion point.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.LegendModeInBriefSpy",
+          "source": "Texte non present. Le level designer doit l'integrer",
+          "target": "Take three tubes to the decontamination zones.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExpliModeInBriefSentry",
+          "source": "Mode 2 sentry",
+          "target": "You must prevent the intruders from taking three of the four tubes to the decontamination zone, beyond the ALLEYS.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.LegendModeInBriefSentry",
+          "source": "Hello world",
+          "target": "Prevent the intruders from stealing three tubes.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSpy",
+          "source": "Aucun Texte d'explication present.|Le leveldesigner de la map doit l'integrer",
+          "target": "Neutralize three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSentry",
+          "source": "Mode sentry",
+          "target": "Prevent the intruders from neutralizing three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSpy",
+          "source": "Texte expli non present. Le level designer doit l'integrer",
+          "target": "You will be inserted in the ALLEYS next to the depot. The mercenaries cannot access this place, but their projectiles can. From the ALLEYS, infiltrate the OBJECTIVES ZONE and deactivate three of the four ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSpy",
+          "source": "Texte non present. Le level designer doit l'integrer",
+          "target": "Neutralize three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSentry",
+          "source": "Mode 2 sentry",
+          "target": "The intruders will try to infiltrate via the ALLEYS. You cannot access this place, but you must stop them by firing at them. In the OBJECTIVES ZONE, there are four ND133 that you must protect.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSentry",
+          "source": "Hello world",
+          "target": "Prevent the intruders from neutralizing three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExplicationModeSpy",
+          "source": "Aucun Texte d'explication present.|Le leveldesigner de la map doit l'integrer",
+          "target": "Hack into three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExplicationModeSentry",
+          "source": "Mode sentry",
+          "target": "Protect the ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExpliModeInBriefSpy",
+          "source": "Texte expli non present. Le level designer doit l'integrer",
+          "target": "You must sabotage three out of four ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.LegendModeInBriefSpy",
+          "source": "Texte non present. Le level designer doit l'integrer",
+          "target": "Hack into three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExpliModeInBriefSentry",
+          "source": "Mode 2 sentry",
+          "target": "Prevent the intruders from sabotaging three out of four ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.LegendModeInBriefSentry",
+          "source": "Hello world",
+          "target": "Protect the ND133.",
+          "method": "stable-MapSettings-singleton"
+        }
+      ]
+    },
+    {
+      "code": "INI01P",
+      "path": "work\\release-ps2-openscct-v1\\source-native\\INI01P-i.utc",
+      "sha256": "18f96a8e11f7752f0a9f92d43ae8235a48772d5eb4a0515ea307b94ce8dfc7b9",
+      "MapName": "Cinema P",
+      "status": "exact-English-locale-overlay-and-P-suffix",
+      "localeChanges": [
+        {
+          "path": "LegendMap",
+          "source": "|April 19th, 2006, 7:32 PM||Multirama is a multiplex movie theater in downtown Denver, Colorado.",
+          "target": "|April 19, 2006, 7:32 PM||Multirama is a multiplex movie theater in downtown Denver, Colorado.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "LegendMapInBrief",
+          "source": "|1 : Projection Room 1.||2 : Lobby.||3 : Entry.",
+          "target": "|1. Projection Room 1||2. Lobby||3. Entry",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSpy",
+          "source": "Multirama is a brand new multiplex movie theater, located close to Denver downtown. If released, the initial infection cycle will contaminate the daily visitors and spread easily and rapidely to  Denver and the rest of Colorado.",
+          "target": "Multirama is a brand new multiplex movie theater, located close to downtown Denver. If released, the initial infection cycle will contaminate the daily visitors and spread easily and rapidly to Denver and the rest of Colorado.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSentry",
+          "source": "Multirama is a brand new multiplex movie theater, located close to Denver downtown. As an ARGUS member, you have been hired to protect the cryogenic containers from the intruder's threat.",
+          "target": "Multirama is a brand new multiplex movie theater, located close to downtown Denver. As an ARGUS PMC member, you have been hired to protect the cryogenic containers from the intruders' threat.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSpy",
+          "source": "Locate and neutralize five ND133",
+          "target": "Locate and neutralize three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSentry",
+          "source": "Defend the ND133 and kill intruders",
+          "target": "Protect the ND133 and kill intruders.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSpy",
+          "source": "From your starting point you will access to the projection room 1. From there you can access the Lobby. The lobby gives you access  to the Entry cafeteria and the Video games zone.|Lobby : One ND133 on the ground floor, one upstairs.|Entry : One ND133 in the cafeteria and one in the video games zone.",
+          "target": "From your starting point you can access Projection Room 1. From there you can access the Lobby, which gives you access to the Entry Cafeteria and the Video Games Zone.|Lobby: One ND133 on the ground floor, one upstairs.|Entry: One ND133 in the cafeteria and one in the video games zone.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSpy",
+          "source": "Locate and neutralize three ND133",
+          "target": "Locate and neutralize three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSentry",
+          "source": "From your starting point you will access to the projection room 1. From there you can access the Lobby. The lobby gives you access  to the Entry cafeteria and the Video games zone.|Lobby : One ND133 on the ground floor, one upstairs.|Entry : One ND133 in the cafeteria and one in the video games zone.",
+          "target": "From your starting point you can access Projection Room 1. From there you can access the Lobby, which gives you access to the Entry Cafeteria and the Video Games Zone.|Lobby: One ND133 on the ground floor, one upstairs.|Entry: One ND133 in the cafeteria and one in the video games zone.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSentry",
+          "source": "Defend the ND133 and kill intruders",
+          "target": "Protect the ND133 and kill intruders.",
+          "method": "stable-MapSettings-singleton"
+        }
+      ]
+    },
+    {
+      "code": "KRA07P",
+      "path": "work\\release-ps2-openscct-v1\\source-native\\KRA07P-i.utc",
+      "sha256": "e87f035d28f7c46317a2ba01ea332a7ae41fa4e449a6fa27780420a53a34097a",
+      "MapName": "Krauser Lab P",
+      "status": "exact-English-locale-overlay-and-P-suffix",
+      "localeChanges": [
+        {
+          "path": "LegendMap",
+          "source": "|April 19th, 2006, 8:32 PM||Located in downtown Chicago, Krauser operates scientific research facilities and makes them available to government, industrial, and academic researchers.",
+          "target": "|April 19, 2006, 8:32 PM||KRAUSER LABS, INC., Chicago, Illinois, USA|Located in the center of downtown Chicago, Krauser operates multiple scientific research facilities and makes them available to government, industrial and academic researchers.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "LegendMapInBrief",
+          "source": "|1 : Spy insertion point.||2 : Warehouse.||3 : Laboratory.||4 : Irradiation Room.",
+          "target": "|1. Spy insertion point||2. Warehouse||3. Laboratory||4. Irradiation Room",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSpy",
+          "source": "This laboratory was selected in order to target America's scientific community.  By installing the ND 133 in a rented research area with access to Krauser's chemical fire sprinkler system, they have an easy method of disbursement throughout the entire lab. . ",
+          "target": "This Laboratory was selected in order to target America's scientific community.  By installing the ND133 in a rented research area with access to Krauser's chemical fire sprinkler system, they have an easy method of dispersal throughout the entire lab.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSentry",
+          "source": "This laboratory was selected in order to target America's scientific community.  By installing the ND 133 in a rented research area with access to Krauser's chemical fire sprinkler system, they have an easy method of disbursement throughout the entire lab. . ",
+          "target": "This laboratory was selected in order to target America's scientific community.  By installing the ND133 in a rented research area with access to Krauser's chemical fire sprinkler system, they have an easy method of dispersal throughout the entire lab.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExplicationModeSentry",
+          "source": "Protect the tubes",
+          "target": "Prevent the spies from bringing four tubes to the exit.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExpliModeInBriefSpy",
+          "source": "From your insertion point, enter the complex through the car park, the roof or the reception. The warehouse is in the west wing, the laboratory and the irradiation room in the east one.|Warehouse : No tube|Laboratory : One tube present|Irradiation Room : One tube present",
+          "target": "From your insertion point, enter the complex through the car park, the roof or the reception area. The Warehouse is in the West Wing, the Laboratory and the Irradiation Room, in the East Wing.|Warehouse: Two tubes.|Laboratory: Two tubes present.|Irradiation Room: Two tubes present.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExpliModeInBriefSentry",
+          "source": "The Labs is a \"L\" shape two floors building. The warehouse is in the West part of the building. The laboratory and the irradiation room are in the other wing.|Warehouse : No tube|Laboratory : One tube present|Irradiation Room : One tube present",
+          "target": "The Lab is an \"L\" shaped two-story building. The Warehouse is in the West part of the building. The Laboratory and the Irradiation Room are in the other wing.|Warehouse: Two tubes.|Laboratory: Two tubes present.|Irradiation Room: Two tubes present.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.LegendModeInBriefSentry",
+          "source": "Protect the tubes",
+          "target": "Defend the tubes and kill intruders",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSpy",
+          "source": "Locate and neutralise three ND133",
+          "target": "Locate and neutralise three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSentry",
+          "source": "Protect the ND133 and kill intruders",
+          "target": "Protect the ND133 and kill intruders.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSpy",
+          "source": "From your insertion point, enter the complex through the car park, the roof or the reception. The warehouse is in the west wing, the laboratory and the irradiation room in the east one.|Warehouse : the two ND133 are in the ground floor|Laboratory : the two ND133 are in the same floor|Irradiation Room : the two ND133 are in the irradiation area",
+          "target": "From your insertion point, enter the complex through the car park, the roof or the reception area. The Warehouse is in the West Wing, the Laboratory and the Irradiation Room, in the East Wing.|Warehouse: the two ND133 are on the ground floor.|Laboratory: the two ND133 are on the same floor|Irradiation Room: the two ND133 are in the Irradiation Room.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSpy",
+          "source": "Locate and neutralise three ND133",
+          "target": "Locate and neutralise three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSentry",
+          "source": "The Labs is a \"L\" shape two floors building. The warehouse is in the West part of the building. The laboratory and the irradiation room are in the other wing.|Warehouse : the two ND133 are in the ground floor|Laboratory : the two ND133 are in the same floor|Irradiation Room : the two ND133 are in the irradiation area",
+          "target": "The Lab is an \"L\" shaped two-story building. The Warehouse is in the West part of the building. The laboratory and the Irradiation Room are in the other wing.|Warehouse: the two ND133 are on the ground floor.|Laboratory: the two ND133 are on the same floor|Irradiation Room: the two ND133 are in the Irradiation Room.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSentry",
+          "source": "Protect the ND133 and kill intruders",
+          "target": "Protect the ND133 and kill intruders.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExplicationModeSpy",
+          "source": "Locate and neutralise two ND133",
+          "target": "Place modems to neutralize 2 ND133 from a distance.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExplicationModeSentry",
+          "source": "Protect the ND133 and kill intruders",
+          "target": "Prevent the spies from hacking 2 ND133 using modems.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExpliModeInBriefSpy",
+          "source": "From your insertion point, enter the complex through the car park, the roof or the reception. The warehouse is in the west wing, the laboratory and the irradiation room in the east one.|Warehouse : the two ND133 are in the ground floor|Laboratory : the two ND133 are in the same floor|Irradiation Room : the two ND133 are in the irradiation area",
+          "target": "From your insertion point, enter the complex through the car park, the roof or the reception area. The Warehouse is in the West Wing, the Laboratory and the Irradiation Room in the East Wing.|Warehouse: the ND133 is on the ground floor.|Laboratory: the ND133 is on the same floor.|Irradiation Room: the ND133 is in the Irradiation Room.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.LegendModeInBriefSpy",
+          "source": "Locate and neutralise two ND133",
+          "target": "Locate and neutralise two ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExpliModeInBriefSentry",
+          "source": "The Labs is a \"L\" shape two floors building. The warehouse is in the West part of the building. The laboratory and the irradiation room are in the other wing.|Warehouse : the two ND133 are in the ground floor|Laboratory : the two ND133 are in the same floor|Irradiation Room : the two ND133 are in the irradiation area",
+          "target": "The Lab is an \"L\" shaped two-story building. The Warehouse is in the West part of the building. The laboratory and the Irradiation Room are in the other wing.|Warehouse: the ND133 is on the ground floor.|Laboratory: the ND133 is on the same floor.|Irradiation Room: the ND133 is in the Irradiation Room.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.LegendModeInBriefSentry",
+          "source": "Protect the ND133 and kill intruders",
+          "target": "Protect the ND133 and kill intruders.",
+          "method": "stable-MapSettings-singleton"
+        }
+      ]
+    },
+    {
+      "code": "MHO05P",
+      "path": "work\\release-ps2-openscct-v1\\source-native\\MHO05P-i.utc",
+      "sha256": "9589e9559d41ad231f0f0b668febbc5abbc2c8537e38640875141085cedb9dec",
+      "MapName": "Mount Hospital P",
+      "status": "exact-English-locale-overlay-and-P-suffix",
+      "localeChanges": [
+        {
+          "path": "LegendMap",
+          "source": "|April 19th, 2006, 8:32 PM||Located in downtown, the Temple Mount Hospital has nearly completed construction of a new, North Wing to provide service for Iowa's growing, aging population.",
+          "target": "|April 19, 2006, 8:32 PM||Temple Meyer Hospital, Des Moines, Iowa, USA|The Temple Mount Hospital has nearly completed construction of a new North Wing to serve Iowa's growing population.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "LegendMapInBrief",
+          "source": "|1 : Spy insertion point.||2 : Hospital second floor.||3 : Hospital third floor.",
+          "target": "|1. Spy insertion point||2. Hospital second floor||3. Hospital third floor",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSpy",
+          "source": "The device has been installed somewhere tangent to the hospital's ventilation system, under the guise of potentially hazardous radiological materials. The Private Military Corporation ARGUS has been hired to protect the ND133. It is highly probable that Argus employees are capable and willing to employ lethal force.",
+          "target": "The device has been installed somewhere at a tangent to the hospital's ventilation system, under the guise of potentially hazardous radiological material. The Private Military Corporation ARGUS PMC has been hired to protect the ND133. It is highly probable that ARGUS employees are able and willing to employ lethal force.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSentry",
+          "source": "The device has been installed somewhere tangent to the hospital's ventilation system, under the guise of potentially hazardous radiological materials. Intruders will try to infiltrate the building to neutralize the cryogenic containers.",
+          "target": "The device has been installed somewhere at a tangent to the hospital's ventilation system, under the guise of potentially hazardous radiological material. Intruders will try to infiltrate the building to neutralize the cryogenic containers.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExplicationModeSpy",
+          "source": "Bring three tubes back to the exit",
+          "target": "Bring 4 tubes back to the exit",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExplicationModeSentry",
+          "source": "Defend the tubes and kill intruders",
+          "target": "Prevent the spies from bringing 4 tubes to the exit.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExpliModeInBriefSpy",
+          "source": "Your insertion point will be the sewer system running under the hospital structure. You can access the different floors through the floor or the lift's shaft. Two ND133 are in the second floor, three in the third floor.",
+          "target": "Your insertion point will be the sewer system running under the hospital structure. You can access the different floors through the floor or the lift' shaft. Two tubes are on the second floor, three in the third floor.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.LegendModeInBriefSpy",
+          "source": "Bring three tubes back to the exit",
+          "target": "Bring 4 tubes back to the exit",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExpliModeInBriefSentry",
+          "source": "The building is composed of two floors related by stairs located in the middle in the the corner of each floor. The second floor gives you an access to the sewer system. Two containers are in the second floor, three in the third floor|3rd Floor : the tubes are in room 202, 212 and in the nursery",
+          "target": "The building is composed of two floors linked by stairs located in the middle, in the corner of each floor. The second floor gives you an access to the sewer system. Two tubes are on the second floor, three on the third floor.|3rd Floor: the tubes are in room 202, 212 and in the Nursery.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSpy",
+          "source": "Locate and neutralize three ND133",
+          "target": "Locate and neutralize three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSentry",
+          "source": "Defend the ND133 and kill intruders",
+          "target": "Defend the ND133 and kill intruders.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSpy",
+          "source": "Your insertion point will be the sewer system running under the hospital structure. You can access the different floors through the floor or the lift's shaft. Two ND133 are in the second floor, three in the third floor.|2nd Floor : the ND133 are in room 102 and 116|3rd Floor : ND133 are in room 202, 212 and in the nursery",
+          "target": "Your insertion point will be the sewer system running under the hospital structure. You can access the different floors through the floor or the lift' shaft. Two ND133 are on the second floor, three on the third floor.|2nd Floor: the ND133 are in rooms 102 and 116|3rd Floor: ND133 are in rooms 202, 212 and in the Nursery",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSpy",
+          "source": "Locate and neutralize three ND133",
+          "target": "Locate and neutralize three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSentry",
+          "source": "The building is composed of two floors related by stairs located in the middle in the the corner of each floor. The second floor gives you an access to the sewer system. Two containers are in the second floor, three in the third floor|2nd Floor : the ND133 are in room 102 and 116|3rd Floor : ND133 are in room 202, 212 and in the nursery",
+          "target": "The building is composed of two floors linked by stairs located in the middle, in the corner of each floor. The second floor gives you an access to the sewer system. Two containers are on the second floor, three on the third floor.|2nd Floor: the ND133 are in rooms 102 and 116.|3rd Floor: ND133 are in rooms 202, 212 and in the Nursery.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSentry",
+          "source": "Defend the ND133 and kill intruders",
+          "target": "Defend the ND133 and kill intruders.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExplicationModeSpy",
+          "source": "Locate and neutralize three ND133",
+          "target": "Place modems to neutralize 4 ND133 from a distance.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExplicationModeSentry",
+          "source": "Defend the ND133 and kill intruders",
+          "target": "Prevent the spies from hacking 4 ND133 using modems.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExpliModeInBriefSpy",
+          "source": "Your insertion point will be the sewer system running under the hospital structure. You can access the different floors through the floor or the lift's shaft. Two ND133 are in the second floor, three in the third floor.|2nd Floor : the ND133 are in room 102 and 116|3rd Floor : ND133 are in room 202, 212 and in the nursery",
+          "target": "Your insertion point will be the sewer system running under the hospital structure. You can access the different floors through the floor or the lift' shaft. Two ND133 are on the second floor, three on the third floor.|2nd Floor: the ND133 are in rooms 102 and 116|3rd Floor: ND133 are in rooms 202, 212 and in the Nursery",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.LegendModeInBriefSpy",
+          "source": "Locate and neutralize thrre ND133",
+          "target": "Locate and neutralize three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExpliModeInBriefSentry",
+          "source": "The building is composed of two floors related by stairs located in the middle in the the corner of each floor. The second floor gives you an access to the sewer system. Two containers are in the second floor, three in the third floor|2nd Floor : the ND133 are in room 102 and 116|3rd Floor : ND133 are in room 202, 212 and in the nursery",
+          "target": "The building is composed of two floors linked by stairs located in the middle, in the corner of each floor. The second floor gives you an access to the sewer system. Two containers are on the second floor, three on the third floor.|2nd Floor: the ND133 are in rooms 102 and 116.|3rd Floor: ND133 are in rooms 202, 212 and in the Nursery.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.LegendModeInBriefSentry",
+          "source": "Defend the ND133 and kill intruders",
+          "target": "Defend the ND133 and kill intruders.",
+          "method": "stable-MapSettings-singleton"
+        }
+      ]
+    },
+    {
+      "code": "MIS10P",
+      "path": "work\\release-ps2-openscct-v1\\source-native\\MIS10P-i.utc",
+      "sha256": "ede923d27cc9dcc59aa922e0a22cfff0b88ebf976fd4bc66fffdd967f9ddbe34",
+      "MapName": "Missile Strike P",
+      "status": "exact-English-locale-overlay-and-P-suffix",
+      "localeChanges": [
+        {
+          "path": "LegendMap",
+          "source": null,
+          "target": "March 10, 2008, 9:32 AM|North Korea||A disused bunker, housing a missile silo.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "LegendMapInBrief",
+          "source": null,
+          "target": "|1. SPY INSERTION POINT||2. MERCENARY INSERTION POINT||3. THE WASTE FACILITY||4. THE SILO",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSpy",
+          "source": null,
+          "target": "This disused bunker communicates with a silo that is part of South Korea's anti-missile defense. The ARGUS PMC mercenaries want to contaminate it.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSentry",
+          "source": null,
+          "target": "This disused bunker communicates with a silo that is part of South Korea's anti-missile defense. The ARGUS PMC mercenaries want to contaminate it.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExplicationModeSpy",
+          "source": "Aucun Texte d'explication present.|Le leveldesigner de la map doit l'integrer",
+          "target": "Take two tubes to the decontamination zones.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExplicationModeSentry",
+          "source": "Mode sentry",
+          "target": "Prevent the intruders from stealing two tubes.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExpliModeInBriefSpy",
+          "source": "Texte expli non present. Le level designer doit l'integrer",
+          "target": "There are two tubes in each zone. You must bring back one of the two tubes to its decontamination zone.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.LegendModeInBriefSpy",
+          "source": "Texte non present. Le level designer doit l'integrer",
+          "target": "Take two tubes to the decontamination zones.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExpliModeInBriefSentry",
+          "source": "Mode 2 sentry",
+          "target": "There are two tubes in each zone. You must prevent the intruders from taking one of the two tubes to its decontamination zone.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.LegendModeInBriefSentry",
+          "source": "Hello world",
+          "target": "Prevent the intruders from stealing two tubes.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSpy",
+          "source": "Aucun Texte d'explication present.|Le leveldesigner de la map doit l'integrer",
+          "target": "Neutralize two ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSentry",
+          "source": "Mode sentry",
+          "target": "Prevent the intruders from neutralizing two ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSpy",
+          "source": "Texte expli non present. Le level designer doit l'integrer",
+          "target": "The bunker is made up of two zones. THE WASTE FACILITY holds  four ND133 and the SILO holds three. Neutralizing one ND133 in the WASTE FACILITY will open up access points to the SILO.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSpy",
+          "source": "Texte non present. Le level designer doit l'integrer",
+          "target": "Neutralize two ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSentry",
+          "source": "Mode 2 sentry",
+          "target": "The bunker is made up of two zones. THE WASTE FACILITY holds  four ND133 and the SILO holds three. Neutralizing one ND133 in the WASTE FACILITY will open up access points to the SILO.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSentry",
+          "source": "Hello world",
+          "target": "Prevent the intruders from neutralizing two ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExplicationModeSpy",
+          "source": "Aucun Texte d'explication present.|Le leveldesigner de la map doit l'integrer",
+          "target": "Hack into two ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExplicationModeSentry",
+          "source": "Mode sentry",
+          "target": "Protect the ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExpliModeInBriefSpy",
+          "source": "Texte expli non present. Le level designer doit l'integrer",
+          "target": "In each zone there are several ND133. You must sabotage one per zone. WASTE FACILITY: Three ND133. SILO: Four ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.LegendModeInBriefSpy",
+          "source": "Texte non present. Le level designer doit l'integrer",
+          "target": "Hack into two ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExpliModeInBriefSentry",
+          "source": "Mode 2 sentry",
+          "target": "In each zone there are several ND133. You must prevent the intruders from sabotaging one per zone. WASTE FACILITY: Three ND133. SILO: Four ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.LegendModeInBriefSentry",
+          "source": "Hello world",
+          "target": "Protect the ND133.",
+          "method": "stable-MapSettings-singleton"
+        }
+      ]
+    },
+    {
+      "code": "MUS04P",
+      "path": "work\\release-ps2-openscct-v1\\source-native\\MUS04P-i.utc",
+      "sha256": "0b3e5986052b90b2aa13d6f85fa6e4903afd4db35b435259a6f94d39121d21c2",
+      "MapName": "Museum P",
+      "status": "exact-English-locale-overlay-and-P-suffix",
+      "localeChanges": [
+        {
+          "path": "LegendMap",
+          "source": "|April 19th 2006, 9:32 PM||Under construction new Central Pavillion of the San Francisco's Museum of contemporary Art",
+          "target": "|April 19, 2006, 9:32 PM||M.O.C.A, San Francisco, California, USA|Under construction: the new Central Pavilion of San Francisco's Museum of Contemporary Art.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "LegendMapInBrief",
+          "source": "|1 : Spy insertion point.||2 : Cafe.||3 : Exhibition Room.||4 : Monolith Room.",
+          "target": "|1. Spy insertion point||2. Café||3. Exhibition Room||4. Monolith Room",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSpy",
+          "source": "At the heart of San Francisco’s Museum Of Contemporary Art, the brand new Central Pavilion is only two weeks from opening.  The 6 ND133 are divided between 3 rooms, triggered in pairs. This daisy-chained decompression technique will ensure the maximum spread of viral agent among the MOCA’s thousands of daily visitors. ",
+          "target": "At the heart of San Francisco's Museum Of Contemporary Art, the brand new Central Pavilion is only two weeks from opening.  The 6 ND133 are divided between 3 rooms, triggered in pairs. This daisy-chained decompression technique will ensure the maximum spread of viral agent among the MOCA's thousands of daily visitors.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSentry",
+          "source": "At the heart of San Francisco’s Museum Of Contemporary Art, the brand new Central Pavilion is only two weeks from opening.  The 6 cryogenic containers are divided between 3 rooms, triggered in pairs. ",
+          "target": "At the heart of San Francisco's Museum Of Contemporary Art, the brand new Central Pavilion is only two weeks from opening.  The 6 cryogenic containers are divided between 3 rooms, triggered in pairs.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSpy",
+          "source": "Locate and neutralize two ND133",
+          "target": "Locate and neutralize two ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSentry",
+          "source": "Defend the ND 133 and kill intruders",
+          "target": "Defend the ND133 and kill intruders.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSpy",
+          "source": "From your insertion point on the roof, you can access the musuem through the main entrance or ventilation system. It is composed of  the cafe, the exhibition and the monolith room.|Cafe : a ND133 container is outside, the other is inside|Exhibition : a ND133 is at ground level, the other is upstairs|Monolith : a ND133 is at ground level, the other is upstairs",
+          "target": "From your insertion point, you can access the museum through the main entrance or the ventilation system. It is composed of the Café, the exhibition and the monolith room.|Café: A ND133 is outside, the other is inside|Exhibition: A ND133 is on ground level, the other is upstairs|Monolith: A ND133 is on ground level, the other is upstairs",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSpy",
+          "source": "Locate and neutralize two ND133",
+          "target": "Locate and neutralize two ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSentry",
+          "source": "The museum is composed of three zones : the cafe, the exhibition room and the monolith room. Each zone contains two linked containers.|Cafe : a ND133 container is outside, the other is inside|Exhibition : a ND133 is at ground level, the other is upstairs|Monolith : a ND133 is at ground level, the other is upstairs",
+          "target": "The museum is composed of three zones: the cafe, the exhibition room and the monolith room. Each zone contains two linked containers.|Café: A ND133 container is outside, the other is inside|Exhibition: A ND133 is on the ground level, the other is upstairs|Monolith: A ND133 is on ground level, the other is upstairs",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSentry",
+          "source": "Defend the ND 133 and kill intruders",
+          "target": "Defend the ND133 and kill intruders.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExplicationModeSpy",
+          "source": "Locate and nuke two ND 133",
+          "target": "Place modems to neutralize 2 ND133 from a distance.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExplicationModeSentry",
+          "source": "Protect the ND133and kill intruders",
+          "target": "Prevent the spies from hacking 2 ND133 using modems.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExpliModeInBriefSpy",
+          "source": "From your insertion point on the roof, you can access the musuem through the main entrance or ventilation system. It is composed of  the cafe, the exhibition and the monolith room.|Cafe : a ND133 container is outside, the other is inside|Exhibition : a ND133 is at ground level, the other is upstairs|Monolith : a ND133 is at ground level, the other is upstairs",
+          "target": "From your insertion point, you can access the museum through the main entrance or the ventilation system. It is composed of the Café, the exhibition and the monolith room.|Café: A ND133 is outside, the other is inside|Exhibition: A ND133 is on ground level, the other is upstairs|Monolith: A ND133 is on the ground level, the other is upstairs",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.LegendModeInBriefSpy",
+          "source": "Locate and nuke two ND 133",
+          "target": "Locate and neutralize two ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExpliModeInBriefSentry",
+          "source": "The museum is composed of three zones : the cafe, the exhibition room and the monolith room. Each zone contains two linked containers.|Cafe : a ND133 container is outside, the other is inside|Exhibition : a ND133 is at ground level, the other is upstairs|Monolith : a ND133 is at ground level, the other is upstairs",
+          "target": "The museum is composed of three zones: the cafe, the exhibition room and the monolith room. Each zone contains two linked containers.|Café: A ND133 container is outside, the other is inside|Exhibition: A ND133 is on ground level, the other is upstairs|Monolith: A ND133 is on ground level, the other is upstairs",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.LegendModeInBriefSentry",
+          "source": "Protect the ND133and kill intruders",
+          "target": "Protect the ND133 and kill intruders.",
+          "method": "stable-MapSettings-singleton"
+        }
+      ]
+    },
+    {
+      "code": "ORP14P",
+      "path": "work\\release-ps2-openscct-v1\\source-native\\ORP14P-i.utc",
+      "sha256": "3035f93b6f7a8241e3ecd6b95b2d41217ea7c709198a118f287f18c36cf9824f",
+      "MapName": "Orphanage P",
+      "status": "exact-English-locale-overlay-and-P-suffix",
+      "localeChanges": [
+        {
+          "path": "LegendMap",
+          "source": "8 février 2008, 20h20|Environs de Glasgow, Ecosse||L'orphelinat abandonné de Sainte-Elizabeth.",
+          "target": "February 8, 2008, 8:20 PM|Near Glasgow, Scotland||The abandoned Saint Elizabeth orphanage.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "LegendMapInBrief",
+          "source": "1. INSERTION ESPIONS|||2. DORTOIR||||3. SALLE DE CLASSE||||4. SANITAIRES||||5. STOCKAGE||||6. COUR",
+          "target": "1. SPY INSERTION POINT|2. DORMITORY|3. CLASSROOM|4. WASHROOM|5. STORAGE|6. COURTYARD",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSpy",
+          "source": "Nos satellites ont récemment détecté une activité suspecte dans un ancien orphelinat abandonné, dans la campagne écossaise. Une équipe argus a sécurisé l’orphelinat qui sert probablement de zone de stockage de données sensibles. Nous devons nous en emparer. A vous de jouer, messieurs.",
+          "target": "An ARGUS PMC team has made secure an abandoned orphanage which is used as an ND133 storage area.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSentry",
+          "source": "Nous avons procédé à la sécurisation d’un ancien orphelinat perdu au milieu d’un bois en Ecosse. Le bâtiment  est utilisé pour stocker des informations vitales pour notre client. Notre rôle est donc de s’assurer que personne ne s’intéresse de trop près à cet endroit et notamment que les données ne tombent pas entre de mauvaises mains.",
+          "target": "An ARGUS PMC team has made secure an abandoned orphanage which is used as an ND133 storage area.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExplicationModeSpy",
+          "source": "Amenez trois tubes aux zones de décontamination.",
+          "target": "Take three tubes to the decontamination zones.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExplicationModeSentry",
+          "source": "Empêchez les intrus de voler trois tubes.",
+          "target": "Prevent the intruders from stealing three tubes.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExpliModeInBriefSpy",
+          "source": "Une équipe Argus PMC a sécurisé un orphelinat abandonné qui sert de zone de stockage de ND133.",
+          "target": "Steal three out of four tubes and take them to their respective decontamination zones. WASHROOMS --> Store Room. CLASSROOM --> Dormitory. STORAGE --> Washrooms. DORMITORY --> Store Room.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.LegendModeInBriefSpy",
+          "source": "Volez trois tubes sur quatre et amenez-les à leur zone de décontamination respective: SANITAIRES --> Stockage. SALLE DE CLASSE --> Dortoir. STOCKAGE --> Sanitaires. DORTOIR --> Stockage.",
+          "target": "Take three tubes to the decontamination zones.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExpliModeInBriefSentry",
+          "source": "Une équipe Argus PMC a sécurisé un orphelinat abandonné qui sert de zone de stockage de ND133.",
+          "target": "Prevent the intruders from taking three out of four tubes to the decontamination zones: WASHROOMS --> Store Room. CLASSROOM --> Dormitory. STORAGE --> Washrooms. DORMITORY --> Store Room.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.LegendModeInBriefSentry",
+          "source": "Empêchez les intrus de ramener trois tubes sur quatre aux zones de décontamination: SANITAIRES --> Stockage. SALLE DE CLASSE --> Dortoir. STOCKAGE --> Sanitaires. DORTOIR --> Stockage.",
+          "target": "Prevent the intruders from stealing three tubes.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSpy",
+          "source": "Neutralisez trois ND133 sur cinq.",
+          "target": "Neutralize three out of five ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSentry",
+          "source": "Empêchez les intrus de neutraliser trois ND133.",
+          "target": "Prevent the intruders from neutralizing three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSpy",
+          "source": "Une équipe Argus PMC a sécurisé un orphelinat abandonné qui sert de zone de stockage de ND133.",
+          "target": "Each zone indicated on the map contains an ND133. You must deactivate three out of five.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSpy",
+          "source": "Chaque zone signalée dans la carte abrite une ND133. Vous devez en désactivez trois sur cinq.",
+          "target": "Neutralize three out of five ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSentry",
+          "source": "Une équipe Argus PMC a sécurisé un orphelinat abandonné qui sert de zone de stockage de ND133.",
+          "target": "Each zone indicated on the map contains an ND133. You must prevent the intruders from neutralizing three out of five.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSentry",
+          "source": "Chaque zone signalée dans la carte abrite une ND133. Vous devez empêcher les intrus d'en neutraliser trois sur cinq.",
+          "target": "Prevent the intruders from neutralizing three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExplicationModeSpy",
+          "source": "Piratez deux ND133 sur trois.",
+          "target": "Hack into two out of three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExplicationModeSentry",
+          "source": "Protégez les ND133.",
+          "target": "Protect the ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExpliModeInBriefSpy",
+          "source": "Une équipe Argus PMC a sécurisé un orphelinat abandonné qui sert de zone de stockage de ND133.",
+          "target": "Place a modem in two of the following three locations: COURTYARD, STORAGE and WASHROOMS.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.LegendModeInBriefSpy",
+          "source": "Posez un modem dans deux des trois endroits suivants: COUR, STOCKAGE et SANITAIRES.",
+          "target": "Hack into two of the three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExpliModeInBriefSentry",
+          "source": "Une équipe Argus PMC a sécurisé un orphelinat abandonné qui sert de zone de stockage de ND133.",
+          "target": "Prevent the intruders from placing a modem in two of the following three locations: COURTYARD, STORAGE and WASHROOMS.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.LegendModeInBriefSentry",
+          "source": "Empêchez les intrus de poser un modem dans deux des trois endroits suivants: COUR, STOCKAGE et SANITAIRES.",
+          "target": "Protect the ND133.",
+          "method": "stable-MapSettings-singleton"
+        }
+      ]
+    },
+    {
+      "code": "SCH03P",
+      "path": "work\\release-ps2-openscct-v1\\source-native\\SCH03P-i.utc",
+      "sha256": "63648b0a6f9ba18b65e36f8b4cbeaaadce5425e3ae2bde7c7142c3299e90fa0f",
+      "MapName": "Schermerhorn P",
+      "status": "exact-English-locale-overlay-and-P-suffix",
+      "localeChanges": [
+        {
+          "path": "LegendMap",
+          "source": "|April 19th 2006, 9:32 PM||Schermerhorn Waste Management is a way-station between New York City's trash cans and the Fresh Kills Landfill.",
+          "target": "|April 19, 2006, 9:32 PM||Schermerhorn Waste Management is a way-station between New York City's trash cans and the Fresh Kills Landfill.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "LegendMapInBrief",
+          "source": "|1 : Spy insertion point.||2 : Sation.||3 : Water Room.",
+          "target": "|1. Spy insertion point||2. Station||3. Water Room",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSpy",
+          "source": "The Schermerhorn Street Subway Station, though over two decades out of use, remains centrally located and directly connected to all but two lines of New York City’s subway system.  Similarly overlapping with Brooklyn’s sewer system, the release of Smallpox from the ND133 would be catastrophic.  ",
+          "target": "The Schermerhorn Street subway station, though out of use for over two decades, remains centrally located and directly connected to all but two lines of New York City's subway system. It also overlaps with Brooklyn's sewer system, so the release of smallpox from the ND133 would be catastrophic.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSentry",
+          "source": "The Schermerhorn Street Subway Station, though over two decades out of use, remains centrally located and directly connected to all but two lines of New York City’s subway system.",
+          "target": "The Schermerhorn Street subway station, though out of use for over two decades, remains centrally located and directly connected to all but two lines of New York City's subway system.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExplicationModeSentry",
+          "source": "Protect the tubes",
+          "target": "Prevent the spies from bringing 3 tubes to the exit.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExpliModeInBriefSpy",
+          "source": "Your insertion point will give you access to the sewer system and the subway station. From the subway main room, you can access the old water or the Tech Room. The two flags are in the water room.|Water Room : A ND133 is on the ground, the other is on the footbridge.",
+          "target": "Your insertion point will give you access to the sewer system and the subway station. From the subway main room, you can access the Water Room or the Tech Room.|Station: A tube is in a wagon, the other is upstairs|Water Room: A tube is on the ground, the other is on the footbridge.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExpliModeInBriefSentry",
+          "source": "The zone is divided in three parts : the Tech room is near your insertion point. It gives you access to the water room and the subway station.|Station : A flag is in a wagon, the other is upstairs|Water Room : A Flag is on the ground, the other is on the footbridge.",
+          "target": "The zone is divided into three sections: the Tech Room is near your insertion point. It gives you access to the water room and the subway station.|Station: A tube is in a wagon, the other is upstairs|Water Room: A tube is on the ground, the other is on the footbridge.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSpy",
+          "source": "Locate and neutralize three ND133",
+          "target": "Locate and neutralize three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSentry",
+          "source": "Protect the ND133 and kill intruders",
+          "target": "Protect the ND133 and kill intruders.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSpy",
+          "source": "Your insertion point will give you access to the sewer system and the subway station. From the subway main room, you can access the old water or the Tech Room.|Station : A ND133 is in a wagon, the other is upstairs.|Water Room : A ND133 is on the ground, the other is on the footbridge.",
+          "target": "Your insertion point will give you access to the sewer system and the subway station. From the subway main room, you can access the Water Room or the Tech Room.|Station: A ND133 is in a wagon, the other is upstairs|Water Room: A ND133 is on the ground, the other is on the footbridge.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSpy",
+          "source": "Locate and neutralize three ND133",
+          "target": "Locate and neutralize three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSentry",
+          "source": "The zone is divided in three parts : the Tech room is near your insertion point. It gives you access to the water room and the subway station.|Station : A ND133 is in a wagon, the other is upstairs|Water Room : A ND133 is on the ground, the other is on the footbridge.",
+          "target": "The zone is divided into three sections: the Tech Room is near your insertion point. It gives you access to the water room and the subway station.|Station: A ND133 is in a wagon, the other is upstairs|Water Room: A ND133 is on the ground, the other is on the footbridge.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExplicationModeSpy",
+          "source": "Locate and neutralize one ND133",
+          "target": "Place modems to neutralize one ND133 from a distance.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExplicationModeSentry",
+          "source": "Protect the ND133 and kill intruders",
+          "target": "Prevent the spies from hacking one ND133 using modems.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExpliModeInBriefSpy",
+          "source": "Your insertion point will give you access to the sewer system and the subway station. From the subway main room, you can access the old water or the Tech Room.|Station : a ND133 is in a wagon, the other is upstairs|Water Room : A ND133 is on the ground, the other is on the footbridge.",
+          "target": "Your insertion point will give you access to the sewer system and the subway station. From the subway main room, you can access the Water Room or the Tech Room.|Water Room: The ND133 is on the ground.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.LegendModeInBriefSpy",
+          "source": "Locate and neutralize one ND133",
+          "target": "Locate and neutralize one ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.ExpliModeInBriefSentry",
+          "source": "The zone is divided in three parts : the Tech room is near your insertion point. It gives you access to the water room and the subway station.|Station : A ND133 is in a wagon, the other is upstairs|Water Room : A ND133 is on the ground, the other is on the footbridge.",
+          "target": "The zone is divided into three sections: the Tech Room is near your insertion point. It gives you access to the water room and the subway station.|Water Room: The ND133 is on the ground.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Sabotage.LegendModeInBriefSentry",
+          "source": "Protect the ND133 and kill intruders",
+          "target": "Protect the ND133 and kill intruders.",
+          "method": "stable-MapSettings-singleton"
+        }
+      ]
+    },
+    {
+      "code": "SKY08P",
+      "path": "work\\release-ps2-openscct-v1\\source-native\\SKY08P-i.utc",
+      "sha256": "2f5b45009a31e3d09b44ef172299d7d00fb16e9561d5fef42d1e4de57f7d615f",
+      "MapName": "Vertigo Plaza P",
+      "status": "exact-English-locale-overlay-and-P-suffix",
+      "localeChanges": [
+        {
+          "path": "LegendMap",
+          "source": "|April 19th, 2006, 9:32 PM||Vertigo Plaza, Boston, Massachusetts, USA|The Vertigo Plaza is a high-Tech complex of 4 buildings linked together by 4 bridges far above the ground.",
+          "target": "|April 19, 2006, 9:32 PM||Vertigo Plaza, Boston, Massachusetts, USA|Vertigo Plaza is a high-tech complex of 4 buildings linked together by 4 bridges far above the ground.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "LegendMapInBrief",
+          "source": "|1 : Spy Insertion Point.||2 : Library.||3 : Office.||4 : Computer Center.",
+          "target": "|1. Spy Insertion Point||2. Library||3. Office||4. Computer Center",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSpy",
+          "source": "The Vertigo Plaza is a high-Tech new complex of 4 buildings linked together by 4 bridges. With a huge amount of daily visitors and empolyees, this building is a key place to start a global contamination if the virus is released.",
+          "target": "Vertigo Plaza is a high-tech new complex of 4 buildings linked together by 4 bridges. With a huge number of daily visitors and employees, this building is a key place to start global contamination if the virus is released.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSentry",
+          "source": "The Vertigo Plaza is a high-Tech new complex of 4 buildings linked together by 4 bridges. Because of its high technology background, you should prevent the intruders from stealing the cryogenic containers.",
+          "target": "Vertigo Plaza is a high-tech new complex of 4 buildings linked together by 4 bridges. Because of its high technology background, you should prevent the intruders from stealing the cryogenic containers.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExplicationModeSentry",
+          "source": "Protect the tubes",
+          "target": "Prevent the spies from bringing two tubes to the exit.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExpliModeInBriefSpy",
+          "source": "Thoses four buildings linked together by bridges are placed in a square patern. The office, the library and the computer center both contains tow containers. The last building is closed and holds an helicopter pad on it's top.",
+          "target": "Your insertion point will be the helicopter pad. There is a tube in each of the three buildings. The taller one is a Computer Center, the one still lit up is the Office building and the dark one is a former Library.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExpliModeInBriefSentry",
+          "source": "Your insertion point will be the helicopter pad. There is a tube in each of the three buildings. The taller one is a computer center, the one still liten is the offices building and the dark one is an ancient library.",
+          "target": "Those four buildings linked together by bridges are arranged in a square shape. The Office, the Library and the computer center both contain two containers. The last building is closed and has a helicopter pad on its roof.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.LegendModeInBriefSentry",
+          "source": "Protect the tubes",
+          "target": "Defend the tubes and kill intruders",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSpy",
+          "source": "Locate and neutralize three ND133",
+          "target": "Locate and neutralize three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSentry",
+          "source": "Defend the ND133 and kill intruders",
+          "target": "Defend the ND133 and kill intruders.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSpy",
+          "source": "Your insertion point will be the helicopter pad.  Each of the buildings in front of you contains two ND133. The taller one is a computer center, the one still liten is the offices building and the dark one is an ancient library.",
+          "target": "Your insertion point will be the helicopter pad. Each of the buildings in front of you contain two ND133. The taller one is a Computer Center, the one still lit up is the Office building and the dark one is a former Library.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSpy",
+          "source": "Locate and neutralize three ND133",
+          "target": "Locate and neutralize three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSentry",
+          "source": "Thoses four buildings linked together by bridges are placed in a square patern. The office, the library and the computer center both contains tow containers. The last building is closed and holds an helicopter pad on it's top.",
+          "target": "Those four buildings linked together by bridges are arranged in a square shape. The Office, the Library and the Computer Center each house two containers. The last building is closed and has a helicopter pad on its roof.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSentry",
+          "source": "Defend the ND133 and kill intruders",
+          "target": "Defend the ND133 and kill intruders.",
+          "method": "stable-MapSettings-singleton"
+        }
+      ]
+    },
+    {
+      "code": "TME12P",
+      "path": "work\\release-ps2-openscct-v1\\source-native\\TME12P-i.utc",
+      "sha256": "cf9ffd0ce0e29befb0a1699433e32694725ed2fe880a4941063d2e3d77abe68d",
+      "MapName": "Mercenary Training P",
+      "status": "exact-English-locale-overlay-and-P-suffix",
+      "localeChanges": [
+        {
+          "path": "ExpliMapInBriefSpy",
+          "source": null,
+          "target": "",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSentry",
+          "source": null,
+          "target": "",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSpy",
+          "source": "Merc Tutorial  : Practice your fundamentals before facing enemies. ",
+          "target": "SPY TUTORIAL:|Practice your fundamentals before facing your enemies.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSentry",
+          "source": "Mode sentry",
+          "target": "MERC.  TUTORIAL:|Practice your fundamentals before facing your enemies.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSpy",
+          "source": "Merc Tutorial  : Practice your fundamentals before facing enemies. ",
+          "target": "",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSpy",
+          "source": "Merc Tutorial  : Practice your fundamentals before facing enemies. ",
+          "target": "",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSentry",
+          "source": "Mode 2 sentry",
+          "target": "",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSentry",
+          "source": "Hello world",
+          "target": "",
+          "method": "stable-MapSettings-singleton"
+        }
+      ]
+    },
+    {
+      "code": "TSP11P",
+      "path": "work\\release-ps2-openscct-v1\\source-native\\TSP11P-i.utc",
+      "sha256": "22652bb662f9087aeb0e72321c3fc51645b2fb56c696b6c7589fb3a08416df76",
+      "MapName": "Spy Training P",
+      "status": "exact-English-locale-overlay-and-P-suffix",
+      "localeChanges": [
+        {
+          "path": "Neutralization.ExplicationModeSpy",
+          "source": "Spy Tutorial : Practice your fundamentals before facing enemies.",
+          "target": "SPY TUTORIAL:|Practice your fundamentals before facing your enemies.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSentry",
+          "source": "Spy Tutorial : Practice your fundamentals before facing enemies.",
+          "target": "MERC.  TUTORIAL:|Practice your fundamentals before facing your enemies.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSpy",
+          "source": "Spy Tutorial : Practice your fundamentals before facing enemies.",
+          "target": "",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSpy",
+          "source": "Spy Tutorial : Practice your fundamentals before facing enemies.",
+          "target": "",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSentry",
+          "source": "Spy Tutorial : Practice your fundamentals before facing enemies.",
+          "target": "",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSentry",
+          "source": "Spy Tutorial : Practice your fundamentals before facing enemies.",
+          "target": "",
+          "method": "stable-MapSettings-singleton"
+        }
+      ]
+    },
+    {
+      "code": "WAR06P",
+      "path": "work\\release-ps2-openscct-v1\\source-native\\WAR06P-i.utc",
+      "sha256": "8da23821530b3510d8cc02128ad0a0e8a4a164abf9bba9280ea1b21652bdd5f1",
+      "MapName": "Warehouse P",
+      "status": "exact-English-locale-overlay-and-P-suffix",
+      "localeChanges": [
+        {
+          "path": "LegendMap",
+          "source": "|April 19th, 2006, 7:32PM||Bretex Warehouse is a military equipment warehouse just outside Albuquerque, New Mexico.",
+          "target": "|April 19, 2006, 7:32 PM||Bretex Warehouse is a military equipment warehouse just outside Albuquerque, New Mexico.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "LegendMapInBrief",
+          "source": "|1 : Spy insertion point.||2 : Missile storage.||3 : Office.||4 : Chemical stirage.",
+          "target": "|1. Spy insertion point||2. Missile storage||3. Office||4. Chemical storage",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSpy",
+          "source": "The Bretex warehouse is a military equipment warehouse just outside Albuquerque. As a US military contractor, the Bretex warehouse hired a lot of local workers who will the first victimes if the virus is released.",
+          "target": "The Bretex warehouse is a military equipment warehouse just outside Albuquerque. As a US military contractor, the Bretex warehouse employs a lot of local workers who will be the first victims if the virus is released.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "ExpliMapInBriefSentry",
+          "source": "The Bretex warehouse is a military equipment warehouse just outside Albuquerque. As a US military contractor, the Bretex warehouse is an important target that you must protect from the intruder's threat.",
+          "target": "The Bretex warehouse is a military equipment warehouse just outside Albuquerque. As a US military contractor, the Bretex warehouse is an important target that you must protect from the intruders' threat.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExplicationModeSentry",
+          "source": "Protect the tubes",
+          "target": "Prevent the spies from bringing three tubes to the exit.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExpliModeInBriefSpy",
+          "source": "The warehouse is composed of three sectors. There are three linked tubes in each sector. Bringing one tube from a sector to the exit will open the doors to the next one|Sector 1 : Two tubes on the ground, one on the footbridge.|Sector 2 : tube in office, meeting room and downstairs.|Sector 3 : three on the ground floor.",
+          "target": "The warehouse is composed of three sectors. There are three linked tubes in each sector. Bringing one tube from a sector to the exit will open the doors to the next one|Sector 1: Two tubes on the ground, one on the footbridge.|Sector 2: tubes in Office, Meeting room and downstairs.|Sector 3: three on the ground floor.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.ExpliModeInBriefSentry",
+          "source": "The warehouse is composed of three sectors. There are three linked tubes in each sector. Bringing one tube from a sector to the exit will open the doors to the next one|Sector 1 : Two tubes on the ground, one on the footbridge.|Sector 2 : tube in office, meeting room and downstairs.|Sector 3 : three on the ground floor.",
+          "target": "The warehouse is composed of three sectors. There are three linked tubes in each sector. Bringing one tube from a sector to the exit will open the doors to the next one|Sector 1: Two tubes on the ground, one on the footbridge.|Sector 2: tubes in Office, Meeting room and downstairs.|Sector 3: three on the ground floor.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Extraction.LegendModeInBriefSentry",
+          "source": "Protect the tubes",
+          "target": "Defend the tubes and kill intruders",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSpy",
+          "source": "Locate and neutralize three ND133",
+          "target": "Locate and neutralize three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExplicationModeSentry",
+          "source": "Defend the ND133 and kill intruders",
+          "target": "Defend the ND133 and kill intruders.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSpy",
+          "source": "The warehouse is composed of three sectors. There are three linked ND133 in each sector. Neutralizing one sector will open the doors to the next one|Sector 1 : Two ND133 on the ground, one on the footbridge.|Sector 2 : ND133 in office, meeting room and downstairs.|Sector 3 : three on the ground floor.",
+          "target": "The warehouse is composed of three sectors. There are three linked ND133 in each sector. Neutralizing one sector will open the doors to the next one|Sector 1: Two ND133 on the ground, one on the footbridge.|Sector 2: ND133 in Office, Meeting room and downstairs.|Sector 3: three on the ground floor.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSpy",
+          "source": "Locate and neutralize three ND133",
+          "target": "Locate and neutralize three ND133.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.ExpliModeInBriefSentry",
+          "source": "The warehouse is composed of three sectors. There are three linked ND133 in each sector. Neutralizing one sector will open the doors to the next one|Sector 1 : Two ND133 on the ground, one on the footbridge.|Sector 2 : ND133 in office, meeting room and downstairs.|Sector 3 : three on the ground floor.",
+          "target": "The warehouse is composed of three sectors. There are three linked ND133 in each sector. Neutralizing one sector will open the doors to the next one|Sector 1: Two ND133 on the ground, one on the footbridge.|Sector 2: ND133 in Office, Meeting room and downstairs.|Sector 3: three on the ground floor.",
+          "method": "stable-MapSettings-singleton"
+        },
+        {
+          "path": "Neutralization.LegendModeInBriefSentry",
+          "source": "Defend the ND133 and kill intruders",
+          "target": "Defend the ND133 and kill intruders.",
+          "method": "stable-MapSettings-singleton"
+        }
+      ]
+    }
+  ],
+  "localeExtraction": "Native RC4 key is the exact member filename; archive offsets/sizes/flags are preserved.",
+  "limits": "Locale section actor annotations come from a different cook and are never treated as LIN actor identifiers. Authored variants use separately reviewed literal translations."
+}

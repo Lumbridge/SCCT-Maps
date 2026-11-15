@@ -1,0 +1,111 @@
+{
+  "format": "scct.ps2.openscct.source-revision",
+  "version": "1.0.1",
+  "status": "runtime-and-content-verified-source-release-preparation",
+  "sourceCode": "KRA07",
+  "targetCode": "KRA07P",
+  "title": "Krauser Lab P",
+  "contentUpdate": true,
+  "sourceOrigin": {
+    "kind": "release",
+    "repo": "Lumbridge/SCCT-Maps",
+    "path": "releases/download/ps2-original-svm-openscct-v1.0.1/KRA07P.sdc",
+    "sha256": "f2ff7477f72d379c4b83156f179b02c0a8d18aacde7f3f7da46969450a6b63ac",
+    "mapId": "ports/chaos-theory-ps2/krauser-lab",
+    "status": "source-bytes-verified-new-immutable-release-required",
+    "commitBinding": "The content index records the real commit containing this versioned metadata; no self-referential commit placeholder is embedded here."
+  },
+  "originalDisc": "SLES_53287",
+  "original": {
+    "path": "MAPS/KRA07.LIN",
+    "size": 2334114,
+    "sha256": "f7fce18cdf10260e54d5cf9e960bdf6c87cc7f86390efc6e8e241af6c13649f1"
+  },
+  "builderCommit": "5aa27e533097de319c46ed6109241afd368be1b2",
+  "converterArtifact": "SCCT-PS2-OpenSCCT-converter-source-v1.0.1.zip",
+  "converterManifestSha256": "377c8f7431cf86dce3b4abd49a9b5e2429e03b357e3acc1c84479d546fd62714",
+  "supportedRuntimeCommit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+  "minimumRuntimeVersion": "0.8.158",
+  "runtimeCandidateCommit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+  "runtimePublication": "https://github.com/Lumbridge/OpenSCCT/releases/tag/v0.8.158",
+  "English": {
+    "changes": [
+      {
+        "ref": 235,
+        "name": "UnknownGlobalPS2_871502",
+        "fields": [
+          {
+            "path": "AlarmName",
+            "source": "2nd floor SAS n°1",
+            "value": "2nd floor Airlock No. 1",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "KRA07.eng itself retains French SAS n°1 at SAlarm14404. Translate only the French noun/number notation."
+          }
+        ]
+      },
+      {
+        "ref": 318,
+        "name": "SAlarm10",
+        "fields": [
+          {
+            "path": "AlarmName",
+            "source": "SAS n°2",
+            "value": "Airlock No. 2",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of French sas (airlock); source English locale retains SAS terminology elsewhere rather than translating it."
+          }
+        ]
+      },
+      {
+        "ref": 541,
+        "name": "SAlarm10634",
+        "fields": [
+          {
+            "path": "AlarmName",
+            "source": "Irradiation Security ",
+            "value": "Irradiation Security",
+            "status": "translated",
+            "method": "ISO-English-locale",
+            "sections": [
+              "SAlarm10634",
+              "SAlarm11",
+              "SAlarm11548"
+            ],
+            "locale": "KRA07",
+            "note": null
+          }
+        ]
+      },
+      {
+        "ref": 671,
+        "name": "SAlarm11548",
+        "fields": [
+          {
+            "path": "AlarmName",
+            "source": "Irradiation Security ",
+            "value": "Irradiation Security",
+            "status": "translated",
+            "method": "ISO-English-locale",
+            "sections": [
+              "SAlarm10634",
+              "SAlarm11",
+              "SAlarm11548"
+            ],
+            "locale": "KRA07",
+            "note": null
+          }
+        ]
+      }
+    ],
+    "audit": "work/linear_loader/english-audit-v2/KRA07.json"
+  },
+  "nativeScope": "This OpenSCCT origin is independent of the pending 12-map native Neutralization-only revision.",
+  "verification": "Exact frozen source/canonical/asset audits and revised runtime CI/publication/input/visual/network verification pass. No fourteen completed matches are claimed.",
+  "converterArtifactSha256": "1dc76c3b009ca5358567c4b9350cf04fae6204816150aa9f4f3d7143367483b0"
+}
