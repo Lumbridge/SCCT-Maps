@@ -4663,5 +4663,1623 @@
         "Size": 3195410
       }
     ]
+  },
+  {
+    "Id": "ports/chaos-theory-ps2/deftech-belew",
+    "Name": "Deftech Belew P",
+    "Category": "Ports",
+    "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
+    "Version": "v1.0.0",
+    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "NotesPath": "ports/chaos-theory-ps2/deftech-belew/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/DTK02P.sdc",
+        "Destination": "Packages/Maps/DTK02P.sdc",
+        "Hash": "d62b6b2ed0d3586c0ba8f8a342164abf3720543f",
+        "Size": 419062
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_867522.uax",
+        "Destination": "Packages/Sounds/P2_867522.uax",
+        "Hash": "202a30bef98bc2dd170cbbbc0ef16481e7a4d9e4",
+        "Size": 4277866
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
+        "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
+        "Size": 271139
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Destination": "Packages/Sounds/P2_Interface.uax",
+        "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
+        "Size": 43747
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Destination": "Packages/StaticMeshes/P2_857190.usx",
+        "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
+        "Size": 19512
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_865023.usx",
+        "Destination": "Packages/StaticMeshes/P2_865023.usx",
+        "Hash": "b427bac3ad85ed786634f28557c18910fd5014a2",
+        "Size": 3486628
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+        "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
+        "Size": 54432
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+        "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
+        "Size": 14765
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/DTK02P-i.utc",
+        "Destination": "Packages/Textures/DTK02P-i.utc",
+        "Hash": "ac6cd5e1ad0cd9a0e9f27c25cbc12023359c9b2c",
+        "Size": 191437
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Destination": "Packages/Textures/P2_860017.utx",
+        "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
+        "Size": 35860
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_861532.utx",
+        "Destination": "Packages/Textures/P2_861532.utx",
+        "Hash": "5d233c9d67a659d7574c65368265079ea7542bc4",
+        "Size": 3412367
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Destination": "Packages/Textures/P2_Echelon.utx",
+        "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
+        "Size": 300281
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Destination": "Packages/Textures/P2_Engine.utx",
+        "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
+        "Size": 391117
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Destination": "Packages/Textures/P2_nd133.utx",
+        "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
+        "Size": 103598
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Destination": "Packages/Textures/P2_SBase.utx",
+        "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
+        "Size": 625529
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Destination": "Packages/Textures/P2_sfx.utx",
+        "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
+        "Size": 161705
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+        "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
+        "Size": 77499
+      }
+    ]
+  },
+  {
+    "Id": "ports/chaos-theory-ps2/factory",
+    "Name": "Factory P",
+    "Category": "Ports",
+    "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
+    "Version": "v1.0.0",
+    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "NotesPath": "ports/chaos-theory-ps2/factory/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/FAC13P.sdc",
+        "Destination": "Packages/Maps/FAC13P.sdc",
+        "Hash": "f0635d23a2d543be2d8807c1856b7ac3841283e0",
+        "Size": 454598
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_868693.uax",
+        "Destination": "Packages/Sounds/P2_868693.uax",
+        "Hash": "4a19665df84c61169c7bc486fdc16dc77518e2c8",
+        "Size": 1396208
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
+        "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
+        "Size": 271139
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Destination": "Packages/Sounds/P2_Interface.uax",
+        "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
+        "Size": 43747
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Destination": "Packages/StaticMeshes/P2_857190.usx",
+        "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
+        "Size": 19512
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_865145.usx",
+        "Destination": "Packages/StaticMeshes/P2_865145.usx",
+        "Hash": "7c9363af9ead790b467a4f470e8bcb429706e0ff",
+        "Size": 4176858
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+        "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
+        "Size": 54432
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+        "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
+        "Size": 14765
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/FAC13P-i.utc",
+        "Destination": "Packages/Textures/FAC13P-i.utc",
+        "Hash": "0d773e7266d9724f5318c243b099a4ac1fde7eaa",
+        "Size": 214957
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Destination": "Packages/Textures/P2_860017.utx",
+        "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
+        "Size": 35860
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_861751.utx",
+        "Destination": "Packages/Textures/P2_861751.utx",
+        "Hash": "27b29be9c3b4b0da8275299c7f04fd325b3c1f3a",
+        "Size": 4164631
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Destination": "Packages/Textures/P2_Echelon.utx",
+        "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
+        "Size": 300281
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Destination": "Packages/Textures/P2_Engine.utx",
+        "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
+        "Size": 391117
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Destination": "Packages/Textures/P2_nd133.utx",
+        "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
+        "Size": 103598
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Destination": "Packages/Textures/P2_SBase.utx",
+        "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
+        "Size": 625529
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Destination": "Packages/Textures/P2_sfx.utx",
+        "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
+        "Size": 161705
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+        "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
+        "Size": 77499
+      }
+    ]
+  },
+  {
+    "Id": "ports/chaos-theory-ps2/station",
+    "Name": "Station P",
+    "Category": "Ports",
+    "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
+    "Version": "v1.0.0",
+    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "NotesPath": "ports/chaos-theory-ps2/station/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/GAR09P.sdc",
+        "Destination": "Packages/Maps/GAR09P.sdc",
+        "Hash": "0e93b0af9e409a06b741c4b5c448e79e94c74ce4",
+        "Size": 291554
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_869815.uax",
+        "Destination": "Packages/Sounds/P2_869815.uax",
+        "Hash": "43a9653c9c8f839f71ef7f185d0e2ecc4200e61b",
+        "Size": 3278087
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
+        "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
+        "Size": 271139
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Destination": "Packages/Sounds/P2_Interface.uax",
+        "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
+        "Size": 43747
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Destination": "Packages/StaticMeshes/P2_857190.usx",
+        "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
+        "Size": 19512
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_865315.usx",
+        "Destination": "Packages/StaticMeshes/P2_865315.usx",
+        "Hash": "9cc4d816843ce12d46732a33fbb544bc7a913aac",
+        "Size": 1681403
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+        "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
+        "Size": 54432
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+        "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
+        "Size": 14765
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/GAR09P-i.utc",
+        "Destination": "Packages/Textures/GAR09P-i.utc",
+        "Hash": "ce205371d5ee3473b79e69e922a113df40d16060",
+        "Size": 198908
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Destination": "Packages/Textures/P2_860017.utx",
+        "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
+        "Size": 35860
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_861983.utx",
+        "Destination": "Packages/Textures/P2_861983.utx",
+        "Hash": "de097e4b745bc69af6643ff6d0d2340b7750597d",
+        "Size": 5378075
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Destination": "Packages/Textures/P2_Echelon.utx",
+        "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
+        "Size": 300281
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Destination": "Packages/Textures/P2_Engine.utx",
+        "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
+        "Size": 391117
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Destination": "Packages/Textures/P2_nd133.utx",
+        "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
+        "Size": 103598
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Destination": "Packages/Textures/P2_SBase.utx",
+        "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
+        "Size": 625529
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Destination": "Packages/Textures/P2_sfx.utx",
+        "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
+        "Size": 161705
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+        "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
+        "Size": 77499
+      }
+    ]
+  },
+  {
+    "Id": "ports/chaos-theory-ps2/cinema",
+    "Name": "Cinema P",
+    "Category": "Ports",
+    "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
+    "Version": "v1.0.0",
+    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "NotesPath": "ports/chaos-theory-ps2/cinema/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/INI01P.sdc",
+        "Destination": "Packages/Maps/INI01P.sdc",
+        "Hash": "04e14f5a98c13175ce35d2c47787aba3710cff16",
+        "Size": 530855
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_870437.uax",
+        "Destination": "Packages/Sounds/P2_870437.uax",
+        "Hash": "5697793ad904de99bbad90f209f62fd43e693ecc",
+        "Size": 2142381
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
+        "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
+        "Size": 271139
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Destination": "Packages/Sounds/P2_Interface.uax",
+        "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
+        "Size": 43747
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Destination": "Packages/StaticMeshes/P2_857190.usx",
+        "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
+        "Size": 19512
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_866069.usx",
+        "Destination": "Packages/StaticMeshes/P2_866069.usx",
+        "Hash": "8747d7813c3afc888566e97cf6c49dc95f706a18",
+        "Size": 3381682
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+        "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
+        "Size": 54432
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+        "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
+        "Size": 14765
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/INI01P-i.utc",
+        "Destination": "Packages/Textures/INI01P-i.utc",
+        "Hash": "2082f1a7114927fb6f7487974a2ceefd3cc05d1e",
+        "Size": 178193
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Destination": "Packages/Textures/P2_860017.utx",
+        "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
+        "Size": 35860
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_863696.utx",
+        "Destination": "Packages/Textures/P2_863696.utx",
+        "Hash": "27d611558ea99e8cdddcccadb4f4636abc205e99",
+        "Size": 4418907
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Destination": "Packages/Textures/P2_Echelon.utx",
+        "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
+        "Size": 300281
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Destination": "Packages/Textures/P2_Engine.utx",
+        "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
+        "Size": 391117
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Destination": "Packages/Textures/P2_nd133.utx",
+        "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
+        "Size": 103598
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Destination": "Packages/Textures/P2_SBase.utx",
+        "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
+        "Size": 625529
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Destination": "Packages/Textures/P2_sfx.utx",
+        "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
+        "Size": 161705
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+        "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
+        "Size": 77499
+      }
+    ]
+  },
+  {
+    "Id": "ports/chaos-theory-ps2/krauser-lab",
+    "Name": "Krauser Lab P",
+    "Category": "Ports",
+    "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
+    "Version": "v1.0.0",
+    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "NotesPath": "ports/chaos-theory-ps2/krauser-lab/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/KRA07P.sdc",
+        "Destination": "Packages/Maps/KRA07P.sdc",
+        "Hash": "b3d576574f65d834d2f1cce1848a26bea0cfb86a",
+        "Size": 456321
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_871636.uax",
+        "Destination": "Packages/Sounds/P2_871636.uax",
+        "Hash": "0100ad9ab8a60486187d9d273ddfd02e476e7460",
+        "Size": 2271938
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
+        "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
+        "Size": 271139
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Destination": "Packages/Sounds/P2_Interface.uax",
+        "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
+        "Size": 43747
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Destination": "Packages/StaticMeshes/P2_857190.usx",
+        "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
+        "Size": 19512
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_865382.usx",
+        "Destination": "Packages/StaticMeshes/P2_865382.usx",
+        "Hash": "5df85f3e2134914049994a308f426a0b405640aa",
+        "Size": 644013
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_865410.usx",
+        "Destination": "Packages/StaticMeshes/P2_865410.usx",
+        "Hash": "5e8bfd212497253bc8f649386b57cfa6c0f9ae37",
+        "Size": 2750716
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+        "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
+        "Size": 54432
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+        "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
+        "Size": 14765
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/KRA07P-i.utc",
+        "Destination": "Packages/Textures/KRA07P-i.utc",
+        "Hash": "c365911019feae9f0419ab7c94e01bfa96c443a4",
+        "Size": 203410
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Destination": "Packages/Textures/P2_860017.utx",
+        "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
+        "Size": 35860
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_862272.utx",
+        "Destination": "Packages/Textures/P2_862272.utx",
+        "Hash": "bc827e44765a9e26078c2c18a4c027ae33bb5afb",
+        "Size": 4841154
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_862931.utx",
+        "Destination": "Packages/Textures/P2_862931.utx",
+        "Hash": "5c811f406308a49beae65fb2c643dd46e215eede",
+        "Size": 401672
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Destination": "Packages/Textures/P2_Echelon.utx",
+        "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
+        "Size": 300281
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Destination": "Packages/Textures/P2_Engine.utx",
+        "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
+        "Size": 391117
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Destination": "Packages/Textures/P2_nd133.utx",
+        "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
+        "Size": 103598
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Destination": "Packages/Textures/P2_SBase.utx",
+        "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
+        "Size": 625529
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Destination": "Packages/Textures/P2_sfx.utx",
+        "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
+        "Size": 161705
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+        "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
+        "Size": 77499
+      }
+    ]
+  },
+  {
+    "Id": "ports/chaos-theory-ps2/mount-hospital",
+    "Name": "Mount Hospital P",
+    "Category": "Ports",
+    "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
+    "Version": "v1.0.0",
+    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "NotesPath": "ports/chaos-theory-ps2/mount-hospital/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/MHO05P.sdc",
+        "Destination": "Packages/Maps/MHO05P.sdc",
+        "Hash": "68d23884e93be6e782a6333c4e4283f595bc0976",
+        "Size": 554753
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_872722.uax",
+        "Destination": "Packages/Sounds/P2_872722.uax",
+        "Hash": "eb1760e23d8891e16c37e69470f8c39b87ab6dbe",
+        "Size": 1914777
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
+        "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
+        "Size": 271139
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Destination": "Packages/Sounds/P2_Interface.uax",
+        "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
+        "Size": 43747
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Destination": "Packages/StaticMeshes/P2_857190.usx",
+        "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
+        "Size": 19512
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_865605.usx",
+        "Destination": "Packages/StaticMeshes/P2_865605.usx",
+        "Hash": "bdaa80f83d1c72c4d5caf7c446c1c7495911a066",
+        "Size": 3953459
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+        "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
+        "Size": 54432
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+        "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
+        "Size": 14765
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/MHO05P-i.utc",
+        "Destination": "Packages/Textures/MHO05P-i.utc",
+        "Hash": "9225e750ac0c82c056d4ceb2d70bc255b75bc2dc",
+        "Size": 221446
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Destination": "Packages/Textures/P2_860017.utx",
+        "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
+        "Size": 35860
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_862546.utx",
+        "Destination": "Packages/Textures/P2_862546.utx",
+        "Hash": "348ad10a1fefcc7599d0dbb6e93f77fce41a15ed",
+        "Size": 399881
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_862685.utx",
+        "Destination": "Packages/Textures/P2_862685.utx",
+        "Hash": "c47e2ad1623b9b17099c7b03c1334b61d2512b46",
+        "Size": 7492703
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Destination": "Packages/Textures/P2_Echelon.utx",
+        "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
+        "Size": 300281
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Destination": "Packages/Textures/P2_Engine.utx",
+        "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
+        "Size": 391117
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Destination": "Packages/Textures/P2_nd133.utx",
+        "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
+        "Size": 103598
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Destination": "Packages/Textures/P2_SBase.utx",
+        "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
+        "Size": 625529
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Destination": "Packages/Textures/P2_sfx.utx",
+        "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
+        "Size": 161705
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+        "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
+        "Size": 77499
+      }
+    ]
+  },
+  {
+    "Id": "ports/chaos-theory-ps2/missile-strike",
+    "Name": "Missile Strike P",
+    "Category": "Ports",
+    "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
+    "Version": "v1.0.0",
+    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "NotesPath": "ports/chaos-theory-ps2/missile-strike/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/MIS10P.sdc",
+        "Destination": "Packages/Maps/MIS10P.sdc",
+        "Hash": "52ec6e90edf820456babc1f2385b26ff529f1928",
+        "Size": 509031
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_873852.uax",
+        "Destination": "Packages/Sounds/P2_873852.uax",
+        "Hash": "2ed690f0b18819d6699a70deecc63b4c16e48932",
+        "Size": 47781357
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
+        "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
+        "Size": 271139
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Destination": "Packages/Sounds/P2_Interface.uax",
+        "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
+        "Size": 43747
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Destination": "Packages/StaticMeshes/P2_857190.usx",
+        "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
+        "Size": 19512
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_865512.usx",
+        "Destination": "Packages/StaticMeshes/P2_865512.usx",
+        "Hash": "f79eded4771d437a4ce12f08f31cfb9c19fc3e19",
+        "Size": 1980932
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+        "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
+        "Size": 54432
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+        "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
+        "Size": 14765
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/MIS10P-i.utc",
+        "Destination": "Packages/Textures/MIS10P-i.utc",
+        "Hash": "5ab6786af2cfc70a861b5b386de0695b015e8171",
+        "Size": 199210
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Destination": "Packages/Textures/P2_860017.utx",
+        "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
+        "Size": 35860
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_861139.utx",
+        "Destination": "Packages/Textures/P2_861139.utx",
+        "Hash": "db71f8e193d624533b049b16e2ffabc0aa4c98dc",
+        "Size": 8967327
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Destination": "Packages/Textures/P2_Echelon.utx",
+        "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
+        "Size": 300281
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Destination": "Packages/Textures/P2_Engine.utx",
+        "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
+        "Size": 391117
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Destination": "Packages/Textures/P2_nd133.utx",
+        "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
+        "Size": 103598
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Destination": "Packages/Textures/P2_SBase.utx",
+        "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
+        "Size": 625529
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Destination": "Packages/Textures/P2_sfx.utx",
+        "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
+        "Size": 161705
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+        "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
+        "Size": 77499
+      }
+    ]
+  },
+  {
+    "Id": "ports/chaos-theory-ps2/museum",
+    "Name": "Museum P",
+    "Category": "Ports",
+    "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
+    "Version": "v1.0.0",
+    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "NotesPath": "ports/chaos-theory-ps2/museum/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/MUS04P.sdc",
+        "Destination": "Packages/Maps/MUS04P.sdc",
+        "Hash": "6c9171658e507350b4ca24420d33a1e807474d2e",
+        "Size": 502518
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_874995.uax",
+        "Destination": "Packages/Sounds/P2_874995.uax",
+        "Hash": "185d18686e9d0d27cbb9fea90b7000e10ec0a7e0",
+        "Size": 1949564
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
+        "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
+        "Size": 271139
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Destination": "Packages/Sounds/P2_Interface.uax",
+        "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
+        "Size": 43747
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Destination": "Packages/StaticMeshes/P2_857190.usx",
+        "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
+        "Size": 19512
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_864805.usx",
+        "Destination": "Packages/StaticMeshes/P2_864805.usx",
+        "Hash": "c6a0b1f745d64e202fb1e9828d1fbe19d3a8116c",
+        "Size": 2287305
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_864945.usx",
+        "Destination": "Packages/StaticMeshes/P2_864945.usx",
+        "Hash": "6f83b857b56c748af1aefa6b486c4c137815c364",
+        "Size": 880154
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+        "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
+        "Size": 54432
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+        "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
+        "Size": 14765
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/MUS04P-i.utc",
+        "Destination": "Packages/Textures/MUS04P-i.utc",
+        "Hash": "25322f7a0f5ec9b95478673df4c8445aa2f0a976",
+        "Size": 187798
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Destination": "Packages/Textures/P2_860017.utx",
+        "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
+        "Size": 35860
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_861340.utx",
+        "Destination": "Packages/Textures/P2_861340.utx",
+        "Hash": "a04fc98fcc033402eaf77768274d7b3875ab0da6",
+        "Size": 6104289
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_861484.utx",
+        "Destination": "Packages/Textures/P2_861484.utx",
+        "Hash": "b2fc9ba65fc2df9f2dc18733a66178ddb0bf26c3",
+        "Size": 6173
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Destination": "Packages/Textures/P2_Echelon.utx",
+        "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
+        "Size": 300281
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Destination": "Packages/Textures/P2_Engine.utx",
+        "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
+        "Size": 391117
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Destination": "Packages/Textures/P2_nd133.utx",
+        "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
+        "Size": 103598
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Destination": "Packages/Textures/P2_SBase.utx",
+        "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
+        "Size": 625529
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Destination": "Packages/Textures/P2_sfx.utx",
+        "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
+        "Size": 161705
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+        "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
+        "Size": 77499
+      }
+    ]
+  },
+  {
+    "Id": "ports/chaos-theory-ps2/orphanage",
+    "Name": "Orphanage P",
+    "Category": "Ports",
+    "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
+    "Version": "v1.0.0",
+    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "NotesPath": "ports/chaos-theory-ps2/orphanage/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/ORP14P.sdc",
+        "Destination": "Packages/Maps/ORP14P.sdc",
+        "Hash": "7e0874beff297942bb6c08ec95df63f88c5ff325",
+        "Size": 457711
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_875776.uax",
+        "Destination": "Packages/Sounds/P2_875776.uax",
+        "Hash": "6f3adaf4419aa458781bdbace4394e1264eee4bf",
+        "Size": 50349501
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
+        "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
+        "Size": 271139
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Destination": "Packages/Sounds/P2_Interface.uax",
+        "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
+        "Size": 43747
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Destination": "Packages/StaticMeshes/P2_857190.usx",
+        "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
+        "Size": 19512
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_866603.usx",
+        "Destination": "Packages/StaticMeshes/P2_866603.usx",
+        "Hash": "660f4f9f7f11645399fcc1ce22df9c3b61cc86b5",
+        "Size": 1786464
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+        "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
+        "Size": 54432
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+        "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
+        "Size": 14765
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/ORP14P-i.utc",
+        "Destination": "Packages/Textures/ORP14P-i.utc",
+        "Hash": "39e9a1be66488b3351346c03d177a211555eff24",
+        "Size": 216420
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Destination": "Packages/Textures/P2_860017.utx",
+        "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
+        "Size": 35860
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_864010.utx",
+        "Destination": "Packages/Textures/P2_864010.utx",
+        "Hash": "c87ca2e91736ece109fc559519af0e94b7368051",
+        "Size": 5380822
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Destination": "Packages/Textures/P2_Echelon.utx",
+        "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
+        "Size": 300281
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Destination": "Packages/Textures/P2_Engine.utx",
+        "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
+        "Size": 391117
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Destination": "Packages/Textures/P2_nd133.utx",
+        "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
+        "Size": 103598
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Destination": "Packages/Textures/P2_SBase.utx",
+        "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
+        "Size": 625529
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Destination": "Packages/Textures/P2_sfx.utx",
+        "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
+        "Size": 161705
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+        "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
+        "Size": 77499
+      }
+    ]
+  },
+  {
+    "Id": "ports/chaos-theory-ps2/schermerhorn",
+    "Name": "Schermerhorn P",
+    "Category": "Ports",
+    "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
+    "Version": "v1.0.0",
+    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "NotesPath": "ports/chaos-theory-ps2/schermerhorn/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/SCH03P.sdc",
+        "Destination": "Packages/Maps/SCH03P.sdc",
+        "Hash": "d6ceae17f576e8726ef8c8df70eb78c9a0895de6",
+        "Size": 305392
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_877252.uax",
+        "Destination": "Packages/Sounds/P2_877252.uax",
+        "Hash": "6f16ce2a00ece5cea0ad5260d063d21e781d744a",
+        "Size": 4011963
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
+        "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
+        "Size": 271139
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Destination": "Packages/Sounds/P2_Interface.uax",
+        "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
+        "Size": 43747
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Destination": "Packages/StaticMeshes/P2_857190.usx",
+        "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
+        "Size": 19512
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_865794.usx",
+        "Destination": "Packages/StaticMeshes/P2_865794.usx",
+        "Hash": "aacce911e3fc228d210baa29fbe7c71b5d0dc211",
+        "Size": 3125017
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+        "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
+        "Size": 54432
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+        "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
+        "Size": 14765
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Destination": "Packages/Textures/P2_860017.utx",
+        "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
+        "Size": 35860
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_863307.utx",
+        "Destination": "Packages/Textures/P2_863307.utx",
+        "Hash": "a3676538b1660b16ea159e62e8a7ad059025a1fc",
+        "Size": 6485942
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Destination": "Packages/Textures/P2_Echelon.utx",
+        "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
+        "Size": 300281
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Destination": "Packages/Textures/P2_Engine.utx",
+        "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
+        "Size": 391117
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Destination": "Packages/Textures/P2_nd133.utx",
+        "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
+        "Size": 103598
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Destination": "Packages/Textures/P2_SBase.utx",
+        "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
+        "Size": 625529
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Destination": "Packages/Textures/P2_sfx.utx",
+        "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
+        "Size": 161705
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+        "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
+        "Size": 77499
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/SCH03P-i.utc",
+        "Destination": "Packages/Textures/SCH03P-i.utc",
+        "Hash": "def3b811260efeccb710026a61f7686e058230cd",
+        "Size": 198000
+      }
+    ]
+  },
+  {
+    "Id": "ports/chaos-theory-ps2/vertigo-plaza",
+    "Name": "Vertigo Plaza P",
+    "Category": "Ports",
+    "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
+    "Version": "v1.0.0",
+    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "NotesPath": "ports/chaos-theory-ps2/vertigo-plaza/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/SKY08P.sdc",
+        "Destination": "Packages/Maps/SKY08P.sdc",
+        "Hash": "2acf965c1a8f16535e3fa794b226d6b2fe7f793f",
+        "Size": 555248
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_867522.uax",
+        "Destination": "Packages/Sounds/P2_867522.uax",
+        "Hash": "202a30bef98bc2dd170cbbbc0ef16481e7a4d9e4",
+        "Size": 4277866
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_877562.uax",
+        "Destination": "Packages/Sounds/P2_877562.uax",
+        "Hash": "24758dd6ca5bde4725929c563b4cf198a06c0d3a",
+        "Size": 1277627
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
+        "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
+        "Size": 271139
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Destination": "Packages/Sounds/P2_Interface.uax",
+        "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
+        "Size": 43747
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Destination": "Packages/StaticMeshes/P2_857190.usx",
+        "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
+        "Size": 19512
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_865957.usx",
+        "Destination": "Packages/StaticMeshes/P2_865957.usx",
+        "Hash": "96aede6d91f992f173b109fab74c191370dbdcad",
+        "Size": 4181850
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+        "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
+        "Size": 54432
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+        "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
+        "Size": 14765
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Destination": "Packages/Textures/P2_860017.utx",
+        "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
+        "Size": 35860
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_864464.utx",
+        "Destination": "Packages/Textures/P2_864464.utx",
+        "Hash": "4a425f3a5bde0409a341908b6153164cad4b8980",
+        "Size": 7828312
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Destination": "Packages/Textures/P2_Echelon.utx",
+        "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
+        "Size": 300281
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Destination": "Packages/Textures/P2_Engine.utx",
+        "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
+        "Size": 391117
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Destination": "Packages/Textures/P2_nd133.utx",
+        "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
+        "Size": 103598
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Destination": "Packages/Textures/P2_SBase.utx",
+        "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
+        "Size": 625529
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Destination": "Packages/Textures/P2_sfx.utx",
+        "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
+        "Size": 161705
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+        "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
+        "Size": 77499
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/SKY08P-i.utc",
+        "Destination": "Packages/Textures/SKY08P-i.utc",
+        "Hash": "f09e448fd5a638ffe4f605aa26747228fdf923a5",
+        "Size": 209466
+      }
+    ]
+  },
+  {
+    "Id": "ports/chaos-theory-ps2/mercenary-training",
+    "Name": "Mercenary Training P",
+    "Category": "Ports",
+    "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
+    "Version": "v1.0.0",
+    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "NotesPath": "ports/chaos-theory-ps2/mercenary-training/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/TME12P.sdc",
+        "Destination": "Packages/Maps/TME12P.sdc",
+        "Hash": "4fbd3b43e6d7ef679ce1ae887634ad29b26fa390",
+        "Size": 342379
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_878438.uax",
+        "Destination": "Packages/Sounds/P2_878438.uax",
+        "Hash": "eae1ed32a4ae80ebd11d3643fb7bf3d9ea5def08",
+        "Size": 887834
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
+        "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
+        "Size": 271139
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Destination": "Packages/Sounds/P2_Interface.uax",
+        "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
+        "Size": 43747
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Destination": "Packages/StaticMeshes/P2_857190.usx",
+        "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
+        "Size": 19512
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_866554.usx",
+        "Destination": "Packages/StaticMeshes/P2_866554.usx",
+        "Hash": "573f1667f650ce52ea550e432137bed3ca7c69e0",
+        "Size": 1829058
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+        "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
+        "Size": 54432
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+        "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
+        "Size": 14765
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Destination": "Packages/Textures/P2_860017.utx",
+        "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
+        "Size": 35860
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_863876.utx",
+        "Destination": "Packages/Textures/P2_863876.utx",
+        "Hash": "6681fdd9dfbf9c8dc62b1d2bf8910f78f57a00a1",
+        "Size": 5665743
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Destination": "Packages/Textures/P2_Echelon.utx",
+        "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
+        "Size": 300281
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Destination": "Packages/Textures/P2_Engine.utx",
+        "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
+        "Size": 391117
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Destination": "Packages/Textures/P2_nd133.utx",
+        "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
+        "Size": 103598
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Destination": "Packages/Textures/P2_SBase.utx",
+        "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
+        "Size": 625529
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Destination": "Packages/Textures/P2_sfx.utx",
+        "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
+        "Size": 161705
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+        "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
+        "Size": 77499
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/TME12P-i.utc",
+        "Destination": "Packages/Textures/TME12P-i.utc",
+        "Hash": "924094f5103c72699a176d661e7ee4879eebd062",
+        "Size": 58135
+      }
+    ]
+  },
+  {
+    "Id": "ports/chaos-theory-ps2/spy-training",
+    "Name": "Spy Training P",
+    "Category": "Ports",
+    "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
+    "Version": "v1.0.0",
+    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "NotesPath": "ports/chaos-theory-ps2/spy-training/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/TSP11P.sdc",
+        "Destination": "Packages/Maps/TSP11P.sdc",
+        "Hash": "5779b8ed9fa43ad8f38c8a55ee577570c9a7c3f2",
+        "Size": 406802
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_878731.uax",
+        "Destination": "Packages/Sounds/P2_878731.uax",
+        "Hash": "c67dfc48248598374f402ea224ebfbfc82ffe35d",
+        "Size": 1240928
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
+        "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
+        "Size": 271139
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Destination": "Packages/Sounds/P2_Interface.uax",
+        "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
+        "Size": 43747
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Destination": "Packages/StaticMeshes/P2_857190.usx",
+        "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
+        "Size": 19512
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_866712.usx",
+        "Destination": "Packages/StaticMeshes/P2_866712.usx",
+        "Hash": "83a8cb637aa26f9698fd5d0604f1629f4932dd7a",
+        "Size": 3585300
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+        "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
+        "Size": 54432
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+        "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
+        "Size": 14765
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Destination": "Packages/Textures/P2_860017.utx",
+        "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
+        "Size": 35860
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_864129.utx",
+        "Destination": "Packages/Textures/P2_864129.utx",
+        "Hash": "c2a576ca45528e142422e72f372b1608b6d23336",
+        "Size": 8352315
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Destination": "Packages/Textures/P2_Echelon.utx",
+        "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
+        "Size": 300281
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Destination": "Packages/Textures/P2_Engine.utx",
+        "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
+        "Size": 391117
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Destination": "Packages/Textures/P2_nd133.utx",
+        "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
+        "Size": 103598
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Destination": "Packages/Textures/P2_SBase.utx",
+        "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
+        "Size": 625529
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Destination": "Packages/Textures/P2_sfx.utx",
+        "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
+        "Size": 161705
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+        "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
+        "Size": 77499
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/TSP11P-i.utc",
+        "Destination": "Packages/Textures/TSP11P-i.utc",
+        "Hash": "eba13f549ef2f476b4709e8a6e57c459df694602",
+        "Size": 68942
+      }
+    ]
+  },
+  {
+    "Id": "ports/chaos-theory-ps2/warehouse",
+    "Name": "Warehouse P",
+    "Category": "Ports",
+    "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
+    "Version": "v1.0.0",
+    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "NotesPath": "ports/chaos-theory-ps2/warehouse/README.md",
+    "Files": [
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/WAR06P.sdc",
+        "Destination": "Packages/Maps/WAR06P.sdc",
+        "Hash": "7f304c458cee185b72b8d468b135e4d3fd66dab8",
+        "Size": 458863
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_879601.uax",
+        "Destination": "Packages/Sounds/P2_879601.uax",
+        "Hash": "9489659688dd8acbe962aeb9d1b303b7c0095790",
+        "Size": 4059124
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
+        "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
+        "Size": 271139
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Destination": "Packages/Sounds/P2_Interface.uax",
+        "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
+        "Size": 43747
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Destination": "Packages/StaticMeshes/P2_857190.usx",
+        "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
+        "Size": 19512
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_866792.usx",
+        "Destination": "Packages/StaticMeshes/P2_866792.usx",
+        "Hash": "59de5799942917d99c9e17af9f522c5723deebb9",
+        "Size": 4349647
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+        "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
+        "Size": 54432
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+        "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
+        "Size": 14765
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Destination": "Packages/Textures/P2_860017.utx",
+        "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
+        "Size": 35860
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_864291.utx",
+        "Destination": "Packages/Textures/P2_864291.utx",
+        "Hash": "f4bb0c6733a05a758e63c7a7e6c779c5ff65d288",
+        "Size": 3284593
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Destination": "Packages/Textures/P2_Echelon.utx",
+        "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
+        "Size": 300281
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Destination": "Packages/Textures/P2_Engine.utx",
+        "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
+        "Size": 391117
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Destination": "Packages/Textures/P2_nd133.utx",
+        "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
+        "Size": 103598
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Destination": "Packages/Textures/P2_SBase.utx",
+        "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
+        "Size": 625529
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Destination": "Packages/Textures/P2_sfx.utx",
+        "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
+        "Size": 161705
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+        "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
+        "Size": 77499
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.0/WAR06P-i.utc",
+        "Destination": "Packages/Textures/WAR06P-i.utc",
+        "Hash": "c019b1d101418f58f640f4ae08e931b43ee570a9",
+        "Size": 195007
+      }
+    ]
   }
 ]
