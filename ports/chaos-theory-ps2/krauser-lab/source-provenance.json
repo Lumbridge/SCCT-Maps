@@ -105,11 +105,9 @@
       "Size": 77499
     }
   ],
-  "publicationStatus": "openscct-release-candidate-native-pending",
+  "publicationStatus": "validated-release-candidate",
   "minimumSupportedOpenScctVersion": "0.8.156",
   "objectiveFidelity": "../README.md#objective-fidelity",
   "auditEvidence": "../evidence/index.json",
-  "nativeCandidateTreeSha256": "2461eec525e159a9a9de6d62d4874e86556e8efc566669fb4e0fc4284168d589",
-  "supportedRuntimeCommit": "6ea666373e28220413474cc98b4208901fd47c8b",
-  "nativePublication": "pending separate validation"
+  "nativeCandidateTreeSha256": "dbca8f66ef38077c1e4b7a91f8b0154b2cdb6bf8dcaac1d87089f9170bab6879"
 }

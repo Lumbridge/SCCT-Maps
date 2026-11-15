@@ -86,13 +86,13 @@
   },
   {
     "file": "native-interaction-delta.json",
-    "sha256": "0b57ec0e6ca23f0e1b04b335ceb992c9ce106c435f9dfa5c4a1a2a8c110b90f5",
-    "originalReportSha256": "5fb201781d240f910cdb7221fb073be47b25c19a80b9b6e158afecb8f6b2e47d"
+    "sha256": "abbf33cf07c246a51b036a25e312691c0ff9ed6f7bfdc85ffeca4607e0ebc668",
+    "originalReportSha256": "010c73890751668d021ff2f56c0d80355d05558265c74dd7f0b8a8821c55f9e0"
   },
   {
     "file": "native-world-invariance.json",
-    "sha256": "f81248910559ec5497c7703c6591df902ecf270af803bd5f33a11c04a82cfa16",
-    "originalReportSha256": "f81248910559ec5497c7703c6591df902ecf270af803bd5f33a11c04a82cfa16"
+    "sha256": "882be08653f2f253107207bc918d7d6ef47288678dc1d4f4e3039a5bba4aa510",
+    "originalReportSha256": "882be08653f2f253107207bc918d7d6ef47288678dc1d4f4e3039a5bba4aa510"
   },
   {
     "file": "objective-active-coverage.json",
@@ -124,9 +124,9 @@
     "originalReportSha256": "88f307bcdea1b8e47c9f09ac746d5a209c3043f16f1044f8b737f9204a0dd5a2"
   },
   {
-    "file": "independent-frozen-map-audit.json",
-    "sha256": "c49acf2216ae95371ea4cc91946c99271ea1103c06d30bfc2dbc46dbb1f2171d",
-    "originalReportSha256": "c49acf2216ae95371ea4cc91946c99271ea1103c06d30bfc2dbc46dbb1f2171d"
+    "file": "native-final-validation.json",
+    "sha256": "c4d78b404bea7959622b23f29ec1220794c219c3a5be5fb51895bedc45bfc46b",
+    "originalReportSha256": "6eac4602e36a282a1180712ac7bcdee6bd13ba51f74dd42a0664338663255791"
   },
   {
     "file": "source-ui-captures.json",

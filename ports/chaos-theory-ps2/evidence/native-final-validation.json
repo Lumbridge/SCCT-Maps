@@ -1,0 +1,566 @@
+{
+  "format": "scct.ps2.native-validation",
+  "candidateTreeSha256": "dbca8f66ef38077c1e4b7a91f8b0154b2cdb6bf8dcaac1d87089f9170bab6879",
+  "plan": {
+    "path": "work\\release-ps2-v1\\native-plan.json",
+    "sha256": "e4f18c92642f84d33b114d77db07c763a1167841b77634a729fea4a851e179e5"
+  },
+  "worldInvariance": {
+    "path": "work\\release-ps2-v1\\native-world-invariance.json",
+    "sha256": "882be08653f2f253107207bc918d7d6ef47288678dc1d4f4e3039a5bba4aa510"
+  },
+  "earlierPractice": {
+    "path": "work\\native_game\\batch-v7-named-proof\\receipt-final.json",
+    "sha256": "a14078ce7a523cd34e342e90aa4e7fd503eb970d9325be63d7d3fa2cabdb782b"
+  },
+  "compatibilityProfile": {
+    "path": "work\\name_compare\\native_stand_compatibility.json",
+    "sha256": "88f307bcdea1b8e47c9f09ac746d5a209c3043f16f1044f8b737f9204a0dd5a2"
+  },
+  "status": "passed",
+  "nativeReceipt": [
+    {
+      "code": "DTK02P",
+      "native": {
+        "status": "passed",
+        "candidateSha256": "3140799e8b3b9200adf64dfe7f860ad5ec6260ef7f114f1448080f46b7545c3a",
+        "evidence": [
+          "work\\native_game\\sandbox-FAC13P-f766ed2ade\\final-endpoint-collection\\DTK02P.json",
+          "work\\release-ps2-v1\\native-world-invariance.json",
+          "work\\native_game\\batch-v7-named-proof\\receipt-final.json",
+          "work\\native_game\\sandbox-DTK02P-4b6771c64a\\validation.json"
+        ],
+        "namedWorld": "DTK02P.LevelInfo0",
+        "privateFileLookup": {
+          "offset": "0x94",
+          "value": "work/native_game/sandbox-FAC13P-f766ed2ade/Packages/Maps/DTK02P.sdc",
+          "resolved": "work\\native_game\\sandbox-FAC13P-f766ed2ade\\Packages\\Maps\\DTK02P.sdc",
+          "exists": true,
+          "sha256": "3140799e8b3b9200adf64dfe7f860ad5ec6260ef7f114f1448080f46b7545c3a"
+        },
+        "flags": 6,
+        "computers": 6
+      }
+    },
+    {
+      "code": "FAC13P",
+      "native": {
+        "status": "passed",
+        "candidateSha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c",
+        "evidence": [
+          "work\\native_game\\sandbox-FAC13P-f766ed2ade\\final-endpoint-collection\\FAC13P.json",
+          "work\\release-ps2-v1\\native-world-invariance.json",
+          "work\\native_game\\batch-v7-named-proof\\receipt-final.json",
+          "work\\native_game\\sandbox-FAC13P-f766ed2ade\\validation.json"
+        ],
+        "namedWorld": "FAC13P.LevelInfo0",
+        "privateFileLookup": {
+          "offset": "0x94",
+          "value": "work/native_game/sandbox-FAC13P-f766ed2ade/Packages/Maps/FAC13P.sdc",
+          "resolved": "work\\native_game\\sandbox-FAC13P-f766ed2ade\\Packages\\Maps\\FAC13P.sdc",
+          "exists": true,
+          "sha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c"
+        },
+        "flags": 6,
+        "computers": 9
+      }
+    },
+    {
+      "code": "GAR09P",
+      "native": {
+        "status": "passed",
+        "candidateSha256": "221057da684073b4ce70a3f8b0bb831580eb4a3fa60682eedbccfdaf19aa6802",
+        "evidence": [
+          "work\\native_game\\sandbox-FAC13P-f766ed2ade\\final-endpoint-collection\\GAR09P.json",
+          "work\\release-ps2-v1\\native-world-invariance.json",
+          "work\\native_game\\batch-v7-named-proof\\receipt-final.json"
+        ],
+        "namedWorld": "GAR09P.LevelInfo0",
+        "privateFileLookup": {
+          "offset": "0x94",
+          "value": "work/native_game/sandbox-FAC13P-f766ed2ade/Packages/Maps/GAR09P.sdc",
+          "resolved": "work\\native_game\\sandbox-FAC13P-f766ed2ade\\Packages\\Maps\\GAR09P.sdc",
+          "exists": true,
+          "sha256": "221057da684073b4ce70a3f8b0bb831580eb4a3fa60682eedbccfdaf19aa6802"
+        },
+        "flags": 4,
+        "computers": 4
+      }
+    },
+    {
+      "code": "INI01P",
+      "native": {
+        "status": "passed",
+        "candidateSha256": "665e2de289407729a10432505c23710aaae053711f93af85f28de067f5c50390",
+        "evidence": [
+          "work\\native_game\\sandbox-FAC13P-f766ed2ade\\final-endpoint-collection\\INI01P.json",
+          "work\\release-ps2-v1\\native-world-invariance.json",
+          "work\\native_game\\batch-v7-named-proof\\receipt-final.json"
+        ],
+        "namedWorld": "INI01P.LevelInfo0",
+        "privateFileLookup": {
+          "offset": "0x94",
+          "value": "work/native_game/sandbox-FAC13P-f766ed2ade/Packages/Maps/INI01P.sdc",
+          "resolved": "work\\native_game\\sandbox-FAC13P-f766ed2ade\\Packages\\Maps\\INI01P.sdc",
+          "exists": true,
+          "sha256": "665e2de289407729a10432505c23710aaae053711f93af85f28de067f5c50390"
+        },
+        "flags": 0,
+        "computers": 4
+      }
+    },
+    {
+      "code": "KRA07P",
+      "native": {
+        "status": "passed",
+        "candidateSha256": "902731bacf9b929fbd6e2d315c507d3c56f1b355424293e1ebf79070cd9718cd",
+        "evidence": [
+          "work\\native_game\\sandbox-FAC13P-f766ed2ade\\final-endpoint-collection\\KRA07P.json",
+          "work\\release-ps2-v1\\native-world-invariance.json",
+          "work\\native_game\\batch-v7-named-proof\\receipt-final.json"
+        ],
+        "namedWorld": "KRA07P.LevelInfo0",
+        "privateFileLookup": {
+          "offset": "0x94",
+          "value": "work/native_game/sandbox-FAC13P-f766ed2ade/Packages/Maps/KRA07P.sdc",
+          "resolved": "work\\native_game\\sandbox-FAC13P-f766ed2ade\\Packages\\Maps\\KRA07P.sdc",
+          "exists": true,
+          "sha256": "902731bacf9b929fbd6e2d315c507d3c56f1b355424293e1ebf79070cd9718cd"
+        },
+        "flags": 6,
+        "computers": 6
+      }
+    },
+    {
+      "code": "MHO05P",
+      "native": {
+        "status": "passed",
+        "candidateSha256": "5cdbe13ecdd52615eb5470d288df7afa5188d38b18bdaa6a3e3449a7ded151be",
+        "evidence": [
+          "work\\native_game\\sandbox-FAC13P-f766ed2ade\\final-endpoint-collection\\MHO05P.json",
+          "work\\release-ps2-v1\\native-world-invariance.json",
+          "work\\native_game\\batch-v7-named-proof\\receipt-final.json",
+          "work\\native_game\\sandbox-MHO05P-8b839721ce\\validation.json",
+          "work\\native_game\\sandbox-MHO05P-659f733eef\\validation.json"
+        ],
+        "namedWorld": "MHO05P.LevelInfo0",
+        "privateFileLookup": {
+          "offset": "0x94",
+          "value": "work/native_game/sandbox-FAC13P-f766ed2ade/Packages/Maps/MHO05P.sdc",
+          "resolved": "work\\native_game\\sandbox-FAC13P-f766ed2ade\\Packages\\Maps\\MHO05P.sdc",
+          "exists": true,
+          "sha256": "5cdbe13ecdd52615eb5470d288df7afa5188d38b18bdaa6a3e3449a7ded151be"
+        },
+        "flags": 5,
+        "computers": 5
+      }
+    },
+    {
+      "code": "MIS10P",
+      "native": {
+        "status": "passed",
+        "candidateSha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea",
+        "evidence": [
+          "work\\native_game\\sandbox-FAC13P-f766ed2ade\\final-endpoint-collection\\MIS10P.json",
+          "work\\release-ps2-v1\\native-world-invariance.json",
+          "work\\native_game\\batch-v7-named-proof\\receipt-final.json"
+        ],
+        "namedWorld": "MIS10P.LevelInfo0",
+        "privateFileLookup": {
+          "offset": "0x94",
+          "value": "work/native_game/sandbox-FAC13P-f766ed2ade/Packages/Maps/MIS10P.sdc",
+          "resolved": "work\\native_game\\sandbox-FAC13P-f766ed2ade\\Packages\\Maps\\MIS10P.sdc",
+          "exists": true,
+          "sha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea"
+        },
+        "flags": 4,
+        "computers": 10
+      }
+    },
+    {
+      "code": "MUS04P",
+      "native": {
+        "status": "passed",
+        "candidateSha256": "9ef891a53d8ad0402a5e955aba0de74af99f7a78f8e5b790c834a34e950ecaa7",
+        "evidence": [
+          "work\\native_game\\sandbox-FAC13P-f766ed2ade\\final-endpoint-collection\\MUS04P.json",
+          "work\\release-ps2-v1\\native-world-invariance.json",
+          "work\\native_game\\batch-v7-named-proof\\receipt-final.json"
+        ],
+        "namedWorld": "MUS04P.LevelInfo0",
+        "privateFileLookup": {
+          "offset": "0x94",
+          "value": "work/native_game/sandbox-FAC13P-f766ed2ade/Packages/Maps/MUS04P.sdc",
+          "resolved": "work\\native_game\\sandbox-FAC13P-f766ed2ade\\Packages\\Maps\\MUS04P.sdc",
+          "exists": true,
+          "sha256": "9ef891a53d8ad0402a5e955aba0de74af99f7a78f8e5b790c834a34e950ecaa7"
+        },
+        "flags": 0,
+        "computers": 6
+      }
+    },
+    {
+      "code": "ORP14P",
+      "native": {
+        "status": "passed",
+        "candidateSha256": "85eebe4d16fdfe8aa78af1b3d6657c4fdd75882904e422a171156b7c882a928b",
+        "evidence": [
+          "work\\native_game\\sandbox-FAC13P-f766ed2ade\\final-endpoint-collection\\ORP14P.json",
+          "work\\release-ps2-v1\\native-world-invariance.json",
+          "work\\native_game\\batch-v7-named-proof\\receipt-final.json"
+        ],
+        "namedWorld": "ORP14P.LevelInfo0",
+        "privateFileLookup": {
+          "offset": "0x94",
+          "value": "work/native_game/sandbox-FAC13P-f766ed2ade/Packages/Maps/ORP14P.sdc",
+          "resolved": "work\\native_game\\sandbox-FAC13P-f766ed2ade\\Packages\\Maps\\ORP14P.sdc",
+          "exists": true,
+          "sha256": "85eebe4d16fdfe8aa78af1b3d6657c4fdd75882904e422a171156b7c882a928b"
+        },
+        "flags": 4,
+        "computers": 5
+      }
+    },
+    {
+      "code": "SCH03P",
+      "native": {
+        "status": "passed",
+        "candidateSha256": "a8b43fa3ce3968d0e6dccd4eaae668eb850cb644707049be08c399d62e380162",
+        "evidence": [
+          "work\\native_game\\sandbox-FAC13P-f766ed2ade\\final-endpoint-collection\\SCH03P.json",
+          "work\\release-ps2-v1\\native-world-invariance.json",
+          "work\\native_game\\batch-v7-named-proof\\receipt-final.json"
+        ],
+        "namedWorld": "SCH03P.LevelInfo0",
+        "privateFileLookup": {
+          "offset": "0x94",
+          "value": "work/native_game/sandbox-FAC13P-f766ed2ade/Packages/Maps/SCH03P.sdc",
+          "resolved": "work\\native_game\\sandbox-FAC13P-f766ed2ade\\Packages\\Maps\\SCH03P.sdc",
+          "exists": true,
+          "sha256": "a8b43fa3ce3968d0e6dccd4eaae668eb850cb644707049be08c399d62e380162"
+        },
+        "flags": 4,
+        "computers": 4
+      }
+    },
+    {
+      "code": "SKY08P",
+      "native": {
+        "status": "passed",
+        "candidateSha256": "2d64cb115ff094c3ceeca2416b8c2432eb3bc42f86ca366408580c2eedcb83ef",
+        "evidence": [
+          "work\\native_game\\sandbox-FAC13P-f766ed2ade\\final-endpoint-collection\\SKY08P.json",
+          "work\\release-ps2-v1\\native-world-invariance.json",
+          "work\\native_game\\batch-v7-named-proof\\receipt-final.json"
+        ],
+        "namedWorld": "SKY08P.LevelInfo0",
+        "privateFileLookup": {
+          "offset": "0x94",
+          "value": "work/native_game/sandbox-FAC13P-f766ed2ade/Packages/Maps/SKY08P.sdc",
+          "resolved": "work\\native_game\\sandbox-FAC13P-f766ed2ade\\Packages\\Maps\\SKY08P.sdc",
+          "exists": true,
+          "sha256": "2d64cb115ff094c3ceeca2416b8c2432eb3bc42f86ca366408580c2eedcb83ef"
+        },
+        "flags": 3,
+        "computers": 6
+      }
+    },
+    {
+      "code": "TME12P",
+      "native": {
+        "status": "passed",
+        "candidateSha256": "50ee109b9085f6684eb6d7e5627951eab4eb234472270dc700b5c51c8ddd4cc1",
+        "evidence": [
+          "work\\native_game\\sandbox-FAC13P-f766ed2ade\\final-endpoint-collection\\TME12P.json",
+          "work\\release-ps2-v1\\native-world-invariance.json",
+          "work\\native_game\\batch-v7-named-proof\\receipt-final.json"
+        ],
+        "namedWorld": "TME12P.LevelInfo0",
+        "privateFileLookup": {
+          "offset": "0x94",
+          "value": "work/native_game/sandbox-FAC13P-f766ed2ade/Packages/Maps/TME12P.sdc",
+          "resolved": "work\\native_game\\sandbox-FAC13P-f766ed2ade\\Packages\\Maps\\TME12P.sdc",
+          "exists": true,
+          "sha256": "50ee109b9085f6684eb6d7e5627951eab4eb234472270dc700b5c51c8ddd4cc1"
+        },
+        "flags": 0,
+        "computers": 1
+      }
+    },
+    {
+      "code": "TSP11P",
+      "native": {
+        "status": "passed",
+        "candidateSha256": "6df6be7ecdd8be44d192570e79b6d4a3276f15736d52c0a5406fb07dde759690",
+        "evidence": [
+          "work\\native_game\\sandbox-FAC13P-f766ed2ade\\final-endpoint-collection\\TSP11P.json",
+          "work\\release-ps2-v1\\native-world-invariance.json",
+          "work\\native_game\\batch-v7-named-proof\\receipt-final.json"
+        ],
+        "namedWorld": "TSP11P.LevelInfo0",
+        "privateFileLookup": {
+          "offset": "0x94",
+          "value": "work/native_game/sandbox-FAC13P-f766ed2ade/Packages/Maps/TSP11P.sdc",
+          "resolved": "work\\native_game\\sandbox-FAC13P-f766ed2ade\\Packages\\Maps\\TSP11P.sdc",
+          "exists": true,
+          "sha256": "6df6be7ecdd8be44d192570e79b6d4a3276f15736d52c0a5406fb07dde759690"
+        },
+        "flags": 0,
+        "computers": 2
+      }
+    },
+    {
+      "code": "WAR06P",
+      "native": {
+        "status": "passed",
+        "candidateSha256": "dfafb2044983b60dcd695accdaa0a4be1737f3a1a7e4bfc51a0fe0bc1b571064",
+        "evidence": [
+          "work\\native_game\\sandbox-FAC13P-f766ed2ade\\final-endpoint-collection\\WAR06P.json",
+          "work\\release-ps2-v1\\native-world-invariance.json",
+          "work\\native_game\\batch-v7-named-proof\\receipt-final.json",
+          "work\\native_game\\sandbox-WAR06P-88ae99f0d4\\validation.json"
+        ],
+        "namedWorld": "WAR06P.LevelInfo0",
+        "privateFileLookup": {
+          "offset": "0x94",
+          "value": "work/native_game/sandbox-FAC13P-f766ed2ade/Packages/Maps/WAR06P.sdc",
+          "resolved": "work\\native_game\\sandbox-FAC13P-f766ed2ade\\Packages\\Maps\\WAR06P.sdc",
+          "exists": true,
+          "sha256": "dfafb2044983b60dcd695accdaa0a4be1737f3a1a7e4bfc51a0fe0bc1b571064"
+        },
+        "flags": 9,
+        "computers": 9
+      }
+    }
+  ],
+  "actualModes": [
+    {
+      "map": "DTK02P",
+      "mode": 1,
+      "passed": true,
+      "initial_objectives": 2,
+      "final_objectives": 1,
+      "source_ref": 160,
+      "evidence": {
+        "path": "work\\native_game\\sandbox-DTK02P-4b6771c64a\\validation.json",
+        "sha256": "87d763286234c405546c84e19255301243d8d633ac7101c9e8510da209214554"
+      }
+    },
+    {
+      "map": "MHO05P",
+      "mode": 1,
+      "passed": true,
+      "initial_objectives": 4,
+      "final_objectives": 3,
+      "source_ref": 124,
+      "evidence": {
+        "path": "work\\native_game\\sandbox-MHO05P-8b839721ce\\validation.json",
+        "sha256": "27f9ceed47f32ba2cd82c295cc6a1317a093d1e0ba1ff9f0d38432d4701887f2"
+      }
+    },
+    {
+      "map": "MHO05P",
+      "mode": 3,
+      "passed": true,
+      "initial_objectives": 3,
+      "final_objectives": 2,
+      "source_ref": 135,
+      "evidence": {
+        "path": "work\\native_game\\sandbox-MHO05P-659f733eef\\validation.json",
+        "sha256": "0e7a1384ef11291d643d30560a914576c197c70d2fbd3ae98126027345c97689"
+      }
+    },
+    {
+      "map": "FAC13P",
+      "mode": 2,
+      "passed": true,
+      "initial_objectives": 2,
+      "final_objectives": 1,
+      "source_ref": 165,
+      "evidence": {
+        "path": "work\\native_game\\sandbox-FAC13P-f766ed2ade\\validation.json",
+        "sha256": "63d01d704714a6126c84c687e616b76d595198b4a55220d1ab93e9f7a6825315"
+      }
+    }
+  ],
+  "endpointCoverage": {
+    "maps": 14,
+    "flags": 51,
+    "computers": 77,
+    "objectiveActorTranslations": 0,
+    "exactPlacementExceptionsVerifiedByRealUse": [
+      {
+        "map": "MHO05P",
+        "source_ref": 124,
+        "kind": "flag",
+        "exact_native_set_location": {
+          "clear": false,
+          "requested": [
+            2211.490869671231,
+            -265.44142118248305,
+            249.0050048828125
+          ],
+          "actual": [
+            2133.73974609375,
+            -321.5340881347656,
+            249.0050048828125
+          ],
+          "xy_error": 95.87296023061145,
+          "z_delta": 0.0,
+          "native_set_location": false,
+          "reference": {
+            "point": [
+              2133.73974609375,
+              -321.5340881347656,
+              249.0050048828125
+            ],
+            "floor": {
+              "actor": "LevelInfo0",
+              "class": "LevelInfo",
+              "at": [
+                2133.7,
+                -321.5,
+                160.5
+              ]
+            },
+            "requested": [
+              2133.739786860226,
+              -321.5340789774792,
+              250.0
+            ]
+          },
+          "collision_from_reference": {
+            "actor": null,
+            "class_name": null,
+            "source_ref": null,
+            "extent": [
+              35.0,
+              35.0,
+              87.5
+            ],
+            "native": {
+              "return": 0,
+              "out": {
+                "HitLocation": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "HitNormal": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "Material": 0,
+                "MaterialIndex": 151178392
+              }
+            }
+          }
+        },
+        "actual_normal_use": {
+          "path": "work\\native_game\\sandbox-MHO05P-8b839721ce\\validation.json",
+          "sha256": "27f9ceed47f32ba2cd82c295cc6a1317a093d1e0ba1ff9f0d38432d4701887f2"
+        }
+      },
+      {
+        "map": "MHO05P",
+        "source_ref": 135,
+        "kind": "computer",
+        "exact_native_set_location": {
+          "clear": false,
+          "requested": [
+            2211.49093471462,
+            -265.44141833755015,
+            249.0050048828125
+          ],
+          "actual": [
+            2127.539794921875,
+            -299.43408203125,
+            249.0050048828125
+          ],
+          "xy_error": 90.57204346537611,
+          "z_delta": 0.0,
+          "native_set_location": false,
+          "reference": {
+            "point": [
+              2127.539794921875,
+              -299.43408203125,
+              249.0050048828125
+            ],
+            "floor": {
+              "actor": "LevelInfo0",
+              "class": "LevelInfo",
+              "at": [
+                2127.5,
+                -299.4,
+                160.5
+              ]
+            },
+            "requested": [
+              2127.539786860226,
+              -299.43407897747926,
+              250.0
+            ]
+          },
+          "collision_from_reference": {
+            "actor": "MHO05P.#1321892",
+            "class_name": "StaticMeshActor",
+            "source_ref": 516,
+            "extent": [
+              35.0,
+              35.0,
+              87.5
+            ],
+            "native": {
+              "return": 215021752,
+              "out": {
+                "HitLocation": [
+                  2197.67333984375,
+                  -271.03631591796875,
+                  249.0050048828125
+                ],
+                "HitNormal": [
+                  0.0,
+                  -1.0,
+                  0.0
+                ],
+                "Material": 165336600,
+                "MaterialIndex": -1035872448
+              }
+            }
+          }
+        },
+        "actual_normal_use": {
+          "path": "work\\native_game\\sandbox-MHO05P-659f733eef\\validation.json",
+          "sha256": "0e7a1384ef11291d643d30560a914576c197c70d2fbd3ae98126027345c97689"
+        }
+      }
+    ]
+  },
+  "hostMapMenu": {
+    "path": "work\\native_game\\sandbox-ORP14P-568aa10aef\\native-menu.json",
+    "sha256": "67dab399482cfab6f76bb6e92610a8e41e1b6a47bec1f89b05f3746c4c9dbedb"
+  },
+  "warehouseRender": {
+    "path": "work\\native_game\\sandbox-WAR06P-88ae99f0d4\\validation.json",
+    "sha256": "c78dc3eb10d732c67aeae9eee1258df7ce38a886e6e302b833bf92bbfc61b906"
+  },
+  "runtimeIdentity": {
+    "installation": "Enhanced SCCT Versus 4.0 Beta 5 with shipped Reloaded V4.0.4 layer",
+    "binaries": {
+      "System/SCCT Versus": "a98873aaec1de21fdcccc0afb9985e3ddcf38a9ddce1207214872d6428ec9950",
+      "System/Reloaded.Core.dll": "7b9297a5acff4588d502e01203d980688828340958c9736d40266bc125a9e71e",
+      "System/ChaosTheory_Editor.exe": "37050c854a0ba5c58f3276bf81299031c3229862f3b440fb10bae31bf5f92c41",
+      "System/Reloaded.Editor.dll": "c29c92c443f3d85d442a969540a42c048d52e6f63ab8f483cf0390a7980b07ac",
+      "System/Reloaded_Editor.exe": "4cec8aa84bcee940a2661f4277e51ea7f5803bd4cfb0bd5953aa356c451d8400",
+      "System/SCCT_Versus.exe": "e4ccd797e47ac668428eebbcd692a76d2f7445898f3930e94efab2b32bac93c9",
+      "System/d3d9.dll": null
+    }
+  },
+  "limits": [
+    "Objective approach positions the pawn nearby, then uses normal walking/menu/Use; complete routes between all objectives were not traversed.",
+    "Final normal mode interactions are representative Extraction, Sabotage and Neutralization checks, with source mission/objective/drop-zone links checked across all maps.",
+    "A remote multiplayer client and subjective audio listening were not exercised by this muted native harness.",
+    "Earlier 28 Spy/Merc walking/render runs are reused only with independent final geometry, spawn and nonobjective-property invariance evidence."
+  ]
+}
