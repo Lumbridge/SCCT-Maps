@@ -1,0 +1,105 @@
+{
+  "format": "scct.ps2.svm.source",
+  "volume": "SLES_53287",
+  "sourceCode": "TME12",
+  "targetCode": "TME12P",
+  "original": {
+    "path": "MAPS/TME12.LIN",
+    "size": 1675993,
+    "sha256": "99c1f6f769d93e8039cd10029b8a579a2a06ff70491210ded9bf154092d6300e"
+  },
+  "converted": [
+    {
+      "Destination": "Packages/Maps/TME12P.sdc",
+      "sha256": "50ee109b9085f6684eb6d7e5627951eab4eb234472270dc700b5c51c8ddd4cc1",
+      "Size": 342379
+    },
+    {
+      "Destination": "Packages/Sounds/P2_878438.uax",
+      "sha256": "3dd5082c803bd96b0a4b1caf831d3ab053c3d547d2f15398c145bd2b03a4127b",
+      "Size": 887834
+    },
+    {
+      "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
+      "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+      "Size": 271139
+    },
+    {
+      "Destination": "Packages/Sounds/P2_Interface.uax",
+      "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+      "Size": 43747
+    },
+    {
+      "Destination": "Packages/StaticMeshes/P2_857190.usx",
+      "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+      "Size": 19512
+    },
+    {
+      "Destination": "Packages/StaticMeshes/P2_866554.usx",
+      "sha256": "eca85989bb2340f2b05b6abf7bcd2e7aab4409e5a0131d603f1c957d26ac3db0",
+      "Size": 1829058
+    },
+    {
+      "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+      "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+      "Size": 54432
+    },
+    {
+      "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+      "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+      "Size": 14765
+    },
+    {
+      "Destination": "Packages/Textures/P2_860017.utx",
+      "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+      "Size": 35860
+    },
+    {
+      "Destination": "Packages/Textures/P2_863876.utx",
+      "sha256": "fe213ca45404169a3446fc8685633aee8d26da6d71597dc87fb651057492f341",
+      "Size": 5665743
+    },
+    {
+      "Destination": "Packages/Textures/P2_Echelon.utx",
+      "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+      "Size": 300281
+    },
+    {
+      "Destination": "Packages/Textures/P2_Engine.utx",
+      "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+      "Size": 391117
+    },
+    {
+      "Destination": "Packages/Textures/P2_nd133.utx",
+      "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+      "Size": 103598
+    },
+    {
+      "Destination": "Packages/Textures/P2_SBase.utx",
+      "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+      "Size": 625529
+    },
+    {
+      "Destination": "Packages/Textures/P2_sfx.utx",
+      "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+      "Size": 161705
+    },
+    {
+      "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+      "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+      "Size": 77499
+    },
+    {
+      "Destination": "Packages/Textures/TME12P-i.utc",
+      "sha256": "cf9ffd0ce0e29befb0a1699433e32694725ed2fe880a4941063d2e3d77abe68d",
+      "Size": 58135
+    }
+  ],
+  "publicationStatus": "openscct-release-candidate-native-pending",
+  "minimumSupportedOpenScctVersion": "0.8.156",
+  "objectiveFidelity": "../README.md#objective-fidelity",
+  "auditEvidence": "../evidence/index.json",
+  "nativeCandidateTreeSha256": "2461eec525e159a9a9de6d62d4874e86556e8efc566669fb4e0fc4284168d589",
+  "supportedRuntimeCommit": "6ea666373e28220413474cc98b4208901fd47c8b",
+  "nativePublication": "pending separate validation"
+}

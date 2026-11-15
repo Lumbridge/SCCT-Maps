@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "scope": "Real standing/crouched DTK02P vial Use and MHO05P computer normalUse with original90 endpoint",
+  "evidence": [
+    {
+      "path": "work/ps2-objective-runtime/pickup-standing-source-action.log",
+      "size": 9084,
+      "sha256": "936b4d07e5aa3f186d3009bddec6cf90e8f2dfe98efa0c6da779e9fa9166d0ce"
+    },
+    {
+      "path": "work/ps2-objective-runtime/pickup-standing-source-action.err",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "work/ps2-objective-runtime/pickup-crouched-source-action.log",
+      "size": 9645,
+      "sha256": "3f6693beb40d0ca245677ffe2fa219afe4bcf5539d92bcc4a3bae0160e7961cb"
+    },
+    {
+      "path": "work/ps2-objective-runtime/pickup-crouched-source-action.err",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "work/ps2-objective-runtime/mho-computer-source-90.log",
+      "size": 9280,
+      "sha256": "120246339c7d7fe73f592953f46be3da935b5fb0abd830b396c2ecec6aab87e1"
+    },
+    {
+      "path": "work/ps2-objective-runtime/mho-computer-source-90.err",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ]
+}

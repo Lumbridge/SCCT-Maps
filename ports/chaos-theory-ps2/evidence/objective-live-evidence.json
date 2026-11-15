@@ -1,0 +1,56 @@
+{
+  "status": "passed",
+  "scope": "DTK02P real client/server objective profile smoke",
+  "assertions": [
+    "source vial separate mesh",
+    "four original computer clips",
+    "replicated alarm",
+    "source liquid panner",
+    "modem local-library mesh",
+    "destruction particles",
+    "carried vial replicated Base/bone and moved visible mesh"
+  ],
+  "limitations": [
+    "Carried-vial screenshot is partly occluded; program binding/transform checks are authoritative.",
+    "This is not a claim of fourteen completed matches."
+  ],
+  "evidence": [
+    {
+      "path": "work/ps2-objective-runtime/fourteenth.log",
+      "size": 764,
+      "sha256": "ca1a673b80c6bfe0dbab816aafdab8a7219ec94de9c470330bedef708e97bfc7"
+    },
+    {
+      "path": "work/ps2-objective-runtime/fourteenth.err",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "screenshots": [
+    {
+      "path": "work/ps2-objective-runtime/screens/ps2-console-alarm.png",
+      "size": 988984,
+      "sha256": "21d67ad3f5d8de34f3e82f162b10896128afab01bf2bdffcd5502d5e2af63b21"
+    },
+    {
+      "path": "work/ps2-objective-runtime/screens/ps2-modem-destruction.png",
+      "size": 996828,
+      "sha256": "22ce098438038c24e3795dd34538ed0d1871e637f88059dab7e846f8195ef799"
+    },
+    {
+      "path": "work/ps2-objective-runtime/screens/ps2-modem.png",
+      "size": 988888,
+      "sha256": "1b1e03165c9803417d0993d33d1d62b2b01a123dddf4625618442b33ffd2f60b"
+    },
+    {
+      "path": "work/ps2-objective-runtime/screens/ps2-vial-and-console.png",
+      "size": 995204,
+      "sha256": "1c2321c9833d1458f5761fb91472cedd1773486e6d713149b2d15da97b212adb"
+    },
+    {
+      "path": "work/ps2-objective-runtime/screens/ps2-vial-carried.png",
+      "size": 1001314,
+      "sha256": "0d2a3117412019effa8bcd793b7e53f3eb826ac3f35bd076ffe89dae90f98c10"
+    }
+  ]
+}

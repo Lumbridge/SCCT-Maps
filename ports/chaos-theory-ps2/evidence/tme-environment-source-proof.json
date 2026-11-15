@@ -1,0 +1,195 @@
+{
+  "format": "scct.ps2.material-source-audit",
+  "sourceMap": "TME12",
+  "sourceShaderRef131": {
+    "table": "map:1",
+    "ref": 131,
+    "path": [
+      861756,
+      863894
+    ],
+    "package_id": 863876,
+    "class_id": 1121,
+    "name_id": 863894,
+    "size": 32,
+    "flags": 983044,
+    "owner": "Engine.Shader",
+    "start": 1093859,
+    "end": 1093891,
+    "consumed": 32,
+    "pc_size": 32,
+    "unknown": [],
+    "size_notes": [],
+    "props": {
+      "Opacity": 4,
+      "Specular": 1,
+      "TwoSided": true,
+      "SurfaceType": 19,
+      "OcclusionType": 10
+    }
+  },
+  "children": [
+    {
+      "table": "map:1",
+      "ref": 131,
+      "path": [
+        861756,
+        863894
+      ],
+      "package_id": 863876,
+      "class_id": 1121,
+      "name_id": 863894,
+      "size": 32,
+      "flags": 983044,
+      "owner": "Engine.Shader",
+      "start": 1093859,
+      "end": 1093891,
+      "consumed": 32,
+      "pc_size": 32,
+      "unknown": [],
+      "size_notes": [],
+      "props": {
+        "Opacity": 4,
+        "Specular": 1,
+        "TwoSided": true,
+        "SurfaceType": 19,
+        "OcclusionType": 10
+      }
+    },
+    {
+      "table": "map:1",
+      "ref": 4,
+      "path": [
+        861756,
+        864004
+      ],
+      "package_id": 863876,
+      "class_id": 556,
+      "name_id": 864004,
+      "size": 143,
+      "flags": 983044,
+      "owner": "Engine.Texture",
+      "start": 3113038,
+      "end": 3113181,
+      "consumed": 143,
+      "pc_size": 143,
+      "unknown": [],
+      "size_notes": [],
+      "props": {
+        "Palette": 17,
+        "MipZero": [
+          32,
+          32,
+          32,
+          15
+        ],
+        "LastUpdateTime": 17344570.0,
+        "bAlphaTexture": true,
+        "USize": 8,
+        "VSize": 8,
+        "UClamp": 8,
+        "VClamp": 8,
+        "Format": 12,
+        "UBits": 3,
+        "VBits": 3,
+        "OcclusionType": 1
+      }
+    },
+    {
+      "table": "map:1",
+      "ref": 1,
+      "path": [
+        861756,
+        863911
+      ],
+      "package_id": 863876,
+      "class_id": 1109,
+      "name_id": 863911,
+      "size": 19,
+      "flags": 983044,
+      "owner": "Engine.TexEnvMap",
+      "start": 3113181,
+      "end": 3113200,
+      "consumed": 19,
+      "pc_size": 19,
+      "unknown": [],
+      "size_notes": [],
+      "props": {
+        "TexCoordSource": 11,
+        "Material": 5,
+        "OcclusionType": 1
+      }
+    }
+  ],
+  "sourceDiffuse": "None (absent tag); opacity4 + specular TexEnvMap1 are authored",
+  "canonicalGraph": {
+    "P2_863876.UnknownGlobalPS2_861756.UnknownGlobalPS2_863894": {
+      "class": "Engine.Shader",
+      "props": {
+        "OcclusionType": 10,
+        "Opacity": {
+          "$asset": "P2_863876.UnknownGlobalPS2_861756.UnknownGlobalPS2_864004"
+        },
+        "Specular": {
+          "$asset": "P2_863876.UnknownGlobalPS2_861756.UnknownGlobalPS2_863911"
+        },
+        "SurfaceType": 19,
+        "TwoSided": true
+      }
+    },
+    "P2_863876.UnknownGlobalPS2_861756.UnknownGlobalPS2_863911": {
+      "class": "Engine.TexEnvMap",
+      "props": {
+        "Material": {
+          "$asset": "P2_863876.UnknownGlobalPS2_861756.UnknownGlobalPS2_863811"
+        },
+        "OcclusionType": 1,
+        "TexCoordSource": 11
+      }
+    },
+    "P2_863876.UnknownGlobalPS2_861756.UnknownGlobalPS2_864004": {
+      "class": "Engine.Texture",
+      "props": {
+        "Format": 5,
+        "LastUpdateTime": 17344570.0,
+        "MipZero": {
+          "A": 61,
+          "B": 128,
+          "G": 128,
+          "R": 128
+        },
+        "OcclusionType": 1,
+        "Palette": null,
+        "UBits": 3,
+        "UClamp": 8,
+        "USize": 8,
+        "VBits": 3,
+        "VClamp": 8,
+        "VSize": 8,
+        "bAlphaTexture": true
+      }
+    }
+  },
+  "canonicalRenderFlags": {
+    "P2_863876.UnknownGlobalPS2_863894__lm2": {
+      "flags": {
+        "env_color": [
+          0.0055,
+          0.005,
+          0.0043
+        ],
+        "env_map": true,
+        "env_texture": "textures/P2_863876_UnknownGlobalPS2_863911.png",
+        "masked": false,
+        "translucent": true,
+        "two_sided": true,
+        "unlit": false
+      },
+      "index": 7,
+      "source": "P2_863876.UnknownGlobalPS2_861756.UnknownGlobalPS2_863894"
+    }
+  },
+  "classification": "Source data retained; renderer pure-environment support gap corrected in runtime0.8.155",
+  "runtimeCommit": "f4d90e9618837f7b8eb32f1f1a6d5ecebfcab373",
+  "liveEvidence": "work/final-mapshots/tme-env-fixed.log"
+}

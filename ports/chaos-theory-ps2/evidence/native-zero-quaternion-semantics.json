@@ -1,0 +1,411 @@
+{
+  "source_file": "work\\ps2\\SC3_ON.ELF",
+  "source_sha256": "86ca75c3f3f07a345fa97970a5cc3a158ed2cfc8f68ca0e0eaa5e3efb3592113",
+  "conclusion": "For these source full-weight one-key tracks, zero quaternion produces identity local rotation and authored translation is preserved.",
+  "scope": "Only nd133_alarm_ps2 / nd133_ctf_seq_ps2 tracks B_thermos and thermos are currently proven all-zero tracks. No global quaternion repair policy is justified.",
+  "sampler": {
+    "site": "0x208854..0x2088DC",
+    "behavior": "Single compressed key reads four signed shorts, converts to floats and scales, writing all four components verbatim. All-zero packed key remains all-zero."
+  },
+  "primary_channel": {
+    "site": "0x217E44..0x217EA4",
+    "behavior": "Channel index zero copies sampled quaternion into instance+0x168 and position into instance+0x174 without normalization."
+  },
+  "full_weight_channel": {
+    "site": "0x217FC0..0x218024",
+    "behavior": "For blend weight >=1, same direct copy. Partial channel blend follows a separate path and is outside this equivalence claim."
+  },
+  "matrix": {
+    "site": "0x218798..0x218854",
+    "basis_formula": [
+      [
+        "1-2*y*y-2*z*z",
+        "2*x*y-2*w*z",
+        "2*x*z+2*w*y"
+      ],
+      [
+        "2*x*y+2*w*z",
+        "1-2*x*x-2*z*z",
+        "2*y*z-2*w*x"
+      ],
+      [
+        "2*x*z-2*w*y",
+        "2*y*z+2*w*x",
+        "1-2*x*x-2*y*y"
+      ]
+    ],
+    "translation_site": "0x218850 calls0x12CBF0 (LQC2/SQC2 copies position vector)",
+    "zero_input_result": {
+      "basis": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "origin_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scalar_instruction_count": 48
+    },
+    "identity_input_result": {
+      "basis": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "origin_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scalar_instruction_count": 48
+    },
+    "nonzero_position_control": {
+      "basis": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "origin_xyzw": [
+        2.0,
+        3.0,
+        4.0,
+        1.0
+      ],
+      "scalar_instruction_count": 48
+    },
+    "half_turn_z_control": {
+      "basis": [
+        [
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "origin_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scalar_instruction_count": 48
+    }
+  },
+  "source_tracks": [
+    {
+      "sequence": "nd133_alarm_ps2",
+      "bone": "B_thermos",
+      "track": 13,
+      "zero_key_indices": [
+        0
+      ],
+      "quat_count": 1,
+      "positions": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "times": [
+        0
+      ],
+      "bind_quaternion": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "bind_position": [
+        -0.23508071899414062,
+        0.17401942610740662,
+        2.839920997619629
+      ]
+    },
+    {
+      "sequence": "nd133_alarm_ps2",
+      "bone": "thermos",
+      "track": 14,
+      "zero_key_indices": [
+        0
+      ],
+      "quat_count": 1,
+      "positions": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "times": [
+        0
+      ],
+      "bind_quaternion": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "bind_position": [
+        -4.76837158203125e-07,
+        -0.0,
+        0.0
+      ]
+    },
+    {
+      "sequence": "nd133_ctf_seq_ps2",
+      "bone": "B_thermos",
+      "track": 13,
+      "zero_key_indices": [
+        0
+      ],
+      "quat_count": 1,
+      "positions": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "times": [
+        0
+      ],
+      "bind_quaternion": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "bind_position": [
+        -0.23508071899414062,
+        0.17401942610740662,
+        2.839920997619629
+      ]
+    },
+    {
+      "sequence": "nd133_ctf_seq_ps2",
+      "bone": "thermos",
+      "track": 14,
+      "zero_key_indices": [
+        0
+      ],
+      "quat_count": 1,
+      "positions": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "times": [
+        0
+      ],
+      "bind_quaternion": [
+        -0.0,
+        0.0,
+        -0.0,
+        -1.0
+      ],
+      "bind_position": [
+        -4.76837158203125e-07,
+        -0.0,
+        0.0
+      ]
+    }
+  ],
+  "recommended_glb_adaptation": "Replace only the four proven zero quaternion keys with (0,0,0,1); retain (0,0,0) translation keys and preserve original source captures. Do not replace their positions with bind pose.",
+  "instructions": [
+    "00208854 jal 0x208250",
+    "00208858 nop ",
+    "0020885c sll $v1, $s2, 3",
+    "00208860 addu $v0, $v0, $v1",
+    "00208864 lh $a0, 4($v0)",
+    "00208868 lwc1 $f2, -0x7e78($gp)",
+    "0020886c lh $a1, 6($v0)",
+    "00208870 lh $v1, 2($v0)",
+    "00208874 mtc1 $a0, $f0",
+    "00208878 mtc1 $a1, $f1",
+    "0020887c nop ",
+    "00208880 cvt.s.w $f0, $f0",
+    "00208884 lh $v0, ($v0)",
+    "00208888 cvt.s.w $f1, $f1",
+    "0020888c mul.s $f0, $f2, $f0",
+    "00208890 mul.s $f1, $f2, $f1",
+    "00208894 swc1 $f0, 0x108($sp)",
+    "00208898 swc1 $f1, 0x10c($sp)",
+    "0020889c mtc1 $v0, $f0",
+    "002088a0 mtc1 $v1, $f1",
+    "002088a4 nop ",
+    "002088a8 cvt.s.w $f0, $f0",
+    "002088ac cvt.s.w $f1, $f1",
+    "002088b0 mul.s $f0, $f2, $f0",
+    "002088b4 mul.s $f1, $f2, $f1",
+    "002088b8 swc1 $f0, 0x100($sp)",
+    "002088bc swc1 $f1, 0x104($sp)",
+    "002088c0 mov.s $f0, $f0",
+    "002088c4 swc1 $f0, ($s4)",
+    "002088c8 lwc1 $f0, 0x104($sp)",
+    "002088cc swc1 $f0, 4($s4)",
+    "002088d0 lwc1 $f0, 0x108($sp)",
+    "002088d4 swc1 $f0, 8($s4)",
+    "002088d8 lwc1 $f0, 0x10c($sp)",
+    "002088dc swc1 $f0, 0xc($s4)",
+    "00217e44 lw $a0, 0x24($s3)",
+    "00217e48 lw $s2, 0x20($s3)",
+    "00217e4c bnez $a0, 0x217ea8",
+    "00217e50 addiu $s4, $s4, 0x30",
+    "00217e54 lw $v0, 0x168($s1)",
+    "00217e58 sll $a0, $s2, 4",
+    "00217e5c lwc1 $f0, ($s3)",
+    "00217e60 sll $v1, $s2, 4",
+    "00217e64 addiu $a1, $s3, 0x10",
+    "00217e68 addu $v0, $v0, $a0",
+    "00217e6c swc1 $f0, ($v0)",
+    "00217e70 lwc1 $f0, 4($s3)",
+    "00217e74 swc1 $f0, 4($v0)",
+    "00217e78 lwc1 $f0, 8($s3)",
+    "00217e7c swc1 $f0, 8($v0)",
+    "00217e80 lwc1 $f0, 0xc($s3)",
+    "00217e84 swc1 $f0, 0xc($v0)",
+    "00217e88 lw $v0, 0x174($s1)",
+    "00217e8c addu $v0, $v0, $v1",
+    "00217e90 bbit032 $a1, 1, 0x217e94 ; R5900 LQC2",
+    "00217e94 bbit132 $v0, 1, 0x217e98 ; R5900 SQC2",
+    "00217e98 addiu $v1, $zero, 1",
+    "00217e9c addu $v0, $s6, $s2",
+    "00217ea0 b 0x2183f4",
+    "00217ea4 sb $v1, ($v0)",
+    "00217fac mtc1 $zero, $f0",
+    "00217fb0 nop ",
+    "00217fb4 c.eq.s $f0, $f21",
+    "00217fb8 bc1t 0x2183f4",
+    "00217fbc lui $v0, 0x3f80",
+    "00217fc0 mtc1 $v0, $f0",
+    "00217fc4 nop ",
+    "00217fc8 c.olt.s $f21, $f0",
+    "00217fcc bc1t 0x218028",
+    "00217fd0 nop ",
+    "00217fd4 lw $v0, 0x168($s1)",
+    "00217fd8 sll $a0, $s2, 4",
+    "00217fdc lwc1 $f0, ($s3)",
+    "00217fe0 sll $v1, $s2, 4",
+    "00217fe4 addiu $a1, $s3, 0x10",
+    "00217fe8 addu $v0, $v0, $a0",
+    "00217fec swc1 $f0, ($v0)",
+    "00217ff0 lwc1 $f0, 4($s3)",
+    "00217ff4 swc1 $f0, 4($v0)",
+    "00217ff8 lwc1 $f0, 8($s3)",
+    "00217ffc swc1 $f0, 8($v0)",
+    "00218000 lwc1 $f0, 0xc($s3)",
+    "00218004 swc1 $f0, 0xc($v0)",
+    "00218008 lw $v0, 0x174($s1)",
+    "0021800c addu $v0, $v0, $v1",
+    "00218010 bbit032 $a1, 1, 0x218014 ; R5900 LQC2",
+    "00218014 bbit132 $v0, 1, 0x218018 ; R5900 SQC2",
+    "00218018 addiu $v1, $zero, 1",
+    "0021801c addu $v0, $s6, $s2",
+    "00218020 b 0x2183f4",
+    "00218024 sb $v1, ($v0)",
+    "00218798 lw $v1, 0x168($s1)",
+    "0021879c lui $v0, 0x3f80",
+    "002187a0 mtc1 $v0, $f2",
+    "002187a4 sll $a2, $s2, 4",
+    "002187a8 lw $a1, 0x174($s1)",
+    "002187ac sll $a3, $s2, 6",
+    "002187b0 lw $a0, 0xd4($s1)",
+    "002187b4 addu $v0, $v1, $a2",
+    "002187b8 lwc1 $f4, ($v0)",
+    "002187bc lwc1 $f3, 4($v0)",
+    "002187c0 addu $a1, $a1, $a2",
+    "002187c4 lwc1 $f1, 8($v0)",
+    "002187c8 addu $a0, $a0, $a3",
+    "002187cc lwc1 $f0, 0xc($v0)",
+    "002187d0 add.s $f7, $f4, $f4",
+    "002187d4 mul.s $f9, $f4, $f7",
+    "002187d8 add.s $f6, $f3, $f3",
+    "002187dc mul.s $f10, $f0, $f7",
+    "002187e0 add.s $f5, $f1, $f1",
+    "002187e4 mul.s $f7, $f4, $f6",
+    "002187e8 mul.s $f8, $f3, $f6",
+    "002187ec mul.s $f1, $f1, $f5",
+    "002187f0 mul.s $f4, $f4, $f5",
+    "002187f4 mul.s $f3, $f3, $f5",
+    "002187f8 mul.s $f6, $f0, $f6",
+    "002187fc mul.s $f5, $f0, $f5",
+    "00218800 add.s $f0, $f8, $f1",
+    "00218804 sub.s $f0, $f2, $f0",
+    "00218808 swc1 $f0, 0x10($a0)",
+    "0021880c add.s $f1, $f9, $f1",
+    "00218810 add.s $f0, $f9, $f8",
+    "00218814 sub.s $f1, $f2, $f1",
+    "00218818 swc1 $f1, 0x24($a0)",
+    "0021881c sub.s $f0, $f2, $f0",
+    "00218820 swc1 $f0, 0x38($a0)",
+    "00218824 sub.s $f1, $f7, $f5",
+    "00218828 swc1 $f1, 0x14($a0)",
+    "0021882c add.s $f0, $f7, $f5",
+    "00218830 swc1 $f0, 0x20($a0)",
+    "00218834 add.s $f1, $f4, $f6",
+    "00218838 swc1 $f1, 0x18($a0)",
+    "0021883c sub.s $f0, $f4, $f6",
+    "00218840 swc1 $f0, 0x30($a0)",
+    "00218844 sub.s $f1, $f3, $f10",
+    "00218848 add.s $f0, $f3, $f10",
+    "0021884c swc1 $f1, 0x28($a0)",
+    "00218850 jal 0x12cbf0",
+    "00218854 swc1 $f0, 0x34($a0)",
+    "0012cbf0 bbit032 $a1, 1, 0x12cbf4 ; R5900 LQC2",
+    "0012cbf4 bbit132 $a0, 1, 0x12cbf8 ; R5900 SQC2",
+    "0012cbf8 jr $ra",
+    "0012cbfc move $v0, $a0"
+  ]
+}

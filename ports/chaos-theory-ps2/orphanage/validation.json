@@ -1,0 +1,32 @@
+{
+  "format": "scct.ps2.svm.validation-draft",
+  "code": "ORP14P",
+  "candidateTreeSha256": "2461eec525e159a9a9de6d62d4874e86556e8efc566669fb4e0fc4284168d589",
+  "automated": {
+    "status": "passed",
+    "evidence": "../evidence/index.json"
+  },
+  "native": {
+    "load": "pending",
+    "menu": "pending",
+    "match": "pending",
+    "evidence": [],
+    "publication": "pending"
+  },
+  "openscct": {
+    "liveGameplay": "pending",
+    "originalObjectives": "pending",
+    "minimumSupportedVersion": "0.8.156",
+    "runtimeRelease": "Required before map publication; checked separately by release receipt",
+    "loadRender": "passed",
+    "objectiveAssets": "passed",
+    "sharedObjectiveProfile": "passed onDTK02P",
+    "evidence": "../evidence/objective-live-evidence.json",
+    "perMapFullMatch": "not-claimed",
+    "sourceUseInput": {
+      "status": "passed",
+      "evidence": "../evidence/source-input-evidence.json"
+    },
+    "runtimeSourceCommit": "6ea666373e28220413474cc98b4208901fd47c8b"
+  }
+}

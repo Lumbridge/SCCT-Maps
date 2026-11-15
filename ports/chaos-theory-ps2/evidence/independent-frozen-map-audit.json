@@ -1,0 +1,174 @@
+{
+  "status": "passed",
+  "scope": "Independent raw-byte comparison with tested working builds, canonical manifest/groups, P titles and exact existing shared requirements. Not an additional gameplay test.",
+  "maps": [
+    {
+      "code": "DTK02P",
+      "rawFiles": 145,
+      "rawTreeSha256": "77e797a86756d2cee73541843f10984b8980d1685c70a1b58547b9ad0dd63ea9",
+      "manifestSha256": "40b4e5f2a8cb40668f5a5950e2b61583695ba9b64106f377e474d0c865163aeb",
+      "canonicalGroups": {
+        "audio": "992f6065e90e8e6036c5d1481507da133a0d69380d316c3dc8a5766c167247a4",
+        "render": "7c2c3687a983986d3e3110266589c75507d6bd6200b1c6f300762d09097c6c68",
+        "sim": "929e1c98adc2a82c1962a6c506229440340ef2e9b4dba140466dc0d9f370f238",
+        "ui": "b5ac46b3149cc8ffb60f4fc5350c08c498395ae859b168feccbcb06f1d64af04"
+      }
+    },
+    {
+      "code": "FAC13P",
+      "rawFiles": 109,
+      "rawTreeSha256": "241f39ee58ddfdfdf6818b19f611f91f6c7a516748fcb671d5e91eebb790f3c4",
+      "manifestSha256": "966a92a070bd475e47290ee740077440cefda27d5edd27330b0073c9798d75c1",
+      "canonicalGroups": {
+        "audio": "c06b22f70abea79f75af8c0a6e76ebc9603f37043bee56c38a745551197d888e",
+        "render": "b0ee7d7ed3366fb480c58d5716b947abf0d79220b1bf862219f0249e8a4e3315",
+        "sim": "f6479cc41b91f79cf3f8b8b5d8bdb9e77993336364c16d33ebed33715959094a",
+        "ui": "b8198ab3fe7552ece724fdde011586e108cdeb886be94ee90e006947799068d4"
+      }
+    },
+    {
+      "code": "GAR09P",
+      "rawFiles": 129,
+      "rawTreeSha256": "f25ea1d1eecea5ded5d9bcf28af80f027a9e0b4712548c7b7933e90c3a9a6ced",
+      "manifestSha256": "7e3d5e3dda5be96a614bf8f242a07f434a110ca690b66659bfe404b05a0b851f",
+      "canonicalGroups": {
+        "audio": "1e307de0c93963e80f68c7a19cc1a6c93be6eb0eb9f913ccfe788b5815213afa",
+        "render": "90791b236c13659efeb81b1c54e1bda475e5d822cc3d7ef59c832a4a6ce45462",
+        "sim": "090c273f2741ef5ad814754f1c8aea36a345bc7a170c130fccc8c363f8d040ab",
+        "ui": "5f7f6321b851d268515f2a82c88bf08155569cd9d8c4d19833c9ac1a3a36e32f"
+      }
+    },
+    {
+      "code": "INI01P",
+      "rawFiles": 126,
+      "rawTreeSha256": "7ba38246c2e8b23ed7b99068e59ffe07229cd9a876ee366b080ffb5d52065af6",
+      "manifestSha256": "8c2ac42dfbbeac59e1055d94ffadb7fb6014a6febca02c7b803d483c704658fb",
+      "canonicalGroups": {
+        "audio": "e25c1fb3d302f0e19b43070f4c87ffe6ce757c3d522fe89e69383faffc836b39",
+        "render": "8f8fa7aaf3ad3ad1cd23b323af17d72c23deb62dcc6465c745532f47c3118594",
+        "sim": "ecbd62cd0361093d335742e2f5997f57e4c4f808ec8eccfae42168f328e8012e",
+        "ui": "f12d229a0ea1758d70f0f7c293da7d5425557bd1392698c684d472624f44d07c"
+      }
+    },
+    {
+      "code": "KRA07P",
+      "rawFiles": 174,
+      "rawTreeSha256": "437ac30ba1bdffb689ab089be1d455dfbf87030b304700bde3d91aea7ae38eaf",
+      "manifestSha256": "bc412e15514ca151ebb0afe131dee70a4e3db24ee6277ddbd70250beb224a4ed",
+      "canonicalGroups": {
+        "audio": "a704254a36256ec35bc13b85433003af7e22d8f730a75b4774119d32b618d027",
+        "render": "93357b38c26a72ff32aba1e69aaee109f1b5360d2c6db470a977bc324110f7e6",
+        "sim": "375d7ef77252bac44c5785123516d2f801e8b1032a737fcb9d0e56e9f5f4728f",
+        "ui": "acca3e2be062a5026e8cf4d5c24957c1db0edaee4c8e030c6ef8fd4c405ee8ec"
+      }
+    },
+    {
+      "code": "MHO05P",
+      "rawFiles": 146,
+      "rawTreeSha256": "899e6f1e9ffa5b654af94b0735889d903f96e2f3c50bcae6e1039d5487c61cdf",
+      "manifestSha256": "002679f4a6eab9570d6c564443b4a3f5cb737991fd433951e773681aa95d0a8a",
+      "canonicalGroups": {
+        "audio": "2eacada573929a8feb501cb52770353c639e80be030ea77d735056995c584d8c",
+        "render": "2b17fb857428d415eaf5531481695ab114051c47ddaa31d3a09b41cb40dec726",
+        "sim": "eb8b93df787d13a27a84918b8164a1f957db923b31f14609bb294099432811eb",
+        "ui": "1b44f1e4fe81a4eb2f68badb9f0d44072afc6d07e272199e73a6e8d6b1a803fc"
+      }
+    },
+    {
+      "code": "MIS10P",
+      "rawFiles": 169,
+      "rawTreeSha256": "bec84c34f90e044e2a020f84d3ad303b18733c2f0e45318b80783bf8e4492f8d",
+      "manifestSha256": "cdfc0bedcefa86db4b4a390203ac61a80c3c3a75561d5c7ccfcb953ee57d684e",
+      "canonicalGroups": {
+        "audio": "8abd41110bb304acaec73f5c3a314aede3505dd7ae7c297f1227b9fbc47f8eb3",
+        "render": "1500abe6c8da15237c6f40624342a32877bb9eef433d20ff54ebf73a6d689c68",
+        "sim": "090b29f08fae94e16f36cb7db5634a0f7f721f097a87a55f0564e4ddb0a1fad4",
+        "ui": "861d932a2dafef776cf947d2d184c5845f7380b1cb5507d87adf61087b362e59"
+      }
+    },
+    {
+      "code": "MUS04P",
+      "rawFiles": 151,
+      "rawTreeSha256": "5ca03f222d261fd5cb63149c9385790c08e7c4097962ef35eb119d2942710288",
+      "manifestSha256": "a5ad255bfd901795c4db995b1dac99cbbd5dbff295d21f65095447c458cf1a4e",
+      "canonicalGroups": {
+        "audio": "4159290ed940c04a6c15184d50f7f515503e6e95125f54ef5579ef2c7e81bffb",
+        "render": "a412e3fef09aa69df882c33b07c71ae894e313ab2b18b3fee2fb5fe17f6ab56e",
+        "sim": "74c5cf0d183c38afcb94bc2711819b6e6804ac761a69d8e523a7c3c5b555c810",
+        "ui": "a329d457610904b36d0ed4a59c03cd239e67c5d611523ed7df09e6e8ecdc42b2"
+      }
+    },
+    {
+      "code": "ORP14P",
+      "rawFiles": 169,
+      "rawTreeSha256": "0f91a8ac0f69d11633b5f7086015f692f5ec4dcd6a4573a3767d87f154a191de",
+      "manifestSha256": "abe0d48e40a6b380379b15afa97260e61b69a6582294e0a6c0475821121c8acb",
+      "canonicalGroups": {
+        "audio": "fea5dc3f17801227aa6266f2bba44eccf095e422654bd698717340661e29bf1b",
+        "render": "7e8bfeea0093cc9757ad61011f1b1ea724b619bba33c2ee2085474a6eeb5ebc0",
+        "sim": "febc322329172e55c83d9d9a5d4b84945ac60898d26c2045eb28ab0e2017c8d3",
+        "ui": "7888d82487437b69560cab030d431f4dbe484b8d1b34130d69f01ae3699b7c64"
+      }
+    },
+    {
+      "code": "SCH03P",
+      "rawFiles": 187,
+      "rawTreeSha256": "d7d0b6a685b5ba8d72ff1635b0e7cac1a095f7a5ae334d36ab00ac5b3e13f47f",
+      "manifestSha256": "395feeff9127711bdf70de2d8cb7536dc491279d048d4eb0151f0d509786b615",
+      "canonicalGroups": {
+        "audio": "a6f7434507795b8e465f3bea3c12883f57be9ba3eb5e2dd60930299fde62d30d",
+        "render": "1b5d586ebe42fda14dcfb363ec7f519d78f273535893c7bd17e5aac0e74b1ac6",
+        "sim": "1594c8e68dca288ee66bf002272f40c5aeb40c3a0a5365e1d72b1791c5650d7b",
+        "ui": "c2b5b620bb8cacf8369e3885393cef8382457f209b50bddc9be8a40ecbfadccc"
+      }
+    },
+    {
+      "code": "SKY08P",
+      "rawFiles": 182,
+      "rawTreeSha256": "8133ef50686078166467b69c6c0f06cbdf0e2e1d32cb7b8c48e0ff9e967309d4",
+      "manifestSha256": "8ab1d1e0d222446a3092cd1064bc8527371d097ce47195adb15cbcbe0faae0d7",
+      "canonicalGroups": {
+        "audio": "7ee740778c2f27130586ccf5688f5ad8daecd33352f05ac2b849de785dde04c9",
+        "render": "a1a6bb15b63846fb7a5f614476b5ce9e1b6fafe43f9ddc3732220d8362b4f8bd",
+        "sim": "f43e65a912430bab0e7b0ae37f0bb256daa48750800003b88986c8cd6b796d2e",
+        "ui": "cf04247dd65c10237c3a5dd141775362a8d24d53e39027e407aae01139aa18e8"
+      }
+    },
+    {
+      "code": "TME12P",
+      "rawFiles": 119,
+      "rawTreeSha256": "b48905d5bb964dac2efa125356f2b79516ac2f890a437d13849b1a542b3a0c03",
+      "manifestSha256": "9d24dc86ed1e8bbd3d6593e2b88b91164c2a0267ba51c9a7d262ff0eb03cfe48",
+      "canonicalGroups": {
+        "audio": "d856c473e545612e4bd216c2e326c8b5ae63f16c75d7b98abf553cbf8e854a6d",
+        "render": "01cc52031bd03bc052a8853334ff90d5f13e3965c137a149bdcc60d3a1a8c172",
+        "sim": "5e264c58df95a1be6115e219d792202f27a2bb58bcf610a7e10e4dff0217d5fe",
+        "ui": "621e4892a2ce870b16dd3ff4d69749023e2f125a4d5bcc008ce34089e7c33673"
+      }
+    },
+    {
+      "code": "TSP11P",
+      "rawFiles": 150,
+      "rawTreeSha256": "d3cb494d13c4ab5ce715aa9d0ddee02107059f2c7022063f81f6d4f829445cd6",
+      "manifestSha256": "954dec381adb6e30a1a93200a39f70f33abd4f281aefd8a10d9cb3fb39fed23d",
+      "canonicalGroups": {
+        "audio": "218fb03420c14b292a280c8acf3d86d57b3b6189cb433720032e49a160afd906",
+        "render": "97bd3981fec01f3cd38d8d9c4ec00b36976acfba505cd329253b055212399951",
+        "sim": "b49ee22753b0cab64b3af1ea6bac5804a47be79f584447503c96c6e903987c5a",
+        "ui": "61f31ef4090a47271fb856d03d3b9a9e82a939ad7ce11d2edf7525bb0b20768a"
+      }
+    },
+    {
+      "code": "WAR06P",
+      "rawFiles": 142,
+      "rawTreeSha256": "fdbeea3a80c2d6ec7596a1fa137163ae5aa861e919d06a372f7e826166996352",
+      "manifestSha256": "55cfcd4ad9c53762a0d807c667dc2c1bff532750a46a6d54641426c586b54499",
+      "canonicalGroups": {
+        "audio": "00e9dc089b2872a7abd500749e621bfc2cabc60e40b84059250f2c4de4c10223",
+        "render": "7b379575682e7e9ded6317e9e85d82e0c7f34e183b9c50403ab5d8592544d5f3",
+        "sim": "4061f2a533a59892782fc8a855af5633b1d53f02b49c92f549ba5c6a8ca8f2ca",
+        "ui": "02ce5a975cb51bd72b7ccb65d6fcb37da5c8eb74b0e89325adc849fcb383b984"
+      }
+    }
+  ]
+}

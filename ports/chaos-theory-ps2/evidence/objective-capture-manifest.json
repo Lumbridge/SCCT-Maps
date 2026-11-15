@@ -1,0 +1,1089 @@
+[
+  {
+    "key": {
+      "table": "common:29",
+      "ref": 1
+    },
+    "role": "original extraction vial mesh",
+    "start": 1848430,
+    "end": 1865580,
+    "source_sha256": "f752e49533d69129b5336d89b6a45215911be98b3588afea019c2ad4be4530d1",
+    "properties": {
+      "Materials": [
+        {
+          "EnableCollision": true,
+          "Material": -6
+        },
+        {
+          "EnableCollision": true,
+          "Material": -7
+        }
+      ]
+    },
+    "dependencies": [
+      {
+        "table": "common:30",
+        "ref": 4
+      },
+      {
+        "table": "common:30",
+        "ref": 3
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-29-1.bin",
+    "vertices": 138,
+    "sections": [
+      {
+        "strip": 1,
+        "first_index": 0,
+        "first_vertex": 18,
+        "last_vertex": 137,
+        "triangles": 76,
+        "primitives": 188
+      },
+      {
+        "strip": 1,
+        "first_index": 190,
+        "first_vertex": 0,
+        "last_vertex": 17,
+        "triangles": 16,
+        "primitives": 22
+      }
+    ],
+    "box_min": [
+      -6.018899917602539,
+      -6.018700122833252,
+      -16.21150016784668
+    ],
+    "box_max": [
+      6.018899917602539,
+      6.018700122833252,
+      16.217100143432617
+    ]
+  },
+  {
+    "key": {
+      "table": "common:30",
+      "ref": 4
+    },
+    "role": "vial outer casing texture",
+    "start": 3576590,
+    "end": 3580786,
+    "source_sha256": "2a25422298de453609e4b3b00a2e069c719dc296145f3a27a766bbde0398b156",
+    "properties": {
+      "Palette": 1,
+      "MipZero": [
+        32,
+        35,
+        33,
+        63
+      ],
+      "LastUpdateTime": 16795266.0,
+      "CreationMode": 2,
+      "USize": 64,
+      "VSize": 64,
+      "UClamp": 64,
+      "VClamp": 64,
+      "UBits": 6,
+      "VBits": 6
+    },
+    "dependencies": [
+      {
+        "table": "common:30",
+        "ref": 1
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-30-4.bin",
+    "rgba_sha256": "b4293a6b0bb2781d26c6026b7a98bdbb89f06cbfa4340fd186bd01e69e10966e"
+  },
+  {
+    "key": {
+      "table": "common:30",
+      "ref": 3
+    },
+    "role": "green vial inner cylinder texture",
+    "start": 3580786,
+    "end": 3584982,
+    "source_sha256": "bb16b61cd2a7be313a4c35eee03ddb73685708c69863f0f290543185c30a2b3f",
+    "properties": {
+      "Palette": 2,
+      "MipZero": [
+        19,
+        38,
+        3,
+        63
+      ],
+      "LastUpdateTime": 16795268.0,
+      "CreationMode": 2,
+      "USize": 64,
+      "VSize": 64,
+      "UClamp": 64,
+      "VClamp": 64,
+      "UBits": 6,
+      "VBits": 6
+    },
+    "dependencies": [
+      {
+        "table": "common:30",
+        "ref": 2
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-30-3.bin",
+    "rgba_sha256": "1ca6dedc299a06f9a8d1504f84f976d6f4618822658094de7dde061d279d99ca"
+  },
+  {
+    "key": {
+      "table": "common:30",
+      "ref": 1
+    },
+    "role": "outer casing palette",
+    "start": 6755433,
+    "end": 6756465,
+    "source_sha256": "1e17310019b31d659acf8b5c85be6a4daae290b728d2d367a37a9d6bf88736df",
+    "properties": {},
+    "dependencies": [],
+    "capture": "work\\ps2_objectives\\common-30-1.bin"
+  },
+  {
+    "key": {
+      "table": "common:30",
+      "ref": 2
+    },
+    "role": "green inner cylinder palette",
+    "start": 6756465,
+    "end": 6757497,
+    "source_sha256": "a39f170078011fd0cff0b184be74f21e7950053fb00ae7ee166f9545565dffee",
+    "properties": {},
+    "dependencies": [],
+    "capture": "work\\ps2_objectives\\common-30-2.bin"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 25
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 2301339,
+    "end": 2301377,
+    "source_sha256": "da4c94ccefc82f95dc053448891d8b90bdb26a4140b662e9c8b8a3857bb9abc2",
+    "properties": {
+      "Diffuse": 1,
+      "SelfIllumination": 1,
+      "SelfIlluminationMask": 1,
+      "OutputBlending": 3,
+      "SurfaceType": 14,
+      "OcclusionType": 1
+    },
+    "dependencies": [
+      {
+        "table": "common:10",
+        "ref": 1
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-10-25.bin"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 24
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 2301377,
+    "end": 2301415,
+    "source_sha256": "6d2d2a4a3718fa861f322e62cb0ac8098dd159051b7dbe2236dba4edd6bae1f9",
+    "properties": {
+      "Diffuse": 4,
+      "SelfIllumination": 4,
+      "SelfIlluminationMask": 3,
+      "OutputBlending": 5,
+      "SurfaceType": 14,
+      "OcclusionType": 1
+    },
+    "dependencies": [
+      {
+        "table": "common:10",
+        "ref": 4
+      },
+      {
+        "table": "common:10",
+        "ref": 3
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-10-24.bin"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 22
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 2301415,
+    "end": 2301453,
+    "source_sha256": "c6a7c6143ba1cd40adf72ef654662508539ef5df69bb601ace70e4ca5b3e07c2",
+    "properties": {
+      "Diffuse": 2,
+      "SelfIllumination": 2,
+      "SelfIlluminationMask": 2,
+      "OutputBlending": 3,
+      "SurfaceType": 14,
+      "OcclusionType": 1
+    },
+    "dependencies": [
+      {
+        "table": "common:10",
+        "ref": 2
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-10-22.bin"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 26
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 2301453,
+    "end": 2301479,
+    "source_sha256": "704361e6060c779aa960ac88236c92548daf85bcd3af45b1897231a8282335c6",
+    "properties": {
+      "Diffuse": 13,
+      "OutputBlending": 3,
+      "SurfaceType": 14,
+      "OcclusionType": 1
+    },
+    "dependencies": [
+      {
+        "table": "common:10",
+        "ref": 13
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-10-26.bin"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 28
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 2301479,
+    "end": 2301505,
+    "source_sha256": "73bded57de9895d07c82aed6efeddfc6ef8f97acc4738fba10c6b1cee131d21d",
+    "properties": {
+      "Diffuse": 11,
+      "OutputBlending": 3,
+      "SurfaceType": 14,
+      "OcclusionType": 1
+    },
+    "dependencies": [
+      {
+        "table": "common:10",
+        "ref": 11
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-10-28.bin"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 1
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 3641175,
+    "end": 3641415,
+    "source_sha256": "b79697410309486707a092eb15ce4d5fb09ec1c1a227157c48c63ddd949d5525",
+    "properties": {
+      "Palette": 15,
+      "MipZero": [
+        0,
+        10,
+        0,
+        63
+      ],
+      "LastUpdateTime": 16792896.0,
+      "USize": 16,
+      "VSize": 16,
+      "UClamp": 16,
+      "VClamp": 16,
+      "Format": 12,
+      "UBits": 4,
+      "VBits": 4,
+      "SurfaceType": 14,
+      "OcclusionType": 1
+    },
+    "dependencies": [
+      {
+        "table": "common:10",
+        "ref": 15
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-10-1.bin",
+    "rgba_sha256": "8ed3d187985f13f95c71f281e7067ca4b745a9da619b3d99d1c6d75a906336d2"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 4
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 3641415,
+    "end": 3641643,
+    "source_sha256": "58a0859af321449a1fad75625fb5861fb047e7ae1f76b383d423e06333dbd42d",
+    "properties": {
+      "PanRate": 0.05000000074505806,
+      "M": {
+        "XPlane": {
+          "W": 0.0,
+          "X": 1.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "YPlane": {
+          "W": 0.0,
+          "X": 0.0,
+          "Y": 1.0,
+          "Z": 0.0
+        },
+        "ZPlane": {
+          "W": 0.0,
+          "X": 0.539006233215332,
+          "Y": 0.0,
+          "Z": 1.0
+        },
+        "WPlane": {
+          "W": 1.0,
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      },
+      "Material": 3,
+      "SurfaceType": 14,
+      "OcclusionType": 1
+    },
+    "dependencies": [
+      {
+        "table": "common:10",
+        "ref": 3
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-10-4.bin"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 3
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 3641643,
+    "end": 3642267,
+    "source_sha256": "13dfbce5d40af1f3ed27cd1862c479b18beaf12556b822d27c83b27874cf0286",
+    "properties": {
+      "Palette": 18,
+      "MipZero": [
+        9,
+        49,
+        1,
+        63
+      ],
+      "LastUpdateTime": 16792738.0,
+      "USize": 32,
+      "VSize": 32,
+      "UClamp": 32,
+      "VClamp": 32,
+      "Format": 12,
+      "UBits": 5,
+      "VBits": 5,
+      "SurfaceType": 14,
+      "OcclusionType": 1
+    },
+    "dependencies": [
+      {
+        "table": "common:10",
+        "ref": 18
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-10-3.bin",
+    "rgba_sha256": "116e4be9a9ef1dbad2dcbd19d54a07b379cfa83a5a55370f7417fa15743672b1"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 2
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 3642267,
+    "end": 3642507,
+    "source_sha256": "4fb6e5a031a2c7270dc3d4ec4515d0292e414a37da44b8726640abce859478db",
+    "properties": {
+      "Palette": 20,
+      "MipZero": [
+        10,
+        3,
+        0,
+        15
+      ],
+      "LastUpdateTime": 16881922.0,
+      "USize": 16,
+      "VSize": 16,
+      "UClamp": 16,
+      "VClamp": 16,
+      "Format": 12,
+      "UBits": 4,
+      "VBits": 4,
+      "SurfaceType": 14,
+      "OcclusionType": 1
+    },
+    "dependencies": [
+      {
+        "table": "common:10",
+        "ref": 20
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-10-2.bin",
+    "rgba_sha256": "012e26b8dc6cae70770d0e95cfc8bc3a3dd5590f6c50176cb23928c859fc65b5"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 13
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 3642507,
+    "end": 3642650,
+    "source_sha256": "8e029e1b8e01928917d0d7a12e3977144baa93f6e894691f79598b57a625eb0c",
+    "properties": {
+      "Palette": 21,
+      "MipZero": [
+        0,
+        0,
+        0,
+        63
+      ],
+      "LastUpdateTime": 16792896.0,
+      "USize": 8,
+      "VSize": 8,
+      "UClamp": 8,
+      "VClamp": 8,
+      "Format": 12,
+      "UBits": 3,
+      "VBits": 3,
+      "SurfaceType": 14,
+      "OcclusionType": 1
+    },
+    "dependencies": [
+      {
+        "table": "common:10",
+        "ref": 21
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-10-13.bin",
+    "rgba_sha256": "2c893cd47b6757133987906e00c55e6dcce3c567b9df9e7f91ffecd3604cc6a6"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 11
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 3642650,
+    "end": 3643274,
+    "source_sha256": "e93f118634bbda3984f2f4ae536711187a3eb7fd670dd16f7a83f580c2579690",
+    "properties": {
+      "Palette": 9,
+      "MipZero": [
+        20,
+        20,
+        20,
+        63
+      ],
+      "LastUpdateTime": 16792724.0,
+      "USize": 32,
+      "VSize": 32,
+      "UClamp": 32,
+      "VClamp": 32,
+      "Format": 12,
+      "UBits": 5,
+      "VBits": 5,
+      "SurfaceType": 14,
+      "OcclusionType": 1
+    },
+    "dependencies": [
+      {
+        "table": "common:10",
+        "ref": 9
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-10-11.bin",
+    "rgba_sha256": "a4b24ef78659951e5c4338589ef10fe0df7fe20f6f79554e6f3c9c751026eede"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 31
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 3643274,
+    "end": 3643294,
+    "source_sha256": "d6aa08e432c8141e9a10d539c5fc702f661f19a16b0567a08c022a8c3181139b",
+    "properties": {
+      "HeatTexture": 6,
+      "bUseTextureAsHeat": true,
+      "Material": 17
+    },
+    "dependencies": [
+      {
+        "table": "common:10",
+        "ref": 6
+      },
+      {
+        "table": "common:10",
+        "ref": 17
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-10-31.bin"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 23
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 3643294,
+    "end": 3643314,
+    "source_sha256": "b0a71c54a0fd10e9e352931fb57ea21999eb98125f2c694ff232dfc8a2bd0f1f",
+    "properties": {
+      "HeatTexture": 5,
+      "bUseTextureAsHeat": true,
+      "Material": 16
+    },
+    "dependencies": [
+      {
+        "table": "common:10",
+        "ref": 5
+      },
+      {
+        "table": "common:10",
+        "ref": 16
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-10-23.bin"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 30
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 3643314,
+    "end": 3643340,
+    "source_sha256": "f8f517528e5c6b2593f4cc9d728469fe0000e333b32c3b6d41d6c9b1e74fd366",
+    "properties": {
+      "FrameBufferBlending": 4,
+      "Material": 1,
+      "SurfaceType": 14,
+      "OcclusionType": 1
+    },
+    "dependencies": [
+      {
+        "table": "common:10",
+        "ref": 1
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-10-30.bin"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 15
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 6768862,
+    "end": 6768933,
+    "source_sha256": "1b8d9e79fd3daf94cc6d5f09dac65eaf4088db686cb16a3dd43678caf617b313",
+    "properties": {},
+    "dependencies": [],
+    "capture": "work\\ps2_objectives\\common-10-15.bin"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 18
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 6768933,
+    "end": 6769004,
+    "source_sha256": "8a84e655e496e4a18a78a8de1b3bcc3543e0935623042fc3e6681ee51d472439",
+    "properties": {},
+    "dependencies": [],
+    "capture": "work\\ps2_objectives\\common-10-18.bin"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 20
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 6769004,
+    "end": 6769075,
+    "source_sha256": "e1e47846dea3b178ea5071d9879cf718b5e5eb1be7c754e58b6b3aa65eb2466a",
+    "properties": {},
+    "dependencies": [],
+    "capture": "work\\ps2_objectives\\common-10-20.bin"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 21
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 6769075,
+    "end": 6769146,
+    "source_sha256": "b2ac3789b59d99fbc2b6da8d8c61784bc1477e093050056055a0409ef638d5cf",
+    "properties": {},
+    "dependencies": [],
+    "capture": "work\\ps2_objectives\\common-10-21.bin"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 9
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 6769146,
+    "end": 6769217,
+    "source_sha256": "c131e54f489241ada6a339e94c35d8b1fc0d1914b57969e416d4a46ff051c355",
+    "properties": {},
+    "dependencies": [],
+    "capture": "work\\ps2_objectives\\common-10-9.bin"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 6
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 6769217,
+    "end": 6785714,
+    "source_sha256": "fe738f0ce34862afe862dc223ecb7dc27324a58fb48a044754c8facb9fb8cc05",
+    "properties": {
+      "Palette": 10,
+      "MipZero": [
+        31,
+        32,
+        32,
+        63
+      ],
+      "LastUpdateTime": 16792730.0,
+      "CreationMode": 2,
+      "USize": 128,
+      "VSize": 128,
+      "UClamp": 128,
+      "VClamp": 128,
+      "UBits": 7,
+      "VBits": 7,
+      "SurfaceType": 14,
+      "OcclusionType": 1
+    },
+    "dependencies": [
+      {
+        "table": "common:10",
+        "ref": 10
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-10-6.bin",
+    "rgba_sha256": "689c4010d7adda5ac4809b3636b8b31a976569e82e9479e30dce2c5d3a564b57"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 17
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 6785714,
+    "end": 6785728,
+    "source_sha256": "c172a6cd913154d47279faa8d7fb9d3656465ac6817c6c41c5dcb612d03a4e9a",
+    "properties": {
+      "EMFTexture": 8,
+      "Material": 6
+    },
+    "dependencies": [
+      {
+        "table": "common:10",
+        "ref": 8
+      },
+      {
+        "table": "common:10",
+        "ref": 6
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-10-17.bin"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 5
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 6785728,
+    "end": 6786352,
+    "source_sha256": "d7504501e536fe7d42dbf7ed2561e7926ef480072adf0e00d1e07580afa454a1",
+    "properties": {
+      "Palette": 7,
+      "MipZero": [
+        22,
+        22,
+        23,
+        63
+      ],
+      "LastUpdateTime": 16792734.0,
+      "USize": 32,
+      "VSize": 32,
+      "UClamp": 32,
+      "VClamp": 32,
+      "Format": 12,
+      "UBits": 5,
+      "VBits": 5,
+      "SurfaceType": 14,
+      "OcclusionType": 1
+    },
+    "dependencies": [
+      {
+        "table": "common:10",
+        "ref": 7
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-10-5.bin",
+    "rgba_sha256": "f5dc5e763d936afd061f872743eb4273bde808082a4ce810162e44da74a57cf2"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 16
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 6786352,
+    "end": 6786366,
+    "source_sha256": "0d4d0eca53d98fd8df9672ac75896f8c55019e92f56e54127a4e737b47272597",
+    "properties": {
+      "EMFTexture": 12,
+      "Material": 5
+    },
+    "dependencies": [
+      {
+        "table": "common:10",
+        "ref": 12
+      },
+      {
+        "table": "common:10",
+        "ref": 5
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-10-16.bin"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 10
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 7119799,
+    "end": 7120831,
+    "source_sha256": "e580c9d0f3652644400ec8e138a3b8d2be992eedd72da21b666f5b76dca5da9f",
+    "properties": {},
+    "dependencies": [],
+    "capture": "work\\ps2_objectives\\common-10-10.bin"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 8
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 7120831,
+    "end": 7122985,
+    "source_sha256": "937075461476da7168f1dd02941c50eb69d728716b322c5f97baf2a8eee4cc4e",
+    "properties": {
+      "Palette": 19,
+      "MipZero": [
+        12,
+        12,
+        12,
+        63
+      ],
+      "LastUpdateTime": 16787764.0,
+      "CreationMode": 1,
+      "USize": 64,
+      "VSize": 64,
+      "UClamp": 64,
+      "VClamp": 64,
+      "Format": 12,
+      "UBits": 6,
+      "VBits": 6
+    },
+    "dependencies": [
+      {
+        "table": "common:10",
+        "ref": 19
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-10-8.bin",
+    "rgba_sha256": "0d9762b76eb20b53055c9e56daf54070538343c7652553448b84f1a1101e4a03"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 7
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 7122985,
+    "end": 7123056,
+    "source_sha256": "a1789da294ab77231575773024fac7a503758c7bcea0ad882441869a0ade3f4b",
+    "properties": {},
+    "dependencies": [],
+    "capture": "work\\ps2_objectives\\common-10-7.bin"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 12
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 7123056,
+    "end": 7123284,
+    "source_sha256": "6cc081b08900b12042921aaac6a4b3bb41eaf391642a541b49d40daf28502f34",
+    "properties": {
+      "Palette": 14,
+      "MipZero": [
+        12,
+        12,
+        12,
+        63
+      ],
+      "LastUpdateTime": 16787764.0,
+      "USize": 16,
+      "VSize": 16,
+      "UClamp": 16,
+      "VClamp": 16,
+      "Format": 12,
+      "UBits": 4,
+      "VBits": 4
+    },
+    "dependencies": [
+      {
+        "table": "common:10",
+        "ref": 14
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-10-12.bin",
+    "rgba_sha256": "1c6c402a18f871f6bc0c2732e4b823268a6d8ba706bb56e364e94be49ad28244"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 19
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 7282019,
+    "end": 7282090,
+    "source_sha256": "53046a52ab8c664b042a9cd541d05c8ce8f62224ca04028bf5546c0ad541ecf9",
+    "properties": {},
+    "dependencies": [],
+    "capture": "work\\ps2_objectives\\common-10-19.bin"
+  },
+  {
+    "key": {
+      "table": "common:10",
+      "ref": 14
+    },
+    "role": "original ND133 proxy material graph",
+    "start": 7282090,
+    "end": 7282161,
+    "source_sha256": "c0fa478176a616b2cc23374e15eea00edd72fa7f4d6d593b1dd2535b8776ad8c",
+    "properties": {},
+    "dependencies": [],
+    "capture": "work\\ps2_objectives\\common-10-14.bin"
+  },
+  {
+    "key": {
+      "table": "common:7",
+      "ref": 11
+    },
+    "role": "original PS2 sabotage modem mesh",
+    "start": 3376476,
+    "end": 3389311,
+    "source_sha256": "7be395923b9175a61893eb5f483eefdc30bc808d16114a29230cfcec5fdad257",
+    "properties": {
+      "Materials": [
+        {
+          "EnableCollision": true,
+          "Material": -19
+        },
+        {
+          "EnableCollision": true,
+          "Material": -20
+        }
+      ]
+    },
+    "dependencies": [
+      {
+        "table": "common:8",
+        "ref": 153
+      },
+      {
+        "table": "common:8",
+        "ref": 5
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-7-11.bin"
+  },
+  {
+    "key": {
+      "table": "common:8",
+      "ref": 153
+    },
+    "role": "modem heat material",
+    "start": 6602352,
+    "end": 6602384,
+    "source_sha256": "45768e0c5beaae67f615472f9efd1527565062be97a9ec3bd7aac7d0cc6d573c",
+    "properties": {
+      "HeatTexture": 3,
+      "bUseTextureAsHeat": true,
+      "HeatTextureType": 1,
+      "Material": 46,
+      "SurfaceType": 14
+    },
+    "dependencies": [
+      {
+        "table": "common:8",
+        "ref": 3
+      },
+      {
+        "table": "common:8",
+        "ref": 46
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-8-153.bin"
+  },
+  {
+    "key": {
+      "table": "common:8",
+      "ref": 5
+    },
+    "role": "modem green text screen",
+    "start": 6602384,
+    "end": 6602746,
+    "source_sha256": "d43a8cb8f88dfdf880d0ab9853ad957a3455e09a0d25371e08e1dbc96f0012c4",
+    "properties": {
+      "Palette": 47,
+      "MipZero": [
+        3,
+        10,
+        0,
+        12
+      ],
+      "LastUpdateTime": 16826640.0,
+      "USize": 32,
+      "VSize": 16,
+      "UClamp": 32,
+      "VClamp": 16,
+      "Format": 12,
+      "UBits": 5,
+      "VBits": 4,
+      "OcclusionType": 1
+    },
+    "dependencies": [
+      {
+        "table": "common:8",
+        "ref": 47
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-8-5.bin",
+    "rgba_sha256": "945ec2fb05cde725ec4593063bfb41f606c58dc2299dc332b7e277c25f23ccbc"
+  },
+  {
+    "key": {
+      "table": "common:8",
+      "ref": 3
+    },
+    "role": "modem casing texture",
+    "start": 6992600,
+    "end": 6994766,
+    "source_sha256": "02fa86506f927ddfd210b027a5709f12cf5dce1bf77766abdb646ab306d2c504",
+    "properties": {
+      "Palette": 49,
+      "MipZero": [
+        9,
+        9,
+        9,
+        63
+      ],
+      "LastUpdateTime": 16826640.0,
+      "CreationMode": 1,
+      "USize": 64,
+      "VSize": 64,
+      "UClamp": 64,
+      "VClamp": 64,
+      "Format": 12,
+      "UBits": 6,
+      "VBits": 6,
+      "SurfaceType": 14,
+      "OcclusionType": 1
+    },
+    "dependencies": [
+      {
+        "table": "common:8",
+        "ref": 49
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-8-3.bin",
+    "rgba_sha256": "2bcc40ff312415dce62c801f2dbd04288a39b08282382958fc511615b167372f"
+  },
+  {
+    "key": {
+      "table": "common:8",
+      "ref": 46
+    },
+    "role": "modem EMF material",
+    "start": 6994766,
+    "end": 6994786,
+    "source_sha256": "162f4c124d5f80ee5552d1259fdf766b71cd307836d697e835ab7cfdba748bb0",
+    "properties": {
+      "EMFTexture": 3,
+      "Material": 3,
+      "SurfaceType": 14
+    },
+    "dependencies": [
+      {
+        "table": "common:8",
+        "ref": 3
+      }
+    ],
+    "capture": "work\\ps2_objectives\\common-8-46.bin"
+  },
+  {
+    "key": {
+      "table": "common:8",
+      "ref": 47
+    },
+    "role": "modem green screen palette",
+    "start": 6994786,
+    "end": 6994857,
+    "source_sha256": "726f855e89089604ac1cb77a76094528a89c00c8a73a5b37e1bf959583181dd6",
+    "properties": {},
+    "dependencies": [],
+    "capture": "work\\ps2_objectives\\common-8-47.bin"
+  },
+  {
+    "key": {
+      "table": "common:8",
+      "ref": 49
+    },
+    "role": "modem casing palette",
+    "start": 7240116,
+    "end": 7240187,
+    "source_sha256": "3aeab5a0d4e0de3f1deb4c51097bf9f780398a591cb67538ea931a15e149d524",
+    "properties": {},
+    "dependencies": [],
+    "capture": "work\\ps2_objectives\\common-8-49.bin"
+  }
+]

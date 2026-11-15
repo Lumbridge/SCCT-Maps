@@ -1,0 +1,3395 @@
+{
+  "schema_version": 1,
+  "status": "native-policy-proven-awaiting-final-emitted-byte-tests",
+  "scope": "Native Enhanced/Reloaded compatibility only; OpenSCCT retains original source poses",
+  "baseline": "PS2 pickup80 and Computer UseRelativeLocation90, with authored values preserved",
+  "flags": 51,
+  "computers": 77,
+  "entries": [
+    {
+      "map": "DTK02",
+      "source_ref": 160,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 90.0,
+      "source_location": [
+        -1748.97119140625,
+        -3168.098876953125,
+        606.00146484375
+      ],
+      "source_rotation": [
+        0,
+        16388,
+        136
+      ],
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\endpoint-audit.json",
+          "sha256": "0cbaaee7b4a6cbd1866d8346881c25fbc58a204710a1bf42e7795fc1c5ab1307"
+        },
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\validation.json",
+          "sha256": "5d2691feebf5a955f18560e9546c856183676ef78ffe6542f127c0016b954ae4"
+        }
+      ],
+      "runtime_map_sha256": "f6548cd644633d51b2cdb65ff9e92fbada999e52feb80fde653d2df7a7e05fb4",
+      "native_clearance": {
+        "clear": true,
+        "requested": [
+          -1749.0056746463172,
+          -3078.098881879922,
+          601.0050048828125
+        ],
+        "actual": [
+          -1749.005615234375,
+          -3078.098876953125,
+          599.5999755859375
+        ],
+        "xy_error": 5.961587205490913e-05,
+        "z_delta": -1.405029296875,
+        "native_set_location": true,
+        "reference": {
+          "point": [
+            -1749.0689697265625,
+            -2965.10009765625,
+            601.0050048828125
+          ],
+          "floor": {
+            "actor": "LevelInfo0",
+            "class": "LevelInfo",
+            "at": [
+              -1749.1,
+              -2965.1,
+              512.5
+            ]
+          },
+          "requested": [
+            -1749.0690291337628,
+            -2965.1000132361705,
+            602.0
+          ]
+        }
+      },
+      "normal_use_verified": false,
+      "source_forward_origin": "original-class-default",
+      "source_proxy_ref": 123
+    },
+    {
+      "map": "DTK02",
+      "source_ref": 148,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 90.0,
+      "source_location": [
+        3239.47607421875,
+        -5664.09423828125,
+        604.8734741210938
+      ],
+      "source_rotation": [
+        4,
+        -32804,
+        0
+      ],
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\endpoint-audit.json",
+          "sha256": "0cbaaee7b4a6cbd1866d8346881c25fbc58a204710a1bf42e7795fc1c5ab1307"
+        },
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\validation.json",
+          "sha256": "5d2691feebf5a955f18560e9546c856183676ef78ffe6542f127c0016b954ae4"
+        }
+      ],
+      "runtime_map_sha256": "f6548cd644633d51b2cdb65ff9e92fbada999e52feb80fde653d2df7a7e05fb4",
+      "native_clearance": {
+        "clear": true,
+        "requested": [
+          3149.4764782156753,
+          -5663.783401309855,
+          601.0050048828125
+        ],
+        "actual": [
+          3149.4765625,
+          -5663.783203125,
+          599.5999755859375
+        ],
+        "xy_error": 0.00021536268085900397,
+        "z_delta": -1.405029296875,
+        "native_set_location": true,
+        "reference": {
+          "point": [
+            3036.5009765625,
+            -5663.37890625,
+            601.0050048828125
+          ],
+          "floor": {
+            "actor": "LevelInfo0",
+            "class": "LevelInfo",
+            "at": [
+              3036.5,
+              -5663.4,
+              512.5
+            ]
+          },
+          "requested": [
+            3036.5010853648746,
+            -5663.378739060059,
+            602.0
+          ]
+        }
+      },
+      "normal_use_verified": false,
+      "source_forward_origin": "original-class-default",
+      "source_proxy_ref": 130
+    },
+    {
+      "map": "MHO05",
+      "source_ref": 124,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 90,
+      "source_location": [
+        2187.12109375,
+        -178.80360412597656,
+        250.4808807373047
+      ],
+      "source_rotation": [
+        0,
+        -144596,
+        0
+      ],
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\endpoint-audit.json",
+          "sha256": "838326ffb8fe1045fe73659effa714f704f13c094d8cad625f531abe76a4b214"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\validation.json",
+          "sha256": "2dae70a15b6e7e8a27937123442d2020b55c7cf53dea152a53452163ed39d2eb"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-ca9eaab31c\\mho90-flag-normal-use-control.json",
+          "sha256": "bef21ff65a9ae34c32589bb661d7683972c76fab2f1529a2dd2d388795939f82"
+        }
+      ],
+      "runtime_map_sha256": "f25816ff9563b281857022491e933d1f74c8e4c4e86a2b30c1298e494e8d46d1",
+      "native_clearance": {
+        "clear": false,
+        "requested": [
+          2211.490869671231,
+          -265.44142118248305,
+          249.0050048828125
+        ],
+        "actual": [
+          2133.73974609375,
+          -321.5340881347656,
+          249.0050048828125
+        ],
+        "xy_error": 95.87296023061145,
+        "z_delta": 0.0,
+        "native_set_location": false,
+        "reference": {
+          "point": [
+            2133.73974609375,
+            -321.5340881347656,
+            249.0050048828125
+          ],
+          "floor": {
+            "actor": "LevelInfo0",
+            "class": "LevelInfo",
+            "at": [
+              2133.7,
+              -321.5,
+              160.5
+            ]
+          },
+          "requested": [
+            2133.739786860226,
+            -321.5340789774792,
+            250.0
+          ]
+        }
+      },
+      "normal_use_verified": true,
+      "source_forward_origin": "original-class-default",
+      "source_proxy_ref": 135
+    },
+    {
+      "map": "MHO05",
+      "source_ref": 153,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 90.0,
+      "source_location": [
+        2905.093505859375,
+        -1742.6346435546875,
+        248.3956756591797
+      ],
+      "source_rotation": [
+        0,
+        16488,
+        0
+      ],
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\endpoint-audit.json",
+          "sha256": "838326ffb8fe1045fe73659effa714f704f13c094d8cad625f531abe76a4b214"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\validation.json",
+          "sha256": "2dae70a15b6e7e8a27937123442d2020b55c7cf53dea152a53452163ed39d2eb"
+        }
+      ],
+      "runtime_map_sha256": "f25816ff9563b281857022491e933d1f74c8e4c4e86a2b30c1298e494e8d46d1",
+      "native_clearance": {
+        "clear": true,
+        "requested": [
+          2904.196220248703,
+          -1652.6390726746552,
+          249.0050048828125
+        ],
+        "actual": [
+          2904.1962890625,
+          -1652.6390380859375,
+          247.60000610351562
+        ],
+        "xy_error": 7.70176476683848e-05,
+        "z_delta": -1.404998779296875,
+        "native_set_location": true,
+        "reference": {
+          "point": [
+            2903.105224609375,
+            -1539.60888671875,
+            249.0050048828125
+          ],
+          "floor": {
+            "actor": "LevelInfo0",
+            "class": "LevelInfo",
+            "at": [
+              2903.1,
+              -1539.6,
+              160.5
+            ]
+          },
+          "requested": [
+            2903.105272216665,
+            -1539.6089475774315,
+            250.0
+          ]
+        }
+      },
+      "normal_use_verified": false,
+      "source_forward_origin": "original-class-default",
+      "source_proxy_ref": 134
+    },
+    {
+      "map": "MHO05",
+      "source_ref": 163,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 90.0,
+      "source_location": [
+        2148.33984375,
+        -3861.35888671875,
+        248.4567108154297
+      ],
+      "source_rotation": [
+        0,
+        32736,
+        0
+      ],
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\endpoint-audit.json",
+          "sha256": "838326ffb8fe1045fe73659effa714f704f13c094d8cad625f531abe76a4b214"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\validation.json",
+          "sha256": "2dae70a15b6e7e8a27937123442d2020b55c7cf53dea152a53452163ed39d2eb"
+        }
+      ],
+      "runtime_map_sha256": "f25816ff9563b281857022491e933d1f74c8e4c4e86a2b30c1298e494e8d46d1",
+      "native_clearance": {
+        "clear": true,
+        "requested": [
+          2058.3401590647586,
+          -3861.0827769750063,
+          249.0050048828125
+        ],
+        "actual": [
+          2058.340087890625,
+          -3861.082763671875,
+          247.60000610351562
+        ],
+        "xy_error": 7.240670270192788e-05,
+        "z_delta": -1.404998779296875,
+        "native_set_location": true,
+        "reference": {
+          "point": [
+            1945.3009033203125,
+            -3860.747802734375,
+            249.0050048828125
+          ],
+          "floor": {
+            "actor": "LevelInfo0",
+            "class": "LevelInfo",
+            "at": [
+              1945.3,
+              -3860.7,
+              160.5
+            ]
+          },
+          "requested": [
+            1945.3008471142764,
+            -3860.7477677826664,
+            250.0
+          ]
+        }
+      },
+      "normal_use_verified": false,
+      "source_forward_origin": "original-class-default",
+      "source_proxy_ref": 146
+    },
+    {
+      "map": "MHO05",
+      "source_ref": 155,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 90.0,
+      "source_location": [
+        2597.898193359375,
+        1105.6844482421875,
+        -231.5702667236328
+      ],
+      "source_rotation": [
+        0,
+        -16468,
+        0
+      ],
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\endpoint-audit.json",
+          "sha256": "838326ffb8fe1045fe73659effa714f704f13c094d8cad625f531abe76a4b214"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\validation.json",
+          "sha256": "2dae70a15b6e7e8a27937123442d2020b55c7cf53dea152a53452163ed39d2eb"
+        }
+      ],
+      "runtime_map_sha256": "f25816ff9563b281857022491e933d1f74c8e4c4e86a2b30c1298e494e8d46d1",
+      "native_clearance": {
+        "clear": true,
+        "requested": [
+          2597.173318715429,
+          1015.6873533697808,
+          -230.9949951171875
+        ],
+        "actual": [
+          2597.17333984375,
+          1015.6873779296875,
+          -232.39999389648438
+        ],
+        "xy_error": 3.2397453005691723e-05,
+        "z_delta": -1.404998779296875,
+        "native_set_location": true,
+        "reference": {
+          "point": [
+            2506.897705078125,
+            983.4280395507812,
+            -230.9949951171875
+          ],
+          "floor": {
+            "actor": "LevelInfo0",
+            "class": "LevelInfo",
+            "at": [
+              2506.9,
+              983.4,
+              -319.5
+            ]
+          },
+          "requested": [
+            2506.8975873516056,
+            983.4280409318387,
+            -230.0
+          ]
+        }
+      },
+      "normal_use_verified": false,
+      "source_forward_origin": "original-class-default",
+      "source_proxy_ref": 140
+    },
+    {
+      "map": "MHO05",
+      "source_ref": 159,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 90.0,
+      "source_location": [
+        2907.01611328125,
+        -1771.977783203125,
+        -231.62896728515625
+      ],
+      "source_rotation": [
+        0,
+        15840,
+        0
+      ],
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\endpoint-audit.json",
+          "sha256": "838326ffb8fe1045fe73659effa714f704f13c094d8cad625f531abe76a4b214"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\validation.json",
+          "sha256": "2dae70a15b6e7e8a27937123442d2020b55c7cf53dea152a53452163ed39d2eb"
+        }
+      ],
+      "runtime_map_sha256": "f25816ff9563b281857022491e933d1f74c8e4c4e86a2b30c1298e494e8d46d1",
+      "native_clearance": {
+        "clear": true,
+        "requested": [
+          2911.707912104204,
+          -1682.1001385850473,
+          -230.9949951171875
+        ],
+        "actual": [
+          2911.7080078125,
+          -1682.10009765625,
+          -232.39999389648438
+        ],
+        "xy_error": 0.00010409248002947417,
+        "z_delta": -1.404998779296875,
+        "native_set_location": true,
+        "reference": {
+          "point": [
+            2912.891845703125,
+            -1659.1224365234375,
+            -230.9949951171875
+          ],
+          "floor": {
+            "actor": "LevelInfo0",
+            "class": "LevelInfo",
+            "at": [
+              2912.9,
+              -1659.1,
+              -319.5
+            ]
+          },
+          "requested": [
+            2912.8918534212253,
+            -1659.122380363776,
+            -230.0
+          ]
+        }
+      },
+      "normal_use_verified": false,
+      "source_forward_origin": "original-class-default",
+      "source_proxy_ref": 141
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 151,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 90.0,
+      "source_location": [
+        931.2022094726562,
+        -1494.6763916015625,
+        -167.1433563232422
+      ],
+      "source_rotation": [
+        4,
+        32776,
+        0
+      ],
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b",
+      "native_clearance": {
+        "clear": true,
+        "requested": [
+          841.2022341066386,
+          -1494.745480144452,
+          -166.09500122070312
+        ],
+        "actual": [
+          841.2022094726562,
+          -1494.7454833984375,
+          -167.5
+        ],
+        "xy_error": 2.484796786937067e-05,
+        "z_delta": -1.404998779296875,
+        "native_set_location": true,
+        "reference": {
+          "point": [
+            728.2000732421875,
+            -1494.8380126953125,
+            -166.09500122070312
+          ],
+          "floor": {
+            "actor": "UnknownGlobalPS2_867962",
+            "class": "StaticMeshActor",
+            "at": [
+              728.2,
+              -1494.8,
+              -255.0
+            ]
+          },
+          "requested": [
+            728.2000661808481,
+            -1494.8380582472216,
+            -165.5
+          ]
+        },
+        "collision_from_reference": null
+      },
+      "normal_use_verified": false,
+      "source_forward_origin": "original-class-default",
+      "source_proxy_ref": 112
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 152,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 90.0,
+      "source_location": [
+        -985.2127075195312,
+        -1211.2491455078125,
+        -167.22442626953125
+      ],
+      "source_rotation": [
+        0,
+        -49668,
+        0
+      ],
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b",
+      "native_clearance": {
+        "clear": true,
+        "requested": [
+          -980.7621202168168,
+          -1121.3591917883402,
+          -166.09500122070312
+        ],
+        "actual": [
+          -980.7621459960938,
+          -1121.359130859375,
+          -167.5
+        ],
+        "xy_error": 6.615821887520474e-05,
+        "z_delta": -1.404998779296875,
+        "native_set_location": true,
+        "reference": {
+          "point": [
+            -979.6494140625,
+            -1098.41015625,
+            -166.09500122070312
+          ],
+          "floor": {
+            "actor": "UnknownGlobalPS2_867966",
+            "class": "StaticMeshActor",
+            "at": [
+              -979.6,
+              -1098.4,
+              -255.0
+            ]
+          },
+          "requested": [
+            -979.6494366426924,
+            -1098.4101091011753,
+            -165.5
+          ]
+        },
+        "collision_from_reference": null
+      },
+      "normal_use_verified": false,
+      "source_forward_origin": "original-class-default",
+      "source_proxy_ref": 146
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 154,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 90.0,
+      "source_location": [
+        3380.035400390625,
+        -1309.841796875,
+        216.00674438476562
+      ],
+      "source_rotation": [
+        0,
+        16628,
+        0
+      ],
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b",
+      "native_clearance": {
+        "clear": true,
+        "requested": [
+          3377.9301125320503,
+          -1219.8663542364257,
+          217.0050048828125
+        ],
+        "actual": [
+          3377.93017578125,
+          -1219.8663330078125,
+          215.60000610351562
+        ],
+        "xy_error": 6.67166791509426e-05,
+        "z_delta": -1.404998779296875,
+        "native_set_location": true,
+        "reference": {
+          "point": [
+            3287.185546875,
+            -1188.9326171875,
+            217.0050048828125
+          ],
+          "floor": {
+            "actor": "LevelInfo0",
+            "class": "LevelInfo",
+            "at": [
+              3287.2,
+              -1188.9,
+              128.5
+            ]
+          },
+          "requested": [
+            3287.185517428156,
+            -1188.9325574693366,
+            218.0
+          ]
+        },
+        "collision_from_reference": null
+      },
+      "normal_use_verified": false,
+      "source_forward_origin": "original-class-default",
+      "source_proxy_ref": 113
+    }
+  ],
+  "audits": [
+    {
+      "map": "DTK02",
+      "source_ref": 160,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\endpoint-audit.json",
+          "sha256": "0cbaaee7b4a6cbd1866d8346881c25fbc58a204710a1bf42e7795fc1c5ab1307"
+        },
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\validation.json",
+          "sha256": "5d2691feebf5a955f18560e9546c856183676ef78ffe6542f127c0016b954ae4"
+        }
+      ],
+      "runtime_map_sha256": "f6548cd644633d51b2cdb65ff9e92fbada999e52feb80fde653d2df7a7e05fb4"
+    },
+    {
+      "map": "DTK02",
+      "source_ref": 159,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\endpoint-audit.json",
+          "sha256": "0cbaaee7b4a6cbd1866d8346881c25fbc58a204710a1bf42e7795fc1c5ab1307"
+        },
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\validation.json",
+          "sha256": "5d2691feebf5a955f18560e9546c856183676ef78ffe6542f127c0016b954ae4"
+        }
+      ],
+      "runtime_map_sha256": "f6548cd644633d51b2cdb65ff9e92fbada999e52feb80fde653d2df7a7e05fb4"
+    },
+    {
+      "map": "DTK02",
+      "source_ref": 148,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\endpoint-audit.json",
+          "sha256": "0cbaaee7b4a6cbd1866d8346881c25fbc58a204710a1bf42e7795fc1c5ab1307"
+        },
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\validation.json",
+          "sha256": "5d2691feebf5a955f18560e9546c856183676ef78ffe6542f127c0016b954ae4"
+        }
+      ],
+      "runtime_map_sha256": "f6548cd644633d51b2cdb65ff9e92fbada999e52feb80fde653d2df7a7e05fb4"
+    },
+    {
+      "map": "DTK02",
+      "source_ref": 142,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\endpoint-audit.json",
+          "sha256": "0cbaaee7b4a6cbd1866d8346881c25fbc58a204710a1bf42e7795fc1c5ab1307"
+        },
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\validation.json",
+          "sha256": "5d2691feebf5a955f18560e9546c856183676ef78ffe6542f127c0016b954ae4"
+        }
+      ],
+      "runtime_map_sha256": "f6548cd644633d51b2cdb65ff9e92fbada999e52feb80fde653d2df7a7e05fb4"
+    },
+    {
+      "map": "DTK02",
+      "source_ref": 143,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\endpoint-audit.json",
+          "sha256": "0cbaaee7b4a6cbd1866d8346881c25fbc58a204710a1bf42e7795fc1c5ab1307"
+        },
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\validation.json",
+          "sha256": "5d2691feebf5a955f18560e9546c856183676ef78ffe6542f127c0016b954ae4"
+        }
+      ],
+      "runtime_map_sha256": "f6548cd644633d51b2cdb65ff9e92fbada999e52feb80fde653d2df7a7e05fb4"
+    },
+    {
+      "map": "DTK02",
+      "source_ref": 141,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\endpoint-audit.json",
+          "sha256": "0cbaaee7b4a6cbd1866d8346881c25fbc58a204710a1bf42e7795fc1c5ab1307"
+        },
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\validation.json",
+          "sha256": "5d2691feebf5a955f18560e9546c856183676ef78ffe6542f127c0016b954ae4"
+        }
+      ],
+      "runtime_map_sha256": "f6548cd644633d51b2cdb65ff9e92fbada999e52feb80fde653d2df7a7e05fb4"
+    },
+    {
+      "map": "DTK02",
+      "source_ref": 123,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\endpoint-audit.json",
+          "sha256": "0cbaaee7b4a6cbd1866d8346881c25fbc58a204710a1bf42e7795fc1c5ab1307"
+        },
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\validation.json",
+          "sha256": "5d2691feebf5a955f18560e9546c856183676ef78ffe6542f127c0016b954ae4"
+        }
+      ],
+      "runtime_map_sha256": "f6548cd644633d51b2cdb65ff9e92fbada999e52feb80fde653d2df7a7e05fb4"
+    },
+    {
+      "map": "DTK02",
+      "source_ref": 146,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\endpoint-audit.json",
+          "sha256": "0cbaaee7b4a6cbd1866d8346881c25fbc58a204710a1bf42e7795fc1c5ab1307"
+        },
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\validation.json",
+          "sha256": "5d2691feebf5a955f18560e9546c856183676ef78ffe6542f127c0016b954ae4"
+        }
+      ],
+      "runtime_map_sha256": "f6548cd644633d51b2cdb65ff9e92fbada999e52feb80fde653d2df7a7e05fb4"
+    },
+    {
+      "map": "DTK02",
+      "source_ref": 138,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\endpoint-audit.json",
+          "sha256": "0cbaaee7b4a6cbd1866d8346881c25fbc58a204710a1bf42e7795fc1c5ab1307"
+        },
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\validation.json",
+          "sha256": "5d2691feebf5a955f18560e9546c856183676ef78ffe6542f127c0016b954ae4"
+        }
+      ],
+      "runtime_map_sha256": "f6548cd644633d51b2cdb65ff9e92fbada999e52feb80fde653d2df7a7e05fb4"
+    },
+    {
+      "map": "DTK02",
+      "source_ref": 130,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\endpoint-audit.json",
+          "sha256": "0cbaaee7b4a6cbd1866d8346881c25fbc58a204710a1bf42e7795fc1c5ab1307"
+        },
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\validation.json",
+          "sha256": "5d2691feebf5a955f18560e9546c856183676ef78ffe6542f127c0016b954ae4"
+        }
+      ],
+      "runtime_map_sha256": "f6548cd644633d51b2cdb65ff9e92fbada999e52feb80fde653d2df7a7e05fb4"
+    },
+    {
+      "map": "DTK02",
+      "source_ref": 135,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\endpoint-audit.json",
+          "sha256": "0cbaaee7b4a6cbd1866d8346881c25fbc58a204710a1bf42e7795fc1c5ab1307"
+        },
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\validation.json",
+          "sha256": "5d2691feebf5a955f18560e9546c856183676ef78ffe6542f127c0016b954ae4"
+        }
+      ],
+      "runtime_map_sha256": "f6548cd644633d51b2cdb65ff9e92fbada999e52feb80fde653d2df7a7e05fb4"
+    },
+    {
+      "map": "DTK02",
+      "source_ref": 120,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\endpoint-audit.json",
+          "sha256": "0cbaaee7b4a6cbd1866d8346881c25fbc58a204710a1bf42e7795fc1c5ab1307"
+        },
+        {
+          "path": "work\\native_game\\sandbox-DTK02P-0dea834e22\\validation.json",
+          "sha256": "5d2691feebf5a955f18560e9546c856183676ef78ffe6542f127c0016b954ae4"
+        }
+      ],
+      "runtime_map_sha256": "f6548cd644633d51b2cdb65ff9e92fbada999e52feb80fde653d2df7a7e05fb4"
+    },
+    {
+      "map": "FAC13",
+      "source_ref": 122,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\endpoint-audit.json",
+          "sha256": "7728210021383a4e340b57c20a93c3223aed9034c2f3144e5294c1d95f536d2f"
+        },
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\validation.json",
+          "sha256": "80b60e39c111ab858a0114930732c4292eb6cf8e2517261b71e6402abbc32973"
+        }
+      ],
+      "runtime_map_sha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c"
+    },
+    {
+      "map": "FAC13",
+      "source_ref": 117,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\endpoint-audit.json",
+          "sha256": "7728210021383a4e340b57c20a93c3223aed9034c2f3144e5294c1d95f536d2f"
+        },
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\validation.json",
+          "sha256": "80b60e39c111ab858a0114930732c4292eb6cf8e2517261b71e6402abbc32973"
+        }
+      ],
+      "runtime_map_sha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c"
+    },
+    {
+      "map": "FAC13",
+      "source_ref": 126,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\endpoint-audit.json",
+          "sha256": "7728210021383a4e340b57c20a93c3223aed9034c2f3144e5294c1d95f536d2f"
+        },
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\validation.json",
+          "sha256": "80b60e39c111ab858a0114930732c4292eb6cf8e2517261b71e6402abbc32973"
+        }
+      ],
+      "runtime_map_sha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c"
+    },
+    {
+      "map": "FAC13",
+      "source_ref": 121,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\endpoint-audit.json",
+          "sha256": "7728210021383a4e340b57c20a93c3223aed9034c2f3144e5294c1d95f536d2f"
+        },
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\validation.json",
+          "sha256": "80b60e39c111ab858a0114930732c4292eb6cf8e2517261b71e6402abbc32973"
+        }
+      ],
+      "runtime_map_sha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c"
+    },
+    {
+      "map": "FAC13",
+      "source_ref": 111,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\endpoint-audit.json",
+          "sha256": "7728210021383a4e340b57c20a93c3223aed9034c2f3144e5294c1d95f536d2f"
+        },
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\validation.json",
+          "sha256": "80b60e39c111ab858a0114930732c4292eb6cf8e2517261b71e6402abbc32973"
+        }
+      ],
+      "runtime_map_sha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c"
+    },
+    {
+      "map": "FAC13",
+      "source_ref": 120,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\endpoint-audit.json",
+          "sha256": "7728210021383a4e340b57c20a93c3223aed9034c2f3144e5294c1d95f536d2f"
+        },
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\validation.json",
+          "sha256": "80b60e39c111ab858a0114930732c4292eb6cf8e2517261b71e6402abbc32973"
+        }
+      ],
+      "runtime_map_sha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c"
+    },
+    {
+      "map": "FAC13",
+      "source_ref": 163,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\endpoint-audit.json",
+          "sha256": "7728210021383a4e340b57c20a93c3223aed9034c2f3144e5294c1d95f536d2f"
+        },
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\validation.json",
+          "sha256": "80b60e39c111ab858a0114930732c4292eb6cf8e2517261b71e6402abbc32973"
+        }
+      ],
+      "runtime_map_sha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c"
+    },
+    {
+      "map": "FAC13",
+      "source_ref": 172,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\endpoint-audit.json",
+          "sha256": "7728210021383a4e340b57c20a93c3223aed9034c2f3144e5294c1d95f536d2f"
+        },
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\validation.json",
+          "sha256": "80b60e39c111ab858a0114930732c4292eb6cf8e2517261b71e6402abbc32973"
+        }
+      ],
+      "runtime_map_sha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c"
+    },
+    {
+      "map": "FAC13",
+      "source_ref": 164,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\endpoint-audit.json",
+          "sha256": "7728210021383a4e340b57c20a93c3223aed9034c2f3144e5294c1d95f536d2f"
+        },
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\validation.json",
+          "sha256": "80b60e39c111ab858a0114930732c4292eb6cf8e2517261b71e6402abbc32973"
+        }
+      ],
+      "runtime_map_sha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c"
+    },
+    {
+      "map": "FAC13",
+      "source_ref": 110,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\endpoint-audit.json",
+          "sha256": "7728210021383a4e340b57c20a93c3223aed9034c2f3144e5294c1d95f536d2f"
+        },
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\validation.json",
+          "sha256": "80b60e39c111ab858a0114930732c4292eb6cf8e2517261b71e6402abbc32973"
+        }
+      ],
+      "runtime_map_sha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c"
+    },
+    {
+      "map": "FAC13",
+      "source_ref": 127,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\endpoint-audit.json",
+          "sha256": "7728210021383a4e340b57c20a93c3223aed9034c2f3144e5294c1d95f536d2f"
+        },
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\validation.json",
+          "sha256": "80b60e39c111ab858a0114930732c4292eb6cf8e2517261b71e6402abbc32973"
+        }
+      ],
+      "runtime_map_sha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c"
+    },
+    {
+      "map": "FAC13",
+      "source_ref": 112,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\endpoint-audit.json",
+          "sha256": "7728210021383a4e340b57c20a93c3223aed9034c2f3144e5294c1d95f536d2f"
+        },
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\validation.json",
+          "sha256": "80b60e39c111ab858a0114930732c4292eb6cf8e2517261b71e6402abbc32973"
+        }
+      ],
+      "runtime_map_sha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c"
+    },
+    {
+      "map": "FAC13",
+      "source_ref": 125,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\endpoint-audit.json",
+          "sha256": "7728210021383a4e340b57c20a93c3223aed9034c2f3144e5294c1d95f536d2f"
+        },
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\validation.json",
+          "sha256": "80b60e39c111ab858a0114930732c4292eb6cf8e2517261b71e6402abbc32973"
+        }
+      ],
+      "runtime_map_sha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c"
+    },
+    {
+      "map": "FAC13",
+      "source_ref": 123,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\endpoint-audit.json",
+          "sha256": "7728210021383a4e340b57c20a93c3223aed9034c2f3144e5294c1d95f536d2f"
+        },
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\validation.json",
+          "sha256": "80b60e39c111ab858a0114930732c4292eb6cf8e2517261b71e6402abbc32973"
+        }
+      ],
+      "runtime_map_sha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c"
+    },
+    {
+      "map": "FAC13",
+      "source_ref": 115,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\endpoint-audit.json",
+          "sha256": "7728210021383a4e340b57c20a93c3223aed9034c2f3144e5294c1d95f536d2f"
+        },
+        {
+          "path": "work\\native_game\\sandbox-FAC13P-443cde2d9b\\validation.json",
+          "sha256": "80b60e39c111ab858a0114930732c4292eb6cf8e2517261b71e6402abbc32973"
+        }
+      ],
+      "runtime_map_sha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c"
+    },
+    {
+      "map": "GAR09",
+      "source_ref": 126,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-GAR09P-742de9ff42\\endpoint-audit.json",
+          "sha256": "e2f05feee2671b306536444acb7449506f0811cb9738d3db5f64607b1f1cf88c"
+        },
+        {
+          "path": "work\\native_game\\sandbox-GAR09P-742de9ff42\\validation.json",
+          "sha256": "575e62ca09f7f8b94e0f1ab58dfc5090353d0ed108a34a8bebfa66f008342a3f"
+        }
+      ],
+      "runtime_map_sha256": "221057da684073b4ce70a3f8b0bb831580eb4a3fa60682eedbccfdaf19aa6802"
+    },
+    {
+      "map": "GAR09",
+      "source_ref": 125,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-GAR09P-742de9ff42\\endpoint-audit.json",
+          "sha256": "e2f05feee2671b306536444acb7449506f0811cb9738d3db5f64607b1f1cf88c"
+        },
+        {
+          "path": "work\\native_game\\sandbox-GAR09P-742de9ff42\\validation.json",
+          "sha256": "575e62ca09f7f8b94e0f1ab58dfc5090353d0ed108a34a8bebfa66f008342a3f"
+        }
+      ],
+      "runtime_map_sha256": "221057da684073b4ce70a3f8b0bb831580eb4a3fa60682eedbccfdaf19aa6802"
+    },
+    {
+      "map": "GAR09",
+      "source_ref": 122,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-GAR09P-742de9ff42\\endpoint-audit.json",
+          "sha256": "e2f05feee2671b306536444acb7449506f0811cb9738d3db5f64607b1f1cf88c"
+        },
+        {
+          "path": "work\\native_game\\sandbox-GAR09P-742de9ff42\\validation.json",
+          "sha256": "575e62ca09f7f8b94e0f1ab58dfc5090353d0ed108a34a8bebfa66f008342a3f"
+        }
+      ],
+      "runtime_map_sha256": "221057da684073b4ce70a3f8b0bb831580eb4a3fa60682eedbccfdaf19aa6802"
+    },
+    {
+      "map": "GAR09",
+      "source_ref": 104,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-GAR09P-742de9ff42\\endpoint-audit.json",
+          "sha256": "e2f05feee2671b306536444acb7449506f0811cb9738d3db5f64607b1f1cf88c"
+        },
+        {
+          "path": "work\\native_game\\sandbox-GAR09P-742de9ff42\\validation.json",
+          "sha256": "575e62ca09f7f8b94e0f1ab58dfc5090353d0ed108a34a8bebfa66f008342a3f"
+        }
+      ],
+      "runtime_map_sha256": "221057da684073b4ce70a3f8b0bb831580eb4a3fa60682eedbccfdaf19aa6802"
+    },
+    {
+      "map": "GAR09",
+      "source_ref": 114,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-GAR09P-742de9ff42\\endpoint-audit.json",
+          "sha256": "e2f05feee2671b306536444acb7449506f0811cb9738d3db5f64607b1f1cf88c"
+        },
+        {
+          "path": "work\\native_game\\sandbox-GAR09P-742de9ff42\\validation.json",
+          "sha256": "575e62ca09f7f8b94e0f1ab58dfc5090353d0ed108a34a8bebfa66f008342a3f"
+        }
+      ],
+      "runtime_map_sha256": "221057da684073b4ce70a3f8b0bb831580eb4a3fa60682eedbccfdaf19aa6802"
+    },
+    {
+      "map": "GAR09",
+      "source_ref": 110,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-GAR09P-742de9ff42\\endpoint-audit.json",
+          "sha256": "e2f05feee2671b306536444acb7449506f0811cb9738d3db5f64607b1f1cf88c"
+        },
+        {
+          "path": "work\\native_game\\sandbox-GAR09P-742de9ff42\\validation.json",
+          "sha256": "575e62ca09f7f8b94e0f1ab58dfc5090353d0ed108a34a8bebfa66f008342a3f"
+        }
+      ],
+      "runtime_map_sha256": "221057da684073b4ce70a3f8b0bb831580eb4a3fa60682eedbccfdaf19aa6802"
+    },
+    {
+      "map": "GAR09",
+      "source_ref": 113,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-GAR09P-742de9ff42\\endpoint-audit.json",
+          "sha256": "e2f05feee2671b306536444acb7449506f0811cb9738d3db5f64607b1f1cf88c"
+        },
+        {
+          "path": "work\\native_game\\sandbox-GAR09P-742de9ff42\\validation.json",
+          "sha256": "575e62ca09f7f8b94e0f1ab58dfc5090353d0ed108a34a8bebfa66f008342a3f"
+        }
+      ],
+      "runtime_map_sha256": "221057da684073b4ce70a3f8b0bb831580eb4a3fa60682eedbccfdaf19aa6802"
+    },
+    {
+      "map": "GAR09",
+      "source_ref": 116,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-GAR09P-742de9ff42\\endpoint-audit.json",
+          "sha256": "e2f05feee2671b306536444acb7449506f0811cb9738d3db5f64607b1f1cf88c"
+        },
+        {
+          "path": "work\\native_game\\sandbox-GAR09P-742de9ff42\\validation.json",
+          "sha256": "575e62ca09f7f8b94e0f1ab58dfc5090353d0ed108a34a8bebfa66f008342a3f"
+        }
+      ],
+      "runtime_map_sha256": "221057da684073b4ce70a3f8b0bb831580eb4a3fa60682eedbccfdaf19aa6802"
+    },
+    {
+      "map": "INI01",
+      "source_ref": 128,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-INI01P-ebe824c9b1\\endpoint-audit.json",
+          "sha256": "b9d025dbcab8afcd80be64a66a43b759ad94e1be4dcdc94587493e01371394df"
+        },
+        {
+          "path": "work\\native_game\\sandbox-INI01P-ebe824c9b1\\validation.json",
+          "sha256": "4e5930fe7982ac383f76d6c0851e12b602411f331529d4a61d5a75ce51e6fdea"
+        }
+      ],
+      "runtime_map_sha256": "665e2de289407729a10432505c23710aaae053711f93af85f28de067f5c50390"
+    },
+    {
+      "map": "INI01",
+      "source_ref": 141,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-INI01P-ebe824c9b1\\endpoint-audit.json",
+          "sha256": "b9d025dbcab8afcd80be64a66a43b759ad94e1be4dcdc94587493e01371394df"
+        },
+        {
+          "path": "work\\native_game\\sandbox-INI01P-ebe824c9b1\\validation.json",
+          "sha256": "4e5930fe7982ac383f76d6c0851e12b602411f331529d4a61d5a75ce51e6fdea"
+        }
+      ],
+      "runtime_map_sha256": "665e2de289407729a10432505c23710aaae053711f93af85f28de067f5c50390"
+    },
+    {
+      "map": "INI01",
+      "source_ref": 156,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-INI01P-ebe824c9b1\\endpoint-audit.json",
+          "sha256": "b9d025dbcab8afcd80be64a66a43b759ad94e1be4dcdc94587493e01371394df"
+        },
+        {
+          "path": "work\\native_game\\sandbox-INI01P-ebe824c9b1\\validation.json",
+          "sha256": "4e5930fe7982ac383f76d6c0851e12b602411f331529d4a61d5a75ce51e6fdea"
+        }
+      ],
+      "runtime_map_sha256": "665e2de289407729a10432505c23710aaae053711f93af85f28de067f5c50390"
+    },
+    {
+      "map": "INI01",
+      "source_ref": 148,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-INI01P-ebe824c9b1\\endpoint-audit.json",
+          "sha256": "b9d025dbcab8afcd80be64a66a43b759ad94e1be4dcdc94587493e01371394df"
+        },
+        {
+          "path": "work\\native_game\\sandbox-INI01P-ebe824c9b1\\validation.json",
+          "sha256": "4e5930fe7982ac383f76d6c0851e12b602411f331529d4a61d5a75ce51e6fdea"
+        }
+      ],
+      "runtime_map_sha256": "665e2de289407729a10432505c23710aaae053711f93af85f28de067f5c50390"
+    },
+    {
+      "map": "KRA07",
+      "source_ref": 103,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\endpoint-audit.json",
+          "sha256": "11eea507a648eb6c019f90e13752de74553c77aa3cab5488197a6041b9b16715"
+        },
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\validation.json",
+          "sha256": "b3952affc9f2a5d32c262193dc7398015aa58421818eec40177b0c5edb56d68c"
+        }
+      ],
+      "runtime_map_sha256": "902731bacf9b929fbd6e2d315c507d3c56f1b355424293e1ebf79070cd9718cd"
+    },
+    {
+      "map": "KRA07",
+      "source_ref": 87,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\endpoint-audit.json",
+          "sha256": "11eea507a648eb6c019f90e13752de74553c77aa3cab5488197a6041b9b16715"
+        },
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\validation.json",
+          "sha256": "b3952affc9f2a5d32c262193dc7398015aa58421818eec40177b0c5edb56d68c"
+        }
+      ],
+      "runtime_map_sha256": "902731bacf9b929fbd6e2d315c507d3c56f1b355424293e1ebf79070cd9718cd"
+    },
+    {
+      "map": "KRA07",
+      "source_ref": 90,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\endpoint-audit.json",
+          "sha256": "11eea507a648eb6c019f90e13752de74553c77aa3cab5488197a6041b9b16715"
+        },
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\validation.json",
+          "sha256": "b3952affc9f2a5d32c262193dc7398015aa58421818eec40177b0c5edb56d68c"
+        }
+      ],
+      "runtime_map_sha256": "902731bacf9b929fbd6e2d315c507d3c56f1b355424293e1ebf79070cd9718cd"
+    },
+    {
+      "map": "KRA07",
+      "source_ref": 94,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\endpoint-audit.json",
+          "sha256": "11eea507a648eb6c019f90e13752de74553c77aa3cab5488197a6041b9b16715"
+        },
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\validation.json",
+          "sha256": "b3952affc9f2a5d32c262193dc7398015aa58421818eec40177b0c5edb56d68c"
+        }
+      ],
+      "runtime_map_sha256": "902731bacf9b929fbd6e2d315c507d3c56f1b355424293e1ebf79070cd9718cd"
+    },
+    {
+      "map": "KRA07",
+      "source_ref": 56,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\endpoint-audit.json",
+          "sha256": "11eea507a648eb6c019f90e13752de74553c77aa3cab5488197a6041b9b16715"
+        },
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\validation.json",
+          "sha256": "b3952affc9f2a5d32c262193dc7398015aa58421818eec40177b0c5edb56d68c"
+        }
+      ],
+      "runtime_map_sha256": "902731bacf9b929fbd6e2d315c507d3c56f1b355424293e1ebf79070cd9718cd"
+    },
+    {
+      "map": "KRA07",
+      "source_ref": 104,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\endpoint-audit.json",
+          "sha256": "11eea507a648eb6c019f90e13752de74553c77aa3cab5488197a6041b9b16715"
+        },
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\validation.json",
+          "sha256": "b3952affc9f2a5d32c262193dc7398015aa58421818eec40177b0c5edb56d68c"
+        }
+      ],
+      "runtime_map_sha256": "902731bacf9b929fbd6e2d315c507d3c56f1b355424293e1ebf79070cd9718cd"
+    },
+    {
+      "map": "KRA07",
+      "source_ref": 76,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\endpoint-audit.json",
+          "sha256": "11eea507a648eb6c019f90e13752de74553c77aa3cab5488197a6041b9b16715"
+        },
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\validation.json",
+          "sha256": "b3952affc9f2a5d32c262193dc7398015aa58421818eec40177b0c5edb56d68c"
+        }
+      ],
+      "runtime_map_sha256": "902731bacf9b929fbd6e2d315c507d3c56f1b355424293e1ebf79070cd9718cd"
+    },
+    {
+      "map": "KRA07",
+      "source_ref": 72,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\endpoint-audit.json",
+          "sha256": "11eea507a648eb6c019f90e13752de74553c77aa3cab5488197a6041b9b16715"
+        },
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\validation.json",
+          "sha256": "b3952affc9f2a5d32c262193dc7398015aa58421818eec40177b0c5edb56d68c"
+        }
+      ],
+      "runtime_map_sha256": "902731bacf9b929fbd6e2d315c507d3c56f1b355424293e1ebf79070cd9718cd"
+    },
+    {
+      "map": "KRA07",
+      "source_ref": 98,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\endpoint-audit.json",
+          "sha256": "11eea507a648eb6c019f90e13752de74553c77aa3cab5488197a6041b9b16715"
+        },
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\validation.json",
+          "sha256": "b3952affc9f2a5d32c262193dc7398015aa58421818eec40177b0c5edb56d68c"
+        }
+      ],
+      "runtime_map_sha256": "902731bacf9b929fbd6e2d315c507d3c56f1b355424293e1ebf79070cd9718cd"
+    },
+    {
+      "map": "KRA07",
+      "source_ref": 86,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\endpoint-audit.json",
+          "sha256": "11eea507a648eb6c019f90e13752de74553c77aa3cab5488197a6041b9b16715"
+        },
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\validation.json",
+          "sha256": "b3952affc9f2a5d32c262193dc7398015aa58421818eec40177b0c5edb56d68c"
+        }
+      ],
+      "runtime_map_sha256": "902731bacf9b929fbd6e2d315c507d3c56f1b355424293e1ebf79070cd9718cd"
+    },
+    {
+      "map": "KRA07",
+      "source_ref": 80,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\endpoint-audit.json",
+          "sha256": "11eea507a648eb6c019f90e13752de74553c77aa3cab5488197a6041b9b16715"
+        },
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\validation.json",
+          "sha256": "b3952affc9f2a5d32c262193dc7398015aa58421818eec40177b0c5edb56d68c"
+        }
+      ],
+      "runtime_map_sha256": "902731bacf9b929fbd6e2d315c507d3c56f1b355424293e1ebf79070cd9718cd"
+    },
+    {
+      "map": "KRA07",
+      "source_ref": 91,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\endpoint-audit.json",
+          "sha256": "11eea507a648eb6c019f90e13752de74553c77aa3cab5488197a6041b9b16715"
+        },
+        {
+          "path": "work\\native_game\\sandbox-KRA07P-e558db0082\\validation.json",
+          "sha256": "b3952affc9f2a5d32c262193dc7398015aa58421818eec40177b0c5edb56d68c"
+        }
+      ],
+      "runtime_map_sha256": "902731bacf9b929fbd6e2d315c507d3c56f1b355424293e1ebf79070cd9718cd"
+    },
+    {
+      "map": "MHO05",
+      "source_ref": 124,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 90,
+      "exact_native_placement_clear": false,
+      "normal_use_verified": true,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\endpoint-audit.json",
+          "sha256": "838326ffb8fe1045fe73659effa714f704f13c094d8cad625f531abe76a4b214"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\validation.json",
+          "sha256": "2dae70a15b6e7e8a27937123442d2020b55c7cf53dea152a53452163ed39d2eb"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-ca9eaab31c\\mho90-flag-normal-use-control.json",
+          "sha256": "bef21ff65a9ae34c32589bb661d7683972c76fab2f1529a2dd2d388795939f82"
+        }
+      ],
+      "runtime_map_sha256": "f25816ff9563b281857022491e933d1f74c8e4c4e86a2b30c1298e494e8d46d1"
+    },
+    {
+      "map": "MHO05",
+      "source_ref": 153,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\endpoint-audit.json",
+          "sha256": "838326ffb8fe1045fe73659effa714f704f13c094d8cad625f531abe76a4b214"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\validation.json",
+          "sha256": "2dae70a15b6e7e8a27937123442d2020b55c7cf53dea152a53452163ed39d2eb"
+        }
+      ],
+      "runtime_map_sha256": "f25816ff9563b281857022491e933d1f74c8e4c4e86a2b30c1298e494e8d46d1"
+    },
+    {
+      "map": "MHO05",
+      "source_ref": 163,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\endpoint-audit.json",
+          "sha256": "838326ffb8fe1045fe73659effa714f704f13c094d8cad625f531abe76a4b214"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\validation.json",
+          "sha256": "2dae70a15b6e7e8a27937123442d2020b55c7cf53dea152a53452163ed39d2eb"
+        }
+      ],
+      "runtime_map_sha256": "f25816ff9563b281857022491e933d1f74c8e4c4e86a2b30c1298e494e8d46d1"
+    },
+    {
+      "map": "MHO05",
+      "source_ref": 155,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\endpoint-audit.json",
+          "sha256": "838326ffb8fe1045fe73659effa714f704f13c094d8cad625f531abe76a4b214"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\validation.json",
+          "sha256": "2dae70a15b6e7e8a27937123442d2020b55c7cf53dea152a53452163ed39d2eb"
+        }
+      ],
+      "runtime_map_sha256": "f25816ff9563b281857022491e933d1f74c8e4c4e86a2b30c1298e494e8d46d1"
+    },
+    {
+      "map": "MHO05",
+      "source_ref": 159,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\endpoint-audit.json",
+          "sha256": "838326ffb8fe1045fe73659effa714f704f13c094d8cad625f531abe76a4b214"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\validation.json",
+          "sha256": "2dae70a15b6e7e8a27937123442d2020b55c7cf53dea152a53452163ed39d2eb"
+        }
+      ],
+      "runtime_map_sha256": "f25816ff9563b281857022491e933d1f74c8e4c4e86a2b30c1298e494e8d46d1"
+    },
+    {
+      "map": "MHO05",
+      "source_ref": 146,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\endpoint-audit.json",
+          "sha256": "838326ffb8fe1045fe73659effa714f704f13c094d8cad625f531abe76a4b214"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\validation.json",
+          "sha256": "2dae70a15b6e7e8a27937123442d2020b55c7cf53dea152a53452163ed39d2eb"
+        }
+      ],
+      "runtime_map_sha256": "f25816ff9563b281857022491e933d1f74c8e4c4e86a2b30c1298e494e8d46d1"
+    },
+    {
+      "map": "MHO05",
+      "source_ref": 134,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\endpoint-audit.json",
+          "sha256": "838326ffb8fe1045fe73659effa714f704f13c094d8cad625f531abe76a4b214"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\validation.json",
+          "sha256": "2dae70a15b6e7e8a27937123442d2020b55c7cf53dea152a53452163ed39d2eb"
+        }
+      ],
+      "runtime_map_sha256": "f25816ff9563b281857022491e933d1f74c8e4c4e86a2b30c1298e494e8d46d1"
+    },
+    {
+      "map": "MHO05",
+      "source_ref": 135,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90,
+      "exact_native_placement_clear": false,
+      "normal_use_verified": true,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\endpoint-audit.json",
+          "sha256": "838326ffb8fe1045fe73659effa714f704f13c094d8cad625f531abe76a4b214"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\validation.json",
+          "sha256": "2dae70a15b6e7e8a27937123442d2020b55c7cf53dea152a53452163ed39d2eb"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-ca9eaab31c\\mho90-computer-correct-approach.json",
+          "sha256": "3e917831bc0c0b6cf0dadd7123fbc5f5ffdb7d8e406b43e77e29fea10bbd2220"
+        }
+      ],
+      "runtime_map_sha256": "f25816ff9563b281857022491e933d1f74c8e4c4e86a2b30c1298e494e8d46d1"
+    },
+    {
+      "map": "MHO05",
+      "source_ref": 140,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\endpoint-audit.json",
+          "sha256": "838326ffb8fe1045fe73659effa714f704f13c094d8cad625f531abe76a4b214"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\validation.json",
+          "sha256": "2dae70a15b6e7e8a27937123442d2020b55c7cf53dea152a53452163ed39d2eb"
+        }
+      ],
+      "runtime_map_sha256": "f25816ff9563b281857022491e933d1f74c8e4c4e86a2b30c1298e494e8d46d1"
+    },
+    {
+      "map": "MHO05",
+      "source_ref": 141,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\endpoint-audit.json",
+          "sha256": "838326ffb8fe1045fe73659effa714f704f13c094d8cad625f531abe76a4b214"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MHO05P-a7e21eed69\\validation.json",
+          "sha256": "2dae70a15b6e7e8a27937123442d2020b55c7cf53dea152a53452163ed39d2eb"
+        }
+      ],
+      "runtime_map_sha256": "f25816ff9563b281857022491e933d1f74c8e4c4e86a2b30c1298e494e8d46d1"
+    },
+    {
+      "map": "MIS10",
+      "source_ref": 229,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\endpoint-audit.json",
+          "sha256": "17e58afdd366aa59615bf7c15d185d94b2beb669f7240f68dbb931c5a978f422"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\validation.json",
+          "sha256": "c30af907ef1aa2aab74ac50cbfc858d976c17401686eace9dd2b00320cd54953"
+        }
+      ],
+      "runtime_map_sha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea"
+    },
+    {
+      "map": "MIS10",
+      "source_ref": 227,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\endpoint-audit.json",
+          "sha256": "17e58afdd366aa59615bf7c15d185d94b2beb669f7240f68dbb931c5a978f422"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\validation.json",
+          "sha256": "c30af907ef1aa2aab74ac50cbfc858d976c17401686eace9dd2b00320cd54953"
+        }
+      ],
+      "runtime_map_sha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea"
+    },
+    {
+      "map": "MIS10",
+      "source_ref": 211,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\endpoint-audit.json",
+          "sha256": "17e58afdd366aa59615bf7c15d185d94b2beb669f7240f68dbb931c5a978f422"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\validation.json",
+          "sha256": "c30af907ef1aa2aab74ac50cbfc858d976c17401686eace9dd2b00320cd54953"
+        }
+      ],
+      "runtime_map_sha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea"
+    },
+    {
+      "map": "MIS10",
+      "source_ref": 224,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\endpoint-audit.json",
+          "sha256": "17e58afdd366aa59615bf7c15d185d94b2beb669f7240f68dbb931c5a978f422"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\validation.json",
+          "sha256": "c30af907ef1aa2aab74ac50cbfc858d976c17401686eace9dd2b00320cd54953"
+        }
+      ],
+      "runtime_map_sha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea"
+    },
+    {
+      "map": "MIS10",
+      "source_ref": 223,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\endpoint-audit.json",
+          "sha256": "17e58afdd366aa59615bf7c15d185d94b2beb669f7240f68dbb931c5a978f422"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\validation.json",
+          "sha256": "c30af907ef1aa2aab74ac50cbfc858d976c17401686eace9dd2b00320cd54953"
+        }
+      ],
+      "runtime_map_sha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea"
+    },
+    {
+      "map": "MIS10",
+      "source_ref": 237,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\endpoint-audit.json",
+          "sha256": "17e58afdd366aa59615bf7c15d185d94b2beb669f7240f68dbb931c5a978f422"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\validation.json",
+          "sha256": "c30af907ef1aa2aab74ac50cbfc858d976c17401686eace9dd2b00320cd54953"
+        }
+      ],
+      "runtime_map_sha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea"
+    },
+    {
+      "map": "MIS10",
+      "source_ref": 276,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\endpoint-audit.json",
+          "sha256": "17e58afdd366aa59615bf7c15d185d94b2beb669f7240f68dbb931c5a978f422"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\validation.json",
+          "sha256": "c30af907ef1aa2aab74ac50cbfc858d976c17401686eace9dd2b00320cd54953"
+        }
+      ],
+      "runtime_map_sha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea"
+    },
+    {
+      "map": "MIS10",
+      "source_ref": 738,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\endpoint-audit.json",
+          "sha256": "17e58afdd366aa59615bf7c15d185d94b2beb669f7240f68dbb931c5a978f422"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\validation.json",
+          "sha256": "c30af907ef1aa2aab74ac50cbfc858d976c17401686eace9dd2b00320cd54953"
+        }
+      ],
+      "runtime_map_sha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea"
+    },
+    {
+      "map": "MIS10",
+      "source_ref": 200,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\endpoint-audit.json",
+          "sha256": "17e58afdd366aa59615bf7c15d185d94b2beb669f7240f68dbb931c5a978f422"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\validation.json",
+          "sha256": "c30af907ef1aa2aab74ac50cbfc858d976c17401686eace9dd2b00320cd54953"
+        }
+      ],
+      "runtime_map_sha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea"
+    },
+    {
+      "map": "MIS10",
+      "source_ref": 217,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\endpoint-audit.json",
+          "sha256": "17e58afdd366aa59615bf7c15d185d94b2beb669f7240f68dbb931c5a978f422"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\validation.json",
+          "sha256": "c30af907ef1aa2aab74ac50cbfc858d976c17401686eace9dd2b00320cd54953"
+        }
+      ],
+      "runtime_map_sha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea"
+    },
+    {
+      "map": "MIS10",
+      "source_ref": 176,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\endpoint-audit.json",
+          "sha256": "17e58afdd366aa59615bf7c15d185d94b2beb669f7240f68dbb931c5a978f422"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\validation.json",
+          "sha256": "c30af907ef1aa2aab74ac50cbfc858d976c17401686eace9dd2b00320cd54953"
+        }
+      ],
+      "runtime_map_sha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea"
+    },
+    {
+      "map": "MIS10",
+      "source_ref": 251,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\endpoint-audit.json",
+          "sha256": "17e58afdd366aa59615bf7c15d185d94b2beb669f7240f68dbb931c5a978f422"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\validation.json",
+          "sha256": "c30af907ef1aa2aab74ac50cbfc858d976c17401686eace9dd2b00320cd54953"
+        }
+      ],
+      "runtime_map_sha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea"
+    },
+    {
+      "map": "MIS10",
+      "source_ref": 192,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\endpoint-audit.json",
+          "sha256": "17e58afdd366aa59615bf7c15d185d94b2beb669f7240f68dbb931c5a978f422"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\validation.json",
+          "sha256": "c30af907ef1aa2aab74ac50cbfc858d976c17401686eace9dd2b00320cd54953"
+        }
+      ],
+      "runtime_map_sha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea"
+    },
+    {
+      "map": "MIS10",
+      "source_ref": 218,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\endpoint-audit.json",
+          "sha256": "17e58afdd366aa59615bf7c15d185d94b2beb669f7240f68dbb931c5a978f422"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MIS10P-9c72e69dd0\\validation.json",
+          "sha256": "c30af907ef1aa2aab74ac50cbfc858d976c17401686eace9dd2b00320cd54953"
+        }
+      ],
+      "runtime_map_sha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea"
+    },
+    {
+      "map": "MUS04",
+      "source_ref": 165,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MUS04P-16506002eb\\endpoint-audit.json",
+          "sha256": "8ba4a1acbebba31ad0ad9c2d40a0b99cb19c03eeebc7740bb879855ebfaa898c"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MUS04P-16506002eb\\validation.json",
+          "sha256": "d01c01a677267ea038b106d72eab7a26e3cc0c83ed62b2b62857b226a80ab565"
+        }
+      ],
+      "runtime_map_sha256": "9ef891a53d8ad0402a5e955aba0de74af99f7a78f8e5b790c834a34e950ecaa7"
+    },
+    {
+      "map": "MUS04",
+      "source_ref": 163,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MUS04P-16506002eb\\endpoint-audit.json",
+          "sha256": "8ba4a1acbebba31ad0ad9c2d40a0b99cb19c03eeebc7740bb879855ebfaa898c"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MUS04P-16506002eb\\validation.json",
+          "sha256": "d01c01a677267ea038b106d72eab7a26e3cc0c83ed62b2b62857b226a80ab565"
+        }
+      ],
+      "runtime_map_sha256": "9ef891a53d8ad0402a5e955aba0de74af99f7a78f8e5b790c834a34e950ecaa7"
+    },
+    {
+      "map": "MUS04",
+      "source_ref": 143,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MUS04P-16506002eb\\endpoint-audit.json",
+          "sha256": "8ba4a1acbebba31ad0ad9c2d40a0b99cb19c03eeebc7740bb879855ebfaa898c"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MUS04P-16506002eb\\validation.json",
+          "sha256": "d01c01a677267ea038b106d72eab7a26e3cc0c83ed62b2b62857b226a80ab565"
+        }
+      ],
+      "runtime_map_sha256": "9ef891a53d8ad0402a5e955aba0de74af99f7a78f8e5b790c834a34e950ecaa7"
+    },
+    {
+      "map": "MUS04",
+      "source_ref": 177,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MUS04P-16506002eb\\endpoint-audit.json",
+          "sha256": "8ba4a1acbebba31ad0ad9c2d40a0b99cb19c03eeebc7740bb879855ebfaa898c"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MUS04P-16506002eb\\validation.json",
+          "sha256": "d01c01a677267ea038b106d72eab7a26e3cc0c83ed62b2b62857b226a80ab565"
+        }
+      ],
+      "runtime_map_sha256": "9ef891a53d8ad0402a5e955aba0de74af99f7a78f8e5b790c834a34e950ecaa7"
+    },
+    {
+      "map": "MUS04",
+      "source_ref": 115,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MUS04P-16506002eb\\endpoint-audit.json",
+          "sha256": "8ba4a1acbebba31ad0ad9c2d40a0b99cb19c03eeebc7740bb879855ebfaa898c"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MUS04P-16506002eb\\validation.json",
+          "sha256": "d01c01a677267ea038b106d72eab7a26e3cc0c83ed62b2b62857b226a80ab565"
+        }
+      ],
+      "runtime_map_sha256": "9ef891a53d8ad0402a5e955aba0de74af99f7a78f8e5b790c834a34e950ecaa7"
+    },
+    {
+      "map": "MUS04",
+      "source_ref": 145,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-MUS04P-16506002eb\\endpoint-audit.json",
+          "sha256": "8ba4a1acbebba31ad0ad9c2d40a0b99cb19c03eeebc7740bb879855ebfaa898c"
+        },
+        {
+          "path": "work\\native_game\\sandbox-MUS04P-16506002eb\\validation.json",
+          "sha256": "d01c01a677267ea038b106d72eab7a26e3cc0c83ed62b2b62857b226a80ab565"
+        }
+      ],
+      "runtime_map_sha256": "9ef891a53d8ad0402a5e955aba0de74af99f7a78f8e5b790c834a34e950ecaa7"
+    },
+    {
+      "map": "ORP14",
+      "source_ref": 201,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-ORP14P-443c1d2dd7\\endpoint-audit.json",
+          "sha256": "0c9740bde8a6afee95e959104908981a7bb35af14c74154ecd6d9e127db8d1fe"
+        },
+        {
+          "path": "work\\native_game\\sandbox-ORP14P-443c1d2dd7\\validation.json",
+          "sha256": "1a19faa6236b45f55bab0a65ba542b0e2277892e3ae41927fa50b243526ea4b2"
+        }
+      ],
+      "runtime_map_sha256": "85eebe4d16fdfe8aa78af1b3d6657c4fdd75882904e422a171156b7c882a928b"
+    },
+    {
+      "map": "ORP14",
+      "source_ref": 187,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-ORP14P-443c1d2dd7\\endpoint-audit.json",
+          "sha256": "0c9740bde8a6afee95e959104908981a7bb35af14c74154ecd6d9e127db8d1fe"
+        },
+        {
+          "path": "work\\native_game\\sandbox-ORP14P-443c1d2dd7\\validation.json",
+          "sha256": "1a19faa6236b45f55bab0a65ba542b0e2277892e3ae41927fa50b243526ea4b2"
+        }
+      ],
+      "runtime_map_sha256": "85eebe4d16fdfe8aa78af1b3d6657c4fdd75882904e422a171156b7c882a928b"
+    },
+    {
+      "map": "ORP14",
+      "source_ref": 192,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-ORP14P-443c1d2dd7\\endpoint-audit.json",
+          "sha256": "0c9740bde8a6afee95e959104908981a7bb35af14c74154ecd6d9e127db8d1fe"
+        },
+        {
+          "path": "work\\native_game\\sandbox-ORP14P-443c1d2dd7\\validation.json",
+          "sha256": "1a19faa6236b45f55bab0a65ba542b0e2277892e3ae41927fa50b243526ea4b2"
+        }
+      ],
+      "runtime_map_sha256": "85eebe4d16fdfe8aa78af1b3d6657c4fdd75882904e422a171156b7c882a928b"
+    },
+    {
+      "map": "ORP14",
+      "source_ref": 193,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-ORP14P-443c1d2dd7\\endpoint-audit.json",
+          "sha256": "0c9740bde8a6afee95e959104908981a7bb35af14c74154ecd6d9e127db8d1fe"
+        },
+        {
+          "path": "work\\native_game\\sandbox-ORP14P-443c1d2dd7\\validation.json",
+          "sha256": "1a19faa6236b45f55bab0a65ba542b0e2277892e3ae41927fa50b243526ea4b2"
+        }
+      ],
+      "runtime_map_sha256": "85eebe4d16fdfe8aa78af1b3d6657c4fdd75882904e422a171156b7c882a928b"
+    },
+    {
+      "map": "ORP14",
+      "source_ref": 166,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-ORP14P-443c1d2dd7\\endpoint-audit.json",
+          "sha256": "0c9740bde8a6afee95e959104908981a7bb35af14c74154ecd6d9e127db8d1fe"
+        },
+        {
+          "path": "work\\native_game\\sandbox-ORP14P-443c1d2dd7\\validation.json",
+          "sha256": "1a19faa6236b45f55bab0a65ba542b0e2277892e3ae41927fa50b243526ea4b2"
+        }
+      ],
+      "runtime_map_sha256": "85eebe4d16fdfe8aa78af1b3d6657c4fdd75882904e422a171156b7c882a928b"
+    },
+    {
+      "map": "ORP14",
+      "source_ref": 178,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-ORP14P-443c1d2dd7\\endpoint-audit.json",
+          "sha256": "0c9740bde8a6afee95e959104908981a7bb35af14c74154ecd6d9e127db8d1fe"
+        },
+        {
+          "path": "work\\native_game\\sandbox-ORP14P-443c1d2dd7\\validation.json",
+          "sha256": "1a19faa6236b45f55bab0a65ba542b0e2277892e3ae41927fa50b243526ea4b2"
+        }
+      ],
+      "runtime_map_sha256": "85eebe4d16fdfe8aa78af1b3d6657c4fdd75882904e422a171156b7c882a928b"
+    },
+    {
+      "map": "ORP14",
+      "source_ref": 179,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-ORP14P-443c1d2dd7\\endpoint-audit.json",
+          "sha256": "0c9740bde8a6afee95e959104908981a7bb35af14c74154ecd6d9e127db8d1fe"
+        },
+        {
+          "path": "work\\native_game\\sandbox-ORP14P-443c1d2dd7\\validation.json",
+          "sha256": "1a19faa6236b45f55bab0a65ba542b0e2277892e3ae41927fa50b243526ea4b2"
+        }
+      ],
+      "runtime_map_sha256": "85eebe4d16fdfe8aa78af1b3d6657c4fdd75882904e422a171156b7c882a928b"
+    },
+    {
+      "map": "ORP14",
+      "source_ref": 147,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-ORP14P-443c1d2dd7\\endpoint-audit.json",
+          "sha256": "0c9740bde8a6afee95e959104908981a7bb35af14c74154ecd6d9e127db8d1fe"
+        },
+        {
+          "path": "work\\native_game\\sandbox-ORP14P-443c1d2dd7\\validation.json",
+          "sha256": "1a19faa6236b45f55bab0a65ba542b0e2277892e3ae41927fa50b243526ea4b2"
+        }
+      ],
+      "runtime_map_sha256": "85eebe4d16fdfe8aa78af1b3d6657c4fdd75882904e422a171156b7c882a928b"
+    },
+    {
+      "map": "ORP14",
+      "source_ref": 184,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-ORP14P-443c1d2dd7\\endpoint-audit.json",
+          "sha256": "0c9740bde8a6afee95e959104908981a7bb35af14c74154ecd6d9e127db8d1fe"
+        },
+        {
+          "path": "work\\native_game\\sandbox-ORP14P-443c1d2dd7\\validation.json",
+          "sha256": "1a19faa6236b45f55bab0a65ba542b0e2277892e3ae41927fa50b243526ea4b2"
+        }
+      ],
+      "runtime_map_sha256": "85eebe4d16fdfe8aa78af1b3d6657c4fdd75882904e422a171156b7c882a928b"
+    },
+    {
+      "map": "SCH03",
+      "source_ref": 76,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-SCH03P-796df14d6b\\endpoint-audit.json",
+          "sha256": "59fffce93efdd143ce06036b125d407943c075de57712cc65feb7dbdd916f625"
+        },
+        {
+          "path": "work\\native_game\\sandbox-SCH03P-796df14d6b\\validation.json",
+          "sha256": "1f6a15162af3d5c303ee10ab0d0421ce78f93cf706dd7e30693e842a3ccf6767"
+        }
+      ],
+      "runtime_map_sha256": "a8b43fa3ce3968d0e6dccd4eaae668eb850cb644707049be08c399d62e380162"
+    },
+    {
+      "map": "SCH03",
+      "source_ref": 79,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-SCH03P-796df14d6b\\endpoint-audit.json",
+          "sha256": "59fffce93efdd143ce06036b125d407943c075de57712cc65feb7dbdd916f625"
+        },
+        {
+          "path": "work\\native_game\\sandbox-SCH03P-796df14d6b\\validation.json",
+          "sha256": "1f6a15162af3d5c303ee10ab0d0421ce78f93cf706dd7e30693e842a3ccf6767"
+        }
+      ],
+      "runtime_map_sha256": "a8b43fa3ce3968d0e6dccd4eaae668eb850cb644707049be08c399d62e380162"
+    },
+    {
+      "map": "SCH03",
+      "source_ref": 95,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-SCH03P-796df14d6b\\endpoint-audit.json",
+          "sha256": "59fffce93efdd143ce06036b125d407943c075de57712cc65feb7dbdd916f625"
+        },
+        {
+          "path": "work\\native_game\\sandbox-SCH03P-796df14d6b\\validation.json",
+          "sha256": "1f6a15162af3d5c303ee10ab0d0421ce78f93cf706dd7e30693e842a3ccf6767"
+        }
+      ],
+      "runtime_map_sha256": "a8b43fa3ce3968d0e6dccd4eaae668eb850cb644707049be08c399d62e380162"
+    },
+    {
+      "map": "SCH03",
+      "source_ref": 106,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-SCH03P-796df14d6b\\endpoint-audit.json",
+          "sha256": "59fffce93efdd143ce06036b125d407943c075de57712cc65feb7dbdd916f625"
+        },
+        {
+          "path": "work\\native_game\\sandbox-SCH03P-796df14d6b\\validation.json",
+          "sha256": "1f6a15162af3d5c303ee10ab0d0421ce78f93cf706dd7e30693e842a3ccf6767"
+        }
+      ],
+      "runtime_map_sha256": "a8b43fa3ce3968d0e6dccd4eaae668eb850cb644707049be08c399d62e380162"
+    },
+    {
+      "map": "SCH03",
+      "source_ref": 70,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-SCH03P-796df14d6b\\endpoint-audit.json",
+          "sha256": "59fffce93efdd143ce06036b125d407943c075de57712cc65feb7dbdd916f625"
+        },
+        {
+          "path": "work\\native_game\\sandbox-SCH03P-796df14d6b\\validation.json",
+          "sha256": "1f6a15162af3d5c303ee10ab0d0421ce78f93cf706dd7e30693e842a3ccf6767"
+        }
+      ],
+      "runtime_map_sha256": "a8b43fa3ce3968d0e6dccd4eaae668eb850cb644707049be08c399d62e380162"
+    },
+    {
+      "map": "SCH03",
+      "source_ref": 85,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-SCH03P-796df14d6b\\endpoint-audit.json",
+          "sha256": "59fffce93efdd143ce06036b125d407943c075de57712cc65feb7dbdd916f625"
+        },
+        {
+          "path": "work\\native_game\\sandbox-SCH03P-796df14d6b\\validation.json",
+          "sha256": "1f6a15162af3d5c303ee10ab0d0421ce78f93cf706dd7e30693e842a3ccf6767"
+        }
+      ],
+      "runtime_map_sha256": "a8b43fa3ce3968d0e6dccd4eaae668eb850cb644707049be08c399d62e380162"
+    },
+    {
+      "map": "SCH03",
+      "source_ref": 101,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-SCH03P-796df14d6b\\endpoint-audit.json",
+          "sha256": "59fffce93efdd143ce06036b125d407943c075de57712cc65feb7dbdd916f625"
+        },
+        {
+          "path": "work\\native_game\\sandbox-SCH03P-796df14d6b\\validation.json",
+          "sha256": "1f6a15162af3d5c303ee10ab0d0421ce78f93cf706dd7e30693e842a3ccf6767"
+        }
+      ],
+      "runtime_map_sha256": "a8b43fa3ce3968d0e6dccd4eaae668eb850cb644707049be08c399d62e380162"
+    },
+    {
+      "map": "SCH03",
+      "source_ref": 100,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-SCH03P-796df14d6b\\endpoint-audit.json",
+          "sha256": "59fffce93efdd143ce06036b125d407943c075de57712cc65feb7dbdd916f625"
+        },
+        {
+          "path": "work\\native_game\\sandbox-SCH03P-796df14d6b\\validation.json",
+          "sha256": "1f6a15162af3d5c303ee10ab0d0421ce78f93cf706dd7e30693e842a3ccf6767"
+        }
+      ],
+      "runtime_map_sha256": "a8b43fa3ce3968d0e6dccd4eaae668eb850cb644707049be08c399d62e380162"
+    },
+    {
+      "map": "SKY08",
+      "source_ref": 140,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-SKY08P-0d35432953\\endpoint-audit.json",
+          "sha256": "41d6811d0084a93f1bd658c8bdaf5c72ba3a3e658bc8a85fa21e4fe1dcb7b1d9"
+        },
+        {
+          "path": "work\\native_game\\sandbox-SKY08P-0d35432953\\validation.json",
+          "sha256": "a09c6cc17c6b48ca482495fd7649b0cd5dd8746249827f2285f6add4b513f3d2"
+        }
+      ],
+      "runtime_map_sha256": "2d64cb115ff094c3ceeca2416b8c2432eb3bc42f86ca366408580c2eedcb83ef"
+    },
+    {
+      "map": "SKY08",
+      "source_ref": 167,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-SKY08P-0d35432953\\endpoint-audit.json",
+          "sha256": "41d6811d0084a93f1bd658c8bdaf5c72ba3a3e658bc8a85fa21e4fe1dcb7b1d9"
+        },
+        {
+          "path": "work\\native_game\\sandbox-SKY08P-0d35432953\\validation.json",
+          "sha256": "a09c6cc17c6b48ca482495fd7649b0cd5dd8746249827f2285f6add4b513f3d2"
+        }
+      ],
+      "runtime_map_sha256": "2d64cb115ff094c3ceeca2416b8c2432eb3bc42f86ca366408580c2eedcb83ef"
+    },
+    {
+      "map": "SKY08",
+      "source_ref": 159,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-SKY08P-0d35432953\\endpoint-audit.json",
+          "sha256": "41d6811d0084a93f1bd658c8bdaf5c72ba3a3e658bc8a85fa21e4fe1dcb7b1d9"
+        },
+        {
+          "path": "work\\native_game\\sandbox-SKY08P-0d35432953\\validation.json",
+          "sha256": "a09c6cc17c6b48ca482495fd7649b0cd5dd8746249827f2285f6add4b513f3d2"
+        }
+      ],
+      "runtime_map_sha256": "2d64cb115ff094c3ceeca2416b8c2432eb3bc42f86ca366408580c2eedcb83ef"
+    },
+    {
+      "map": "SKY08",
+      "source_ref": 170,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-SKY08P-0d35432953\\endpoint-audit.json",
+          "sha256": "41d6811d0084a93f1bd658c8bdaf5c72ba3a3e658bc8a85fa21e4fe1dcb7b1d9"
+        },
+        {
+          "path": "work\\native_game\\sandbox-SKY08P-0d35432953\\validation.json",
+          "sha256": "a09c6cc17c6b48ca482495fd7649b0cd5dd8746249827f2285f6add4b513f3d2"
+        }
+      ],
+      "runtime_map_sha256": "2d64cb115ff094c3ceeca2416b8c2432eb3bc42f86ca366408580c2eedcb83ef"
+    },
+    {
+      "map": "SKY08",
+      "source_ref": 157,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-SKY08P-0d35432953\\endpoint-audit.json",
+          "sha256": "41d6811d0084a93f1bd658c8bdaf5c72ba3a3e658bc8a85fa21e4fe1dcb7b1d9"
+        },
+        {
+          "path": "work\\native_game\\sandbox-SKY08P-0d35432953\\validation.json",
+          "sha256": "a09c6cc17c6b48ca482495fd7649b0cd5dd8746249827f2285f6add4b513f3d2"
+        }
+      ],
+      "runtime_map_sha256": "2d64cb115ff094c3ceeca2416b8c2432eb3bc42f86ca366408580c2eedcb83ef"
+    },
+    {
+      "map": "SKY08",
+      "source_ref": 162,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-SKY08P-0d35432953\\endpoint-audit.json",
+          "sha256": "41d6811d0084a93f1bd658c8bdaf5c72ba3a3e658bc8a85fa21e4fe1dcb7b1d9"
+        },
+        {
+          "path": "work\\native_game\\sandbox-SKY08P-0d35432953\\validation.json",
+          "sha256": "a09c6cc17c6b48ca482495fd7649b0cd5dd8746249827f2285f6add4b513f3d2"
+        }
+      ],
+      "runtime_map_sha256": "2d64cb115ff094c3ceeca2416b8c2432eb3bc42f86ca366408580c2eedcb83ef"
+    },
+    {
+      "map": "SKY08",
+      "source_ref": 142,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-SKY08P-0d35432953\\endpoint-audit.json",
+          "sha256": "41d6811d0084a93f1bd658c8bdaf5c72ba3a3e658bc8a85fa21e4fe1dcb7b1d9"
+        },
+        {
+          "path": "work\\native_game\\sandbox-SKY08P-0d35432953\\validation.json",
+          "sha256": "a09c6cc17c6b48ca482495fd7649b0cd5dd8746249827f2285f6add4b513f3d2"
+        }
+      ],
+      "runtime_map_sha256": "2d64cb115ff094c3ceeca2416b8c2432eb3bc42f86ca366408580c2eedcb83ef"
+    },
+    {
+      "map": "SKY08",
+      "source_ref": 179,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-SKY08P-0d35432953\\endpoint-audit.json",
+          "sha256": "41d6811d0084a93f1bd658c8bdaf5c72ba3a3e658bc8a85fa21e4fe1dcb7b1d9"
+        },
+        {
+          "path": "work\\native_game\\sandbox-SKY08P-0d35432953\\validation.json",
+          "sha256": "a09c6cc17c6b48ca482495fd7649b0cd5dd8746249827f2285f6add4b513f3d2"
+        }
+      ],
+      "runtime_map_sha256": "2d64cb115ff094c3ceeca2416b8c2432eb3bc42f86ca366408580c2eedcb83ef"
+    },
+    {
+      "map": "SKY08",
+      "source_ref": 175,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-SKY08P-0d35432953\\endpoint-audit.json",
+          "sha256": "41d6811d0084a93f1bd658c8bdaf5c72ba3a3e658bc8a85fa21e4fe1dcb7b1d9"
+        },
+        {
+          "path": "work\\native_game\\sandbox-SKY08P-0d35432953\\validation.json",
+          "sha256": "a09c6cc17c6b48ca482495fd7649b0cd5dd8746249827f2285f6add4b513f3d2"
+        }
+      ],
+      "runtime_map_sha256": "2d64cb115ff094c3ceeca2416b8c2432eb3bc42f86ca366408580c2eedcb83ef"
+    },
+    {
+      "map": "TME12",
+      "source_ref": 64,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-TME12P-3dd66cfae4\\endpoint-audit.json",
+          "sha256": "785dc854da0a28cdaa4110b6c547898e320021ef1127a34aa4a146a0af87d71e"
+        },
+        {
+          "path": "work\\native_game\\sandbox-TME12P-3dd66cfae4\\validation.json",
+          "sha256": "4e8840bde5129da5ad30b835dd8eaa6375f0bd6422c517d8729515f68f9c9b94"
+        }
+      ],
+      "runtime_map_sha256": "50ee109b9085f6684eb6d7e5627951eab4eb234472270dc700b5c51c8ddd4cc1"
+    },
+    {
+      "map": "TSP11",
+      "source_ref": 64,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-TSP11P-06b3830293\\endpoint-audit.json",
+          "sha256": "c9fd805d5e845045f9c4ef51e4025edb4ba08d2506011c7c07f4c62888316f54"
+        },
+        {
+          "path": "work\\native_game\\sandbox-TSP11P-06b3830293\\validation.json",
+          "sha256": "ed1d61f3d968546d2238188071a41cccf9f1c85bd2849fda81d8bae216bb0081"
+        }
+      ],
+      "runtime_map_sha256": "6df6be7ecdd8be44d192570e79b6d4a3276f15736d52c0a5406fb07dde759690"
+    },
+    {
+      "map": "TSP11",
+      "source_ref": 67,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-TSP11P-06b3830293\\endpoint-audit.json",
+          "sha256": "c9fd805d5e845045f9c4ef51e4025edb4ba08d2506011c7c07f4c62888316f54"
+        },
+        {
+          "path": "work\\native_game\\sandbox-TSP11P-06b3830293\\validation.json",
+          "sha256": "ed1d61f3d968546d2238188071a41cccf9f1c85bd2849fda81d8bae216bb0081"
+        }
+      ],
+      "runtime_map_sha256": "6df6be7ecdd8be44d192570e79b6d4a3276f15736d52c0a5406fb07dde759690"
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 151,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b"
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 152,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b"
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 139,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b"
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 154,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b"
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 126,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b"
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 153,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b"
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 149,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b"
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 155,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b"
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 125,
+      "class_name": "SFlag",
+      "source_forward": 80.0,
+      "native_forward": 80.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b"
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 112,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b"
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 146,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b"
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 113,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b"
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 120,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b"
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 147,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b"
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 148,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b"
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 145,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b"
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 121,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b"
+    },
+    {
+      "map": "WAR06",
+      "source_ref": 140,
+      "class_name": "SComputerObjectiveTrigger",
+      "source_forward": 90.0,
+      "native_forward": 90.0,
+      "exact_native_placement_clear": true,
+      "normal_use_verified": false,
+      "accepted": true,
+      "evidence": [
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\endpoint-audit.json",
+          "sha256": "a7d3f51d0b05d06aa183c89fe097f1eb8d7d44df30fc09cc97bffe5441889c0a"
+        },
+        {
+          "path": "work\\native_game\\sandbox-WAR06P-d180181c5f\\validation.json",
+          "sha256": "c377bebd5396f5afea6c15c6800956973e2716e44da48a5eb289f8d54be14f66"
+        }
+      ],
+      "runtime_map_sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b"
+    }
+  ]
+}

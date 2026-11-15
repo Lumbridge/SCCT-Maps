@@ -1,0 +1,463 @@
+{
+  "assets": 41,
+  "textures": 13,
+  "meshes": 2,
+  "checks": [
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 1
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_858133",
+      "passed": true,
+      "rgba_sha256": "8ed3d187985f13f95c71f281e7067ca4b745a9da619b3d99d1c6d75a906336d2"
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 2
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_858130",
+      "passed": true,
+      "rgba_sha256": "012e26b8dc6cae70770d0e95cfc8bc3a3dd5590f6c50176cb23928c859fc65b5"
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 3
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_858132",
+      "passed": true,
+      "rgba_sha256": "116e4be9a9ef1dbad2dcbd19d54a07b379cfa83a5a55370f7417fa15743672b1"
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 4
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_858136",
+      "passed": true,
+      "properties": {
+        "PanRate": 0.05000000074505806,
+        "M": {
+          "XPlane": {
+            "W": 0.0,
+            "X": 1.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "_struct": "Plane"
+          },
+          "YPlane": {
+            "W": 0.0,
+            "X": 0.0,
+            "Y": 1.0,
+            "Z": 0.0,
+            "_struct": "Plane"
+          },
+          "ZPlane": {
+            "W": 0.0,
+            "X": 0.539006233215332,
+            "Y": 0.0,
+            "Z": 1.0,
+            "_struct": "Plane"
+          },
+          "WPlane": {
+            "W": 1.0,
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "_struct": "Plane"
+          },
+          "_struct": "Matrix"
+        },
+        "Material": 3,
+        "SurfaceType": 14,
+        "OcclusionType": 1
+      }
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 5
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_858129",
+      "passed": true,
+      "rgba_sha256": "f5dc5e763d936afd061f872743eb4273bde808082a4ce810162e44da74a57cf2"
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 6
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_858128",
+      "passed": true,
+      "rgba_sha256": "689c4010d7adda5ac4809b3636b8b31a976569e82e9479e30dce2c5d3a564b57"
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 7
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_857439",
+      "passed": true
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 8
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_858140",
+      "passed": true,
+      "rgba_sha256": "0d9762b76eb20b53055c9e56daf54070538343c7652553448b84f1a1101e4a03"
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 9
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_857437",
+      "passed": true
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 10
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_857438",
+      "passed": true
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 11
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_858137",
+      "passed": true,
+      "rgba_sha256": "a4b24ef78659951e5c4338589ef10fe0df7fe20f6f79554e6f3c9c751026eede"
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 12
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_858142",
+      "passed": true,
+      "rgba_sha256": "1c6c402a18f871f6bc0c2732e4b823268a6d8ba706bb56e364e94be49ad28244"
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 13
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_858131",
+      "passed": true,
+      "rgba_sha256": "2c893cd47b6757133987906e00c55e6dcce3c567b9df9e7f91ffecd3604cc6a6"
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 14
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_857427",
+      "passed": true
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 15
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_858138",
+      "passed": true
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 16
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_858142",
+      "passed": true,
+      "properties": {
+        "EMFTexture": 12,
+        "Material": 5
+      }
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 17
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_858140",
+      "passed": true,
+      "properties": {
+        "EMFTexture": 8,
+        "Material": 6
+      }
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 18
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_857440",
+      "passed": true
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 19
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_857428",
+      "passed": true
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 20
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_857571",
+      "passed": true
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 21
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_858139",
+      "passed": true
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 22
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_856848",
+      "passed": true,
+      "properties": {
+        "Diffuse": 2,
+        "SelfIllumination": 2,
+        "SelfIlluminationMask": 2,
+        "OutputBlending": 3,
+        "SurfaceType": 14,
+        "OcclusionType": 1
+      }
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 23
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_858143",
+      "passed": true,
+      "properties": {
+        "HeatTexture": 5,
+        "bUseTextureAsHeat": true,
+        "Material": 16
+      }
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 24
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_856859",
+      "passed": true,
+      "properties": {
+        "Diffuse": 4,
+        "SelfIllumination": 4,
+        "SelfIlluminationMask": 3,
+        "OutputBlending": 5,
+        "SurfaceType": 14,
+        "OcclusionType": 1
+      }
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 25
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_856858",
+      "passed": true,
+      "properties": {
+        "Diffuse": 1,
+        "SelfIllumination": 1,
+        "SelfIlluminationMask": 1,
+        "OutputBlending": 3,
+        "SurfaceType": 14,
+        "OcclusionType": 1
+      }
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 26
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_856854",
+      "passed": true,
+      "properties": {
+        "Diffuse": 13,
+        "OutputBlending": 3,
+        "SurfaceType": 14,
+        "OcclusionType": 1
+      }
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 28
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_856841",
+      "passed": true,
+      "properties": {
+        "Diffuse": 11,
+        "OutputBlending": 3,
+        "SurfaceType": 14,
+        "OcclusionType": 1
+      }
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 30
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_858135",
+      "passed": true,
+      "properties": {
+        "FrameBufferBlending": 4,
+        "Material": 1,
+        "SurfaceType": 14,
+        "OcclusionType": 1
+      }
+    },
+    {
+      "source": {
+        "table": "common:10",
+        "ref": 31
+      },
+      "path": "P2_Objectives_ND133.UnknownGlobalPS2_856860.UnknownGlobalPS2_858141",
+      "passed": true,
+      "properties": {
+        "HeatTexture": 6,
+        "bUseTextureAsHeat": true,
+        "Material": 17
+      }
+    },
+    {
+      "source": {
+        "table": "common:29",
+        "ref": 1
+      },
+      "path": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+      "passed": true,
+      "geometry_sha256": "830cafbaa8625bdc76c5778ec02d0e09eca753d4d28b839eeac19b19ad4187b5",
+      "vertices": 138,
+      "triangles": 92
+    },
+    {
+      "source": {
+        "table": "common:30",
+        "ref": 1
+      },
+      "path": "P2_Objectives_VialTextures.CTF.UnknownGlobalPS2_857426",
+      "passed": true
+    },
+    {
+      "source": {
+        "table": "common:30",
+        "ref": 2
+      },
+      "path": "P2_Objectives_VialTextures.CTF.UnknownGlobalPS2_857427",
+      "passed": true
+    },
+    {
+      "source": {
+        "table": "common:30",
+        "ref": 3
+      },
+      "path": "P2_Objectives_VialTextures.CTF.UnknownGlobalPS2_860018",
+      "passed": true,
+      "rgba_sha256": "1ca6dedc299a06f9a8d1504f84f976d6f4618822658094de7dde061d279d99ca"
+    },
+    {
+      "source": {
+        "table": "common:30",
+        "ref": 4
+      },
+      "path": "P2_Objectives_VialTextures.CTF.UnknownGlobalPS2_857191",
+      "passed": true,
+      "rgba_sha256": "b4293a6b0bb2781d26c6026b7a98bdbb89f06cbfa4340fd186bd01e69e10966e"
+    },
+    {
+      "source": {
+        "table": "common:7",
+        "ref": 11
+      },
+      "path": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+      "passed": true,
+      "geometry_sha256": "441d3d23a41c4e8459c05d1658efd2d89d39f84dbe69a59af058b92e6fe2daab",
+      "vertices": 112,
+      "triangles": 56
+    },
+    {
+      "source": {
+        "table": "common:8",
+        "ref": 3
+      },
+      "path": "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_856711.UnknownGlobalPS2_857637",
+      "passed": true,
+      "rgba_sha256": "2bcc40ff312415dce62c801f2dbd04288a39b08282382958fc511615b167372f"
+    },
+    {
+      "source": {
+        "table": "common:8",
+        "ref": 5
+      },
+      "path": "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_856711.UnknownGlobalPS2_857624",
+      "passed": true,
+      "rgba_sha256": "945ec2fb05cde725ec4593063bfb41f606c58dc2299dc332b7e277c25f23ccbc"
+    },
+    {
+      "source": {
+        "table": "common:8",
+        "ref": 46
+      },
+      "path": "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_856711.UnknownGlobalPS2_857737",
+      "passed": true,
+      "properties": {
+        "EMFTexture": 3,
+        "Material": 3,
+        "SurfaceType": 14
+      }
+    },
+    {
+      "source": {
+        "table": "common:8",
+        "ref": 47
+      },
+      "path": "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_856711.UnknownGlobalPS2_857709",
+      "passed": true
+    },
+    {
+      "source": {
+        "table": "common:8",
+        "ref": 49
+      },
+      "path": "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_856711.UnknownGlobalPS2_857708",
+      "passed": true
+    },
+    {
+      "source": {
+        "table": "common:8",
+        "ref": 153
+      },
+      "path": "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_856711.UnknownGlobalPS2_857630",
+      "passed": true,
+      "properties": {
+        "HeatTexture": 3,
+        "bUseTextureAsHeat": true,
+        "HeatTextureType": 1,
+        "Material": 46,
+        "SurfaceType": 14
+      }
+    }
+  ]
+}

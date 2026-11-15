@@ -1,0 +1,134 @@
+{
+  "changedNativeFiles": [
+    {
+      "path": "work\\pc-collection\\DTK02\\P2_SGameplayObjectsTex.utx",
+      "oldSha256": "0b691b17597f592dd7e7a3c4336a260e73b17618d43e17f157600e22bc65870d",
+      "newSha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+      "source": "work\\pc-collection-war147-candidate\\DTK02\\P2_SGameplayObjectsTex.utx"
+    },
+    {
+      "path": "work\\pc-collection\\DTK02\\DTK02P-i.utc",
+      "oldSha256": "56ce5cd350dbf3a67b0043fd9c4ec21da09bc5a8e44ba5c3ef7341effd7aeac5",
+      "newSha256": "c3713fc13eafc288b0747cf5412c0e96b47a126bac12180dcef4e76a91a2e268",
+      "source": "work\\pc-collection-war147-candidate\\DTK02\\DTK02P-i.utc"
+    },
+    {
+      "path": "work\\pc-collection\\FAC13\\FAC13P-i.utc",
+      "oldSha256": "98a20d9426be300b961ab6c21c9cc481d05d03ad46873a95eb6afdd381e4803a",
+      "newSha256": "c4fd6a99a6bc2b7614e746c75576f5b587f401dd5bb6df5aa3016b2e1c58aafa",
+      "source": "work\\pc-collection-war147-candidate\\FAC13\\FAC13P-i.utc"
+    },
+    {
+      "path": "work\\pc-collection\\GAR09\\GAR09P-i.utc",
+      "oldSha256": "d063b09fdbd00772b218e4db36f03b467a846f546ffd649a6e721eb7c0ddd583",
+      "newSha256": "e0c0b046347f0d7fe0f1336ac472502c876f2a940508a8d5fd20b8c916150cd2",
+      "source": "work\\pc-collection-war147-candidate\\GAR09\\GAR09P-i.utc"
+    },
+    {
+      "path": "work\\pc-collection\\INI01\\INI01P-i.utc",
+      "oldSha256": "4bf8d62eb26ca84c6636daf913bb6860517602d217b65e827aeb734766106248",
+      "newSha256": "18f96a8e11f7752f0a9f92d43ae8235a48772d5eb4a0515ea307b94ce8dfc7b9",
+      "source": "work\\pc-collection-war147-candidate\\INI01\\INI01P-i.utc"
+    },
+    {
+      "path": "work\\pc-collection\\KRA07\\KRA07P-i.utc",
+      "oldSha256": "8f627f536fad147d61ef716d0590b56e932ea4efde3cace77ffedf4923de75ac",
+      "newSha256": "e87f035d28f7c46317a2ba01ea332a7ae41fa4e449a6fa27780420a53a34097a",
+      "source": "work\\pc-collection-war147-candidate\\KRA07\\KRA07P-i.utc"
+    },
+    {
+      "path": "work\\pc-collection\\MHO05\\MHO05P-i.utc",
+      "oldSha256": "8a196ad60c67b2a7dbe687a91cfefddb2d0e691c2fe54595e4f613252470c2ea",
+      "newSha256": "9589e9559d41ad231f0f0b668febbc5abbc2c8537e38640875141085cedb9dec",
+      "source": "work\\pc-collection-war147-candidate\\MHO05\\MHO05P-i.utc"
+    },
+    {
+      "path": "work\\pc-collection\\MIS10\\MIS10P-i.utc",
+      "oldSha256": "79f6cd1db9fb274942ac9203d02c7d67635b867367360a9c6a179bbb270eb46e",
+      "newSha256": "ede923d27cc9dcc59aa922e0a22cfff0b88ebf976fd4bc66fffdd967f9ddbe34",
+      "source": "work\\pc-collection-war147-candidate\\MIS10\\MIS10P-i.utc"
+    },
+    {
+      "path": "work\\pc-collection\\MUS04\\MUS04P-i.utc",
+      "oldSha256": "fcfb0172940d6fad823479966477b6c3aeee8a3564bf0d0c6c2fc29866b56411",
+      "newSha256": "0b3e5986052b90b2aa13d6f85fa6e4903afd4db35b435259a6f94d39121d21c2",
+      "source": "work\\pc-collection-war147-candidate\\MUS04\\MUS04P-i.utc"
+    },
+    {
+      "path": "work\\pc-collection\\ORP14\\ORP14P-i.utc",
+      "oldSha256": "5c2cbfb332cff438a2f18e726cd14951677625b499fa9a2a8ac531f8ea9b0483",
+      "newSha256": "3035f93b6f7a8241e3ecd6b95b2d41217ea7c709198a118f287f18c36cf9824f",
+      "source": "work\\pc-collection-war147-candidate\\ORP14\\ORP14P-i.utc"
+    },
+    {
+      "path": "work\\pc-collection\\SCH03\\SCH03P-i.utc",
+      "oldSha256": "e4adf6b88829756efb7a08b1ed272a109c49da9a23f53e68d277ea8a88aa093d",
+      "newSha256": "63648b0a6f9ba18b65e36f8b4cbeaaadce5425e3ae2bde7c7142c3299e90fa0f",
+      "source": "work\\pc-collection-war147-candidate\\SCH03\\SCH03P-i.utc"
+    },
+    {
+      "path": "work\\pc-collection\\SKY08\\SKY08P-i.utc",
+      "oldSha256": "1b6139937e89d93643d58a60f38f1789a12f9ef041b5cb14a13d157d77e01188",
+      "newSha256": "2f5b45009a31e3d09b44ef172299d7d00fb16e9561d5fef42d1e4de57f7d615f",
+      "source": "work\\pc-collection-war147-candidate\\SKY08\\SKY08P-i.utc"
+    },
+    {
+      "path": "work\\pc-collection\\TME12\\TME12P-i.utc",
+      "oldSha256": "9cb5aaaa0e8e2f4b5b3401bfd7c91ea0c15c36c72a71fbce09e1b1adb1341b45",
+      "newSha256": "cf9ffd0ce0e29befb0a1699433e32694725ed2fe880a4941063d2e3d77abe68d",
+      "source": "work\\pc-collection-war147-candidate\\TME12\\TME12P-i.utc"
+    },
+    {
+      "path": "work\\pc-collection\\TSP11\\TSP11P-i.utc",
+      "oldSha256": "0fceca71a864bdecea6530c295640488ac29e1768eaed79c7826c03ba056bd6b",
+      "newSha256": "22652bb662f9087aeb0e72321c3fc51645b2fb56c696b6c7589fb3a08416df76",
+      "source": "work\\pc-collection-war147-candidate\\TSP11\\TSP11P-i.utc"
+    },
+    {
+      "path": "work\\pc-collection\\WAR06\\WAR06P-i.utc",
+      "oldSha256": "ca7e196972a1d02fa565ec4a160331486eaf6b812531c4c8d514a5e339cc55c0",
+      "newSha256": "8da23821530b3510d8cc02128ad0a0e8a4a164abf9bba9280ea1b21652bdd5f1",
+      "source": "work\\pc-collection-war147-candidate\\WAR06\\WAR06P-i.utc"
+    }
+  ],
+  "unchangedSdcCodes": [
+    "DTK02",
+    "FAC13",
+    "GAR09",
+    "INI01",
+    "KRA07",
+    "MHO05",
+    "MIS10",
+    "MUS04",
+    "ORP14",
+    "SCH03",
+    "SKY08",
+    "TME12",
+    "TSP11",
+    "WAR06"
+  ],
+  "unchangedExistingTexturePixels": [
+    7,
+    8,
+    9,
+    14,
+    20,
+    54,
+    123,
+    134,
+    136
+  ],
+  "sourceTexture147": {
+    "start": 3654921,
+    "end": 3657109,
+    "sha256": "212ebaf461366d7e100690c4446e277c8239671383981b62b1862bf6ad86ee11"
+  },
+  "sourcePalette79": {
+    "start": 6795391,
+    "end": 6795462,
+    "sha256": "f21878d5e29513c85d03afd6b643e7de5acb55d9f5d71faae8bf1f76461588f4"
+  },
+  "recoveredTextureRgbaSha256": "a6032d3ffd3640e37bdde55aa0cf8167adf182243f1d371fc213807a3e4791ae",
+  "sourceProof": "war147-palette-candidates.json; unique source size2188 and sole all-channel MipZero match",
+  "onlyIntendedFifteenPayloadFilesChanged": true
+}

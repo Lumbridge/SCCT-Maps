@@ -1,0 +1,1880 @@
+{
+  "summary": {
+    "files": 14,
+    "passed": 14,
+    "textures": 50,
+    "pixel_matches": 50
+  },
+  "results": [
+    {
+      "file": "work\\pc-collection\\DTK02\\DTK02P-i.utc",
+      "map": "DTK02",
+      "errors": [],
+      "version": 300,
+      "export_count": 5,
+      "map_name": "Deftech Belew P",
+      "modes": [
+        1,
+        3,
+        2
+      ],
+      "settings_bytes": 3379,
+      "settings_tags": 50,
+      "textures": [
+        {
+          "name": "Menu",
+          "rgba_sha256": "5b0e490e2a74e6d840ceabb9f322d57ed26378c24ba343093ca6a82ae0b0b3b5",
+          "pixel_match": true,
+          "source_palette_ref": 3,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              28,
+              28,
+              29,
+              191
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 266387
+            }
+          ]
+        },
+        {
+          "name": "Briefing",
+          "rgba_sha256": "4ae3b467f1a5548d2cd8d4a2b5e022cdb6adb234e5c5bdcf90ef6cc56f5e3f90",
+          "pixel_match": true,
+          "source_palette_ref": 4,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              37,
+              48,
+              38,
+              209
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 528611
+            }
+          ]
+        },
+        {
+          "name": "LoadingATT0",
+          "rgba_sha256": "0c3f1f3bba7d225791541f5c378ca68fdf9e9ec7fd8cd8c2d53c4b1a6afc4b37",
+          "pixel_match": true,
+          "source_palette_ref": 2,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              34,
+              45,
+              36,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 790832
+            }
+          ]
+        },
+        {
+          "name": "LoadingDEF0",
+          "rgba_sha256": "a47dd28c59ecd1c97c86eac53964ffab5e00e0f5ad744ee6c85807651a90ab9b",
+          "pixel_match": true,
+          "source_palette_ref": 1,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              33,
+              45,
+              36,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 1053053
+            }
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "file": "work\\pc-collection\\FAC13\\FAC13P-i.utc",
+      "map": "FAC13",
+      "errors": [],
+      "version": 300,
+      "export_count": 5,
+      "map_name": "Factory P",
+      "modes": [
+        1,
+        3,
+        2
+      ],
+      "settings_bytes": 1962,
+      "settings_tags": 50,
+      "textures": [
+        {
+          "name": "Menu",
+          "rgba_sha256": "cc960a59d3aaa2634002c49565c3d2728a24231453cfdc9e538bcc7e2181e3be",
+          "pixel_match": true,
+          "source_palette_ref": 3,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              31,
+              36,
+              43,
+              191
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 264970
+            }
+          ]
+        },
+        {
+          "name": "Briefing",
+          "rgba_sha256": "8d6ab03c78245dbd8b0a3ed433330d6805fcff5d79ba8dcba0d5495ae3456253",
+          "pixel_match": true,
+          "source_palette_ref": 4,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              47,
+              60,
+              49,
+              209
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 527194
+            }
+          ]
+        },
+        {
+          "name": "LoadingATT0",
+          "rgba_sha256": "c8da3e139cf35aef7984bc5e97222fbec5cf2b05541b755bf921bcea681f3b91",
+          "pixel_match": true,
+          "source_palette_ref": 2,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              33,
+              45,
+              37,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 789415
+            }
+          ]
+        },
+        {
+          "name": "LoadingDEF0",
+          "rgba_sha256": "283d35bb35b9f2adb23fe4f792378fc17b8c632998fc2b9ac66e2f2d6cd8585d",
+          "pixel_match": true,
+          "source_palette_ref": 1,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              32,
+              44,
+              37,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 1051636
+            }
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "file": "work\\pc-collection\\GAR09\\GAR09P-i.utc",
+      "map": "GAR09",
+      "errors": [],
+      "version": 300,
+      "export_count": 5,
+      "map_name": "Station P",
+      "modes": [
+        1,
+        3,
+        2
+      ],
+      "settings_bytes": 1863,
+      "settings_tags": 50,
+      "textures": [
+        {
+          "name": "Menu",
+          "rgba_sha256": "ee549feacad458c877a511e2522243e5b8521aaf45b6713599bc42fac6efea5c",
+          "pixel_match": true,
+          "source_palette_ref": 3,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              20,
+              23,
+              24,
+              191
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 264871
+            }
+          ]
+        },
+        {
+          "name": "Briefing",
+          "rgba_sha256": "c80c9805e4e0166de562c7017377209eba3dd5a3cb97fd223ca337fadaba9f75",
+          "pixel_match": true,
+          "source_palette_ref": 4,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              38,
+              49,
+              40,
+              209
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 527095
+            }
+          ]
+        },
+        {
+          "name": "LoadingATT0",
+          "rgba_sha256": "63ed939437d8b3c1bfda6cc959eda3355030381790c74141ba0c613588c39c63",
+          "pixel_match": true,
+          "source_palette_ref": 2,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              30,
+              42,
+              34,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 789316
+            }
+          ]
+        },
+        {
+          "name": "LoadingDEF0",
+          "rgba_sha256": "1c18bf1aee3a34274969cb59a116a06fa5fcde78075a6c357e9653bbab7787dc",
+          "pixel_match": true,
+          "source_palette_ref": 1,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              30,
+              41,
+              34,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 1051537
+            }
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "file": "work\\pc-collection\\INI01\\INI01P-i.utc",
+      "map": "INI01",
+      "errors": [],
+      "version": 300,
+      "export_count": 5,
+      "map_name": "Cinema P",
+      "modes": [
+        3
+      ],
+      "settings_bytes": 1433,
+      "settings_tags": 22,
+      "textures": [
+        {
+          "name": "Menu",
+          "rgba_sha256": "5f11f223557357e226ea2227e27dbe83e1f9fee7bd42bef791bdf820ac8fd983",
+          "pixel_match": true,
+          "source_palette_ref": 4,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              29,
+              22,
+              22,
+              191
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 264441
+            }
+          ]
+        },
+        {
+          "name": "Briefing",
+          "rgba_sha256": "4b024a22a77dd716ef0b6495d7ee35e55413c93afffa97e11b9900f55b21b438",
+          "pixel_match": true,
+          "source_palette_ref": 2,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              30,
+              38,
+              31,
+              209
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 526665
+            }
+          ]
+        },
+        {
+          "name": "LoadingATT0",
+          "rgba_sha256": "4f2b3dd39858a38695a6a7df53500965795cd5506e2a03d08e7af811369391ab",
+          "pixel_match": true,
+          "source_palette_ref": 1,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              27,
+              33,
+              27,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 788886
+            }
+          ]
+        },
+        {
+          "name": "LoadingDEF0",
+          "rgba_sha256": "26509581b9d9ec979f7549a8823f66d7d176c8b500ab5f7e545a236cf8e37c77",
+          "pixel_match": true,
+          "source_palette_ref": 3,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              26,
+              32,
+              27,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 1051107
+            }
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "file": "work\\pc-collection\\KRA07\\KRA07P-i.utc",
+      "map": "KRA07",
+      "errors": [],
+      "version": 300,
+      "export_count": 5,
+      "map_name": "Krauser Lab P",
+      "modes": [
+        1,
+        3,
+        2
+      ],
+      "settings_bytes": 3511,
+      "settings_tags": 50,
+      "textures": [
+        {
+          "name": "Menu",
+          "rgba_sha256": "f727ff0b2ea13d30b97f1a84e96161479da8a2ec5e74e318b38dac496c963219",
+          "pixel_match": true,
+          "source_palette_ref": 2,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              32,
+              38,
+              38,
+              191
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 266519
+            }
+          ]
+        },
+        {
+          "name": "Briefing",
+          "rgba_sha256": "c3679ee38b38ca2efac2722d608bf18ea3f259b2910983ee21b3a7164080ad2a",
+          "pixel_match": true,
+          "source_palette_ref": 3,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              46,
+              59,
+              48,
+              209
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 528743
+            }
+          ]
+        },
+        {
+          "name": "LoadingATT0",
+          "rgba_sha256": "820a4b708e0770c0cc6ce0f2619105f964d397d457ff668a626c93bd09cfea81",
+          "pixel_match": true,
+          "source_palette_ref": 1,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              27,
+              36,
+              30,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 790964
+            }
+          ]
+        },
+        {
+          "name": "LoadingDEF0",
+          "rgba_sha256": "d8bc730d4d8eb3af4b91106c117850df99b2e2de1407441dd83f91fe6855f701",
+          "pixel_match": true,
+          "source_palette_ref": 4,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              26,
+              35,
+              30,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 1053185
+            }
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "file": "work\\pc-collection\\MHO05\\MHO05P-i.utc",
+      "map": "MHO05",
+      "errors": [],
+      "version": 300,
+      "export_count": 5,
+      "map_name": "Mount Hospital P",
+      "modes": [
+        1,
+        3,
+        2
+      ],
+      "settings_bytes": 3492,
+      "settings_tags": 50,
+      "textures": [
+        {
+          "name": "Menu",
+          "rgba_sha256": "547992abd512d8bee728f1d39a111ab820f481948f9199b692581f5545394ed4",
+          "pixel_match": true,
+          "source_palette_ref": 4,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              65,
+              58,
+              56,
+              191
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 266500
+            }
+          ]
+        },
+        {
+          "name": "Briefing",
+          "rgba_sha256": "27b39c37daf8155ce6ada8034fdc732da95b561b9e5f897c9d3f427c689abba8",
+          "pixel_match": true,
+          "source_palette_ref": 3,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              36,
+              46,
+              37,
+              209
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 528724
+            }
+          ]
+        },
+        {
+          "name": "LoadingATT0",
+          "rgba_sha256": "c54873e47ef04b720f7a6dd35e38213d3aa4b98009dbf0ae9ad7cfe9ae74b9ea",
+          "pixel_match": true,
+          "source_palette_ref": 1,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              23,
+              29,
+              24,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 790945
+            }
+          ]
+        },
+        {
+          "name": "LoadingDEF0",
+          "rgba_sha256": "aeb565b4c703033f153c601d13c8d4c4621103b589b7b4bb6cde6aad8ee34232",
+          "pixel_match": true,
+          "source_palette_ref": 2,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              21,
+              28,
+              24,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 1053166
+            }
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "file": "work\\pc-collection\\MIS10\\MIS10P-i.utc",
+      "map": "MIS10",
+      "errors": [],
+      "version": 300,
+      "export_count": 5,
+      "map_name": "Missile Strike P",
+      "modes": [
+        1,
+        3,
+        2
+      ],
+      "settings_bytes": 2093,
+      "settings_tags": 50,
+      "textures": [
+        {
+          "name": "Menu",
+          "rgba_sha256": "a1e1da465016ad96fddb5ff63e4b15e99dc01a80fd83073002799b2459cc41bf",
+          "pixel_match": true,
+          "source_palette_ref": 2,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              44,
+              41,
+              39,
+              191
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 265101
+            }
+          ]
+        },
+        {
+          "name": "Briefing",
+          "rgba_sha256": "7b95077992bc036344128dc4d8cfd02b59ba7948278b8c039a13f36a4b677e34",
+          "pixel_match": true,
+          "source_palette_ref": 3,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              31,
+              39,
+              32,
+              209
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 527325
+            }
+          ]
+        },
+        {
+          "name": "LoadingATT0",
+          "rgba_sha256": "887600dd13aed5d7513b43744c08f545033974e48d2d2cf71e21e56e0cb508b9",
+          "pixel_match": true,
+          "source_palette_ref": 4,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              35,
+              45,
+              36,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 789546
+            }
+          ]
+        },
+        {
+          "name": "LoadingDEF0",
+          "rgba_sha256": "efa5487c038faeab735decae67648f6f48a51f8a74074879f6e5e36f7d95201b",
+          "pixel_match": true,
+          "source_palette_ref": 1,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              34,
+              44,
+              36,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 1051767
+            }
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "file": "work\\pc-collection\\MUS04\\MUS04P-i.utc",
+      "map": "MUS04",
+      "errors": [],
+      "version": 300,
+      "export_count": 5,
+      "map_name": "Museum P",
+      "modes": [
+        3,
+        2
+      ],
+      "settings_bytes": 2635,
+      "settings_tags": 36,
+      "textures": [
+        {
+          "name": "Menu",
+          "rgba_sha256": "1bcbb4acc3a2b2d8dbce53351e0cb234502423e034678612dafd500741f84b1f",
+          "pixel_match": true,
+          "source_palette_ref": 1,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              43,
+              57,
+              67,
+              191
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 265643
+            }
+          ]
+        },
+        {
+          "name": "Briefing",
+          "rgba_sha256": "c9a1d7782cfee19978b51872f4d60c077a114a8bbdc290b271426f7ae3522c70",
+          "pixel_match": true,
+          "source_palette_ref": 3,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              42,
+              54,
+              44,
+              209
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 527867
+            }
+          ]
+        },
+        {
+          "name": "LoadingATT0",
+          "rgba_sha256": "ccdb0dab610f6923c6b3dc741b42501c8556c0b0b8f037858da645117f2142c3",
+          "pixel_match": true,
+          "source_palette_ref": 4,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              33,
+              47,
+              39,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 790088
+            }
+          ]
+        },
+        {
+          "name": "LoadingDEF0",
+          "rgba_sha256": "9023c4a7b4fb833d3df5d337f937c3e2e891c106fe13defed53d2ce89ad00562",
+          "pixel_match": true,
+          "source_palette_ref": 2,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              32,
+              46,
+              40,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 1052309
+            }
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "file": "work\\pc-collection\\ORP14\\ORP14P-i.utc",
+      "map": "ORP14",
+      "errors": [],
+      "version": 300,
+      "export_count": 5,
+      "map_name": "Orphanage P",
+      "modes": [
+        1,
+        3,
+        2
+      ],
+      "settings_bytes": 1988,
+      "settings_tags": 50,
+      "textures": [
+        {
+          "name": "Menu",
+          "rgba_sha256": "f430b5f51efdcc85dbbd50ec2b6e7c42c6c90f3c5a5498e102464e1761f32b8c",
+          "pixel_match": true,
+          "source_palette_ref": 3,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              31,
+              40,
+              42,
+              191
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 264996
+            }
+          ]
+        },
+        {
+          "name": "Briefing",
+          "rgba_sha256": "a5eff1573c19b36d2fcffca3896fdab9ef1e0270e7161693c6d6be8ab671dd6f",
+          "pixel_match": true,
+          "source_palette_ref": 4,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              39,
+              49,
+              40,
+              210
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 527220
+            }
+          ]
+        },
+        {
+          "name": "LoadingATT0",
+          "rgba_sha256": "abfc3f0d9fe4c1f44395ee8debbe46d76043fead19498f3c1aba8e860c7a16b6",
+          "pixel_match": true,
+          "source_palette_ref": 2,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              33,
+              46,
+              38,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 789441
+            }
+          ]
+        },
+        {
+          "name": "LoadingDEF0",
+          "rgba_sha256": "e15494d907488109c2229eb9c6458b0d3b2483938636f6e311476dcacfb17d9d",
+          "pixel_match": true,
+          "source_palette_ref": 1,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              32,
+              45,
+              38,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 1051662
+            }
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "file": "work\\pc-collection\\SCH03\\SCH03P-i.utc",
+      "map": "SCH03",
+      "errors": [],
+      "version": 300,
+      "export_count": 5,
+      "map_name": "Schermerhorn P",
+      "modes": [
+        6,
+        5,
+        1,
+        3,
+        2
+      ],
+      "settings_bytes": 3640,
+      "settings_tags": 78,
+      "textures": [
+        {
+          "name": "Menu",
+          "rgba_sha256": "2422ac801a11be2aaae544007c96ce8998b19582fe6a3c17fbc6e4d07fa26900",
+          "pixel_match": true,
+          "source_palette_ref": 3,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              31,
+              36,
+              36,
+              191
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 266648
+            }
+          ]
+        },
+        {
+          "name": "Briefing",
+          "rgba_sha256": "9195da7f43f296b633f186c043a2f1a692b2266e156cc9fd8e9d8cd95d92f109",
+          "pixel_match": true,
+          "source_palette_ref": 4,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              25,
+              33,
+              27,
+              209
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 528872
+            }
+          ]
+        },
+        {
+          "name": "LoadingATT0",
+          "rgba_sha256": "2205f2f88c3682fe45b8b6417f18c3c75181db584188e0470c3f53c4774c81b3",
+          "pixel_match": true,
+          "source_palette_ref": 2,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              25,
+              33,
+              27,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 791093
+            }
+          ]
+        },
+        {
+          "name": "LoadingDEF0",
+          "rgba_sha256": "f8b457fedbbcf4300118e30d121e5ce37eb9effafa2d7e81a52a67941f3ba449",
+          "pixel_match": true,
+          "source_palette_ref": 1,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              23,
+              31,
+              27,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 1053314
+            }
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "file": "work\\pc-collection\\SKY08\\SKY08P-i.utc",
+      "map": "SKY08",
+      "errors": [],
+      "version": 300,
+      "export_count": 5,
+      "map_name": "Vertigo Plaza P",
+      "modes": [
+        1,
+        3
+      ],
+      "settings_bytes": 2109,
+      "settings_tags": 36,
+      "textures": [
+        {
+          "name": "Menu",
+          "rgba_sha256": "5de4e95cd68a63194cd50428ef1f03433140bc4146f6a3d4b509e74c660299f0",
+          "pixel_match": true,
+          "source_palette_ref": 3,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              30,
+              33,
+              32,
+              191
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 265117
+            }
+          ]
+        },
+        {
+          "name": "Briefing",
+          "rgba_sha256": "3a516c8c219517fae9afe35526f768ef9357e3595e7bbad8018c36436abae68a",
+          "pixel_match": true,
+          "source_palette_ref": 4,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              34,
+              44,
+              36,
+              209
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 527341
+            }
+          ]
+        },
+        {
+          "name": "LoadingATT0",
+          "rgba_sha256": "6568bd72f2006616794bd021e1f01b31a399c148118e75e972a7b0e87fc7f1a9",
+          "pixel_match": true,
+          "source_palette_ref": 2,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              25,
+              35,
+              28,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 789562
+            }
+          ]
+        },
+        {
+          "name": "LoadingDEF0",
+          "rgba_sha256": "8fa48c3bbabdeeb15bb78cd1e2372a635d8085626b64b8c82ab85cb6bd805f4e",
+          "pixel_match": true,
+          "source_palette_ref": 1,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              24,
+              33,
+              27,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 1051783
+            }
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "file": "work\\pc-collection\\TME12\\TME12P-i.utc",
+      "map": "TME12",
+      "errors": [],
+      "version": 300,
+      "export_count": 2,
+      "map_name": "Mercenary Training P",
+      "modes": [
+        3
+      ],
+      "settings_bytes": 300,
+      "settings_tags": 20,
+      "textures": [
+        {
+          "name": "LoadingDEF0",
+          "rgba_sha256": "a67fa8487c2d80a47a4ace0d0ed578e44ec16d8fd37dbe83b8ad24145fe46dc3",
+          "pixel_match": true,
+          "source_palette_ref": 1,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              18,
+              25,
+              24,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 263208
+            }
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "file": "work\\pc-collection\\TSP11\\TSP11P-i.utc",
+      "map": "TSP11",
+      "errors": [],
+      "version": 300,
+      "export_count": 2,
+      "map_name": "Spy Training P",
+      "modes": [
+        3
+      ],
+      "settings_bytes": 294,
+      "settings_tags": 20,
+      "textures": [
+        {
+          "name": "LoadingATT0",
+          "rgba_sha256": "72220ddf33c114b78d9faf9c83e45d9d9dba943cb7d4a5dc84d636ba5839b909",
+          "pixel_match": true,
+          "source_palette_ref": 1,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              29,
+              37,
+              30,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 263202
+            }
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "file": "work\\pc-collection\\WAR06\\WAR06P-i.utc",
+      "map": "WAR06",
+      "errors": [],
+      "version": 300,
+      "export_count": 5,
+      "map_name": "Warehouse P",
+      "modes": [
+        1,
+        3
+      ],
+      "settings_bytes": 2420,
+      "settings_tags": 36,
+      "textures": [
+        {
+          "name": "Menu",
+          "rgba_sha256": "8d1bd207a65760bbaa69d3db3c37c0e516d1837e5b6ca5e2ca1ed55c3d24ba79",
+          "pixel_match": true,
+          "source_palette_ref": 3,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              15,
+              24,
+              31,
+              191
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 265428
+            }
+          ]
+        },
+        {
+          "name": "Briefing",
+          "rgba_sha256": "27cdf1dee119328738318b364784822bdeb96b122b5c1306e9ae929fb0ebfb50",
+          "pixel_match": true,
+          "source_palette_ref": 4,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              35,
+              46,
+              37,
+              209
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 527652
+            }
+          ]
+        },
+        {
+          "name": "LoadingATT0",
+          "rgba_sha256": "e9b9cb24bd61a51134d9f00edf0c02e12624c339151f8b4e53e2529adaea2288",
+          "pixel_match": true,
+          "source_palette_ref": 2,
+          "has_alpha": true,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "bAlphaTexture": true,
+            "MipZero": [
+              28,
+              40,
+              35,
+              255
+            ]
+          },
+          "property_tags": 9,
+          "native_bytes": 262224,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 789876
+            }
+          ]
+        },
+        {
+          "name": "LoadingDEF0",
+          "rgba_sha256": "914dd5aa700eabe6569eb179ac00d738a4c0a7c570c67427b40a466618e63ece",
+          "pixel_match": true,
+          "source_palette_ref": 1,
+          "has_alpha": false,
+          "properties": {
+            "Format": 5,
+            "USize": 256,
+            "VSize": 256,
+            "UBits": 8,
+            "VBits": 8,
+            "UClamp": 256,
+            "VClamp": 256,
+            "MipZero": [
+              28,
+              40,
+              36,
+              255
+            ]
+          },
+          "property_tags": 8,
+          "native_bytes": 262221,
+          "mips": [
+            {
+              "width": 256,
+              "height": 256,
+              "bytes": 262144,
+              "lazy_pointer": 1052097
+            }
+          ]
+        }
+      ],
+      "passed": true
+    }
+  ]
+}

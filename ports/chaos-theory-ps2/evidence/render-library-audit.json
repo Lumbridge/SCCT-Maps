@@ -1,0 +1,733 @@
+{
+  "maps": 14,
+  "checks": [
+    {
+      "map": "DTK02P",
+      "sha256": "3b80453399de868cf1418314c5a448ce944691495ce034c9b662b43abea2d638",
+      "assets": {
+        "modem": {
+          "asset": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 514,
+              "name": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 112,
+              "surfaceVertexCount": 224,
+              "triangles": 56,
+              "attributedGeometrySha256": "f8eaf5e5ae49e5d257b9783340a6bd7ad60f0f87735a1abca19059070122383b",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857630",
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857624"
+              ]
+            }
+          ]
+        },
+        "vial": {
+          "asset": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 515,
+              "name": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 138,
+              "surfaceVertexCount": 276,
+              "triangles": 92,
+              "attributedGeometrySha256": "d47c662f1516b046ac1f274ec5fe600ad00d40edc67f0c42489ed99f3d979a38",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_857191",
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_860018"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "map": "FAC13P",
+      "sha256": "b7146818ba7efcabec7a6b9ec7c0b4eed52c98d0c7dfa36c1de33de47f6699bd",
+      "assets": {
+        "modem": {
+          "asset": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 410,
+              "name": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 112,
+              "surfaceVertexCount": 224,
+              "triangles": 56,
+              "attributedGeometrySha256": "f8eaf5e5ae49e5d257b9783340a6bd7ad60f0f87735a1abca19059070122383b",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857630",
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857624"
+              ]
+            }
+          ]
+        },
+        "vial": {
+          "asset": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 411,
+              "name": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 138,
+              "surfaceVertexCount": 276,
+              "triangles": 92,
+              "attributedGeometrySha256": "d47c662f1516b046ac1f274ec5fe600ad00d40edc67f0c42489ed99f3d979a38",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_857191",
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_860018"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "map": "GAR09P",
+      "sha256": "959c076620a7c850058d54cc8d9ac53927635320b7e471e7ac7cbfc9e19726e2",
+      "assets": {
+        "modem": {
+          "asset": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 279,
+              "name": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 112,
+              "surfaceVertexCount": 224,
+              "triangles": 56,
+              "attributedGeometrySha256": "f8eaf5e5ae49e5d257b9783340a6bd7ad60f0f87735a1abca19059070122383b",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857630",
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857624"
+              ]
+            }
+          ]
+        },
+        "vial": {
+          "asset": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 280,
+              "name": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 138,
+              "surfaceVertexCount": 276,
+              "triangles": 92,
+              "attributedGeometrySha256": "d47c662f1516b046ac1f274ec5fe600ad00d40edc67f0c42489ed99f3d979a38",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_857191",
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_860018"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "map": "INI01P",
+      "sha256": "145cc91a34cb56469b582a60376e3d0d6ef227ebfa37316e42debb090102237f",
+      "assets": {
+        "modem": {
+          "asset": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 322,
+              "name": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 112,
+              "surfaceVertexCount": 224,
+              "triangles": 56,
+              "attributedGeometrySha256": "f8eaf5e5ae49e5d257b9783340a6bd7ad60f0f87735a1abca19059070122383b",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857630",
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857624"
+              ]
+            }
+          ]
+        },
+        "vial": {
+          "asset": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 323,
+              "name": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 138,
+              "surfaceVertexCount": 276,
+              "triangles": 92,
+              "attributedGeometrySha256": "d47c662f1516b046ac1f274ec5fe600ad00d40edc67f0c42489ed99f3d979a38",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_857191",
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_860018"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "map": "KRA07P",
+      "sha256": "e7ffc6a3ed2c2c1971edf257e89c83294ac0af97f1372e8df0f464e2a108dd34",
+      "assets": {
+        "modem": {
+          "asset": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 415,
+              "name": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 112,
+              "surfaceVertexCount": 224,
+              "triangles": 56,
+              "attributedGeometrySha256": "f8eaf5e5ae49e5d257b9783340a6bd7ad60f0f87735a1abca19059070122383b",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857630",
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857624"
+              ]
+            }
+          ]
+        },
+        "vial": {
+          "asset": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 416,
+              "name": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 138,
+              "surfaceVertexCount": 276,
+              "triangles": 92,
+              "attributedGeometrySha256": "d47c662f1516b046ac1f274ec5fe600ad00d40edc67f0c42489ed99f3d979a38",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_857191",
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_860018"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "map": "MHO05P",
+      "sha256": "dae00fb39918cc77170891a62b50789f110876d43fe8a49f90528d67a8eddbdd",
+      "assets": {
+        "modem": {
+          "asset": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 476,
+              "name": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 112,
+              "surfaceVertexCount": 224,
+              "triangles": 56,
+              "attributedGeometrySha256": "f8eaf5e5ae49e5d257b9783340a6bd7ad60f0f87735a1abca19059070122383b",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857630",
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857624"
+              ]
+            }
+          ]
+        },
+        "vial": {
+          "asset": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 477,
+              "name": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 138,
+              "surfaceVertexCount": 276,
+              "triangles": 92,
+              "attributedGeometrySha256": "d47c662f1516b046ac1f274ec5fe600ad00d40edc67f0c42489ed99f3d979a38",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_857191",
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_860018"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "map": "MIS10P",
+      "sha256": "3b54aa7e79fb8eaefe2a0a9c85354fe4c7bc2398d4553ed7f4ba05712037b5ce",
+      "assets": {
+        "modem": {
+          "asset": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 471,
+              "name": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 112,
+              "surfaceVertexCount": 224,
+              "triangles": 56,
+              "attributedGeometrySha256": "f8eaf5e5ae49e5d257b9783340a6bd7ad60f0f87735a1abca19059070122383b",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857630",
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857624"
+              ]
+            }
+          ]
+        },
+        "vial": {
+          "asset": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 472,
+              "name": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 138,
+              "surfaceVertexCount": 276,
+              "triangles": 92,
+              "attributedGeometrySha256": "d47c662f1516b046ac1f274ec5fe600ad00d40edc67f0c42489ed99f3d979a38",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_857191",
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_860018"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "map": "MUS04P",
+      "sha256": "c5805e10c9d0bf704bee09e60ea093b40222cf260ca7b69d9f4d36ca10cee27f",
+      "assets": {
+        "modem": {
+          "asset": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 540,
+              "name": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 112,
+              "surfaceVertexCount": 224,
+              "triangles": 56,
+              "attributedGeometrySha256": "f8eaf5e5ae49e5d257b9783340a6bd7ad60f0f87735a1abca19059070122383b",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857630",
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857624"
+              ]
+            }
+          ]
+        },
+        "vial": {
+          "asset": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 541,
+              "name": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 138,
+              "surfaceVertexCount": 276,
+              "triangles": 92,
+              "attributedGeometrySha256": "d47c662f1516b046ac1f274ec5fe600ad00d40edc67f0c42489ed99f3d979a38",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_857191",
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_860018"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "map": "ORP14P",
+      "sha256": "c55baaf45a0bafddbd2a222b1d1c0b706d39efb017daa3769a8c389c70bd164f",
+      "assets": {
+        "modem": {
+          "asset": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 567,
+              "name": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 112,
+              "surfaceVertexCount": 224,
+              "triangles": 56,
+              "attributedGeometrySha256": "f8eaf5e5ae49e5d257b9783340a6bd7ad60f0f87735a1abca19059070122383b",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857630",
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857624"
+              ]
+            }
+          ]
+        },
+        "vial": {
+          "asset": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 568,
+              "name": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 138,
+              "surfaceVertexCount": 276,
+              "triangles": 92,
+              "attributedGeometrySha256": "d47c662f1516b046ac1f274ec5fe600ad00d40edc67f0c42489ed99f3d979a38",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_857191",
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_860018"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "map": "SCH03P",
+      "sha256": "f1fe750d832f845cfb0223e208a5063ca3dfe2628fc8d43dfebc12f1ead16947",
+      "assets": {
+        "modem": {
+          "asset": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 361,
+              "name": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 112,
+              "surfaceVertexCount": 224,
+              "triangles": 56,
+              "attributedGeometrySha256": "f8eaf5e5ae49e5d257b9783340a6bd7ad60f0f87735a1abca19059070122383b",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857630",
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857624"
+              ]
+            }
+          ]
+        },
+        "vial": {
+          "asset": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 362,
+              "name": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 138,
+              "surfaceVertexCount": 276,
+              "triangles": 92,
+              "attributedGeometrySha256": "d47c662f1516b046ac1f274ec5fe600ad00d40edc67f0c42489ed99f3d979a38",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_857191",
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_860018"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "map": "SKY08P",
+      "sha256": "72861b821eb315da6b5048e7509d06d0b5ea096489a882c1bd388d1810f52ce6",
+      "assets": {
+        "modem": {
+          "asset": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 373,
+              "name": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 112,
+              "surfaceVertexCount": 224,
+              "triangles": 56,
+              "attributedGeometrySha256": "f8eaf5e5ae49e5d257b9783340a6bd7ad60f0f87735a1abca19059070122383b",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857630",
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857624"
+              ]
+            }
+          ]
+        },
+        "vial": {
+          "asset": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 374,
+              "name": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 138,
+              "surfaceVertexCount": 276,
+              "triangles": 92,
+              "attributedGeometrySha256": "d47c662f1516b046ac1f274ec5fe600ad00d40edc67f0c42489ed99f3d979a38",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_857191",
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_860018"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "map": "TME12P",
+      "sha256": "ea4d12c572bbae65e8fc1253d6d323acac1bfa48fe5a0d7015fab4c039dad622",
+      "assets": {
+        "modem": {
+          "asset": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 292,
+              "name": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 112,
+              "surfaceVertexCount": 224,
+              "triangles": 56,
+              "attributedGeometrySha256": "f8eaf5e5ae49e5d257b9783340a6bd7ad60f0f87735a1abca19059070122383b",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857630",
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857624"
+              ]
+            }
+          ]
+        },
+        "vial": {
+          "asset": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 293,
+              "name": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 138,
+              "surfaceVertexCount": 276,
+              "triangles": 92,
+              "attributedGeometrySha256": "d47c662f1516b046ac1f274ec5fe600ad00d40edc67f0c42489ed99f3d979a38",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_857191",
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_860018"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "map": "TSP11P",
+      "sha256": "5761dab23bc9ed12ac48a8f146d0b55b6059fa117980f222eaa9046c51973db2",
+      "assets": {
+        "modem": {
+          "asset": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 440,
+              "name": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 112,
+              "surfaceVertexCount": 224,
+              "triangles": 56,
+              "attributedGeometrySha256": "f8eaf5e5ae49e5d257b9783340a6bd7ad60f0f87735a1abca19059070122383b",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857630",
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857624"
+              ]
+            }
+          ]
+        },
+        "vial": {
+          "asset": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 441,
+              "name": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 138,
+              "surfaceVertexCount": 276,
+              "triangles": 92,
+              "attributedGeometrySha256": "d47c662f1516b046ac1f274ec5fe600ad00d40edc67f0c42489ed99f3d979a38",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_857191",
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_860018"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "map": "WAR06P",
+      "sha256": "3e802b98c1330370c2c7d0767ef71c594c2aeebef923dc585278e20ff84d12dd",
+      "assets": {
+        "modem": {
+          "asset": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 436,
+              "name": "P2_Objectives_Devices.SGPO_SM.UnknownGlobalPS2_856686",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 112,
+              "surfaceVertexCount": 224,
+              "triangles": 56,
+              "attributedGeometrySha256": "f8eaf5e5ae49e5d257b9783340a6bd7ad60f0f87735a1abca19059070122383b",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857630",
+                "P2_Objectives_DeviceMaterials.UnknownGlobalPS2_857624"
+              ]
+            }
+          ]
+        },
+        "vial": {
+          "asset": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+          "present": true,
+          "nodes": [
+            {
+              "nodeIndex": 437,
+              "name": "P2_Objectives_Vial.CTF.UnknownGlobalPS2_857191",
+              "variant": "",
+              "role": "libraryMesh",
+              "inLibrary": true,
+              "sections": 2,
+              "sourceVertices": 138,
+              "surfaceVertexCount": 276,
+              "triangles": 92,
+              "attributedGeometrySha256": "d47c662f1516b046ac1f274ec5fe600ad00d40edc67f0c42489ed99f3d979a38",
+              "exactSourceGeometryAfterAxisUnitsAndUnitNormalConversion": true,
+              "materials": [
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_857191",
+                "P2_Objectives_VialTextures.UnknownGlobalPS2_860018"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
