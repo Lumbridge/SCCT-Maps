@@ -1,0 +1,38 @@
+{
+  "format": "scct.ps2.openscct.source-revision",
+  "version": "1.0.1",
+  "status": "runtime-and-content-verified-source-release-preparation",
+  "sourceCode": "INI01",
+  "targetCode": "INI01P",
+  "title": "Cinema P",
+  "contentUpdate": false,
+  "sourceOrigin": {
+    "kind": "release",
+    "repo": "Lumbridge/SCCT-Maps",
+    "path": "releases/download/ps2-original-svm-openscct-v1.0.0/INI01P.sdc",
+    "sha256": "665e2de289407729a10432505c23710aaae053711f93af85f28de067f5c50390",
+    "mapId": "ports/chaos-theory-ps2/cinema",
+    "commit": "5b6b379f13a47f7c03f94415664459930b181d51",
+    "status": "reuse-exact-existing-source-origin"
+  },
+  "originalDisc": "SLES_53287",
+  "original": {
+    "path": "MAPS/INI01.LIN",
+    "size": 2317114,
+    "sha256": "c172368245342f16c2f562de062f5c8dd8d7d97f93909f1186b7a51f73d953b9"
+  },
+  "builderCommit": "5aa27e533097de319c46ed6109241afd368be1b2",
+  "converterArtifact": "SCCT-PS2-OpenSCCT-converter-source-v1.0.1.zip",
+  "converterManifestSha256": "377c8f7431cf86dce3b4abd49a9b5e2429e03b357e3acc1c84479d546fd62714",
+  "supportedRuntimeCommit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+  "minimumRuntimeVersion": "0.8.158",
+  "runtimeCandidateCommit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+  "runtimePublication": "https://github.com/Lumbridge/OpenSCCT/releases/tag/v0.8.158",
+  "English": {
+    "changes": [],
+    "audit": "work/linear_loader/english-audit-v2/INI01.json"
+  },
+  "nativeScope": "This OpenSCCT origin is independent of the pending 12-map native Neutralization-only revision.",
+  "verification": "Exact frozen source/canonical/asset audits and revised runtime CI/publication/input/visual/network verification pass. No fourteen completed matches are claimed.",
+  "converterArtifactSha256": "1dc76c3b009ca5358567c4b9350cf04fae6204816150aa9f4f3d7143367483b0"
+}

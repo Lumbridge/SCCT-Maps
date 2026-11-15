@@ -1,0 +1,534 @@
+{
+  "schema": "openscct.ps2-runtime-release-verification",
+  "state": "published-deployed-installed-awaiting-content-checks",
+  "verifiedAt": "2026-11-15T23:10:37.911197+00:00",
+  "gameVersion": "0.8.158",
+  "sourceCommit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+  "pullRequest": "https://github.com/Lumbridge/OpenSCCT/pull/15",
+  "ci": {
+    "runId": 43772116831,
+    "url": "https://github.com/Lumbridge/OpenSCCT/actions/runs/43772116831",
+    "headSha": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+    "conclusion": "success",
+    "jobs": [
+      {
+        "name": "release-vps",
+        "conclusion": "success"
+      },
+      {
+        "name": "Integration (windows-latest, 1)",
+        "conclusion": "success"
+      },
+      {
+        "name": "Integration (windows-latest, 2)",
+        "conclusion": "success"
+      },
+      {
+        "name": "release-linux / launcher",
+        "conclusion": "success"
+      },
+      {
+        "name": "godot-smoke",
+        "conclusion": "success"
+      },
+      {
+        "name": "Integration (windows-latest, 3)",
+        "conclusion": "success"
+      },
+      {
+        "name": "windows",
+        "conclusion": "success"
+      },
+      {
+        "name": "Integration (ubuntu-latest, 2)",
+        "conclusion": "success"
+      },
+      {
+        "name": "Integration (ubuntu-latest, 4)",
+        "conclusion": "success"
+      },
+      {
+        "name": "Integration (windows-latest, 4)",
+        "conclusion": "success"
+      },
+      {
+        "name": "linux",
+        "conclusion": "success"
+      },
+      {
+        "name": "Integration (ubuntu-latest, 3)",
+        "conclusion": "success"
+      },
+      {
+        "name": "Integration (ubuntu-latest, 1)",
+        "conclusion": "success"
+      },
+      {
+        "name": "release-linux / package",
+        "conclusion": "success"
+      },
+      {
+        "name": "release-linux / Launcher on Arch Linux",
+        "conclusion": "success"
+      },
+      {
+        "name": "release-linux / Launcher on Debian 12",
+        "conclusion": "success"
+      },
+      {
+        "name": "release-linux / Launcher on Fedora",
+        "conclusion": "success"
+      },
+      {
+        "name": "release-linux / Launcher on Ubuntu 22.04",
+        "conclusion": "success"
+      }
+    ]
+  },
+  "launcherVersion": "0.8.63",
+  "validation": {
+    "schema": "openscct.ps2-vial-fix-verification",
+    "sourceCommit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+    "checkedAt": "2026-11-15T22:58:45.769386+00:00",
+    "sourceEvidence": [
+      {
+        "path": "work\\name_compare\\ps2-pickup-action-proof.json",
+        "sha256": "4022763476b4d2a273af1d3ffe6dfe2bf52c2cb77fbd6adf685099ed9fa6a0bc",
+        "bytes": 13459
+      },
+      {
+        "path": "work\\native_game\\vial-appearance\\source-carry-bone-candidates.json",
+        "sha256": "328de16167b5d2b217563a8e5544e8d07ca513bafc1e89fea2e06659c09c178a",
+        "bytes": 1141
+      },
+      {
+        "path": "work\\native_game\\vial-appearance\\source-carry-bone-pc-exact-matches.json",
+        "sha256": "67ae8bab5eb9a337d38ddc8d5f9ef15e50e855518b8e0caa5d7a2065a64f9b9d",
+        "bytes": 761
+      }
+    ],
+    "meshResetReproduction": {
+      "before": "local/ps2/vial-initial-mesh-before.log",
+      "oldActual": "SGameplayObjects.Extraction_SM.Server",
+      "profiles": [
+        "100",
+        "300"
+      ],
+      "after": "local/ps2/vial-initial-mesh-after.log",
+      "result": "passed"
+    },
+    "stationNormalMode": {
+      "mode": "Neutralization",
+      "map": "GAR09P",
+      "rules": "MapSettings",
+      "captureSeconds": 10,
+      "actualUse": true,
+      "carriedVial": false,
+      "log": {
+        "path": "work\\ps2-vial-fix-runtime\\station-normal-v2.log",
+        "sha256": "a0fa3514a572bbdda41e92b453ed552cc8a141c23aba420c49d08ecbc6334731",
+        "bytes": 21572
+      },
+      "stderr": {
+        "path": "work\\ps2-vial-fix-runtime\\station-normal-v2.err",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      },
+      "screens": [
+        {
+          "path": "work\\ps2-vial-fix-runtime\\station-v2\\station-neutralization-fresh.png",
+          "sha256": "bf29ce762cd009d78ada3f77ac8e2ee73d8d7e22c179a7864344c874ef06bbf9",
+          "bytes": 392918
+        },
+        {
+          "path": "work\\ps2-vial-fix-runtime\\station-v2\\station-neutralization-hacking.png",
+          "sha256": "7157bb581792050ea97c5dd4cc6a8799a6e77e223d9d59f562d134f836ccffb0",
+          "bytes": 405245
+        },
+        {
+          "path": "work\\ps2-vial-fix-runtime\\station-v2\\station-neutralization-complete.png",
+          "sha256": "a29a8dd03b5f38893043d09681451bf792f0ef359d7bf86f30a63aad92b71ce8",
+          "bytes": 398724
+        }
+      ]
+    },
+    "carry": {
+      "map": "DTK02P",
+      "mode": "Extraction",
+      "bone": "B R Thigh",
+      "sourceOffset": [
+        -10,
+        0,
+        10
+      ],
+      "sourceRotation": [
+        16000,
+        0,
+        0
+      ],
+      "wireRotation": [
+        15872,
+        0,
+        0
+      ],
+      "standingBothPeersAsserted": true,
+      "inspectionActorFill": [
+        0.7,
+        0.7,
+        0.7
+      ],
+      "geometryOrOffsetsModifiedForInspection": false,
+      "log": {
+        "path": "work\\ps2-vial-fix-runtime\\carry-standing-input-v2.log",
+        "sha256": "0110a59eef36a59ceea8f228fefe19715ad66ea970c20cc4615660dc0088d58f",
+        "bytes": 992
+      },
+      "stderr": {
+        "path": "work\\ps2-vial-fix-runtime\\carry-standing-input-v2.err",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      },
+      "standingScreens": [
+        {
+          "path": "work\\ps2-vial-fix-runtime\\carry-standing-input-v2\\ps2-vial-carried-right.png",
+          "sha256": "11e7bee436258a811c1625cab852fc9726cedca8e8403f09fe856844bc6f7e67",
+          "bytes": 571193
+        },
+        {
+          "path": "work\\ps2-vial-fix-runtime\\carry-standing-input-v2\\ps2-vial-carried-front.png",
+          "sha256": "bb6e7706676b7ab42f3bd5d101dc72f19448d348e5499d47b21e9e558cb83615",
+          "bytes": 315554
+        },
+        {
+          "path": "work\\ps2-vial-fix-runtime\\carry-standing-input-v2\\ps2-vial-carried-back.png",
+          "sha256": "28724de0f67652bda744d48e1808a18d84f9cc6c40a44b25d5cc85d7bf39f6d2",
+          "bytes": 584740
+        }
+      ],
+      "crouchedScreens": [
+        {
+          "path": "work\\ps2-vial-fix-runtime\\carry-inspection-v2\\ps2-vial-carried-right.png",
+          "sha256": "4aeb83c46fcbaee02d8aad56ecc554518e5de307775db7c2c51af7ba81b90890",
+          "bytes": 366895
+        },
+        {
+          "path": "work\\ps2-vial-fix-runtime\\carry-inspection-v2\\ps2-vial-carried-front.png",
+          "sha256": "b25cf42514da2ec3a8ca0edc9e9afa1fc2e6809a7e98b08e43cf8ffcbbb3fb15",
+          "bytes": 430607
+        },
+        {
+          "path": "work\\ps2-vial-fix-runtime\\carry-inspection-v2\\ps2-vial-carried-back.png",
+          "sha256": "6134f39bffa7787594bc6ec86707e99dfee109b75bce6f3e5f2c8bfcf7998fa4",
+          "bytes": 304057
+        }
+      ]
+    },
+    "localChecks": {
+      "gamePassed": 2366,
+      "gameSkipped": 85,
+      "netPassed": 281,
+      "ps2IntegrationPassed": 12,
+      "hudPassed": 4,
+      "releaseWarnings": 0,
+      "stagedDataGuard": "15 files clean",
+      "docs": "357 Markdown files passed"
+    },
+    "userAppsStopped": false,
+    "publicationPending": true
+  },
+  "scope": {
+    "nativeInstallationChanged": false,
+    "userProcessesStopped": false
+  },
+  "flatpak": {
+    "sha256": "807ee75abe698659a63025a0a3c802e8c9e20ae8a98098f5fb1cc30470cf4ad3",
+    "source": {
+      "platform": "linux-x64",
+      "commit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+      "dirty": false,
+      "built": "2026-11-15T23:02:29.409391+00:00"
+    }
+  },
+  "release": {
+    "tag": "v0.8.158",
+    "url": "https://github.com/Lumbridge/OpenSCCT/releases/tag/v0.8.158",
+    "draft": false,
+    "publishedAt": "2026-11-15T23:07:54Z",
+    "targetCommit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+    "assets": [
+      {
+        "name": "OpenSCCT-0.8.158-linux-x64-files.json",
+        "size": 168359,
+        "digest": "sha256:d4126307ced5abdecb8754cc347d666db47bdd68ca49b937dfeb4be5e68ef81a"
+      },
+      {
+        "name": "OpenSCCT-0.8.158-linux-x64-files.json.sha256",
+        "size": 104,
+        "digest": "sha256:67ed05b12b4f46a528e092e0035bef7c79b0fa756784e6d07c69481b9cc590c5"
+      },
+      {
+        "name": "OpenSCCT-0.8.158-win-x64-files.json",
+        "size": 1023078,
+        "digest": "sha256:2f7fda56b42f4b5eea85ece139d997a744272afa672d3658b27b716a08b24572"
+      },
+      {
+        "name": "OpenSCCT-0.8.158-win-x64-files.json.sha256",
+        "size": 102,
+        "digest": "sha256:017e1d9c56dc3981628b2c294a123f3d9c2f641579eb751f93a7e36f771bfa62"
+      },
+      {
+        "name": "OpenSCCT-linux-x86_64.flatpak",
+        "size": 111868120,
+        "digest": "sha256:807ee75abe698659a63025a0a3c802e8c9e20ae8a98098f5fb1cc30470cf4ad3"
+      },
+      {
+        "name": "OpenSCCT-linux-x86_64.flatpak.sha256",
+        "size": 96,
+        "digest": "sha256:059c5895c41beb6c3fe18a0e4e931205bd32e0317e87b268adf1c512acd4a060"
+      },
+      {
+        "name": "OpenSCCT.Launcher-0.8.63-linux-x64.sha256",
+        "size": 94,
+        "digest": "sha256:71341f21f35a51349437d8223d4df87b8a30158ac41fe2b4a6c219ac4b0784c1"
+      },
+      {
+        "name": "OpenSCCT.Launcher-0.8.63-win-x64.exe.sha256",
+        "size": 88,
+        "digest": "sha256:0af586e5aafd6205377edd9d3295221b3bc6d988e455d054e3c8c7ec9fd83aa3"
+      },
+      {
+        "name": "OpenSCCT.Launcher-linux-x64",
+        "size": 48567247,
+        "digest": "sha256:8c317647f14941d960e04cc811d4d4dcbda404969192e8aeba3d6a300a07226d"
+      },
+      {
+        "name": "OpenSCCT.Launcher-linux-x64.tar.gz",
+        "size": 41325312,
+        "digest": "sha256:483f441359e90d5523b731727f38f5aedc1c1e490fdedc93d0c49de6bc255154"
+      },
+      {
+        "name": "OpenSCCT.Launcher-linux-x64.tar.gz.sha256",
+        "size": 101,
+        "digest": "sha256:067fa3c19008abf0ca3746f2d175927cac905d2fd29f52a2b9164128b0365d30"
+      },
+      {
+        "name": "OpenSCCT.Launcher.exe",
+        "size": 53972811,
+        "digest": "sha256:892f6cf8a30321f352bd9a27271dbf13bc999afd966c3e47775cd4cca8c4e9ed"
+      },
+      {
+        "name": "SHA256SUMS",
+        "size": 96,
+        "digest": "sha256:059c5895c41beb6c3fe18a0e4e931205bd32e0317e87b268adf1c512acd4a060"
+      }
+    ],
+    "manifests": [
+      {
+        "platform": "win-x64",
+        "sha256": "2f7fda56b42f4b5eea85ece139d997a744272afa672d3658b27b716a08b24572",
+        "files": 2418
+      },
+      {
+        "platform": "linux-x64",
+        "sha256": "d4126307ced5abdecb8754cc347d666db47bdd68ca49b937dfeb4be5e68ef81a",
+        "files": 426
+      }
+    ],
+    "blobStores": [
+      "game-files",
+      "game-files-2",
+      "game-files-3",
+      "game-files-4"
+    ],
+    "allReferencedBlobsExist": true,
+    "uniqueBlobReferences": 385,
+    "preparedStoreAssetsVerified": [
+      {
+        "name": "0af7001e09de9edba8fa9c3f96092439ea94b0702968897ffb45b4741b2ef1b4.gz",
+        "sha256": "6475be8784ac16ccead87b1708ca3c6493ab5eb4296d1eb99d39c4ef8d52675a",
+        "size": 1428979
+      },
+      {
+        "name": "1945cadc54eacde06d1ef239803844ac74b0e6ed5318796e65a00db320b7b4e2.gz",
+        "sha256": "13e9eef0296c0ac2f628efb1dd0ba846a646d3bd522817592131284c9419d987",
+        "size": 227726
+      },
+      {
+        "name": "2ac245a7f4935514655c5e0c61dcbabe4db8e52fcf60138610f2ba6048e24db9.gz",
+        "sha256": "9293b74fa32637f7a355c5293be56ac3b06d3a493a42cde5ced2c739218cb8a2",
+        "size": 293243
+      },
+      {
+        "name": "3d6bdbb39fc74557a7a03d5d05fc5e04f4e304ca98c2c70c151d50075ff6088b.gz",
+        "sha256": "e819a4ea4f08697cb3e3f86a5692996f1522bfdd6c29d52402e624ec9b5926bb",
+        "size": 1128185
+      },
+      {
+        "name": "4d6eb0032fbc8752eca031abf5da87c4244e6c35327af596e9c4893fe4c1586a.gz",
+        "sha256": "a0dc381317f6497d9183f1a8171d5cb725544f017f367bb57b1c3f314967eb6d",
+        "size": 125151
+      },
+      {
+        "name": "56de0768b7ff69c88158bf7ab1d60d7dee441a2b9666d744ba1a7c41420533ca.gz",
+        "sha256": "5e2bbc7be8e6a1f2ec54dc08ed75c6ec7c93e4d46380b5e725735cc7d2bb10c6",
+        "size": 1613931
+      },
+      {
+        "name": "744522e8af181078bc0c57ea9cd0516a6024081d4e16695b93e1b6fe2424e6aa.gz",
+        "sha256": "2109667d2789df67a9446a88c2e152aac5fef869706f92a758ee11e98683c27a",
+        "size": 299704
+      },
+      {
+        "name": "78879e32cda19994e9362abdf570722415d4a1627df5e12d6297713b40fd59d6.gz",
+        "sha256": "f08dde2021791cf5b2119ece629b351d6d34e3638a9811ea2dab855aeaa5cd50",
+        "size": 303996
+      },
+      {
+        "name": "9794ff935aedf4d7cbee3375eb5e87d2fa63de520fcad2a5f0cebc0dfa5b0bb7.gz",
+        "sha256": "3366205f01ccb80aa779b5a669c44bb8e7ae03926cc55a49a8dfa9fc28b9970d",
+        "size": 425052
+      },
+      {
+        "name": "a6d67f59297804f18e28ed8b1943f2c785f38fbbf619db76e84be85f066fd3b4.gz",
+        "sha256": "5b16fc7e6d5df0156d0462531476a95aa7940ffb28090416605bc5b59a3a4945",
+        "size": 131419
+      },
+      {
+        "name": "e825518888d07a2ab9968ed1bfb07bd7311ef5af52d80e3a11c151ba2225de43.gz",
+        "sha256": "a9ba11d2b22538eb210213a28151fa653458e148cb14b7fb6bad5335c170dad6",
+        "size": 2608774
+      },
+      {
+        "name": "OpenSCCT-0.8.158-win-x64-files.json",
+        "sha256": "2f7fda56b42f4b5eea85ece139d997a744272afa672d3658b27b716a08b24572",
+        "size": 1023078
+      },
+      {
+        "name": "OpenSCCT-0.8.158-win-x64-files.json.sha256",
+        "sha256": "017e1d9c56dc3981628b2c294a123f3d9c2f641579eb751f93a7e36f771bfa62",
+        "size": 102
+      },
+      {
+        "name": "OpenSCCT-0.8.158-win-x64-pack.zip",
+        "sha256": "e9ffd575e01216d15d30ea368a6961c37e3f3058b4066fceeb8af56a0b83b0a6",
+        "size": 1549347
+      },
+      {
+        "name": "OpenSCCT.Launcher-0.8.63-win-x64.exe.sha256",
+        "sha256": "0af586e5aafd6205377edd9d3295221b3bc6d988e455d054e3c8c7ec9fd83aa3",
+        "size": 88
+      },
+      {
+        "name": "OpenSCCT.Launcher-0.8.63-linux-x64.sha256",
+        "sha256": "71341f21f35a51349437d8223d4df87b8a30158ac41fe2b4a6c219ac4b0784c1",
+        "size": 94
+      },
+      {
+        "name": "06352a975adbe9f259656d24516912ee2d2cec48b3c5669a50c1413de40369e6.gz",
+        "sha256": "ae116d73e3f35765b946c5d9745a8810ec98e78bb3a5f100433a6bdfb3334708",
+        "size": 2609274
+      },
+      {
+        "name": "093f2c63ddf86c0bd85a339326c59caf8df9062a1e597de150b3d8c151fc8781.gz",
+        "sha256": "fdaa3f0f288dd6f8acd19f6a16119a28dae898ca39dcaf2d93c55378e63e178e",
+        "size": 293099
+      },
+      {
+        "name": "1ec5ac0f155e96392d379a42c3719a3ca9b463fc430fb5bca0840bae4de62c82.gz",
+        "sha256": "3f6246ff244ffb9c0f26987e5768364860ab881228e0e0822ef4b810cae712a6",
+        "size": 424804
+      },
+      {
+        "name": "31fd8977b1ca635fe5fcc93079872880e29767bf49d22673e6f95643712baa2f.gz",
+        "sha256": "7593750df64849a5399fc33776443520ad16bbe2b565b3c8607dd56f7670f2a7",
+        "size": 299584
+      },
+      {
+        "name": "6381d75810c864cbdb5635fef0ab855dc386dcc183ca6338bec72e6faccfd4ab.gz",
+        "sha256": "255d0675a951e47aa9388aee5bafdf1d62a7661c924c8064abfe3100fea03a40",
+        "size": 131291
+      },
+      {
+        "name": "6e4867ecb2386d3e91ae99186ba9bcc36b1c2048d76a1ba4f1a3843c0ea475f4.gz",
+        "sha256": "9f8e56d51eaaffecfb391e22b11df1cb0e7b52e49d5983a968ed0cf3394967c3",
+        "size": 1623607
+      },
+      {
+        "name": "b18992fd2f11f9ebfb7af9112337d12061fbf09c6d324802c4f50c62df948479.gz",
+        "sha256": "c76a7d36bd403566e437e2d26ce29957aa95af715445375eb386391fb4f7030e",
+        "size": 1128037
+      },
+      {
+        "name": "OpenSCCT-0.8.158-linux-x64-files.json",
+        "sha256": "d4126307ced5abdecb8754cc347d666db47bdd68ca49b937dfeb4be5e68ef81a",
+        "size": 168359
+      },
+      {
+        "name": "OpenSCCT-0.8.158-linux-x64-files.json.sha256",
+        "sha256": "67ed05b12b4f46a528e092e0035bef7c79b0fa756784e6d07c69481b9cc590c5",
+        "size": 104
+      },
+      {
+        "name": "OpenSCCT-0.8.158-linux-x64-pack.zip",
+        "sha256": "184907ba2c2b52a9bf353f9b01bc62303d638544ba0da2b2d4a4693ffb7856ed",
+        "size": 270433
+      }
+    ]
+  },
+  "mergeCommit": "91c3a4bf69e32a26acbe03311dc2bfaedef27c6c",
+  "installed": {
+    "verifiedAt": "2026-11-15T23:10:35.2892213+00:00",
+    "build": {
+      "version": "0.8.158",
+      "platform": "win-x64",
+      "commit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+      "dirty": false,
+      "built": "2026-11-15T23:05:13Z"
+    },
+    "state": {
+      "Current": "0.8.158",
+      "Previous": "0.8.157",
+      "Pending": null,
+      "SwitchedAt": "2026-11-15T23:09:09.6001884+00:00"
+    },
+    "netProductVersion": "0.8.158+d46fd18c9e033eb6612b51011b500fa978a1c72d",
+    "exeSha256": "d03c1e28e25366210dd0597e9e5fb95284c99859e1d96f6ee735dbcb5bada139",
+    "runtime": "C:/Users/ryans/AppData/Local/OpenSCCT/versions/0.8.158/OpenSCCT.exe",
+    "masterStatus": {
+      "masterVersion": "1.1.31",
+      "masterBuild": "20261115.2256",
+      "masterCommit": "d46fd18",
+      "latestVersion": "0.8.158",
+      "minVersion": "0.8.75",
+      "servers": 1
+    },
+    "launcherPreserved": [
+      {
+        "ProcessId": 82436,
+        "Name": "OpenSCCT.Launcher.exe"
+      }
+    ],
+    "outcome": "Activated",
+    "manifestFiles": 2418,
+    "gameFilesVerifiedBy": "Launcher UpdateService.InstallAsync",
+    "runtimeUpdateTouchedContent": false
+  },
+  "deployment": {
+    "masterActive": true,
+    "serverActive": true,
+    "commit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+    "masterStatus": {
+      "masterVersion": "1.1.31",
+      "masterBuild": "20261115.2256",
+      "masterCommit": "d46fd18",
+      "latestVersion": "0.8.158",
+      "minVersion": "0.8.75",
+      "servers": 1
+    },
+    "netDllSha256": "7708094a8a897ba0d31775fee70d9f9d874a367c827bdaf06822b9c266ba97c1",
+    "exactArtifactDllsMatchedBothLiveServices": true,
+    "advertisedVersionBackup": "/opt/svm/backups/latest-version-before-0.8.158.json",
+    "onlineRotationChanged": false,
+    "liveFourteenMapOnlineMatchesClaimed": false
+  }
+}

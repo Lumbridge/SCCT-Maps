@@ -1,0 +1,55 @@
+{
+  "format": "scct.ps2.openscct.source-revision",
+  "version": "1.0.1",
+  "status": "runtime-and-content-verified-source-release-preparation",
+  "sourceCode": "MUS04",
+  "targetCode": "MUS04P",
+  "title": "Museum P",
+  "contentUpdate": true,
+  "sourceOrigin": {
+    "kind": "release",
+    "repo": "Lumbridge/SCCT-Maps",
+    "path": "releases/download/ps2-original-svm-openscct-v1.0.1/MUS04P.sdc",
+    "sha256": "d669d4286bd7461d613da13f10a16b1cf307d5e609b3f3053302758bea87cb27",
+    "mapId": "ports/chaos-theory-ps2/museum",
+    "status": "source-bytes-verified-new-immutable-release-required",
+    "commitBinding": "The content index records the real commit containing this versioned metadata; no self-referential commit placeholder is embedded here."
+  },
+  "originalDisc": "SLES_53287",
+  "original": {
+    "path": "MAPS/MUS04.LIN",
+    "size": 2197819,
+    "sha256": "0fd151d8764831673eb780a03e2d0f5a129ae000b28c25081b91cf527fa3b25b"
+  },
+  "builderCommit": "5aa27e533097de319c46ed6109241afd368be1b2",
+  "converterArtifact": "SCCT-PS2-OpenSCCT-converter-source-v1.0.1.zip",
+  "converterManifestSha256": "377c8f7431cf86dce3b4abd49a9b5e2429e03b357e3acc1c84479d546fd62714",
+  "supportedRuntimeCommit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+  "minimumRuntimeVersion": "0.8.158",
+  "runtimeCandidateCommit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+  "runtimePublication": "https://github.com/Lumbridge/OpenSCCT/releases/tag/v0.8.158",
+  "English": {
+    "changes": [
+      {
+        "ref": 264,
+        "name": "SAlarm2",
+        "fields": [
+          {
+            "path": "AlarmName",
+            "source": "ALARME COULOIR",
+            "value": "Corridor alarm",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Source English locale retains this French label. Literal translation; actor IDs and alarm wiring unchanged."
+          }
+        ]
+      }
+    ],
+    "audit": "work/linear_loader/english-audit-v2/MUS04.json"
+  },
+  "nativeScope": "This OpenSCCT origin is independent of the pending 12-map native Neutralization-only revision.",
+  "verification": "Exact frozen source/canonical/asset audits and revised runtime CI/publication/input/visual/network verification pass. No fourteen completed matches are claimed.",
+  "converterArtifactSha256": "1dc76c3b009ca5358567c4b9350cf04fae6204816150aa9f4f3d7143367483b0"
+}

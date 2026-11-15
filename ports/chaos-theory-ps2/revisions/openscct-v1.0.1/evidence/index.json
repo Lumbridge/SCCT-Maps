@@ -1,0 +1,37 @@
+[
+  {
+    "file": "runtime-release-verification.json",
+    "sha256": "427b82e0968443b6000b565f780383c08e96ce6905199c1b5ad54b29dd4d4b69",
+    "originalReportSha256": "7330d806f04576c39c2c481d4af2e0f1e8983642ab5e1d95ee677cda3acb0ce4"
+  },
+  {
+    "file": "build-receipt.json",
+    "sha256": "0fe1096850322517b2934145eb6357cb584aa19eb96b27d192f9db4dbcfc7fa3",
+    "originalReportSha256": "2b2915a14782a36dd85b45d98563b68b3357130abebe5f731f68b868b15fdfa0"
+  },
+  {
+    "file": "independent-v2-audit.json",
+    "sha256": "c95a705ed38e830d2cf0ba22dbebb8a4a4bcd9c8574cb13880f069f98498ee2b",
+    "originalReportSha256": "fdda16ec42e54c4c101d9d3b65fd4b065e56a4c284438a2e45063af3794a2b00"
+  },
+  {
+    "file": "locale-source-and-ui-proof.json",
+    "sha256": "b4c5d0e9d3ae184f2449c4a230895e179cd691e30795b21fa035d517f590b038",
+    "originalReportSha256": "569ca41072aa385707c91620257b8853bedcf1d8e1c4a939e8abe0b021d2859f"
+  },
+  {
+    "file": "pc-serialization-test.json",
+    "sha256": "52b2c5a424270881bcf88363d692cc2a813f2379e0736cb8b4a3a989f75c458f",
+    "originalReportSha256": "31bc698835a9fe307b56dd7e43ee9c93112e6e57e6cc1f099a0b2cf9c1d4c361"
+  },
+  {
+    "file": "summary.json",
+    "sha256": "1e134bf5b0b13abbcde8e0daa2c10c55de013754b3a36bc47086e762b8e05f9b",
+    "originalReportSha256": "90d9e8792cb10d600164dd7ca4eee205a4740b11d2d514447458d50750449986"
+  },
+  {
+    "file": "frozen-openscct-inputs.json",
+    "sha256": "2d0712fe20f8c435e7eabd262926e52bba9f2205467898a9da22ba875cb8d8f2",
+    "originalReportSha256": "cde79fd93819971c135d9818f972cb7179f8dfed500fe7afce2c6e2b2e5fd16b"
+  }
+]

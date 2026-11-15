@@ -1,0 +1,38 @@
+{
+  "format": "scct.ps2.openscct.source-revision",
+  "version": "1.0.1",
+  "status": "runtime-and-content-verified-source-release-preparation",
+  "sourceCode": "TSP11",
+  "targetCode": "TSP11P",
+  "title": "Spy Training P",
+  "contentUpdate": false,
+  "sourceOrigin": {
+    "kind": "release",
+    "repo": "Lumbridge/SCCT-Maps",
+    "path": "releases/download/ps2-original-svm-openscct-v1.0.0/TSP11P.sdc",
+    "sha256": "6df6be7ecdd8be44d192570e79b6d4a3276f15736d52c0a5406fb07dde759690",
+    "mapId": "ports/chaos-theory-ps2/spy-training",
+    "commit": "5b6b379f13a47f7c03f94415664459930b181d51",
+    "status": "reuse-exact-existing-source-origin"
+  },
+  "originalDisc": "SLES_53287",
+  "original": {
+    "path": "MAPS/TSP11.LIN",
+    "size": 2741807,
+    "sha256": "495ec36b84b6ef870f2f17bd59c8c1fb767eb2fbda7263fba7c1c49aa1b4e61b"
+  },
+  "builderCommit": "5aa27e533097de319c46ed6109241afd368be1b2",
+  "converterArtifact": "SCCT-PS2-OpenSCCT-converter-source-v1.0.1.zip",
+  "converterManifestSha256": "377c8f7431cf86dce3b4abd49a9b5e2429e03b357e3acc1c84479d546fd62714",
+  "supportedRuntimeCommit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+  "minimumRuntimeVersion": "0.8.158",
+  "runtimeCandidateCommit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+  "runtimePublication": "https://github.com/Lumbridge/OpenSCCT/releases/tag/v0.8.158",
+  "English": {
+    "changes": [],
+    "audit": "work/linear_loader/english-audit-v2/TSP11.json"
+  },
+  "nativeScope": "This OpenSCCT origin is independent of the pending 12-map native Neutralization-only revision.",
+  "verification": "Exact frozen source/canonical/asset audits and revised runtime CI/publication/input/visual/network verification pass. No fourteen completed matches are claimed.",
+  "converterArtifactSha256": "1dc76c3b009ca5358567c4b9350cf04fae6204816150aa9f4f3d7143367483b0"
+}

@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "independentPCReadbackOffsets": [
+    0,
+    63,
+    127,
+    4093,
+    16383,
+    65537
+  ],
+  "sourceCaptureUnchanged": true,
+  "protectedFNameFieldsUnchanged": true,
+  "allMapDisplayValuesReviewed": 1045,
+  "changedTagsReadExactly": true,
+  "allReviewedOutputsIdempotent": true,
+  "englishDisplayChanges": 2
+}

@@ -1,0 +1,165 @@
+{
+  "format": "scct.ps2.openscct.source-revision",
+  "version": "1.0.1",
+  "status": "runtime-and-content-verified-source-release-preparation",
+  "sourceCode": "ORP14",
+  "targetCode": "ORP14P",
+  "title": "Orphanage P",
+  "contentUpdate": true,
+  "sourceOrigin": {
+    "kind": "release",
+    "repo": "Lumbridge/SCCT-Maps",
+    "path": "releases/download/ps2-original-svm-openscct-v1.0.1/ORP14P.sdc",
+    "sha256": "f3aac0e8be1f30c1171e411bc09e4e42c9857f8ac21c49204891e2d56a8ffd7f",
+    "mapId": "ports/chaos-theory-ps2/orphanage",
+    "status": "source-bytes-verified-new-immutable-release-required",
+    "commitBinding": "The content index records the real commit containing this versioned metadata; no self-referential commit placeholder is embedded here."
+  },
+  "originalDisc": "SLES_53287",
+  "original": {
+    "path": "MAPS/ORP14.LIN",
+    "size": 1836688,
+    "sha256": "da5b0bdef6412ce804caf026f638530b9ca6e6233f17cc9c2a53265aa0d46689"
+  },
+  "builderCommit": "5aa27e533097de319c46ed6109241afd368be1b2",
+  "converterArtifact": "SCCT-PS2-OpenSCCT-converter-source-v1.0.1.zip",
+  "converterManifestSha256": "377c8f7431cf86dce3b4abd49a9b5e2429e03b357e3acc1c84479d546fd62714",
+  "supportedRuntimeCommit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+  "minimumRuntimeVersion": "0.8.158",
+  "runtimeCandidateCommit": "d46fd18c9e033eb6612b51011b500fa978a1c72d",
+  "runtimePublication": "https://github.com/Lumbridge/OpenSCCT/releases/tag/v0.8.158",
+  "English": {
+    "changes": [
+      {
+        "ref": 359,
+        "name": "SMission261",
+        "fields": [
+          {
+            "path": "Description",
+            "source": "Piratez deux ND133 sur trois.",
+            "value": "Hack into two out of three ND133.",
+            "status": "translated",
+            "method": "ISO-English-locale",
+            "sections": [
+              "SMission261"
+            ],
+            "locale": "ORP14",
+            "note": null
+          },
+          {
+            "path": "DescriptionDEF",
+            "source": "Protégez les ND133.",
+            "value": "Protect the ND133.",
+            "status": "translated",
+            "method": "ISO-English-locale",
+            "sections": [
+              "SMission261"
+            ],
+            "locale": "ORP14",
+            "note": null
+          }
+        ]
+      },
+      {
+        "ref": 1005,
+        "name": "SMission268",
+        "fields": [
+          {
+            "path": "Description",
+            "source": "Amenez trois tubes aux zones de décontamination.",
+            "value": "Take three tubes to the decontamination zones.",
+            "status": "translated",
+            "method": "ISO-English-locale",
+            "sections": [
+              "SMission268"
+            ],
+            "locale": "ORP14",
+            "note": null
+          },
+          {
+            "path": "DescriptionDEF",
+            "source": "Empêchez les intrus de voler trois tubes.",
+            "value": "Prevent the intruders from stealing three tubes.",
+            "status": "translated",
+            "method": "ISO-English-locale",
+            "sections": [
+              "SMission268"
+            ],
+            "locale": "ORP14",
+            "note": null
+          }
+        ]
+      },
+      {
+        "ref": 1041,
+        "name": "SAlarm3901",
+        "fields": [
+          {
+            "path": "AlarmName",
+            "source": "Salle Mercenaire alarm",
+            "value": "Mercenary Room alarm",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of mixed French/English authored LIN label. No corresponding English locale sentence."
+          },
+          {
+            "path": "AlarmDescription",
+            "source": "Salle Mercenaire alarm is active",
+            "value": "Mercenary Room alarm is active",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of mixed French/English authored LIN status. No corresponding English locale sentence."
+          },
+          {
+            "path": "AlarmDescriptionSpy",
+            "source": "Salle Mercenaire alarm activated",
+            "value": "Mercenary Room alarm activated",
+            "status": "translated",
+            "method": "reviewed-translation",
+            "sections": [],
+            "locale": null,
+            "note": "Literal translation of mixed French/English authored LIN status. No corresponding English locale sentence."
+          }
+        ]
+      },
+      {
+        "ref": 1042,
+        "name": "SMission265",
+        "fields": [
+          {
+            "path": "Description",
+            "source": "Neutralisez trois ND133 sur cinq.",
+            "value": "Neutralise three out of five ND133.",
+            "status": "translated",
+            "method": "ISO-English-locale",
+            "sections": [
+              "SMission265"
+            ],
+            "locale": "ORP14",
+            "note": null
+          },
+          {
+            "path": "DescriptionDEF",
+            "source": "Empêchez les intrus de neutraliser trois ND133.",
+            "value": "Prevent the intruders from neutralizing three ND133.",
+            "status": "translated",
+            "method": "ISO-English-locale",
+            "sections": [
+              "SMission265"
+            ],
+            "locale": "ORP14",
+            "note": null
+          }
+        ]
+      }
+    ],
+    "audit": "work/linear_loader/english-audit-v2/ORP14.json"
+  },
+  "nativeScope": "This OpenSCCT origin is independent of the pending 12-map native Neutralization-only revision.",
+  "verification": "Exact frozen source/canonical/asset audits and revised runtime CI/publication/input/visual/network verification pass. No fourteen completed matches are claimed.",
+  "converterArtifactSha256": "1dc76c3b009ca5358567c4b9350cf04fae6204816150aa9f4f3d7143367483b0"
+}

@@ -1,0 +1,227 @@
+{
+  "status": "built-and-independently-audited-not-published",
+  "builderCommit": "5aa27e533097de319c46ed6109241afd368be1b2",
+  "builderContentWorkingTreeClean": true,
+  "environment": {
+    "PS2_PROFILE_COLLECTION": "work\\pc-collection-english-openscct-v2",
+    "PS2_PROFILE_ADDONS": "work\\pc-install-english-openscct-v2",
+    "PS2_PROFILE_BUILD": "work\\ps2-build-openscct-v2",
+    "PS2_PROFILE_EVIDENCE": "work\\ps2-build-openscct-v2\\validation"
+  },
+  "inputs": [
+    {
+      "path": "work\\ps2_port\\build_ps2_svmap.py",
+      "sha256": "495d82d09a3be3f5bdd6a7611d6960b679a01e8427fe1c551e3d230583cc83fd"
+    },
+    {
+      "path": "work\\linear_loader\\english_strings.py",
+      "sha256": "7383c89edb4f60c719410e156ea23fe8665b75338643f97ede1fc19dea586002"
+    },
+    {
+      "path": "work\\linear_loader\\english-string-exceptions.json",
+      "sha256": "3c4910377100eaef6ef34cca7d14d5b6137777d9072c9517da5590a6b632d59f"
+    },
+    {
+      "path": "work\\ps2-build-openscct-v2\\independent-v2-audit.json",
+      "sha256": "fdda16ec42e54c4c101d9d3b65fd4b065e56a4c284438a2e45063af3794a2b00"
+    }
+  ],
+  "maps": [
+    {
+      "map": "DTK02P",
+      "sourceOriginal": {
+        "file": "Packages/Maps/DTK02P.sdc",
+        "sha256": "6832ec2a4d875e75f0305becf8ab649ead05328bef616eba23916a0c7d83b591"
+      },
+      "hashes": {
+        "audio": "992f6065e90e8e6036c5d1481507da133a0d69380d316c3dc8a5766c167247a4",
+        "render": "7c2c3687a983986d3e3110266589c75507d6bd6200b1c6f300762d09097c6c68",
+        "sim": "70db839b6305eb9d915bf95565b231b373280717b792800fc66227e407f9b6c0",
+        "ui": "b5ac46b3149cc8ffb60f4fc5350c08c498395ae859b168feccbcb06f1d64af04"
+      },
+      "files": 144
+    },
+    {
+      "map": "FAC13P",
+      "sourceOriginal": {
+        "file": "Packages/Maps/FAC13P.sdc",
+        "sha256": "b10092649f3ba8f4e81e13c1d6351223e8e83f6db3c055f5f63a9541be039e7f"
+      },
+      "hashes": {
+        "audio": "c06b22f70abea79f75af8c0a6e76ebc9603f37043bee56c38a745551197d888e",
+        "render": "b0ee7d7ed3366fb480c58d5716b947abf0d79220b1bf862219f0249e8a4e3315",
+        "sim": "5c41a5646d3219060404693ed6286c5daecfed175f674891554dcf9c2a63c197",
+        "ui": "b8198ab3fe7552ece724fdde011586e108cdeb886be94ee90e006947799068d4"
+      },
+      "files": 108
+    },
+    {
+      "map": "GAR09P",
+      "sourceOriginal": {
+        "file": "Packages/Maps/GAR09P.sdc",
+        "sha256": "eea5620191899a3e8e41760ed5ac743fe0f70b64f92d640115ea6e243f09c0cb"
+      },
+      "hashes": {
+        "audio": "1e307de0c93963e80f68c7a19cc1a6c93be6eb0eb9f913ccfe788b5815213afa",
+        "render": "90791b236c13659efeb81b1c54e1bda475e5d822cc3d7ef59c832a4a6ce45462",
+        "sim": "c90b16313c58af0e43099e67da928121083cfa5f5823751a1852d9ec893b1414",
+        "ui": "5f7f6321b851d268515f2a82c88bf08155569cd9d8c4d19833c9ac1a3a36e32f"
+      },
+      "files": 128
+    },
+    {
+      "map": "INI01P",
+      "sourceOriginal": {
+        "file": "Packages/Maps/INI01P.sdc",
+        "sha256": "665e2de289407729a10432505c23710aaae053711f93af85f28de067f5c50390"
+      },
+      "hashes": {
+        "audio": "e25c1fb3d302f0e19b43070f4c87ffe6ce757c3d522fe89e69383faffc836b39",
+        "render": "8f8fa7aaf3ad3ad1cd23b323af17d72c23deb62dcc6465c745532f47c3118594",
+        "sim": "ecbd62cd0361093d335742e2f5997f57e4c4f808ec8eccfae42168f328e8012e",
+        "ui": "f12d229a0ea1758d70f0f7c293da7d5425557bd1392698c684d472624f44d07c"
+      },
+      "files": 125
+    },
+    {
+      "map": "KRA07P",
+      "sourceOriginal": {
+        "file": "Packages/Maps/KRA07P.sdc",
+        "sha256": "f2ff7477f72d379c4b83156f179b02c0a8d18aacde7f3f7da46969450a6b63ac"
+      },
+      "hashes": {
+        "audio": "a704254a36256ec35bc13b85433003af7e22d8f730a75b4774119d32b618d027",
+        "render": "93357b38c26a72ff32aba1e69aaee109f1b5360d2c6db470a977bc324110f7e6",
+        "sim": "721c452556d6f2731a01e7a1cd249daad14a0ed9e4c4e04925772bd9db147407",
+        "ui": "acca3e2be062a5026e8cf4d5c24957c1db0edaee4c8e030c6ef8fd4c405ee8ec"
+      },
+      "files": 173
+    },
+    {
+      "map": "MHO05P",
+      "sourceOriginal": {
+        "file": "Packages/Maps/MHO05P.sdc",
+        "sha256": "f25816ff9563b281857022491e933d1f74c8e4c4e86a2b30c1298e494e8d46d1"
+      },
+      "hashes": {
+        "audio": "2eacada573929a8feb501cb52770353c639e80be030ea77d735056995c584d8c",
+        "render": "2b17fb857428d415eaf5531481695ab114051c47ddaa31d3a09b41cb40dec726",
+        "sim": "d5374b58e1649d5e0802840dccded854b65b6984a53d335c7be144ed300f2a50",
+        "ui": "1b44f1e4fe81a4eb2f68badb9f0d44072afc6d07e272199e73a6e8d6b1a803fc"
+      },
+      "files": 145
+    },
+    {
+      "map": "MIS10P",
+      "sourceOriginal": {
+        "file": "Packages/Maps/MIS10P.sdc",
+        "sha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea"
+      },
+      "hashes": {
+        "audio": "8abd41110bb304acaec73f5c3a314aede3505dd7ae7c297f1227b9fbc47f8eb3",
+        "render": "1500abe6c8da15237c6f40624342a32877bb9eef433d20ff54ebf73a6d689c68",
+        "sim": "869a6f1a92dbebd5dd43eabecdfcc7026966b67a983d2fe67aefe42e2f6cce27",
+        "ui": "861d932a2dafef776cf947d2d184c5845f7380b1cb5507d87adf61087b362e59"
+      },
+      "files": 168
+    },
+    {
+      "map": "MUS04P",
+      "sourceOriginal": {
+        "file": "Packages/Maps/MUS04P.sdc",
+        "sha256": "d669d4286bd7461d613da13f10a16b1cf307d5e609b3f3053302758bea87cb27"
+      },
+      "hashes": {
+        "audio": "4159290ed940c04a6c15184d50f7f515503e6e95125f54ef5579ef2c7e81bffb",
+        "render": "a412e3fef09aa69df882c33b07c71ae894e313ab2b18b3fee2fb5fe17f6ab56e",
+        "sim": "fa98bafb84dc00f77d7c72d61b8815337da055ca4e40e65423af9619fe6b7c1c",
+        "ui": "a329d457610904b36d0ed4a59c03cd239e67c5d611523ed7df09e6e8ecdc42b2"
+      },
+      "files": 150
+    },
+    {
+      "map": "ORP14P",
+      "sourceOriginal": {
+        "file": "Packages/Maps/ORP14P.sdc",
+        "sha256": "f3aac0e8be1f30c1171e411bc09e4e42c9857f8ac21c49204891e2d56a8ffd7f"
+      },
+      "hashes": {
+        "audio": "fea5dc3f17801227aa6266f2bba44eccf095e422654bd698717340661e29bf1b",
+        "render": "7e8bfeea0093cc9757ad61011f1b1ea724b619bba33c2ee2085474a6eeb5ebc0",
+        "sim": "f06f201ac5e1bbcd7569ea4901fcc551347eb6045a6439ea16fce7522cf8f091",
+        "ui": "7888d82487437b69560cab030d431f4dbe484b8d1b34130d69f01ae3699b7c64"
+      },
+      "files": 168
+    },
+    {
+      "map": "SCH03P",
+      "sourceOriginal": {
+        "file": "Packages/Maps/SCH03P.sdc",
+        "sha256": "a8b43fa3ce3968d0e6dccd4eaae668eb850cb644707049be08c399d62e380162"
+      },
+      "hashes": {
+        "audio": "a6f7434507795b8e465f3bea3c12883f57be9ba3eb5e2dd60930299fde62d30d",
+        "render": "1b5d586ebe42fda14dcfb363ec7f519d78f273535893c7bd17e5aac0e74b1ac6",
+        "sim": "8fe28710884d8dce024f0841a601f69f1450b383202fc90f91026417f0f645b2",
+        "ui": "c2b5b620bb8cacf8369e3885393cef8382457f209b50bddc9be8a40ecbfadccc"
+      },
+      "files": 186
+    },
+    {
+      "map": "SKY08P",
+      "sourceOriginal": {
+        "file": "Packages/Maps/SKY08P.sdc",
+        "sha256": "2d64cb115ff094c3ceeca2416b8c2432eb3bc42f86ca366408580c2eedcb83ef"
+      },
+      "hashes": {
+        "audio": "7ee740778c2f27130586ccf5688f5ad8daecd33352f05ac2b849de785dde04c9",
+        "render": "a1a6bb15b63846fb7a5f614476b5ce9e1b6fafe43f9ddc3732220d8362b4f8bd",
+        "sim": "006ab8380c12c45335070933fc4291c757e2d93cd3431c50aa423b8ea8e88143",
+        "ui": "cf04247dd65c10237c3a5dd141775362a8d24d53e39027e407aae01139aa18e8"
+      },
+      "files": 181
+    },
+    {
+      "map": "TME12P",
+      "sourceOriginal": {
+        "file": "Packages/Maps/TME12P.sdc",
+        "sha256": "50ee109b9085f6684eb6d7e5627951eab4eb234472270dc700b5c51c8ddd4cc1"
+      },
+      "hashes": {
+        "audio": "d856c473e545612e4bd216c2e326c8b5ae63f16c75d7b98abf553cbf8e854a6d",
+        "render": "01cc52031bd03bc052a8853334ff90d5f13e3965c137a149bdcc60d3a1a8c172",
+        "sim": "5e264c58df95a1be6115e219d792202f27a2bb58bcf610a7e10e4dff0217d5fe",
+        "ui": "621e4892a2ce870b16dd3ff4d69749023e2f125a4d5bcc008ce34089e7c33673"
+      },
+      "files": 118
+    },
+    {
+      "map": "TSP11P",
+      "sourceOriginal": {
+        "file": "Packages/Maps/TSP11P.sdc",
+        "sha256": "6df6be7ecdd8be44d192570e79b6d4a3276f15736d52c0a5406fb07dde759690"
+      },
+      "hashes": {
+        "audio": "218fb03420c14b292a280c8acf3d86d57b3b6189cb433720032e49a160afd906",
+        "render": "97bd3981fec01f3cd38d8d9c4ec00b36976acfba505cd329253b055212399951",
+        "sim": "b49ee22753b0cab64b3af1ea6bac5804a47be79f584447503c96c6e903987c5a",
+        "ui": "61f31ef4090a47271fb856d03d3b9a9e82a939ad7ce11d2edf7525bb0b20768a"
+      },
+      "files": 149
+    },
+    {
+      "map": "WAR06P",
+      "sourceOriginal": {
+        "file": "Packages/Maps/WAR06P.sdc",
+        "sha256": "b3888b1c5a22ccf37f463e31e053214a2783430ef8be70de2b6c383540a2597b"
+      },
+      "hashes": {
+        "audio": "00e9dc089b2872a7abd500749e621bfc2cabc60e40b84059250f2c4de4c10223",
+        "render": "7b379575682e7e9ded6317e9e85d82e0c7f34e183b9c50403ab5d8592544d5f3",
+        "sim": "6a647bd2dc8741b607cf2068562a102220bd4ca1cf9663598571b47019a593e5",
+        "ui": "02ce5a975cb51bd72b7ccb65d6fcb37da5c8eb74b0e89325adc849fcb383b984"
+      },
+      "files": 141
+    }
+  ]
+}

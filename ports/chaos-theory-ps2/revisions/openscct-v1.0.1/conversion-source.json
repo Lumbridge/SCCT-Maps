@@ -1,0 +1,16 @@
+{
+  "format": "scct.ps2.openscct.converter-revision",
+  "version": "1.0.1",
+  "status": "verified-source-release-preparation",
+  "artifact": {
+    "name": "SCCT-PS2-OpenSCCT-converter-source-v1.0.1.zip",
+    "size": 4818412,
+    "sha256": "1dc76c3b009ca5358567c4b9350cf04fae6204816150aa9f4f3d7143367483b0",
+    "sourceManifestSha256": "377c8f7431cf86dce3b4abd49a9b5e2429e03b357e3acc1c84479d546fd62714",
+    "builderCheckoutCommit": "5aa27e533097de319c46ed6109241afd368be1b2",
+    "supportedRuntimeCommit": "d46fd18c9e033eb6612b51011b500fa978a1c72d"
+  },
+  "url": "https://github.com/Lumbridge/SCCT-Maps/releases/download/ps2-original-svm-openscct-v1.0.1/SCCT-PS2-OpenSCCT-converter-source-v1.0.1.zip",
+  "minimumRuntimeVersion": "0.8.158",
+  "runtimeRelease": "https://github.com/Lumbridge/OpenSCCT/releases/tag/v0.8.158"
+}
