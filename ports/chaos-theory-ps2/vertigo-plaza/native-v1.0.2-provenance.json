@@ -1,0 +1,142 @@
+{
+  "format": "scct.ps2.native-story-menu-correction.v1",
+  "version": "1.0.2",
+  "sourceCode": "SKY08",
+  "targetCode": "SKY08P",
+  "nativeMenu": {
+    "name": "Story",
+    "mode": 5
+  },
+  "sourceGameplay": {
+    "name": "Neutralization",
+    "mode": 3
+  },
+  "candidateTreeSha256": "af0aadbf081920c36982acfa28c84ff029b47c419b755cf8d41b91aeb523fe1d",
+  "converted": [
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/SKY08P.sdc",
+      "Destination": "Packages/Maps/SKY08P.sdc",
+      "Size": 555299,
+      "sha256": "7462a0710c0cad40e4aeafc72cefd943914b4619a1862a9dfad109b4cf803e01"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_867522.uax",
+      "Destination": "Packages/Sounds/P2_867522.uax",
+      "Size": 4277866,
+      "sha256": "6eeae83af7ed29854f3ac42287b2f352f13d0cb82a14eae5a6733da91ab266b0"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_877562.uax",
+      "Destination": "Packages/Sounds/P2_877562.uax",
+      "Size": 1277627,
+      "sha256": "00690ae717eb670541aaa08db557fd7e26ea446665b0fd296cece126cf5efa7e"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_Armes_impacts.uax",
+      "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
+      "Size": 271139,
+      "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_Interface.uax",
+      "Destination": "Packages/Sounds/P2_Interface.uax",
+      "Size": 43747,
+      "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_857190.usx",
+      "Destination": "Packages/StaticMeshes/P2_857190.usx",
+      "Size": 19512,
+      "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_865957.usx",
+      "Destination": "Packages/StaticMeshes/P2_865957.usx",
+      "Size": 4181850,
+      "sha256": "acb989304b0a0501c8501ed1938f4704607fc566b897c234bc274dc086f292f2"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_PS2Objectives.usx",
+      "Destination": "Packages/StaticMeshes/P2_PS2Objectives.usx",
+      "Size": 5951,
+      "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_SGameplayObjects.usx",
+      "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+      "Size": 54432,
+      "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_TestMapStaticM.usx",
+      "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+      "Size": 14765,
+      "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_860017.utx",
+      "Destination": "Packages/Textures/P2_860017.utx",
+      "Size": 35860,
+      "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_864464.utx",
+      "Destination": "Packages/Textures/P2_864464.utx",
+      "Size": 7828312,
+      "sha256": "80910dd4fcf325ce3607c3d42d8101f18df7cca3b3e60aabba48d9929b00f032"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_Echelon.utx",
+      "Destination": "Packages/Textures/P2_Echelon.utx",
+      "Size": 300281,
+      "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_Engine.utx",
+      "Destination": "Packages/Textures/P2_Engine.utx",
+      "Size": 391117,
+      "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_nd133.utx",
+      "Destination": "Packages/Textures/P2_nd133.utx",
+      "Size": 103598,
+      "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_SBase.utx",
+      "Destination": "Packages/Textures/P2_SBase.utx",
+      "Size": 625529,
+      "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_sfx.utx",
+      "Destination": "Packages/Textures/P2_sfx.utx",
+      "Size": 161705,
+      "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_SGameplayObjectsTex.utx",
+      "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+      "Size": 77499,
+      "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/SKY08P-i.utc",
+      "Destination": "Packages/Textures/SKY08P-i.utc",
+      "Size": 208777,
+      "sha256": "2aa5fbab1023635eb3cdae42947932a6653cfcfcc709ab5e844d033ad7843d25"
+    }
+  ],
+  "sourceSnapshot": {
+    "name": "SCCT-PS2-SVM-converter-source-v1.0.2.zip",
+    "size": 5145358,
+    "sha256": "5c99f11280bda4cc0fd51a6abcb46579cc6e533d18297a4fa9262f686b1f0c6f",
+    "files": 789,
+    "sourceManifestSha256": "853234a6ea265d86b80926e811b286f70497b9b111f3d494a489959774a14290",
+    "nativeCandidateTreeSha256": "af0aadbf081920c36982acfa28c84ff029b47c419b755cf8d41b91aeb523fe1d",
+    "url": "https://github.com/Lumbridge/SCCT-Maps/releases/download/ps2-original-svm-v1.0.2/SCCT-PS2-SVM-converter-source-v1.0.2.zip"
+  },
+  "verification": "../revisions/native-v1.0.2/runtime-verification.json",
+  "worldPolicy": "Only the previously reviewed native source-Neutralization mission is mapped3â†’5. World geometry, lightmaps, spawns and shared assets remain unchanged. OpenSCCT is unaffected."
+}

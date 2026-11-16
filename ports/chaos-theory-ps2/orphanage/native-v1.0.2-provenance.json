@@ -1,0 +1,136 @@
+{
+  "format": "scct.ps2.native-story-menu-correction.v1",
+  "version": "1.0.2",
+  "sourceCode": "ORP14",
+  "targetCode": "ORP14P",
+  "nativeMenu": {
+    "name": "Story",
+    "mode": 5
+  },
+  "sourceGameplay": {
+    "name": "Neutralization",
+    "mode": 3
+  },
+  "candidateTreeSha256": "af0aadbf081920c36982acfa28c84ff029b47c419b755cf8d41b91aeb523fe1d",
+  "converted": [
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/ORP14P.sdc",
+      "Destination": "Packages/Maps/ORP14P.sdc",
+      "Size": 457815,
+      "sha256": "564273a757ee6be8385ac968da7d39736389a839c04b23cadc3e7f6e5eb0ad42"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_875776.uax",
+      "Destination": "Packages/Sounds/P2_875776.uax",
+      "Size": 50349501,
+      "sha256": "1f28505bb8a953eacbf2fa47e6f8cde877160dd317d418cfc83b7804831b216b"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_Armes_impacts.uax",
+      "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
+      "Size": 271139,
+      "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_Interface.uax",
+      "Destination": "Packages/Sounds/P2_Interface.uax",
+      "Size": 43747,
+      "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_857190.usx",
+      "Destination": "Packages/StaticMeshes/P2_857190.usx",
+      "Size": 19512,
+      "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_866603.usx",
+      "Destination": "Packages/StaticMeshes/P2_866603.usx",
+      "Size": 1786464,
+      "sha256": "970dada66c809444a0f2793cb712c1b5e1546992ed0e7297045ad2f834d75a19"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_PS2Objectives.usx",
+      "Destination": "Packages/StaticMeshes/P2_PS2Objectives.usx",
+      "Size": 5951,
+      "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_SGameplayObjects.usx",
+      "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+      "Size": 54432,
+      "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_TestMapStaticM.usx",
+      "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+      "Size": 14765,
+      "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/ORP14P-i.utc",
+      "Destination": "Packages/Textures/ORP14P-i.utc",
+      "Size": 215148,
+      "sha256": "3b184d4d0369aedd8d0ff1a6b1dd58994ef9b7ac94cc1e3ea8878a44fdd58350"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_860017.utx",
+      "Destination": "Packages/Textures/P2_860017.utx",
+      "Size": 35860,
+      "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_864010.utx",
+      "Destination": "Packages/Textures/P2_864010.utx",
+      "Size": 5380822,
+      "sha256": "69e9e8b6af27ae24058ddc218ec4f4bc4458d22f106d3d189afc9d4247bad340"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_Echelon.utx",
+      "Destination": "Packages/Textures/P2_Echelon.utx",
+      "Size": 300281,
+      "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_Engine.utx",
+      "Destination": "Packages/Textures/P2_Engine.utx",
+      "Size": 391117,
+      "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_nd133.utx",
+      "Destination": "Packages/Textures/P2_nd133.utx",
+      "Size": 103598,
+      "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_SBase.utx",
+      "Destination": "Packages/Textures/P2_SBase.utx",
+      "Size": 625529,
+      "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_sfx.utx",
+      "Destination": "Packages/Textures/P2_sfx.utx",
+      "Size": 161705,
+      "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b"
+    },
+    {
+      "Source": "releases/download/ps2-original-svm-v1.0.2/P2_SGameplayObjectsTex.utx",
+      "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+      "Size": 77499,
+      "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a"
+    }
+  ],
+  "sourceSnapshot": {
+    "name": "SCCT-PS2-SVM-converter-source-v1.0.2.zip",
+    "size": 5145358,
+    "sha256": "5c99f11280bda4cc0fd51a6abcb46579cc6e533d18297a4fa9262f686b1f0c6f",
+    "files": 789,
+    "sourceManifestSha256": "853234a6ea265d86b80926e811b286f70497b9b111f3d494a489959774a14290",
+    "nativeCandidateTreeSha256": "af0aadbf081920c36982acfa28c84ff029b47c419b755cf8d41b91aeb523fe1d",
+    "url": "https://github.com/Lumbridge/SCCT-Maps/releases/download/ps2-original-svm-v1.0.2/SCCT-PS2-SVM-converter-source-v1.0.2.zip"
+  },
+  "verification": "../revisions/native-v1.0.2/runtime-verification.json",
+  "worldPolicy": "Only the previously reviewed native source-Neutralization mission is mapped3â†’5. World geometry, lightmaps, spawns and shared assets remain unchanged. OpenSCCT is unaffected."
+}
