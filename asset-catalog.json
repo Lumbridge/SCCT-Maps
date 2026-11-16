@@ -4680,31 +4680,31 @@
         "Size": 419124
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_867522.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_867522.uax",
         "Destination": "Packages/Sounds/P2_867522.uax",
         "Hash": "202a30bef98bc2dd170cbbbc0ef16481e7a4d9e4",
         "Size": 4277866
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax",
         "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
         "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
         "Size": 271139
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax",
         "Destination": "Packages/Sounds/P2_Interface.uax",
         "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
         "Size": 43747
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx",
         "Destination": "Packages/StaticMeshes/P2_857190.usx",
         "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
         "Size": 19512
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_865023.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_865023.usx",
         "Destination": "Packages/StaticMeshes/P2_865023.usx",
         "Hash": "b427bac3ad85ed786634f28557c18910fd5014a2",
         "Size": 3486628
@@ -4716,13 +4716,13 @@
         "Size": 5951
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx",
         "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
         "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
         "Size": 54432
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx",
         "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
         "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
         "Size": 14765
@@ -4734,49 +4734,49 @@
         "Size": 189432
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx",
         "Destination": "Packages/Textures/P2_860017.utx",
         "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
         "Size": 35860
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_861532.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_861532.utx",
         "Destination": "Packages/Textures/P2_861532.utx",
         "Hash": "5d233c9d67a659d7574c65368265079ea7542bc4",
         "Size": 3412367
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx",
         "Destination": "Packages/Textures/P2_Echelon.utx",
         "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
         "Size": 300281
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx",
         "Destination": "Packages/Textures/P2_Engine.utx",
         "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
         "Size": 391117
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx",
         "Destination": "Packages/Textures/P2_nd133.utx",
         "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
         "Size": 103598
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx",
         "Destination": "Packages/Textures/P2_SBase.utx",
         "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
         "Size": 625529
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx",
         "Destination": "Packages/Textures/P2_sfx.utx",
         "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
         "Size": 161705
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx",
         "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
         "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
         "Size": 77499
@@ -4799,31 +4799,31 @@
         "Size": 454609
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_868693.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_868693.uax",
         "Destination": "Packages/Sounds/P2_868693.uax",
         "Hash": "4a19665df84c61169c7bc486fdc16dc77518e2c8",
         "Size": 1396208
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax",
         "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
         "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
         "Size": 271139
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax",
         "Destination": "Packages/Sounds/P2_Interface.uax",
         "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
         "Size": 43747
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx",
         "Destination": "Packages/StaticMeshes/P2_857190.usx",
         "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
         "Size": 19512
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_865145.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_865145.usx",
         "Destination": "Packages/StaticMeshes/P2_865145.usx",
         "Hash": "7c9363af9ead790b467a4f470e8bcb429706e0ff",
         "Size": 4176858
@@ -4835,13 +4835,13 @@
         "Size": 5951
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx",
         "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
         "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
         "Size": 54432
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx",
         "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
         "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
         "Size": 14765
@@ -4853,49 +4853,49 @@
         "Size": 213773
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx",
         "Destination": "Packages/Textures/P2_860017.utx",
         "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
         "Size": 35860
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_861751.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_861751.utx",
         "Destination": "Packages/Textures/P2_861751.utx",
         "Hash": "27b29be9c3b4b0da8275299c7f04fd325b3c1f3a",
         "Size": 4164631
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx",
         "Destination": "Packages/Textures/P2_Echelon.utx",
         "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
         "Size": 300281
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx",
         "Destination": "Packages/Textures/P2_Engine.utx",
         "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
         "Size": 391117
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx",
         "Destination": "Packages/Textures/P2_nd133.utx",
         "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
         "Size": 103598
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx",
         "Destination": "Packages/Textures/P2_SBase.utx",
         "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
         "Size": 625529
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx",
         "Destination": "Packages/Textures/P2_sfx.utx",
         "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
         "Size": 161705
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx",
         "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
         "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
         "Size": 77499
@@ -4918,31 +4918,31 @@
         "Size": 291153
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_869815.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_869815.uax",
         "Destination": "Packages/Sounds/P2_869815.uax",
         "Hash": "43a9653c9c8f839f71ef7f185d0e2ecc4200e61b",
         "Size": 3278087
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax",
         "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
         "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
         "Size": 271139
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax",
         "Destination": "Packages/Sounds/P2_Interface.uax",
         "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
         "Size": 43747
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx",
         "Destination": "Packages/StaticMeshes/P2_857190.usx",
         "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
         "Size": 19512
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_865315.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_865315.usx",
         "Destination": "Packages/StaticMeshes/P2_865315.usx",
         "Hash": "9cc4d816843ce12d46732a33fbb544bc7a913aac",
         "Size": 1681403
@@ -4954,13 +4954,13 @@
         "Size": 5951
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx",
         "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
         "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
         "Size": 54432
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx",
         "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
         "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
         "Size": 14765
@@ -4972,49 +4972,49 @@
         "Size": 198094
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx",
         "Destination": "Packages/Textures/P2_860017.utx",
         "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
         "Size": 35860
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_861983.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_861983.utx",
         "Destination": "Packages/Textures/P2_861983.utx",
         "Hash": "de097e4b745bc69af6643ff6d0d2340b7750597d",
         "Size": 5378075
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx",
         "Destination": "Packages/Textures/P2_Echelon.utx",
         "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
         "Size": 300281
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx",
         "Destination": "Packages/Textures/P2_Engine.utx",
         "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
         "Size": 391117
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx",
         "Destination": "Packages/Textures/P2_nd133.utx",
         "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
         "Size": 103598
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx",
         "Destination": "Packages/Textures/P2_SBase.utx",
         "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
         "Size": 625529
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx",
         "Destination": "Packages/Textures/P2_sfx.utx",
         "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
         "Size": 161705
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx",
         "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
         "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
         "Size": 77499
@@ -5037,31 +5037,31 @@
         "Size": 530898
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_870437.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_870437.uax",
         "Destination": "Packages/Sounds/P2_870437.uax",
         "Hash": "5697793ad904de99bbad90f209f62fd43e693ecc",
         "Size": 2142381
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax",
         "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
         "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
         "Size": 271139
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax",
         "Destination": "Packages/Sounds/P2_Interface.uax",
         "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
         "Size": 43747
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx",
         "Destination": "Packages/StaticMeshes/P2_857190.usx",
         "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
         "Size": 19512
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_866069.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_866069.usx",
         "Destination": "Packages/StaticMeshes/P2_866069.usx",
         "Hash": "8747d7813c3afc888566e97cf6c49dc95f706a18",
         "Size": 3381682
@@ -5073,67 +5073,67 @@
         "Size": 5951
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx",
         "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
         "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
         "Size": 54432
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx",
         "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
         "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
         "Size": 14765
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/INI01P-i.utc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/INI01P-i.utc",
         "Destination": "Packages/Textures/INI01P-i.utc",
         "Hash": "2082f1a7114927fb6f7487974a2ceefd3cc05d1e",
         "Size": 178193
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx",
         "Destination": "Packages/Textures/P2_860017.utx",
         "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
         "Size": 35860
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_863696.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_863696.utx",
         "Destination": "Packages/Textures/P2_863696.utx",
         "Hash": "27d611558ea99e8cdddcccadb4f4636abc205e99",
         "Size": 4418907
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx",
         "Destination": "Packages/Textures/P2_Echelon.utx",
         "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
         "Size": 300281
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx",
         "Destination": "Packages/Textures/P2_Engine.utx",
         "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
         "Size": 391117
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx",
         "Destination": "Packages/Textures/P2_nd133.utx",
         "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
         "Size": 103598
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx",
         "Destination": "Packages/Textures/P2_SBase.utx",
         "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
         "Size": 625529
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx",
         "Destination": "Packages/Textures/P2_sfx.utx",
         "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
         "Size": 161705
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx",
         "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
         "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
         "Size": 77499
@@ -5156,37 +5156,37 @@
         "Size": 456322
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_871636.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_871636.uax",
         "Destination": "Packages/Sounds/P2_871636.uax",
         "Hash": "0100ad9ab8a60486187d9d273ddfd02e476e7460",
         "Size": 2271938
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax",
         "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
         "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
         "Size": 271139
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax",
         "Destination": "Packages/Sounds/P2_Interface.uax",
         "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
         "Size": 43747
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx",
         "Destination": "Packages/StaticMeshes/P2_857190.usx",
         "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
         "Size": 19512
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_865382.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_865382.usx",
         "Destination": "Packages/StaticMeshes/P2_865382.usx",
         "Hash": "5df85f3e2134914049994a308f426a0b405640aa",
         "Size": 644013
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_865410.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_865410.usx",
         "Destination": "Packages/StaticMeshes/P2_865410.usx",
         "Hash": "5e8bfd212497253bc8f649386b57cfa6c0f9ae37",
         "Size": 2750716
@@ -5198,13 +5198,13 @@
         "Size": 5951
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx",
         "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
         "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
         "Size": 54432
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx",
         "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
         "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
         "Size": 14765
@@ -5216,55 +5216,55 @@
         "Size": 201629
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx",
         "Destination": "Packages/Textures/P2_860017.utx",
         "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
         "Size": 35860
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_862272.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_862272.utx",
         "Destination": "Packages/Textures/P2_862272.utx",
         "Hash": "bc827e44765a9e26078c2c18a4c027ae33bb5afb",
         "Size": 4841154
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_862931.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_862931.utx",
         "Destination": "Packages/Textures/P2_862931.utx",
         "Hash": "5c811f406308a49beae65fb2c643dd46e215eede",
         "Size": 401672
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx",
         "Destination": "Packages/Textures/P2_Echelon.utx",
         "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
         "Size": 300281
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx",
         "Destination": "Packages/Textures/P2_Engine.utx",
         "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
         "Size": 391117
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx",
         "Destination": "Packages/Textures/P2_nd133.utx",
         "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
         "Size": 103598
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx",
         "Destination": "Packages/Textures/P2_SBase.utx",
         "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
         "Size": 625529
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx",
         "Destination": "Packages/Textures/P2_sfx.utx",
         "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
         "Size": 161705
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx",
         "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
         "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
         "Size": 77499
@@ -5287,31 +5287,31 @@
         "Size": 554777
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_872722.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_872722.uax",
         "Destination": "Packages/Sounds/P2_872722.uax",
         "Hash": "eb1760e23d8891e16c37e69470f8c39b87ab6dbe",
         "Size": 1914777
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax",
         "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
         "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
         "Size": 271139
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax",
         "Destination": "Packages/Sounds/P2_Interface.uax",
         "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
         "Size": 43747
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx",
         "Destination": "Packages/StaticMeshes/P2_857190.usx",
         "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
         "Size": 19512
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_865605.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_865605.usx",
         "Destination": "Packages/StaticMeshes/P2_865605.usx",
         "Hash": "bdaa80f83d1c72c4d5caf7c446c1c7495911a066",
         "Size": 3953459
@@ -5323,13 +5323,13 @@
         "Size": 5951
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx",
         "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
         "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
         "Size": 54432
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx",
         "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
         "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
         "Size": 14765
@@ -5341,55 +5341,55 @@
         "Size": 219432
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx",
         "Destination": "Packages/Textures/P2_860017.utx",
         "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
         "Size": 35860
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_862546.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_862546.utx",
         "Destination": "Packages/Textures/P2_862546.utx",
         "Hash": "348ad10a1fefcc7599d0dbb6e93f77fce41a15ed",
         "Size": 399881
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_862685.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_862685.utx",
         "Destination": "Packages/Textures/P2_862685.utx",
         "Hash": "c47e2ad1623b9b17099c7b03c1334b61d2512b46",
         "Size": 7492703
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx",
         "Destination": "Packages/Textures/P2_Echelon.utx",
         "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
         "Size": 300281
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx",
         "Destination": "Packages/Textures/P2_Engine.utx",
         "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
         "Size": 391117
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx",
         "Destination": "Packages/Textures/P2_nd133.utx",
         "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
         "Size": 103598
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx",
         "Destination": "Packages/Textures/P2_SBase.utx",
         "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
         "Size": 625529
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx",
         "Destination": "Packages/Textures/P2_sfx.utx",
         "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
         "Size": 161705
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx",
         "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
         "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
         "Size": 77499
@@ -5412,31 +5412,31 @@
         "Size": 509045
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_873852.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_873852.uax",
         "Destination": "Packages/Sounds/P2_873852.uax",
         "Hash": "2ed690f0b18819d6699a70deecc63b4c16e48932",
         "Size": 47781357
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax",
         "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
         "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
         "Size": 271139
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax",
         "Destination": "Packages/Sounds/P2_Interface.uax",
         "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
         "Size": 43747
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx",
         "Destination": "Packages/StaticMeshes/P2_857190.usx",
         "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
         "Size": 19512
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_865512.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_865512.usx",
         "Destination": "Packages/StaticMeshes/P2_865512.usx",
         "Hash": "f79eded4771d437a4ce12f08f31cfb9c19fc3e19",
         "Size": 1980932
@@ -5448,13 +5448,13 @@
         "Size": 5951
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx",
         "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
         "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
         "Size": 54432
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx",
         "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
         "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
         "Size": 14765
@@ -5466,49 +5466,49 @@
         "Size": 198235
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx",
         "Destination": "Packages/Textures/P2_860017.utx",
         "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
         "Size": 35860
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_861139.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_861139.utx",
         "Destination": "Packages/Textures/P2_861139.utx",
         "Hash": "db71f8e193d624533b049b16e2ffabc0aa4c98dc",
         "Size": 8967327
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx",
         "Destination": "Packages/Textures/P2_Echelon.utx",
         "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
         "Size": 300281
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx",
         "Destination": "Packages/Textures/P2_Engine.utx",
         "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
         "Size": 391117
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx",
         "Destination": "Packages/Textures/P2_nd133.utx",
         "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
         "Size": 103598
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx",
         "Destination": "Packages/Textures/P2_SBase.utx",
         "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
         "Size": 625529
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx",
         "Destination": "Packages/Textures/P2_sfx.utx",
         "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
         "Size": 161705
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx",
         "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
         "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
         "Size": 77499
@@ -5531,37 +5531,37 @@
         "Size": 502574
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_874995.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_874995.uax",
         "Destination": "Packages/Sounds/P2_874995.uax",
         "Hash": "185d18686e9d0d27cbb9fea90b7000e10ec0a7e0",
         "Size": 1949564
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax",
         "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
         "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
         "Size": 271139
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax",
         "Destination": "Packages/Sounds/P2_Interface.uax",
         "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
         "Size": 43747
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx",
         "Destination": "Packages/StaticMeshes/P2_857190.usx",
         "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
         "Size": 19512
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_864805.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_864805.usx",
         "Destination": "Packages/StaticMeshes/P2_864805.usx",
         "Hash": "c6a0b1f745d64e202fb1e9828d1fbe19d3a8116c",
         "Size": 2287305
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_864945.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_864945.usx",
         "Destination": "Packages/StaticMeshes/P2_864945.usx",
         "Hash": "6f83b857b56c748af1aefa6b486c4c137815c364",
         "Size": 880154
@@ -5573,13 +5573,13 @@
         "Size": 5951
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx",
         "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
         "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
         "Size": 54432
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx",
         "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
         "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
         "Size": 14765
@@ -5591,55 +5591,55 @@
         "Size": 186759
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx",
         "Destination": "Packages/Textures/P2_860017.utx",
         "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
         "Size": 35860
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_861340.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_861340.utx",
         "Destination": "Packages/Textures/P2_861340.utx",
         "Hash": "a04fc98fcc033402eaf77768274d7b3875ab0da6",
         "Size": 6104289
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_861484.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_861484.utx",
         "Destination": "Packages/Textures/P2_861484.utx",
         "Hash": "b2fc9ba65fc2df9f2dc18733a66178ddb0bf26c3",
         "Size": 6173
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx",
         "Destination": "Packages/Textures/P2_Echelon.utx",
         "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
         "Size": 300281
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx",
         "Destination": "Packages/Textures/P2_Engine.utx",
         "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
         "Size": 391117
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx",
         "Destination": "Packages/Textures/P2_nd133.utx",
         "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
         "Size": 103598
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx",
         "Destination": "Packages/Textures/P2_SBase.utx",
         "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
         "Size": 625529
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx",
         "Destination": "Packages/Textures/P2_sfx.utx",
         "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
         "Size": 161705
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx",
         "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
         "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
         "Size": 77499
@@ -5662,31 +5662,31 @@
         "Size": 457819
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_875776.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_875776.uax",
         "Destination": "Packages/Sounds/P2_875776.uax",
         "Hash": "6f3adaf4419aa458781bdbace4394e1264eee4bf",
         "Size": 50349501
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax",
         "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
         "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
         "Size": 271139
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax",
         "Destination": "Packages/Sounds/P2_Interface.uax",
         "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
         "Size": 43747
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx",
         "Destination": "Packages/StaticMeshes/P2_857190.usx",
         "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
         "Size": 19512
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_866603.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_866603.usx",
         "Destination": "Packages/StaticMeshes/P2_866603.usx",
         "Hash": "660f4f9f7f11645399fcc1ce22df9c3b61cc86b5",
         "Size": 1786464
@@ -5698,13 +5698,13 @@
         "Size": 5951
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx",
         "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
         "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
         "Size": 54432
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx",
         "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
         "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
         "Size": 14765
@@ -5716,49 +5716,49 @@
         "Size": 215150
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx",
         "Destination": "Packages/Textures/P2_860017.utx",
         "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
         "Size": 35860
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_864010.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_864010.utx",
         "Destination": "Packages/Textures/P2_864010.utx",
         "Hash": "c87ca2e91736ece109fc559519af0e94b7368051",
         "Size": 5380822
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx",
         "Destination": "Packages/Textures/P2_Echelon.utx",
         "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
         "Size": 300281
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx",
         "Destination": "Packages/Textures/P2_Engine.utx",
         "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
         "Size": 391117
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx",
         "Destination": "Packages/Textures/P2_nd133.utx",
         "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
         "Size": 103598
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx",
         "Destination": "Packages/Textures/P2_SBase.utx",
         "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
         "Size": 625529
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx",
         "Destination": "Packages/Textures/P2_sfx.utx",
         "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
         "Size": 161705
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx",
         "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
         "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
         "Size": 77499
@@ -5781,31 +5781,31 @@
         "Size": 305473
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_877252.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_877252.uax",
         "Destination": "Packages/Sounds/P2_877252.uax",
         "Hash": "6f16ce2a00ece5cea0ad5260d063d21e781d744a",
         "Size": 4011963
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax",
         "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
         "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
         "Size": 271139
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax",
         "Destination": "Packages/Sounds/P2_Interface.uax",
         "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
         "Size": 43747
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx",
         "Destination": "Packages/StaticMeshes/P2_857190.usx",
         "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
         "Size": 19512
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_865794.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_865794.usx",
         "Destination": "Packages/StaticMeshes/P2_865794.usx",
         "Hash": "aacce911e3fc228d210baa29fbe7c71b5d0dc211",
         "Size": 3125017
@@ -5817,61 +5817,61 @@
         "Size": 5951
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx",
         "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
         "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
         "Size": 54432
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx",
         "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
         "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
         "Size": 14765
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx",
         "Destination": "Packages/Textures/P2_860017.utx",
         "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
         "Size": 35860
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_863307.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_863307.utx",
         "Destination": "Packages/Textures/P2_863307.utx",
         "Hash": "a3676538b1660b16ea159e62e8a7ad059025a1fc",
         "Size": 6485942
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx",
         "Destination": "Packages/Textures/P2_Echelon.utx",
         "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
         "Size": 300281
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx",
         "Destination": "Packages/Textures/P2_Engine.utx",
         "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
         "Size": 391117
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx",
         "Destination": "Packages/Textures/P2_nd133.utx",
         "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
         "Size": 103598
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx",
         "Destination": "Packages/Textures/P2_SBase.utx",
         "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
         "Size": 625529
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx",
         "Destination": "Packages/Textures/P2_sfx.utx",
         "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
         "Size": 161705
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx",
         "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
         "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
         "Size": 77499
@@ -5900,37 +5900,37 @@
         "Size": 555295
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_867522.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_867522.uax",
         "Destination": "Packages/Sounds/P2_867522.uax",
         "Hash": "202a30bef98bc2dd170cbbbc0ef16481e7a4d9e4",
         "Size": 4277866
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_877562.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_877562.uax",
         "Destination": "Packages/Sounds/P2_877562.uax",
         "Hash": "24758dd6ca5bde4725929c563b4cf198a06c0d3a",
         "Size": 1277627
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax",
         "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
         "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
         "Size": 271139
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax",
         "Destination": "Packages/Sounds/P2_Interface.uax",
         "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
         "Size": 43747
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx",
         "Destination": "Packages/StaticMeshes/P2_857190.usx",
         "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
         "Size": 19512
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_865957.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_865957.usx",
         "Destination": "Packages/StaticMeshes/P2_865957.usx",
         "Hash": "96aede6d91f992f173b109fab74c191370dbdcad",
         "Size": 4181850
@@ -5942,61 +5942,61 @@
         "Size": 5951
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx",
         "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
         "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
         "Size": 54432
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx",
         "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
         "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
         "Size": 14765
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx",
         "Destination": "Packages/Textures/P2_860017.utx",
         "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
         "Size": 35860
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_864464.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_864464.utx",
         "Destination": "Packages/Textures/P2_864464.utx",
         "Hash": "4a425f3a5bde0409a341908b6153164cad4b8980",
         "Size": 7828312
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx",
         "Destination": "Packages/Textures/P2_Echelon.utx",
         "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
         "Size": 300281
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx",
         "Destination": "Packages/Textures/P2_Engine.utx",
         "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
         "Size": 391117
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx",
         "Destination": "Packages/Textures/P2_nd133.utx",
         "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
         "Size": 103598
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx",
         "Destination": "Packages/Textures/P2_SBase.utx",
         "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
         "Size": 625529
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx",
         "Destination": "Packages/Textures/P2_sfx.utx",
         "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
         "Size": 161705
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx",
         "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
         "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
         "Size": 77499
@@ -6251,31 +6251,31 @@
         "Size": 458889
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_879601.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_879601.uax",
         "Destination": "Packages/Sounds/P2_879601.uax",
         "Hash": "9489659688dd8acbe962aeb9d1b303b7c0095790",
         "Size": 4059124
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax",
         "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
         "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
         "Size": 271139
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax",
         "Destination": "Packages/Sounds/P2_Interface.uax",
         "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
         "Size": 43747
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx",
         "Destination": "Packages/StaticMeshes/P2_857190.usx",
         "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
         "Size": 19512
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_866792.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_866792.usx",
         "Destination": "Packages/StaticMeshes/P2_866792.usx",
         "Hash": "59de5799942917d99c9e17af9f522c5723deebb9",
         "Size": 4349647
@@ -6287,61 +6287,61 @@
         "Size": 5951
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx",
         "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
         "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
         "Size": 54432
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx",
         "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
         "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
         "Size": 14765
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx",
         "Destination": "Packages/Textures/P2_860017.utx",
         "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
         "Size": 35860
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_864291.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_864291.utx",
         "Destination": "Packages/Textures/P2_864291.utx",
         "Hash": "f4bb0c6733a05a758e63c7a7e6c779c5ff65d288",
         "Size": 3284593
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx",
         "Destination": "Packages/Textures/P2_Echelon.utx",
         "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
         "Size": 300281
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx",
         "Destination": "Packages/Textures/P2_Engine.utx",
         "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
         "Size": 391117
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx",
         "Destination": "Packages/Textures/P2_nd133.utx",
         "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
         "Size": 103598
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx",
         "Destination": "Packages/Textures/P2_SBase.utx",
         "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
         "Size": 625529
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx",
         "Destination": "Packages/Textures/P2_sfx.utx",
         "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
         "Size": 161705
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx",
         "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
         "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
         "Size": 77499

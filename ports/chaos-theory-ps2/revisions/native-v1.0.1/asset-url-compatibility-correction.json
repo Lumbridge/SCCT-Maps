@@ -1,0 +1,1568 @@
+{
+  "status": "version-tag-only-catalog-correction",
+  "reason": "MapManager 0.6.2 requires each asset tag suffix to match the entry version",
+  "catalogSha256": "01faca2b40c09c64730759a1c5be7b8b0309997cede506edc6aa6769a9c9aef7",
+  "copiedAssets": [
+    {
+      "name": "P2_867522.uax",
+      "size": 4277866,
+      "sha256": "6eeae83af7ed29854f3ac42287b2f352f13d0cb82a14eae5a6733da91ab266b0",
+      "gitBlobSha1": "202a30bef98bc2dd170cbbbc0ef16481e7a4d9e4",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_867522.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_867522.uax"
+    },
+    {
+      "name": "P2_Armes_impacts.uax",
+      "size": 271139,
+      "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+      "gitBlobSha1": "048a78472f150b6c6aec5cfae887c3064cbd9589",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax"
+    },
+    {
+      "name": "P2_Interface.uax",
+      "size": 43747,
+      "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+      "gitBlobSha1": "322eb382c54f56de0f4d6c8645548812657dc175",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax"
+    },
+    {
+      "name": "P2_857190.usx",
+      "size": 19512,
+      "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+      "gitBlobSha1": "a7ba07624b219639b364bb40ae59f0a8a9620658",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx"
+    },
+    {
+      "name": "P2_865023.usx",
+      "size": 3486628,
+      "sha256": "d125565a285f18fcda712917c9a7e5250c9b3cc5620e97cb819999d14cd9504d",
+      "gitBlobSha1": "b427bac3ad85ed786634f28557c18910fd5014a2",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_865023.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_865023.usx"
+    },
+    {
+      "name": "P2_SGameplayObjects.usx",
+      "size": 54432,
+      "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+      "gitBlobSha1": "124deecf305821d6f0ed98cbe27c304def539b80",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx"
+    },
+    {
+      "name": "P2_TestMapStaticM.usx",
+      "size": 14765,
+      "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+      "gitBlobSha1": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx"
+    },
+    {
+      "name": "P2_860017.utx",
+      "size": 35860,
+      "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+      "gitBlobSha1": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx"
+    },
+    {
+      "name": "P2_861532.utx",
+      "size": 3412367,
+      "sha256": "8bafb456fec887a51ebf0140f56cbad10284ae41e2ab10ebbaa07b63d734c8ac",
+      "gitBlobSha1": "5d233c9d67a659d7574c65368265079ea7542bc4",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_861532.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_861532.utx"
+    },
+    {
+      "name": "P2_Echelon.utx",
+      "size": 300281,
+      "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+      "gitBlobSha1": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx"
+    },
+    {
+      "name": "P2_Engine.utx",
+      "size": 391117,
+      "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+      "gitBlobSha1": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx"
+    },
+    {
+      "name": "P2_nd133.utx",
+      "size": 103598,
+      "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+      "gitBlobSha1": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx"
+    },
+    {
+      "name": "P2_SBase.utx",
+      "size": 625529,
+      "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+      "gitBlobSha1": "7bab5e70dd47387901b980232852ecddbc9f82ea",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx"
+    },
+    {
+      "name": "P2_sfx.utx",
+      "size": 161705,
+      "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+      "gitBlobSha1": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx"
+    },
+    {
+      "name": "P2_SGameplayObjectsTex.utx",
+      "size": 77499,
+      "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+      "gitBlobSha1": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx"
+    },
+    {
+      "name": "P2_868693.uax",
+      "size": 1396208,
+      "sha256": "ee6c9fbbcb1936dc68744ebfec7ff4d4d7569b92cc259b1f7718c5efda9daa00",
+      "gitBlobSha1": "4a19665df84c61169c7bc486fdc16dc77518e2c8",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_868693.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_868693.uax"
+    },
+    {
+      "name": "P2_865145.usx",
+      "size": 4176858,
+      "sha256": "08e828e8afb34bb0065944086deb2f10938c71dffe0aa21bc3b4598be8415a09",
+      "gitBlobSha1": "7c9363af9ead790b467a4f470e8bcb429706e0ff",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_865145.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_865145.usx"
+    },
+    {
+      "name": "P2_861751.utx",
+      "size": 4164631,
+      "sha256": "465595cde06d20f60587eca87c8e88aec6959f954acac314e6ba53c242d8b337",
+      "gitBlobSha1": "27b29be9c3b4b0da8275299c7f04fd325b3c1f3a",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_861751.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_861751.utx"
+    },
+    {
+      "name": "P2_869815.uax",
+      "size": 3278087,
+      "sha256": "d640327679188acf716690ec73cdb961cbf13448dafdaca463aeac27d496ee23",
+      "gitBlobSha1": "43a9653c9c8f839f71ef7f185d0e2ecc4200e61b",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_869815.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_869815.uax"
+    },
+    {
+      "name": "P2_865315.usx",
+      "size": 1681403,
+      "sha256": "e75d2ad5cad33540d9fd1ec304b38b353da3aad47581a5c2f17c2f9077157f61",
+      "gitBlobSha1": "9cc4d816843ce12d46732a33fbb544bc7a913aac",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_865315.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_865315.usx"
+    },
+    {
+      "name": "P2_861983.utx",
+      "size": 5378075,
+      "sha256": "7bd945ce6bafb82e6c368f4088a7b507330b9d30b5b6a5562d95f14b7fcdd117",
+      "gitBlobSha1": "de097e4b745bc69af6643ff6d0d2340b7750597d",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_861983.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_861983.utx"
+    },
+    {
+      "name": "P2_870437.uax",
+      "size": 2142381,
+      "sha256": "bb58a61eb2b22e4ca95334907742b8bdec19c5cfcc4272e5e22f1aece4839e39",
+      "gitBlobSha1": "5697793ad904de99bbad90f209f62fd43e693ecc",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_870437.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_870437.uax"
+    },
+    {
+      "name": "P2_866069.usx",
+      "size": 3381682,
+      "sha256": "b155c9059fe620de9595f8d2dfa4b1a0e2eea3ae17b35303fe8e13f1037da67f",
+      "gitBlobSha1": "8747d7813c3afc888566e97cf6c49dc95f706a18",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_866069.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_866069.usx"
+    },
+    {
+      "name": "INI01P-i.utc",
+      "size": 178193,
+      "sha256": "18f96a8e11f7752f0a9f92d43ae8235a48772d5eb4a0515ea307b94ce8dfc7b9",
+      "gitBlobSha1": "2082f1a7114927fb6f7487974a2ceefd3cc05d1e",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/INI01P-i.utc",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/INI01P-i.utc"
+    },
+    {
+      "name": "P2_863696.utx",
+      "size": 4418907,
+      "sha256": "d275450659d91ec7fe388455dad3439fefbc5fc69b484670320d3018a740c6a3",
+      "gitBlobSha1": "27d611558ea99e8cdddcccadb4f4636abc205e99",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_863696.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_863696.utx"
+    },
+    {
+      "name": "P2_871636.uax",
+      "size": 2271938,
+      "sha256": "120595fdf9658457781fa0c0dfe9bed8c587128103ec152baab5da0e537d276c",
+      "gitBlobSha1": "0100ad9ab8a60486187d9d273ddfd02e476e7460",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_871636.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_871636.uax"
+    },
+    {
+      "name": "P2_865382.usx",
+      "size": 644013,
+      "sha256": "a099e4f7c81bc96dca7440a35ef8012e0714d8d351a78d9bc48d40ce37c986c1",
+      "gitBlobSha1": "5df85f3e2134914049994a308f426a0b405640aa",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_865382.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_865382.usx"
+    },
+    {
+      "name": "P2_865410.usx",
+      "size": 2750716,
+      "sha256": "55e99002b1050d6dd92cea0a1a48acb103ff3d8e810f772a74789cc4b90f9522",
+      "gitBlobSha1": "5e8bfd212497253bc8f649386b57cfa6c0f9ae37",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_865410.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_865410.usx"
+    },
+    {
+      "name": "P2_862272.utx",
+      "size": 4841154,
+      "sha256": "83f2c4e2d4ca2b5c7a92a7a07f6282175701470da693b000e317f1364f589ba1",
+      "gitBlobSha1": "bc827e44765a9e26078c2c18a4c027ae33bb5afb",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_862272.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_862272.utx"
+    },
+    {
+      "name": "P2_862931.utx",
+      "size": 401672,
+      "sha256": "58c43783651887ea0b13fa5e00645085e6e452f92b92674decf90eb79294f580",
+      "gitBlobSha1": "5c811f406308a49beae65fb2c643dd46e215eede",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_862931.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_862931.utx"
+    },
+    {
+      "name": "P2_872722.uax",
+      "size": 1914777,
+      "sha256": "90039ace154cba42abfbfeae040e022a9e756df4eb65eab40e623927a09655a0",
+      "gitBlobSha1": "eb1760e23d8891e16c37e69470f8c39b87ab6dbe",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_872722.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_872722.uax"
+    },
+    {
+      "name": "P2_865605.usx",
+      "size": 3953459,
+      "sha256": "c54b599ee6d0f22464f1562b765cb571130be15b8d8a27b400e96ca7067c25ee",
+      "gitBlobSha1": "bdaa80f83d1c72c4d5caf7c446c1c7495911a066",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_865605.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_865605.usx"
+    },
+    {
+      "name": "P2_862546.utx",
+      "size": 399881,
+      "sha256": "e22e7ce9640e9bb6dbda2fa9843f054bb64fd6810d9e5ac511812dceaf405109",
+      "gitBlobSha1": "348ad10a1fefcc7599d0dbb6e93f77fce41a15ed",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_862546.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_862546.utx"
+    },
+    {
+      "name": "P2_862685.utx",
+      "size": 7492703,
+      "sha256": "2ab8baa940b18e55332adf12e5a83deb14a463b6004885fdf948fb364b199ca2",
+      "gitBlobSha1": "c47e2ad1623b9b17099c7b03c1334b61d2512b46",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_862685.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_862685.utx"
+    },
+    {
+      "name": "P2_873852.uax",
+      "size": 47781357,
+      "sha256": "1df7d535a73ae90f4c0add2661a94f681cd29a3ada255cfee58d6364f88aca6c",
+      "gitBlobSha1": "2ed690f0b18819d6699a70deecc63b4c16e48932",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_873852.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_873852.uax"
+    },
+    {
+      "name": "P2_865512.usx",
+      "size": 1980932,
+      "sha256": "697277504d21489c452c3cec675c582155246a9c15e2fad9fe510ecaec33ceca",
+      "gitBlobSha1": "f79eded4771d437a4ce12f08f31cfb9c19fc3e19",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_865512.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_865512.usx"
+    },
+    {
+      "name": "P2_861139.utx",
+      "size": 8967327,
+      "sha256": "c0ce665d9fcf9d507631cd2a122126c70cc5d89ee07d0869a9b8fd8f34df60fa",
+      "gitBlobSha1": "db71f8e193d624533b049b16e2ffabc0aa4c98dc",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_861139.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_861139.utx"
+    },
+    {
+      "name": "P2_874995.uax",
+      "size": 1949564,
+      "sha256": "812ef501e051064a52c6e11280e2f1646a3bc81df33de29902635454a21df9ab",
+      "gitBlobSha1": "185d18686e9d0d27cbb9fea90b7000e10ec0a7e0",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_874995.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_874995.uax"
+    },
+    {
+      "name": "P2_864805.usx",
+      "size": 2287305,
+      "sha256": "40d2f3fae1b0df60d5e51110febb7d0f49801997ac16e3a6bfad436c44e9281f",
+      "gitBlobSha1": "c6a0b1f745d64e202fb1e9828d1fbe19d3a8116c",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_864805.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_864805.usx"
+    },
+    {
+      "name": "P2_864945.usx",
+      "size": 880154,
+      "sha256": "1a77027cc292d238d2430a0dd520214b9978e0f6a414d62bab3e38169b08d7bb",
+      "gitBlobSha1": "6f83b857b56c748af1aefa6b486c4c137815c364",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_864945.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_864945.usx"
+    },
+    {
+      "name": "P2_861340.utx",
+      "size": 6104289,
+      "sha256": "a9ba3d5bc7b9e32afb2194112686006807c8b79695eec1ade53fbb06a3ac96d5",
+      "gitBlobSha1": "a04fc98fcc033402eaf77768274d7b3875ab0da6",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_861340.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_861340.utx"
+    },
+    {
+      "name": "P2_861484.utx",
+      "size": 6173,
+      "sha256": "f963ad5f65741629ba132eac64a7910b447ffc06de15d0a3edaa4ad78ce89efe",
+      "gitBlobSha1": "b2fc9ba65fc2df9f2dc18733a66178ddb0bf26c3",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_861484.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_861484.utx"
+    },
+    {
+      "name": "P2_875776.uax",
+      "size": 50349501,
+      "sha256": "1f28505bb8a953eacbf2fa47e6f8cde877160dd317d418cfc83b7804831b216b",
+      "gitBlobSha1": "6f3adaf4419aa458781bdbace4394e1264eee4bf",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_875776.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_875776.uax"
+    },
+    {
+      "name": "P2_866603.usx",
+      "size": 1786464,
+      "sha256": "970dada66c809444a0f2793cb712c1b5e1546992ed0e7297045ad2f834d75a19",
+      "gitBlobSha1": "660f4f9f7f11645399fcc1ce22df9c3b61cc86b5",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_866603.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_866603.usx"
+    },
+    {
+      "name": "P2_864010.utx",
+      "size": 5380822,
+      "sha256": "69e9e8b6af27ae24058ddc218ec4f4bc4458d22f106d3d189afc9d4247bad340",
+      "gitBlobSha1": "c87ca2e91736ece109fc559519af0e94b7368051",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_864010.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_864010.utx"
+    },
+    {
+      "name": "P2_877252.uax",
+      "size": 4011963,
+      "sha256": "6a2d49dc816584e46d49af267ea7cd563b2d59b1c1aac853390c71aab29a27dd",
+      "gitBlobSha1": "6f16ce2a00ece5cea0ad5260d063d21e781d744a",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_877252.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_877252.uax"
+    },
+    {
+      "name": "P2_865794.usx",
+      "size": 3125017,
+      "sha256": "c2f460b8df922269d34f3e788bf6bacfba777de6d90a40cb39817dcf68b8ab93",
+      "gitBlobSha1": "aacce911e3fc228d210baa29fbe7c71b5d0dc211",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_865794.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_865794.usx"
+    },
+    {
+      "name": "P2_863307.utx",
+      "size": 6485942,
+      "sha256": "897abd6070e4d18b5cf9d090330bf3408ee08d2160f76703777ecff9a640dd8b",
+      "gitBlobSha1": "a3676538b1660b16ea159e62e8a7ad059025a1fc",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_863307.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_863307.utx"
+    },
+    {
+      "name": "P2_877562.uax",
+      "size": 1277627,
+      "sha256": "00690ae717eb670541aaa08db557fd7e26ea446665b0fd296cece126cf5efa7e",
+      "gitBlobSha1": "24758dd6ca5bde4725929c563b4cf198a06c0d3a",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_877562.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_877562.uax"
+    },
+    {
+      "name": "P2_865957.usx",
+      "size": 4181850,
+      "sha256": "acb989304b0a0501c8501ed1938f4704607fc566b897c234bc274dc086f292f2",
+      "gitBlobSha1": "96aede6d91f992f173b109fab74c191370dbdcad",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_865957.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_865957.usx"
+    },
+    {
+      "name": "P2_864464.utx",
+      "size": 7828312,
+      "sha256": "80910dd4fcf325ce3607c3d42d8101f18df7cca3b3e60aabba48d9929b00f032",
+      "gitBlobSha1": "4a425f3a5bde0409a341908b6153164cad4b8980",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_864464.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_864464.utx"
+    },
+    {
+      "name": "P2_879601.uax",
+      "size": 4059124,
+      "sha256": "7dc40973b10fd4defd1e9ee6d70291e8a0b166868c793f70feb446ccc96b3cb9",
+      "gitBlobSha1": "9489659688dd8acbe962aeb9d1b303b7c0095790",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_879601.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_879601.uax"
+    },
+    {
+      "name": "P2_866792.usx",
+      "size": 4349647,
+      "sha256": "5a2b27974bc7b4e724e5fb3419ad3b67c2bdec20b83285f8fdb18233166e1233",
+      "gitBlobSha1": "59de5799942917d99c9e17af9f522c5723deebb9",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_866792.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_866792.usx"
+    },
+    {
+      "name": "P2_864291.utx",
+      "size": 3284593,
+      "sha256": "710ffc824e5ce7c6095125419063a152783e702736f6e260e3280f3b1d9dc34f",
+      "gitBlobSha1": "f4bb0c6733a05a758e63c7a7e6c779c5ff65d288",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_864291.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_864291.utx"
+    }
+  ],
+  "changes": [
+    {
+      "id": "ports/chaos-theory-ps2/deftech-belew",
+      "destination": "Packages/Sounds/P2_867522.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_867522.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_867522.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/deftech-belew",
+      "destination": "Packages/Sounds/P2_Armes_impacts.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/deftech-belew",
+      "destination": "Packages/Sounds/P2_Interface.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/deftech-belew",
+      "destination": "Packages/StaticMeshes/P2_857190.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/deftech-belew",
+      "destination": "Packages/StaticMeshes/P2_865023.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_865023.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_865023.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/deftech-belew",
+      "destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/deftech-belew",
+      "destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/deftech-belew",
+      "destination": "Packages/Textures/P2_860017.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/deftech-belew",
+      "destination": "Packages/Textures/P2_861532.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_861532.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_861532.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/deftech-belew",
+      "destination": "Packages/Textures/P2_Echelon.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/deftech-belew",
+      "destination": "Packages/Textures/P2_Engine.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/deftech-belew",
+      "destination": "Packages/Textures/P2_nd133.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/deftech-belew",
+      "destination": "Packages/Textures/P2_SBase.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/deftech-belew",
+      "destination": "Packages/Textures/P2_sfx.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/deftech-belew",
+      "destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/factory",
+      "destination": "Packages/Sounds/P2_868693.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_868693.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_868693.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/factory",
+      "destination": "Packages/Sounds/P2_Armes_impacts.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/factory",
+      "destination": "Packages/Sounds/P2_Interface.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/factory",
+      "destination": "Packages/StaticMeshes/P2_857190.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/factory",
+      "destination": "Packages/StaticMeshes/P2_865145.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_865145.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_865145.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/factory",
+      "destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/factory",
+      "destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/factory",
+      "destination": "Packages/Textures/P2_860017.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/factory",
+      "destination": "Packages/Textures/P2_861751.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_861751.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_861751.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/factory",
+      "destination": "Packages/Textures/P2_Echelon.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/factory",
+      "destination": "Packages/Textures/P2_Engine.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/factory",
+      "destination": "Packages/Textures/P2_nd133.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/factory",
+      "destination": "Packages/Textures/P2_SBase.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/factory",
+      "destination": "Packages/Textures/P2_sfx.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/factory",
+      "destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/station",
+      "destination": "Packages/Sounds/P2_869815.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_869815.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_869815.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/station",
+      "destination": "Packages/Sounds/P2_Armes_impacts.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/station",
+      "destination": "Packages/Sounds/P2_Interface.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/station",
+      "destination": "Packages/StaticMeshes/P2_857190.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/station",
+      "destination": "Packages/StaticMeshes/P2_865315.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_865315.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_865315.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/station",
+      "destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/station",
+      "destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/station",
+      "destination": "Packages/Textures/P2_860017.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/station",
+      "destination": "Packages/Textures/P2_861983.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_861983.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_861983.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/station",
+      "destination": "Packages/Textures/P2_Echelon.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/station",
+      "destination": "Packages/Textures/P2_Engine.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/station",
+      "destination": "Packages/Textures/P2_nd133.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/station",
+      "destination": "Packages/Textures/P2_SBase.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/station",
+      "destination": "Packages/Textures/P2_sfx.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/station",
+      "destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/cinema",
+      "destination": "Packages/Sounds/P2_870437.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_870437.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_870437.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/cinema",
+      "destination": "Packages/Sounds/P2_Armes_impacts.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/cinema",
+      "destination": "Packages/Sounds/P2_Interface.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/cinema",
+      "destination": "Packages/StaticMeshes/P2_857190.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/cinema",
+      "destination": "Packages/StaticMeshes/P2_866069.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_866069.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_866069.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/cinema",
+      "destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/cinema",
+      "destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/cinema",
+      "destination": "Packages/Textures/INI01P-i.utc",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/INI01P-i.utc",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/INI01P-i.utc"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/cinema",
+      "destination": "Packages/Textures/P2_860017.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/cinema",
+      "destination": "Packages/Textures/P2_863696.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_863696.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_863696.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/cinema",
+      "destination": "Packages/Textures/P2_Echelon.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/cinema",
+      "destination": "Packages/Textures/P2_Engine.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/cinema",
+      "destination": "Packages/Textures/P2_nd133.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/cinema",
+      "destination": "Packages/Textures/P2_SBase.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/cinema",
+      "destination": "Packages/Textures/P2_sfx.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/cinema",
+      "destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/krauser-lab",
+      "destination": "Packages/Sounds/P2_871636.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_871636.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_871636.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/krauser-lab",
+      "destination": "Packages/Sounds/P2_Armes_impacts.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/krauser-lab",
+      "destination": "Packages/Sounds/P2_Interface.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/krauser-lab",
+      "destination": "Packages/StaticMeshes/P2_857190.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/krauser-lab",
+      "destination": "Packages/StaticMeshes/P2_865382.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_865382.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_865382.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/krauser-lab",
+      "destination": "Packages/StaticMeshes/P2_865410.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_865410.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_865410.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/krauser-lab",
+      "destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/krauser-lab",
+      "destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/krauser-lab",
+      "destination": "Packages/Textures/P2_860017.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/krauser-lab",
+      "destination": "Packages/Textures/P2_862272.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_862272.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_862272.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/krauser-lab",
+      "destination": "Packages/Textures/P2_862931.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_862931.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_862931.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/krauser-lab",
+      "destination": "Packages/Textures/P2_Echelon.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/krauser-lab",
+      "destination": "Packages/Textures/P2_Engine.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/krauser-lab",
+      "destination": "Packages/Textures/P2_nd133.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/krauser-lab",
+      "destination": "Packages/Textures/P2_SBase.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/krauser-lab",
+      "destination": "Packages/Textures/P2_sfx.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/krauser-lab",
+      "destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/mount-hospital",
+      "destination": "Packages/Sounds/P2_872722.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_872722.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_872722.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/mount-hospital",
+      "destination": "Packages/Sounds/P2_Armes_impacts.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/mount-hospital",
+      "destination": "Packages/Sounds/P2_Interface.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/mount-hospital",
+      "destination": "Packages/StaticMeshes/P2_857190.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/mount-hospital",
+      "destination": "Packages/StaticMeshes/P2_865605.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_865605.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_865605.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/mount-hospital",
+      "destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/mount-hospital",
+      "destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/mount-hospital",
+      "destination": "Packages/Textures/P2_860017.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/mount-hospital",
+      "destination": "Packages/Textures/P2_862546.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_862546.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_862546.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/mount-hospital",
+      "destination": "Packages/Textures/P2_862685.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_862685.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_862685.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/mount-hospital",
+      "destination": "Packages/Textures/P2_Echelon.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/mount-hospital",
+      "destination": "Packages/Textures/P2_Engine.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/mount-hospital",
+      "destination": "Packages/Textures/P2_nd133.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/mount-hospital",
+      "destination": "Packages/Textures/P2_SBase.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/mount-hospital",
+      "destination": "Packages/Textures/P2_sfx.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/mount-hospital",
+      "destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/missile-strike",
+      "destination": "Packages/Sounds/P2_873852.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_873852.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_873852.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/missile-strike",
+      "destination": "Packages/Sounds/P2_Armes_impacts.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/missile-strike",
+      "destination": "Packages/Sounds/P2_Interface.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/missile-strike",
+      "destination": "Packages/StaticMeshes/P2_857190.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/missile-strike",
+      "destination": "Packages/StaticMeshes/P2_865512.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_865512.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_865512.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/missile-strike",
+      "destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/missile-strike",
+      "destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/missile-strike",
+      "destination": "Packages/Textures/P2_860017.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/missile-strike",
+      "destination": "Packages/Textures/P2_861139.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_861139.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_861139.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/missile-strike",
+      "destination": "Packages/Textures/P2_Echelon.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/missile-strike",
+      "destination": "Packages/Textures/P2_Engine.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/missile-strike",
+      "destination": "Packages/Textures/P2_nd133.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/missile-strike",
+      "destination": "Packages/Textures/P2_SBase.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/missile-strike",
+      "destination": "Packages/Textures/P2_sfx.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/missile-strike",
+      "destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/museum",
+      "destination": "Packages/Sounds/P2_874995.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_874995.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_874995.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/museum",
+      "destination": "Packages/Sounds/P2_Armes_impacts.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/museum",
+      "destination": "Packages/Sounds/P2_Interface.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/museum",
+      "destination": "Packages/StaticMeshes/P2_857190.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/museum",
+      "destination": "Packages/StaticMeshes/P2_864805.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_864805.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_864805.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/museum",
+      "destination": "Packages/StaticMeshes/P2_864945.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_864945.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_864945.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/museum",
+      "destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/museum",
+      "destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/museum",
+      "destination": "Packages/Textures/P2_860017.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/museum",
+      "destination": "Packages/Textures/P2_861340.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_861340.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_861340.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/museum",
+      "destination": "Packages/Textures/P2_861484.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_861484.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_861484.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/museum",
+      "destination": "Packages/Textures/P2_Echelon.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/museum",
+      "destination": "Packages/Textures/P2_Engine.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/museum",
+      "destination": "Packages/Textures/P2_nd133.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/museum",
+      "destination": "Packages/Textures/P2_SBase.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/museum",
+      "destination": "Packages/Textures/P2_sfx.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/museum",
+      "destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/orphanage",
+      "destination": "Packages/Sounds/P2_875776.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_875776.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_875776.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/orphanage",
+      "destination": "Packages/Sounds/P2_Armes_impacts.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/orphanage",
+      "destination": "Packages/Sounds/P2_Interface.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/orphanage",
+      "destination": "Packages/StaticMeshes/P2_857190.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/orphanage",
+      "destination": "Packages/StaticMeshes/P2_866603.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_866603.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_866603.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/orphanage",
+      "destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/orphanage",
+      "destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/orphanage",
+      "destination": "Packages/Textures/P2_860017.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/orphanage",
+      "destination": "Packages/Textures/P2_864010.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_864010.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_864010.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/orphanage",
+      "destination": "Packages/Textures/P2_Echelon.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/orphanage",
+      "destination": "Packages/Textures/P2_Engine.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/orphanage",
+      "destination": "Packages/Textures/P2_nd133.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/orphanage",
+      "destination": "Packages/Textures/P2_SBase.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/orphanage",
+      "destination": "Packages/Textures/P2_sfx.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/orphanage",
+      "destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/schermerhorn",
+      "destination": "Packages/Sounds/P2_877252.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_877252.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_877252.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/schermerhorn",
+      "destination": "Packages/Sounds/P2_Armes_impacts.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/schermerhorn",
+      "destination": "Packages/Sounds/P2_Interface.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/schermerhorn",
+      "destination": "Packages/StaticMeshes/P2_857190.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/schermerhorn",
+      "destination": "Packages/StaticMeshes/P2_865794.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_865794.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_865794.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/schermerhorn",
+      "destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/schermerhorn",
+      "destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/schermerhorn",
+      "destination": "Packages/Textures/P2_860017.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/schermerhorn",
+      "destination": "Packages/Textures/P2_863307.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_863307.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_863307.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/schermerhorn",
+      "destination": "Packages/Textures/P2_Echelon.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/schermerhorn",
+      "destination": "Packages/Textures/P2_Engine.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/schermerhorn",
+      "destination": "Packages/Textures/P2_nd133.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/schermerhorn",
+      "destination": "Packages/Textures/P2_SBase.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/schermerhorn",
+      "destination": "Packages/Textures/P2_sfx.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/schermerhorn",
+      "destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/vertigo-plaza",
+      "destination": "Packages/Sounds/P2_867522.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_867522.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_867522.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/vertigo-plaza",
+      "destination": "Packages/Sounds/P2_877562.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_877562.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_877562.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/vertigo-plaza",
+      "destination": "Packages/Sounds/P2_Armes_impacts.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/vertigo-plaza",
+      "destination": "Packages/Sounds/P2_Interface.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/vertigo-plaza",
+      "destination": "Packages/StaticMeshes/P2_857190.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/vertigo-plaza",
+      "destination": "Packages/StaticMeshes/P2_865957.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_865957.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_865957.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/vertigo-plaza",
+      "destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/vertigo-plaza",
+      "destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/vertigo-plaza",
+      "destination": "Packages/Textures/P2_860017.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/vertigo-plaza",
+      "destination": "Packages/Textures/P2_864464.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_864464.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_864464.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/vertigo-plaza",
+      "destination": "Packages/Textures/P2_Echelon.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/vertigo-plaza",
+      "destination": "Packages/Textures/P2_Engine.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/vertigo-plaza",
+      "destination": "Packages/Textures/P2_nd133.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/vertigo-plaza",
+      "destination": "Packages/Textures/P2_SBase.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/vertigo-plaza",
+      "destination": "Packages/Textures/P2_sfx.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/vertigo-plaza",
+      "destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/warehouse",
+      "destination": "Packages/Sounds/P2_879601.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_879601.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_879601.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/warehouse",
+      "destination": "Packages/Sounds/P2_Armes_impacts.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Armes_impacts.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Armes_impacts.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/warehouse",
+      "destination": "Packages/Sounds/P2_Interface.uax",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Interface.uax",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Interface.uax"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/warehouse",
+      "destination": "Packages/StaticMeshes/P2_857190.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_857190.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_857190.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/warehouse",
+      "destination": "Packages/StaticMeshes/P2_866792.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_866792.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_866792.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/warehouse",
+      "destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjects.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/warehouse",
+      "destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_TestMapStaticM.usx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_TestMapStaticM.usx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/warehouse",
+      "destination": "Packages/Textures/P2_860017.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_860017.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/warehouse",
+      "destination": "Packages/Textures/P2_864291.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_864291.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_864291.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/warehouse",
+      "destination": "Packages/Textures/P2_Echelon.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Echelon.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Echelon.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/warehouse",
+      "destination": "Packages/Textures/P2_Engine.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_Engine.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_Engine.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/warehouse",
+      "destination": "Packages/Textures/P2_nd133.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_nd133.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_nd133.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/warehouse",
+      "destination": "Packages/Textures/P2_SBase.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SBase.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SBase.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/warehouse",
+      "destination": "Packages/Textures/P2_sfx.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_sfx.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_sfx.utx"
+    },
+    {
+      "id": "ports/chaos-theory-ps2/warehouse",
+      "destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+      "oldSource": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjectsTex.utx",
+      "newSource": "releases/download/ps2-original-svm-v1.0.1/P2_SGameplayObjectsTex.utx"
+    }
+  ],
+  "unchangedBytes": true,
+  "updatedEntries": 12,
+  "otherOrderedEntriesUnchanged": 118,
+  "originalSourceMetadataCommit": "191791e62b239d7e290163a7123136d02ad9afa9",
+  "originalPublishedCatalogCommit": "ca681d49a6f0e4ab9c6465e1744518fa01f798e3"
+}
