@@ -14,3 +14,5 @@ The strict world and package identity audits pass. Fresh named-world travel and
 full routes were not repeated for all final maps, and native remote multiplayer
 and twelve completed matches are not claimed. See the versioned receipts under
 `evidence/`.
+
+The distribution catalog copies 54 unchanged dependencies under the version 1.0.1 release tag. Map Manager 0.6.2 requires every dependency tag to match its map entry version. These copies retain their original bytes, hashes, sizes and destinations; the earlier draft receipt that describes 187 reused version 1.0.0 URLs is superseded only for URL placement. Both training entries still use their original version 1.0.0 files. The converter ZIP, maps and runtime validation receipts are unchanged. See `asset-url-compatibility-correction.json` for the supplemental distribution record.
