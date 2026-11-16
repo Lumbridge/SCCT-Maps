@@ -1,0 +1,543 @@
+{
+  "status": "passed",
+  "scope": "Offline strict source comparison; does not establish rendered animation or multiplayer behavior.",
+  "maps": [
+    {
+      "map": "DTK02P",
+      "sha256": "663dbc83d7df30089bce41de208d1a7ee9278a0500b9e1963fc31c9663dbb998",
+      "baselineSha256": "3140799e8b3b9200adf64dfe7f860ad5ec6260ef7f114f1448080f46b7545c3a",
+      "geometrySha256": "61734c219669273586cc22138e90515cf7b41bca187de4d9cfd29f5780b0b40f",
+      "renderLightmapsSha256": "06a5f4a8c57c6b7fb89a68f0e6728e2f8cfc26306da3d6cdb72fe6ea13acdf48",
+      "checkedActorProperties": 816,
+      "unchangedPlayerStarts": 9,
+      "englishChangedActors": 2,
+      "suppressedFlags": [
+        141,
+        142,
+        143,
+        148,
+        159,
+        160
+      ],
+      "redirectedComputers": [
+        120,
+        123,
+        130,
+        135,
+        138,
+        146
+      ],
+      "unchangedAssets": [
+        "P2_857190.usx",
+        "P2_860017.utx",
+        "P2_861532.utx",
+        "P2_865023.usx",
+        "P2_867522.uax",
+        "P2_Armes_impacts.uax",
+        "P2_Echelon.utx",
+        "P2_Engine.utx",
+        "P2_Interface.uax",
+        "P2_nd133.utx",
+        "P2_SBase.utx",
+        "P2_sfx.utx",
+        "P2_SGameplayObjects.usx",
+        "P2_SGameplayObjectsTex.utx",
+        "P2_TestMapStaticM.usx"
+      ],
+      "nativeModes": [
+        3
+      ]
+    },
+    {
+      "map": "FAC13P",
+      "sha256": "a7c8ef654fc3a690ed3fc1ec13986b9625a6456cc710239e8324997d5473321c",
+      "baselineSha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c",
+      "geometrySha256": "6081f004b2ac7c97f155e63af1baa37b3f1dafd94f61280dd50a48a9ec0161bd",
+      "renderLightmapsSha256": "70c55145cf7cff04dc742459f2714fd593fccdae9332bc36f4e7751a335398c6",
+      "checkedActorProperties": 645,
+      "unchangedPlayerStarts": 6,
+      "englishChangedActors": 2,
+      "suppressedFlags": [
+        111,
+        117,
+        120,
+        121,
+        122,
+        126
+      ],
+      "redirectedComputers": [
+        110,
+        112,
+        115,
+        123,
+        125,
+        127,
+        163,
+        164,
+        172
+      ],
+      "unchangedAssets": [
+        "P2_857190.usx",
+        "P2_860017.utx",
+        "P2_861751.utx",
+        "P2_865145.usx",
+        "P2_868693.uax",
+        "P2_Armes_impacts.uax",
+        "P2_Echelon.utx",
+        "P2_Engine.utx",
+        "P2_Interface.uax",
+        "P2_nd133.utx",
+        "P2_SBase.utx",
+        "P2_sfx.utx",
+        "P2_SGameplayObjects.usx",
+        "P2_SGameplayObjectsTex.utx",
+        "P2_TestMapStaticM.usx"
+      ],
+      "nativeModes": [
+        3
+      ]
+    },
+    {
+      "map": "GAR09P",
+      "sha256": "0b724b8538b543d597a30194e7852255380b38ac4937b0cdee111392a72c6545",
+      "baselineSha256": "221057da684073b4ce70a3f8b0bb831580eb4a3fa60682eedbccfdaf19aa6802",
+      "geometrySha256": "3aa7e324c825b0b0c51a44e672822c9d681e0f0c9cef71475062eefd0ce62c04",
+      "renderLightmapsSha256": "fe49df058fd1b877703297cd7d4e919d5f4e002ba55e50e25a21344079292a48",
+      "checkedActorProperties": 443,
+      "unchangedPlayerStarts": 7,
+      "englishChangedActors": 28,
+      "suppressedFlags": [
+        104,
+        122,
+        125,
+        126
+      ],
+      "redirectedComputers": [
+        110,
+        113,
+        114,
+        116
+      ],
+      "unchangedAssets": [
+        "P2_857190.usx",
+        "P2_860017.utx",
+        "P2_861983.utx",
+        "P2_865315.usx",
+        "P2_869815.uax",
+        "P2_Armes_impacts.uax",
+        "P2_Echelon.utx",
+        "P2_Engine.utx",
+        "P2_Interface.uax",
+        "P2_nd133.utx",
+        "P2_SBase.utx",
+        "P2_sfx.utx",
+        "P2_SGameplayObjects.usx",
+        "P2_SGameplayObjectsTex.utx",
+        "P2_TestMapStaticM.usx"
+      ],
+      "nativeModes": [
+        3
+      ]
+    },
+    {
+      "map": "INI01P",
+      "sha256": "deb12fbd5c4c409933c6c911681c0f4bfdfd32f7f03db61b6252cbc8377c0381",
+      "baselineSha256": "665e2de289407729a10432505c23710aaae053711f93af85f28de067f5c50390",
+      "geometrySha256": "0a1a0a261b499a2c5e4d14a95ad29fa0fbaa7387391bc9c96b1003161c96cc60",
+      "renderLightmapsSha256": "029ff7c35f889dbb9daa7fd26955de90d2a69d2b6e3eb78b03567801a1710b36",
+      "checkedActorProperties": 492,
+      "unchangedPlayerStarts": 8,
+      "englishChangedActors": 0,
+      "suppressedFlags": [],
+      "redirectedComputers": [
+        128,
+        141,
+        148,
+        156
+      ],
+      "unchangedAssets": [
+        "P2_857190.usx",
+        "P2_860017.utx",
+        "P2_863696.utx",
+        "P2_866069.usx",
+        "P2_870437.uax",
+        "P2_Armes_impacts.uax",
+        "P2_Echelon.utx",
+        "P2_Engine.utx",
+        "P2_Interface.uax",
+        "P2_nd133.utx",
+        "P2_SBase.utx",
+        "P2_sfx.utx",
+        "P2_SGameplayObjects.usx",
+        "P2_SGameplayObjectsTex.utx",
+        "P2_TestMapStaticM.usx"
+      ],
+      "nativeModes": [
+        3
+      ]
+    },
+    {
+      "map": "KRA07P",
+      "sha256": "995acd1ab7557375e5a4c33eace1e4f3ce74a4d459974601eb9bb7a7151f0d23",
+      "baselineSha256": "902731bacf9b929fbd6e2d315c507d3c56f1b355424293e1ebf79070cd9718cd",
+      "geometrySha256": "c7cba6ca0173cd8aeb18489aaadaca795b8c23a1db7a5c959b7f792e395c11c4",
+      "renderLightmapsSha256": "a6ba0b0f4f1737337d340e18189eb2d74a34b2cbece32757dbd8262bc9115108",
+      "checkedActorProperties": 665,
+      "unchangedPlayerStarts": 7,
+      "englishChangedActors": 4,
+      "suppressedFlags": [
+        56,
+        87,
+        90,
+        94,
+        103,
+        104
+      ],
+      "redirectedComputers": [
+        72,
+        76,
+        80,
+        86,
+        91,
+        98
+      ],
+      "unchangedAssets": [
+        "P2_857190.usx",
+        "P2_860017.utx",
+        "P2_862272.utx",
+        "P2_862931.utx",
+        "P2_865382.usx",
+        "P2_865410.usx",
+        "P2_871636.uax",
+        "P2_Armes_impacts.uax",
+        "P2_Echelon.utx",
+        "P2_Engine.utx",
+        "P2_Interface.uax",
+        "P2_nd133.utx",
+        "P2_SBase.utx",
+        "P2_sfx.utx",
+        "P2_SGameplayObjects.usx",
+        "P2_SGameplayObjectsTex.utx",
+        "P2_TestMapStaticM.usx"
+      ],
+      "nativeModes": [
+        3
+      ]
+    },
+    {
+      "map": "MHO05P",
+      "sha256": "ca8db6d7f27c5abdcdeaaa1fdedc891fb7661e561bca835a7b80b9886eab00cc",
+      "baselineSha256": "5cdbe13ecdd52615eb5470d288df7afa5188d38b18bdaa6a3e3449a7ded151be",
+      "geometrySha256": "a702be7bf9d75aa2211e10dac7ac6bbb324373c17cd8b0f2f3c77e2ef1c2373c",
+      "renderLightmapsSha256": "630d868dce521bbc0a844ef7f368ac77633273668b60f355371701a266fd2011",
+      "checkedActorProperties": 748,
+      "unchangedPlayerStarts": 7,
+      "englishChangedActors": 0,
+      "suppressedFlags": [
+        124,
+        153,
+        155,
+        159,
+        163
+      ],
+      "redirectedComputers": [
+        134,
+        135,
+        140,
+        141,
+        146
+      ],
+      "unchangedAssets": [
+        "P2_857190.usx",
+        "P2_860017.utx",
+        "P2_862546.utx",
+        "P2_862685.utx",
+        "P2_865605.usx",
+        "P2_872722.uax",
+        "P2_Armes_impacts.uax",
+        "P2_Echelon.utx",
+        "P2_Engine.utx",
+        "P2_Interface.uax",
+        "P2_nd133.utx",
+        "P2_SBase.utx",
+        "P2_sfx.utx",
+        "P2_SGameplayObjects.usx",
+        "P2_SGameplayObjectsTex.utx",
+        "P2_TestMapStaticM.usx"
+      ],
+      "nativeModes": [
+        3
+      ]
+    },
+    {
+      "map": "MIS10P",
+      "sha256": "62759bb1a4e0244b5d7ce9fee3ed5c32f01ad8e9e7e5889a14fd9900d1d6ed90",
+      "baselineSha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea",
+      "geometrySha256": "beebd12e7ed52a73315aad070d3d051fb38c3e4f8a6887986d2ce8250c403f08",
+      "renderLightmapsSha256": "879de7da9bd29db3ea1ac816474b70a07ffbfd7fe93894cb90e37d3e29ed9d9d",
+      "checkedActorProperties": 865,
+      "unchangedPlayerStarts": 8,
+      "englishChangedActors": 0,
+      "suppressedFlags": [
+        211,
+        224,
+        227,
+        229
+      ],
+      "redirectedComputers": [
+        176,
+        192,
+        200,
+        217,
+        218,
+        223,
+        237,
+        251,
+        276,
+        738
+      ],
+      "unchangedAssets": [
+        "P2_857190.usx",
+        "P2_860017.utx",
+        "P2_861139.utx",
+        "P2_865512.usx",
+        "P2_873852.uax",
+        "P2_Armes_impacts.uax",
+        "P2_Echelon.utx",
+        "P2_Engine.utx",
+        "P2_Interface.uax",
+        "P2_nd133.utx",
+        "P2_SBase.utx",
+        "P2_sfx.utx",
+        "P2_SGameplayObjects.usx",
+        "P2_SGameplayObjectsTex.utx",
+        "P2_TestMapStaticM.usx"
+      ],
+      "nativeModes": [
+        3
+      ]
+    },
+    {
+      "map": "MUS04P",
+      "sha256": "44f00a0f570369955fcd4a5df5351d0ee484a2cf44dd58cb51b408d8bc55c508",
+      "baselineSha256": "9ef891a53d8ad0402a5e955aba0de74af99f7a78f8e5b790c834a34e950ecaa7",
+      "geometrySha256": "fcb56c9666c0164a4986d662bb04fa7bfb4a673a72cf285b2818c5dbed7e063d",
+      "renderLightmapsSha256": "aa7cab9890b1fb7fb45eb3d4e732df1d7989b51464e3cedad4966e1bc64c0aeb",
+      "checkedActorProperties": 903,
+      "unchangedPlayerStarts": 8,
+      "englishChangedActors": 1,
+      "suppressedFlags": [],
+      "redirectedComputers": [
+        115,
+        143,
+        145,
+        163,
+        165,
+        177
+      ],
+      "unchangedAssets": [
+        "P2_857190.usx",
+        "P2_860017.utx",
+        "P2_861340.utx",
+        "P2_861484.utx",
+        "P2_864805.usx",
+        "P2_864945.usx",
+        "P2_874995.uax",
+        "P2_Armes_impacts.uax",
+        "P2_Echelon.utx",
+        "P2_Engine.utx",
+        "P2_Interface.uax",
+        "P2_nd133.utx",
+        "P2_SBase.utx",
+        "P2_sfx.utx",
+        "P2_SGameplayObjects.usx",
+        "P2_SGameplayObjectsTex.utx",
+        "P2_TestMapStaticM.usx"
+      ],
+      "nativeModes": [
+        3
+      ]
+    },
+    {
+      "map": "ORP14P",
+      "sha256": "bfecdeff14044e5d4f9c66257e82646578b256db46fe10f025e617465f528b84",
+      "baselineSha256": "85eebe4d16fdfe8aa78af1b3d6657c4fdd75882904e422a171156b7c882a928b",
+      "geometrySha256": "fb2dcd1aaedfb0028ee9a883c5a3af05fdb1c7131be3029625ce448c4a40371f",
+      "renderLightmapsSha256": "9b3658e0ca634d08198213f366627092d3deab0219c7933a3b2e0c750efdb6fe",
+      "checkedActorProperties": 1083,
+      "unchangedPlayerStarts": 8,
+      "englishChangedActors": 4,
+      "suppressedFlags": [
+        187,
+        192,
+        193,
+        201
+      ],
+      "redirectedComputers": [
+        147,
+        166,
+        178,
+        179,
+        184
+      ],
+      "unchangedAssets": [
+        "P2_857190.usx",
+        "P2_860017.utx",
+        "P2_864010.utx",
+        "P2_866603.usx",
+        "P2_875776.uax",
+        "P2_Armes_impacts.uax",
+        "P2_Echelon.utx",
+        "P2_Engine.utx",
+        "P2_Interface.uax",
+        "P2_nd133.utx",
+        "P2_SBase.utx",
+        "P2_sfx.utx",
+        "P2_SGameplayObjects.usx",
+        "P2_SGameplayObjectsTex.utx",
+        "P2_TestMapStaticM.usx"
+      ],
+      "nativeModes": [
+        3
+      ]
+    },
+    {
+      "map": "SCH03P",
+      "sha256": "33b067841f0bd7067c58ab3cfb4b71fa91e51952268af918aeeae9efb5a4dd56",
+      "baselineSha256": "a8b43fa3ce3968d0e6dccd4eaae668eb850cb644707049be08c399d62e380162",
+      "geometrySha256": "f8b24ba649a03033802f48d9fa8e6c1ce601d93c0172108e5aa3d7c61ae5cb33",
+      "renderLightmapsSha256": "f5a9fd6105ad6818653b9ed3e2f6109d3e6e61a9c7694def7301d6f37c91246a",
+      "checkedActorProperties": 555,
+      "unchangedPlayerStarts": 8,
+      "englishChangedActors": 0,
+      "suppressedFlags": [
+        76,
+        79,
+        95,
+        106
+      ],
+      "redirectedComputers": [
+        70,
+        85,
+        100,
+        101
+      ],
+      "unchangedAssets": [
+        "P2_857190.usx",
+        "P2_860017.utx",
+        "P2_863307.utx",
+        "P2_865794.usx",
+        "P2_877252.uax",
+        "P2_Armes_impacts.uax",
+        "P2_Echelon.utx",
+        "P2_Engine.utx",
+        "P2_Interface.uax",
+        "P2_nd133.utx",
+        "P2_SBase.utx",
+        "P2_sfx.utx",
+        "P2_SGameplayObjects.usx",
+        "P2_SGameplayObjectsTex.utx",
+        "P2_TestMapStaticM.usx"
+      ],
+      "nativeModes": [
+        3
+      ]
+    },
+    {
+      "map": "SKY08P",
+      "sha256": "217cda93905fc092533fe12ae738123711ad017ab7fce8b27b58666c24d18d43",
+      "baselineSha256": "2d64cb115ff094c3ceeca2416b8c2432eb3bc42f86ca366408580c2eedcb83ef",
+      "geometrySha256": "b924d12b5c751e8f76e84c87d2a10afd11f4fe65bc4c92f42396f5c6cc2799df",
+      "renderLightmapsSha256": "97e01c1177a6826e3c059ff018f7d6796d63687997d884e8d5143b9105bbd7c4",
+      "checkedActorProperties": 668,
+      "unchangedPlayerStarts": 7,
+      "englishChangedActors": 0,
+      "suppressedFlags": [
+        140,
+        159,
+        167
+      ],
+      "redirectedComputers": [
+        142,
+        157,
+        162,
+        170,
+        175,
+        179
+      ],
+      "unchangedAssets": [
+        "P2_857190.usx",
+        "P2_860017.utx",
+        "P2_864464.utx",
+        "P2_865957.usx",
+        "P2_867522.uax",
+        "P2_877562.uax",
+        "P2_Armes_impacts.uax",
+        "P2_Echelon.utx",
+        "P2_Engine.utx",
+        "P2_Interface.uax",
+        "P2_nd133.utx",
+        "P2_SBase.utx",
+        "P2_sfx.utx",
+        "P2_SGameplayObjects.usx",
+        "P2_SGameplayObjectsTex.utx",
+        "P2_TestMapStaticM.usx"
+      ],
+      "nativeModes": [
+        3
+      ]
+    },
+    {
+      "map": "WAR06P",
+      "sha256": "65a4a8fde7b0a8e9055a44a3859c038500f8f8a6da08d3bb04d20e045ef308e3",
+      "baselineSha256": "dfafb2044983b60dcd695accdaa0a4be1737f3a1a7e4bfc51a0fe0bc1b571064",
+      "geometrySha256": "55fb8c39338df451f978a1a0dd4cf37e63296048be0efd16639d3878db0d59ec",
+      "renderLightmapsSha256": "b8d7458c191ebe85bcb71ee6e7c6ae5042d3beaeed85d223080246ab7fed00dd",
+      "checkedActorProperties": 674,
+      "unchangedPlayerStarts": 6,
+      "englishChangedActors": 0,
+      "suppressedFlags": [
+        125,
+        126,
+        139,
+        149,
+        151,
+        152,
+        153,
+        154,
+        155
+      ],
+      "redirectedComputers": [
+        112,
+        113,
+        120,
+        121,
+        140,
+        145,
+        146,
+        147,
+        148
+      ],
+      "unchangedAssets": [
+        "P2_857190.usx",
+        "P2_860017.utx",
+        "P2_864291.utx",
+        "P2_866792.usx",
+        "P2_879601.uax",
+        "P2_Armes_impacts.uax",
+        "P2_Echelon.utx",
+        "P2_Engine.utx",
+        "P2_Interface.uax",
+        "P2_nd133.utx",
+        "P2_SBase.utx",
+        "P2_sfx.utx",
+        "P2_SGameplayObjects.usx",
+        "P2_SGameplayObjectsTex.utx",
+        "P2_TestMapStaticM.usx"
+      ],
+      "nativeModes": [
+        3
+      ]
+    }
+  ]
+}

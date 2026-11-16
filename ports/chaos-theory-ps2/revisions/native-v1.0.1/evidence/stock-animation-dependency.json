@@ -1,0 +1,65 @@
+{
+  "status": "passed-read-only-existing-user-target",
+  "actualInstall": "C:\\Users\\ryans\\Desktop\\Enhanced SCCT Versus 4.0 Beta 5",
+  "assets": [
+    {
+      "name": "nd133_1mesh.ukx",
+      "path": "C:\\Users\\ryans\\Desktop\\Enhanced SCCT Versus 4.0 Beta 5\\Packages\\Animations\\nd133_1mesh.ukx",
+      "size": 114121,
+      "sha256": "2394167a4c1149d0503103a5575147aeedcad5e69c9c40f0ca39c1eeda148928",
+      "matchingMappingAsset": true,
+      "exports": [
+        {
+          "name": "nd133_mesh",
+          "kind": "MeshAnimation"
+        },
+        {
+          "name": "nd133_mesh",
+          "kind": "SkeletalMesh"
+        }
+      ]
+    },
+    {
+      "name": "nd133_anm.ukx",
+      "path": "C:\\Users\\ryans\\Desktop\\Enhanced SCCT Versus 4.0 Beta 5\\Packages\\Animations\\nd133_anm.ukx",
+      "size": 326788,
+      "sha256": "7a0b7152771376633630a5c0067741a908db79efec54c161bd61653b8d479ee3",
+      "matchingMappingAsset": true,
+      "exports": [
+        {
+          "name": "nd133_ctf_seq",
+          "kind": "MeshAnimation"
+        },
+        {
+          "name": "nd133_alarm",
+          "kind": "MeshAnimation"
+        },
+        {
+          "name": "nd133_keyboard_in",
+          "kind": "MeshAnimation"
+        },
+        {
+          "name": "nd133_hack",
+          "kind": "MeshAnimation"
+        },
+        {
+          "name": "nd133_keyboard_in",
+          "kind": "SkeletalMesh"
+        },
+        {
+          "name": "nd133_hack",
+          "kind": "SkeletalMesh"
+        },
+        {
+          "name": "nd133_ctf",
+          "kind": "SkeletalMesh"
+        },
+        {
+          "name": "nd133_alarm",
+          "kind": "SkeletalMesh"
+        }
+      ]
+    }
+  ],
+  "scope": "Required retained nd133 mesh/animation packages already exist with identical bytes in the actual non-mapping native installation; no stock files were changed."
+}
