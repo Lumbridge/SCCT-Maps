@@ -1,0 +1,952 @@
+{
+  "schema": "scct.ps2.mode31-audit-input-freeze/1",
+  "status": "PASS",
+  "auditReceipt": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2-mode-variants\\audit-native31-r2-final.json",
+  "auditReceiptSha256": "fcbeb4bacc13b19a1cb9327c1a9a0cb2155051a87a5af803746cceeeb66e8fec",
+  "frozenAuditor": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2-mode-variants\\audit_collection-r2-frozen.py",
+  "auditorSha256": "b22af430556537f47e2cef77e30b6d0b867a08fe8b9f022dc21bb3d0f29fe9c4",
+  "inputs": [
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\english-string-exceptions.json",
+      "size": 36879,
+      "sha256": "3c4910377100eaef6ef34cca7d14d5b6137777d9072c9517da5590a6b632d59f"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\english_strings.py",
+      "size": 10572,
+      "sha256": "7383c89edb4f60c719410e156ea23fe8665b75338643f97ede1fc19dea586002"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\tail-ui-validation.json",
+      "size": 834189,
+      "sha256": "36c1b252e7737771872f6ed24489e10807903e9afcc105e9d9364e0b8a161e90"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\DTK02-i.eng",
+      "size": 7743,
+      "sha256": "af742b1a67aff6681a1a82118aec23f35c9b69c61c186ce45fe2bb8692256c7b"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\DTK02-i.fra",
+      "size": 7876,
+      "sha256": "5670f8b7ccf466626f497995e5564768c15d374f6781a6b2194280ece0ff6fc2"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\DTK02.eng",
+      "size": 7323,
+      "sha256": "4ddbf3538f0a367986438e37e27b94694e2399f78b0f4e91b1e723518e6c2671"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\DTK02.fra",
+      "size": 7456,
+      "sha256": "b9e417fd4950195da575a11ab5d639f8a27cee87d6a6aae4a65e648f3be76b70"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\Engine.eng",
+      "size": 2078,
+      "sha256": "745d78cf05c83c0f5c763aaa5574f625da870d0a5381c566521a2819c5ba925b"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\Engine.fra",
+      "size": 2379,
+      "sha256": "a6f7736084e67c5a4613bd8b4d5a74567236048351c77d0c671611066a177028"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\FAC13-i.eng",
+      "size": 4743,
+      "sha256": "dcc32e2ec8d68d3622c53d5bdfb2702995577a5f4626f191aeea31ad81f6c7fe"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\FAC13-i.fra",
+      "size": 4821,
+      "sha256": "74eff7fd05dfa99753b17b508961babb473e43ecd9f98e3df2f28394ba45b8a4"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\FAC13.eng",
+      "size": 4892,
+      "sha256": "d90d1fd2b5d28391288d4abfb4c919c78cc907e25f95d0ba7424ceb6f30de52d"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\FAC13.fra",
+      "size": 4936,
+      "sha256": "13af6daf56d4eaf6588709af38926c6f577aa1972a91f0de862a0498e4a3d124"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\GAR09-i.eng",
+      "size": 4645,
+      "sha256": "2ba2f72d6d455cf2ee883ecbc2074244f04621f079cb4feb4b450ab324a5455f"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\GAR09-i.fra",
+      "size": 4678,
+      "sha256": "9e3435bab2db70f371b98b18a96734ebfdd923d200e9c76a0e6a072fbf8e12c1"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\GAR09.eng",
+      "size": 5115,
+      "sha256": "6c7e6e5b631ab93a7deeb44e2d5a30b6a2a5b54d057e20cfc772415345412687"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\GAR09.fra",
+      "size": 5182,
+      "sha256": "ac43335b179239f3ad6b5f9db90c9919b18b71c8ce21f5b2eaabbd5a208213b2"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\GUI.eng",
+      "size": 57409,
+      "sha256": "ab0e98027a8154b471b820e15690ede2a3ff15027b5ae1807331bb241edc39f4"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\GUI.fra",
+      "size": 70150,
+      "sha256": "43b86639db129663df857f0505b5d09384d5a01c2e1072ae7781e85cf3371d59"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\INI01-i.eng",
+      "size": 5132,
+      "sha256": "bd3646bf0942f09024a45435c5b5d31376fffa72645bb8efb362383034763028"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\INI01-i.fra",
+      "size": 5101,
+      "sha256": "2c5eac63028526b94488ad2123c9fa78f586db323e558103f3c6b48d723ecfa0"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\INI01.eng",
+      "size": 2657,
+      "sha256": "e849b3cae7ae0c78e8186a374371262e278d596c217f6698b4de2e20060473e4"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\INI01.fra",
+      "size": 2685,
+      "sha256": "731c5f2ced5d9a1dd0fd097ce96630ccbc83e3b178537cf53b7191e0574934bc"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\KRA07-i.eng",
+      "size": 8083,
+      "sha256": "603b8778a39c775c6642cbe44183a683098f713889e7d53f81d7e1f73a3b298e"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\KRA07-i.fra",
+      "size": 6936,
+      "sha256": "a8be546455d044d382f9dd7e68f874cda504e92bb798b91677d996692dee9f39"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\KRA07.eng",
+      "size": 11360,
+      "sha256": "df87488c0785ceac17ef7c86caac05060d1acffc7858fbadf92b6cc25e6a276c"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\KRA07.fra",
+      "size": 11198,
+      "sha256": "1e824c24e9ffd7935ecc18f0b54e0582abb3223516fd4466880a197f3461554a"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\MHO05-i.eng",
+      "size": 8046,
+      "sha256": "d45923f1feb7efcd002f90dceb0bdfd7d2bab75972ce03bc12c90b7e0ab369f1"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\MHO05-i.fra",
+      "size": 6960,
+      "sha256": "1ff026eebeb4e6e944285176682491bc81727968fbfba100e6eaf098523a453e"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\MHO05.eng",
+      "size": 5446,
+      "sha256": "4d0f7ae1f481e132a4be830262cf4b319799d5da4c364ffc226addbad0ed3606"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\MHO05.fra",
+      "size": 5569,
+      "sha256": "c349405958d4e24af8b56fcb26a40fb2def1ce00711a0c5b1b78acaeaaa71a5c"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\MIS10-i.eng",
+      "size": 4866,
+      "sha256": "559797d7aa58d747bac902a23656f7e3251c8996d07126f3a26149ac857d499e"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\MIS10-i.fra",
+      "size": 4839,
+      "sha256": "d78d6ebed74c0f88ae17bfefb9186e8c28ed0df5dd2375c496750984a60a727d"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\MIS10.eng",
+      "size": 4425,
+      "sha256": "8f08ca6dbc0f216ce4aef53037710dbbedb272c36c107f43c049af69b4d4a8ce"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\MIS10.fra",
+      "size": 4259,
+      "sha256": "e5f85c9f68395b4dc50318888173573cde937665054b30a0030c59b47dce9209"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\MUS04-i.eng",
+      "size": 7833,
+      "sha256": "4d04bdc2435196f42b3b8ba6648a6e5939eb6a01270ddfbb2cec4f64553b348a"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\MUS04-i.fra",
+      "size": 6600,
+      "sha256": "ef6086ef5b83ef75fc86dcd06ba9d98365f163fab13eb16ffe5db2a4157c9570"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\MUS04.eng",
+      "size": 5974,
+      "sha256": "2ef9d4106434f7c773e46b47697c1e29cab45d916b2636120519c40c6a41d11b"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\MUS04.fra",
+      "size": 6104,
+      "sha256": "3244ef84b5a2cf49cbb00bfdac437f3cf764624411c333462afb1870f8f288c7"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\ORP14-i.eng",
+      "size": 4808,
+      "sha256": "f0e648692ab14db3fd7314f081322b2d4ac2fc55fb90d345cf42b14149dd43fc"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\ORP14-i.fra",
+      "size": 4735,
+      "sha256": "afc1c6d9ddb7db85c70b7a748627e119782d6b8548a3c1791544722a43528d44"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\ORP14.eng",
+      "size": 3817,
+      "sha256": "6cea805cc0d9e07835a1d12500aa62d35cd8d08f2e3bd56795d0bbcc799097c5"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\ORP14.fra",
+      "size": 3820,
+      "sha256": "ddb33f0b528ec499a848711b14281e5df45ae153c94799964fcf75344259865c"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\SBase.eng",
+      "size": 19849,
+      "sha256": "77ec7a20369cee390448b8dab3104bedc4bd42318013ccbc893b02961e5287d9"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\SBase.fra",
+      "size": 20563,
+      "sha256": "8daa91c669b9b3a574a021b4a30216eb775b5ef58ca3d57fbdfd58a38e67ae74"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\SCH03-i.eng",
+      "size": 7517,
+      "sha256": "a39f9c6e918f287ed9b94ac28d63bcda44951ae909479eda2cf199907fcd98cf"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\SCH03-i.fra",
+      "size": 6583,
+      "sha256": "e4c2d098cf094235754b4139999e2b9641ab21edb89c5d48d7f38a951fde30cb"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\SCH03.eng",
+      "size": 4241,
+      "sha256": "a39eb9908845ef97632abf0405abe6889f787c2d24c89fc5d69fd2798e215796"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\SCH03.fra",
+      "size": 4630,
+      "sha256": "454587a65f14d7635bcf6b02146f9dc92770b48a6417c09ab063e2497e85299c"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\SKY08-i.eng",
+      "size": 6145,
+      "sha256": "c9a00df730daa4143238dca114d057d3569f44e3d2400bfb668fd530d48c45a9"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\SKY08-i.fra",
+      "size": 6407,
+      "sha256": "c472b15eb82731f6fa1152e64fd68ae64abdafde9c4b96eaac6610523b77135f"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\SKY08.eng",
+      "size": 4771,
+      "sha256": "2fe462569bc0a97ee79c7adb3fdb9d9451ed59fe074aa5759d2d5b66a367b973"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\SKY08.fra",
+      "size": 4898,
+      "sha256": "350f681ecf6dc246d0644a9da1b9fa99538e49beff7381747376d2a85e25cdb7"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\WAR06-i.eng",
+      "size": 7443,
+      "sha256": "4770dce8f661c48e1e8db55ae4b6e2d681aa4b9c1753579119b17995f48e5b17"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\WAR06-i.fra",
+      "size": 6164,
+      "sha256": "72078ffe7a7e53bb64dcd5f1fe1572991b554cd0b1380858a1a91ee551889bd1"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\WAR06.eng",
+      "size": 4208,
+      "sha256": "a35b9a60afc4b11630ec821bd4324cc92a4e671e020e227cb28028ad254bb434"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\linear_loader\\umd\\WAR06.fra",
+      "size": 4302,
+      "sha256": "de0fd2bac1f2f94851fac89e9526fd0075903801df980206f57f49f4cc02dddd"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\name_compare\\ps2_localization.py",
+      "size": 9719,
+      "sha256": "15f44e19e5658218e3b1be050821c03f237d6f759b971be7a27c9d207198d066"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\per-mode-native-plan.json",
+      "size": 26748,
+      "sha256": "28e9322250eeb2ffe19ca428c50f6ca27ca9090811395ba5cfdd47c06b9af0db"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\per-mode-source-inventory.json",
+      "size": 375499,
+      "sha256": "abf26794f036d864ae8d70f9a9edc817064cde2cec9ebda4a657bff94dcd1b66"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\collection-report.json",
+      "size": 194110,
+      "sha256": "84d393b06cc4b6c2a18e1aa10d290afdcdd38fb64c535fb8aad216ad936bfa8a"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\DTK02\\DTK02EP\\canonical-report.json",
+      "size": 66041,
+      "sha256": "bc04f2e29a4bf3f776724dcd79a2c8860614e25ebe082daf79a57d30af013f69"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\DTK02\\DTK02EP\\native-mode-profile.json",
+      "size": 600,
+      "sha256": "84e21a7be0588579a87a80ec88193b34300dd6d5fc8e4f8e93abcb5080c181d0"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\DTK02\\DTK02P\\canonical-report.json",
+      "size": 66568,
+      "sha256": "0a7d7b6689157aa9e1289608aade8e56b71fd017a79c8d44c64cd9fb4b5d75ef"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\DTK02\\DTK02P\\native-mode-profile.json",
+      "size": 361,
+      "sha256": "52529abeeaefed0d1984cb62d2f70cf48746918e49e035054a2ffe08a424d47e"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\DTK02\\DTK02SP\\canonical-report.json",
+      "size": 73631,
+      "sha256": "6693b1c157376e54de5f1d05b06851c2acefa9c86654fd7acdd705d822f74f5f"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\DTK02\\DTK02SP\\native-mode-profile.json",
+      "size": 471,
+      "sha256": "264644d26593f342ad801e130b3187f77ec5f7e351c533702dfe0c110be657be"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\DTK02\\replay\\DTK02\\report.json",
+      "size": 1207315,
+      "sha256": "23cc4befae2fa9e6cdc0efea8fe283eb07e1d131d586d5867ed6de527e2ec873"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\FAC13\\FAC13EP\\canonical-report.json",
+      "size": 47746,
+      "sha256": "8afaed23f43fac51ee3ae49df74e2b05f3f69c24670782c54a812112b19d13a0"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\FAC13\\FAC13EP\\native-mode-profile.json",
+      "size": 600,
+      "sha256": "f12ae5e2a7815a163d946fe3bbc0a67d4b76185f8e7ce0a8b3583cfc098f76d7"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\FAC13\\FAC13P\\canonical-report.json",
+      "size": 48315,
+      "sha256": "aa051f40b6c7398650a5a6fa7bf7de28b5dc23dda9b62e0395be6bba674907a7"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\FAC13\\FAC13P\\native-mode-profile.json",
+      "size": 361,
+      "sha256": "e4362beecf2311235a5f98555c91dd09108fa3d85fb0d1352d7d8000eef4c637"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\FAC13\\FAC13SP\\canonical-report.json",
+      "size": 52921,
+      "sha256": "3ff832b83aadc5c2f3f6134ff00b456b310f5f380a4e41883541bcdfead0f254"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\FAC13\\FAC13SP\\native-mode-profile.json",
+      "size": 438,
+      "sha256": "74b000ab7d88b92ae1fb232ef066aeda18704909fb09d20601837769b2437089"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\FAC13\\replay\\FAC13\\report.json",
+      "size": 977112,
+      "sha256": "df3df3f7fbbfbc2efb7f71bf41278c1e1908c6d6ceef6dd4bd8b3ebe4f07e841"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\GAR09\\GAR09EP\\canonical-report.json",
+      "size": 52889,
+      "sha256": "07a8a75cbea0903797b4089c43e86779bc28472ccce48a3d7e32b4737c3c14f2"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\GAR09\\GAR09EP\\native-mode-profile.json",
+      "size": 514,
+      "sha256": "f42fec70c3fede6d0f2da18298f9616b49338be3c027e31ec72c303930e68c71"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\GAR09\\GAR09P\\canonical-report.json",
+      "size": 53478,
+      "sha256": "ebcbf6d4909c1a26e95cc2f3ba1c5bd156f9d43de2b2a112087d0cb8c6d71026"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\GAR09\\GAR09P\\native-mode-profile.json",
+      "size": 361,
+      "sha256": "441de4645112d2e70dbf135f6664bbacd09d24ded03a5aa44f8fbb4e52011102"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\GAR09\\GAR09SP\\canonical-report.json",
+      "size": 60150,
+      "sha256": "f318715f038d8536962c3fc298d7a6b99590e674a8ad4a74327845f37fa0fd06"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\GAR09\\GAR09SP\\native-mode-profile.json",
+      "size": 471,
+      "sha256": "9b9e5e6f72dd8709ee84200c6f167da5ba088260311524619e9aa4586062ea78"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\GAR09\\replay\\GAR09\\report.json",
+      "size": 687331,
+      "sha256": "06a5c87452a2a564eb4c2d04e25a28bc458c4af5510456e043465bbf5860d000"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\INI01\\INI01P\\canonical-report.json",
+      "size": 9236,
+      "sha256": "36afca5cf3b886d4cfcddd42680e61fc888c122647ef9761d57b61d104f630f2"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\INI01\\INI01P\\native-mode-profile.json",
+      "size": 361,
+      "sha256": "0ae7b54fa566d9c985ef60381624a8a8021c1bae52c4bdfcda3445722be1e8da"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\INI01\\replay\\INI01\\report.json",
+      "size": 795481,
+      "sha256": "5328d41200feea6a2181eca84894d315bbe2f4b86ade913fd221c87bc9b828c1"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\KRA07\\KRA07EP\\canonical-report.json",
+      "size": 53544,
+      "sha256": "ae1b4ed180638cdb690f1b2ac8213537ea61f3dd98f9b0b025a809b7c774a2f2"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\KRA07\\KRA07EP\\native-mode-profile.json",
+      "size": 586,
+      "sha256": "ca02b06e536996793e95f5fd4fadfaf9b0b3df6dbf4142e483aa62af21a282c0"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\KRA07\\KRA07P\\canonical-report.json",
+      "size": 54073,
+      "sha256": "a4d01f5b3ecfd986d14d925beffedc093e84e3a142ebd0d0040cf4f7e13dc040"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\KRA07\\KRA07P\\native-mode-profile.json",
+      "size": 361,
+      "sha256": "b658cda4d0e2a944605ec902683d19662c79ac7f5dc06206d79394d8dd7ff4f0"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\KRA07\\KRA07SP\\canonical-report.json",
+      "size": 59114,
+      "sha256": "6b26250dca2dd4aafab468d594786dcc2148a58d8800e4c4a0a1915581c7b372"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\KRA07\\KRA07SP\\native-mode-profile.json",
+      "size": 435,
+      "sha256": "5b39b82aade868d306568a468ad543e7a8e71052d570034f0264b6ad503f76ac"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\KRA07\\replay\\KRA07\\report.json",
+      "size": 1101575,
+      "sha256": "0906d3314703d15d8ad9305bd8b86b311044d518ceeae5020a5a3eb1a7bfc9d9"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\MHO05\\MHO05EP\\canonical-report.json",
+      "size": 92545,
+      "sha256": "4263116f2fb50731243f263994f793fe873d584d30e7b32a7edfb37acc45a34a"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\MHO05\\MHO05EP\\native-mode-profile.json",
+      "size": 557,
+      "sha256": "e1f8aced55311fb713e6edd8f06ef047c8be43d9d9a9967fdc5671b5a063f318"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\MHO05\\MHO05P\\canonical-report.json",
+      "size": 93102,
+      "sha256": "68ffd88b362b7d68404a97e5e4579061225aa91c12d4128bdf03106c1c8a048f"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\MHO05\\MHO05P\\native-mode-profile.json",
+      "size": 361,
+      "sha256": "7eb9f60fac6f6f30d12b2274b5d52d8955221240fa8b620d8c743e64e69a3c4d"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\MHO05\\MHO05SP\\canonical-report.json",
+      "size": 102076,
+      "sha256": "05a7983b06132d5299792dc563d7cb40f154554f0a727b48dc8fa9cf7a176b47"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\MHO05\\MHO05SP\\native-mode-profile.json",
+      "size": 504,
+      "sha256": "a6b107d42a4e6015a31f71dc1bf7b22721a7a4e25a4f70e0225b9f9752987147"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\MHO05\\replay\\MHO05\\report.json",
+      "size": 1136202,
+      "sha256": "b7b5b124478c872d9259d5d1cec3df60aabf7c8894028b42910c1ad88bde7d60"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\MIS10\\MIS10EP\\canonical-report.json",
+      "size": 40950,
+      "sha256": "24e2ffa9f5f460f721e535b8c5b62cc6be8129ae704f0088844e8ab14fe054da"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\MIS10\\MIS10EP\\native-mode-profile.json",
+      "size": 514,
+      "sha256": "549659b6cdd6d2c4252ea93062382f5d200c55d1e8380146ff631c3609c0366e"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\MIS10\\MIS10P\\canonical-report.json",
+      "size": 41623,
+      "sha256": "43673fcbe27d83fdc4da1e6f1d86006bc071833b3f053214f17e7cd989b991b2"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\MIS10\\MIS10P\\native-mode-profile.json",
+      "size": 361,
+      "sha256": "8dc25ad6671216097429c2aff7827766013711166cae235a6fca32f8d447b6d6"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\MIS10\\MIS10SP\\canonical-report.json",
+      "size": 53537,
+      "sha256": "d6e1aa83712a358e7784740c15e98ba8581fed34ee417f3ef19d9b40d53b7ff0"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\MIS10\\MIS10SP\\native-mode-profile.json",
+      "size": 570,
+      "sha256": "976b4d22849cdff0806213ea22bf3deeae387190a2319bad38c7dba7e866cd66"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\MIS10\\replay\\MIS10\\report.json",
+      "size": 1321020,
+      "sha256": "3465dc4bad93563bd100708502b1571fefae44b9be53b1b96c68596b99eafd2a"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\MUS04\\MUS04P\\canonical-report.json",
+      "size": 31375,
+      "sha256": "2d869b9282adc14d9d4271bcd3a15806a0bd327eebda70926b68adc457568fd0"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\MUS04\\MUS04P\\native-mode-profile.json",
+      "size": 361,
+      "sha256": "3b63428954866005460aac3122e109ca45cb263e3c1729e34cfc66207b52c131"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\MUS04\\MUS04SP\\canonical-report.json",
+      "size": 35948,
+      "sha256": "df8cd5b8832dfaf40375896941f1f0c21644e6df145b110a5c2721b18220ca48"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\MUS04\\MUS04SP\\native-mode-profile.json",
+      "size": 438,
+      "sha256": "8c7a5516dc4a9df5f70688adbca0a6d275b4433ac2b285f493fabcabc51acbcc"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\MUS04\\replay\\MUS04\\report.json",
+      "size": 1331779,
+      "sha256": "172d889d06d79de877ac7e2beee9f21d21895b1cc47f38bb792e3ca03678463c"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\ORP14\\ORP14EP\\canonical-report.json",
+      "size": 44503,
+      "sha256": "5750a43a9fafdad612d2e74434b9b10fed5a16ca1cc2238bd6396d4c51964ad0"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\ORP14\\ORP14EP\\native-mode-profile.json",
+      "size": 515,
+      "sha256": "5a5e261202d9019b8bc165c8f652053302da152de8064e76e65d7a87b056df92"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\ORP14\\ORP14P\\canonical-report.json",
+      "size": 45108,
+      "sha256": "fd6850141fda625039355197a96ebaf3176b515e2167790c6e2a2d2f60a716cb"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\ORP14\\ORP14P\\native-mode-profile.json",
+      "size": 361,
+      "sha256": "fec4902ccfee0414d1582f9eb4d6fb35584e7c638c0ef1623523e5961e1b29e6"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\ORP14\\ORP14SP\\canonical-report.json",
+      "size": 49565,
+      "sha256": "25329b6164091ae65942c7ad411a26704be2cc3af25c55836b3d2f34ba61b76d"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\ORP14\\ORP14SP\\native-mode-profile.json",
+      "size": 438,
+      "sha256": "3967c0f2830516c527a8714d670e5eca27d90f810465f29d702af61c1231667f"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\ORP14\\replay\\ORP14\\report.json",
+      "size": 1537996,
+      "sha256": "005000c9bf151ecd8062c2cb720f8d63dee37ada7ac89af2ac78a5fee91667c2"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\SCH03\\SCH03EP\\canonical-report.json",
+      "size": 36342,
+      "sha256": "03118d40ac6e79b05178c5e6f4e2cdc0c52607f0861c410d5052dc3f99f0efcc"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\SCH03\\SCH03EP\\native-mode-profile.json",
+      "size": 506,
+      "sha256": "587b2a98fcfbc845b1ba619b2dec02deb1bac7baf66e9edf1e5301406f9399c3"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\SCH03\\SCH03P\\canonical-report.json",
+      "size": 36933,
+      "sha256": "2c365e0b30c16981dfb0025e5d46e343959739bacf0531e0a12d133f706cca6e"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\SCH03\\SCH03P\\native-mode-profile.json",
+      "size": 361,
+      "sha256": "1f7434bfedf2744c1a68d732c4e5f65da8c8ac65ac1ff0b2da60dbefe2c1f487"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\SCH03\\SCH03SP\\canonical-report.json",
+      "size": 37981,
+      "sha256": "b1680f2ffcbc2061c6b13257451021445c1942e65ca1853e27453fa14a4d379b"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\SCH03\\SCH03SP\\native-mode-profile.json",
+      "size": 370,
+      "sha256": "a79a8b4529c26818472294fb8dafcb9c80d2805a50e06252e3eca494925c2a0a"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\SCH03\\replay\\SCH03\\report.json",
+      "size": 908152,
+      "sha256": "a7c1be46db7f277caed1e95639b68557d52fe061cde8f37a18b4b1b77c0bc746"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\SKY08\\SKY08EP\\canonical-report.json",
+      "size": 25172,
+      "sha256": "0351a94fbc8f83c6fd499136e04759a040647eb45475928d21d3619bd49fbc87"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\SKY08\\SKY08EP\\native-mode-profile.json",
+      "size": 471,
+      "sha256": "a3a2802207733f54986964e02f0bc2807a9de1682a822869ae3714b242385dab"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\SKY08\\SKY08P\\canonical-report.json",
+      "size": 25833,
+      "sha256": "7a38e8d4eaaf83d97e023c397fc841624bcf378e1c5a4f114cfd2bada9d9034c"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\SKY08\\SKY08P\\native-mode-profile.json",
+      "size": 361,
+      "sha256": "b4d3df8108beae25257df1cb3cd324cbd60ccf5db3ea7ff330d023d2fc1eb963"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\SKY08\\replay\\SKY08\\report.json",
+      "size": 1011421,
+      "sha256": "fe4b871f0788fbcde1453398fb9dec303b5c7116c890e7c354fbe41f2d7d1318"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\WAR06\\WAR06EP\\canonical-report.json",
+      "size": 108848,
+      "sha256": "7ff9a765b6f5673ba7694243467a62809015eb93b07d149ed82459767acdf856"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\WAR06\\WAR06EP\\native-mode-profile.json",
+      "size": 729,
+      "sha256": "a872aa220ae5e8b26406ba3069c98a44cb8dead293742ead45a428de605b5d3a"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\WAR06\\WAR06P\\canonical-report.json",
+      "size": 109282,
+      "sha256": "d7e59a0abf6640574d35750a98a0005c15b7bba7088d189d63a272ea71363f82"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\WAR06\\WAR06P\\native-mode-profile.json",
+      "size": 361,
+      "sha256": "03e1a1ef7f1a2d748385f24c31ec3c14fbda24fcd461e7d456662889f87e1347"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\source-builds\\WAR06\\replay\\WAR06\\report.json",
+      "size": 1034367,
+      "sha256": "94d64014b032ed24139fc6c71b7a458b0eede3c1f8ed6d2437b4a38e8338e6f3"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\DTK02\\canonical-report.json",
+      "size": 66100,
+      "sha256": "dbfec13a3c8b5458d3811932e176cbb57f759763f8eabe5ea27b3d5eb89396d9"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\FAC13\\canonical-report.json",
+      "size": 47847,
+      "sha256": "6d797b112ca994f92240246ef2fe9ec27fea83bee6545ab7fc0c94db16de1ec5"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\GAR09\\canonical-report.json",
+      "size": 53010,
+      "sha256": "c83df717e958b944fc6c1ef551677481ecc26abc0fbb3a277a29ba6a479cc2a4"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\INI01\\canonical-report.json",
+      "size": 8768,
+      "sha256": "299e44867c98d74a0858fbc6b8d89934ae8c02eb004278c35a9d5d8fc2ee575d"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\KRA07\\canonical-report.json",
+      "size": 53553,
+      "sha256": "c5b2068fc5a413460ad264fe40dd6342b47cf061f08b8e91ca9d47f66f3c89b2"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\MHO05\\canonical-report.json",
+      "size": 92608,
+      "sha256": "f5486aa62dc307a57c4d7d01cb5c0e3be5b2d23da6ea33e65cb6c60ed8e78b97"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\MIS10\\canonical-report.json",
+      "size": 41155,
+      "sha256": "e185bc0cfc22e21af463a74e7b6f65093e16b8093cb90e7043f94db926997aa2"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\MUS04\\canonical-report.json",
+      "size": 30855,
+      "sha256": "fd24fbd0b6805a2fe02da232126bfe5429f8a5048fcb8ee30d66762f66bc2c69"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\ORP14\\canonical-report.json",
+      "size": 44640,
+      "sha256": "aa81f45568c6608e7445c616f4f0c14d89c805b5ad032abc7254c15fcf4c92bc"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\SCH03\\canonical-report.json",
+      "size": 36465,
+      "sha256": "7c24f18d03df2ed161b5a35eb53af6dc0f154719972d5030cfe08215d91560ce"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\SKY08\\canonical-report.json",
+      "size": 25339,
+      "sha256": "64579cc727f53100c07894728cee3966ecaf6afe102dab92bf6d0060b0dcff1b"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\WAR06\\canonical-report.json",
+      "size": 108814,
+      "sha256": "8ef2061075b37df2bc7cdc9975fc6271d84e7ef7ba23c91ca8e947b4e0e40bcf"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\v1-baseline\\DTK02P.sdc",
+      "size": 419062,
+      "sha256": "3140799e8b3b9200adf64dfe7f860ad5ec6260ef7f114f1448080f46b7545c3a"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\v1-baseline\\FAC13P.sdc",
+      "size": 454598,
+      "sha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\v1-baseline\\GAR09P.sdc",
+      "size": 291554,
+      "sha256": "221057da684073b4ce70a3f8b0bb831580eb4a3fa60682eedbccfdaf19aa6802"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\v1-baseline\\INI01P.sdc",
+      "size": 530855,
+      "sha256": "665e2de289407729a10432505c23710aaae053711f93af85f28de067f5c50390"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\v1-baseline\\KRA07P.sdc",
+      "size": 456321,
+      "sha256": "902731bacf9b929fbd6e2d315c507d3c56f1b355424293e1ebf79070cd9718cd"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\v1-baseline\\MHO05P.sdc",
+      "size": 554753,
+      "sha256": "5cdbe13ecdd52615eb5470d288df7afa5188d38b18bdaa6a3e3449a7ded151be"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\v1-baseline\\MIS10P.sdc",
+      "size": 509031,
+      "sha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\v1-baseline\\MUS04P.sdc",
+      "size": 502518,
+      "sha256": "9ef891a53d8ad0402a5e955aba0de74af99f7a78f8e5b790c834a34e950ecaa7"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\v1-baseline\\ORP14P.sdc",
+      "size": 457711,
+      "sha256": "85eebe4d16fdfe8aa78af1b3d6657c4fdd75882904e422a171156b7c882a928b"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\v1-baseline\\SCH03P.sdc",
+      "size": 305392,
+      "sha256": "a8b43fa3ce3968d0e6dccd4eaae668eb850cb644707049be08c399d62e380162"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\v1-baseline\\SKY08P.sdc",
+      "size": 555248,
+      "sha256": "2d64cb115ff094c3ceeca2416b8c2432eb3bc42f86ca366408580c2eedcb83ef"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\v1-baseline\\WAR06P.sdc",
+      "size": 458863,
+      "sha256": "dfafb2044983b60dcd695accdaa0a4be1737f3a1a7e4bfc51a0fe0bc1b571064"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2-mode-variants\\audit_collection-r2-frozen.py",
+      "size": 20513,
+      "sha256": "b22af430556537f47e2cef77e30b6d0b867a08fe8b9f022dc21bb3d0f29fe9c4"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2-mode-variants\\audit_station_v5.py",
+      "size": 11362,
+      "sha256": "23885c8d41c4de8674d90fce271a39e03993d558e4ade5aeb617ac5636833c67"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2-mode-variants\\audit_variants-station-v4.py",
+      "size": 16193,
+      "sha256": "c8394e2797a6afbe0c26ec070acada35be98f9cbea39c7601157d0e425387976"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\DTK02.bin",
+      "size": 6367393,
+      "sha256": "c0017a7d8b4b7f0d5cef30576e5d5561c5e44e82135519075df646e315df3f18"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\DTK02.tables.json",
+      "size": 422443,
+      "sha256": "4bd9a7d2fb4a88756e09f8dba66a5db9fee99918fc9dbeefaaa32265b15fd76a"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\FAC13.bin",
+      "size": 6816635,
+      "sha256": "9492893f936cbeca0b82d00b6575e130ae82272a123ccef904c693a9df897395"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\FAC13.tables.json",
+      "size": 341251,
+      "sha256": "dd9c29bf768be592853dfdfc8545b3c693393f9a7f5f7f39c32ff8cb0c424bf5"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\GAR09.bin",
+      "size": 4037866,
+      "sha256": "2d92b1f08bc6ffaef9cdaa1f3f20712beb552c3d46f5eaf3076c33d49dcb3109"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\GAR09.tables.json",
+      "size": 256762,
+      "sha256": "0289a22dbcbbd2b84b4d65ed45aefdfb3a235de7d821e1c328d9f41c0b20ae45"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\INI01.bin",
+      "size": 6586114,
+      "sha256": "c064b761baa278c1204b501466c5b5db62e80c8ba2edb7722e059e60d5ba565a"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\INI01.tables.json",
+      "size": 300663,
+      "sha256": "d131d569bb53a6ba84d2b227c764c36adfb8912f6147ad7a9df9d5e84c6aac57"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\KRA07.bin",
+      "size": 6421076,
+      "sha256": "f3a02d9ddf35f2bdde616bb68df400f84d7d4e9fecdd3a7e68ae16023eb279e3"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\KRA07.tables.json",
+      "size": 400775,
+      "sha256": "b5a14e0212896fda6ea3bad33c02aca6bd0d714c95cd9417c5ccd8ffc38f8bb7"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\MHO05.bin",
+      "size": 7980347,
+      "sha256": "2bb523171918917b4d4aca0ad9dc5c7a1dbd31af153407cfadd3a0f699ed65fc"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\MHO05.tables.json",
+      "size": 400693,
+      "sha256": "43bb9b03d7190a560529bf133a04142cf5a3ed40d1231f5453bbda74b3b78a85"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\MIS10.bin",
+      "size": 6087867,
+      "sha256": "313ee3c36c49fe3750eadd851a48485a65e73336e11454c11f5356c0016fdb27"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\MIS10.tables.json",
+      "size": 431613,
+      "sha256": "be9d2406d443f2729eac1433afec4b04c6f494e24436707933bbb7b80bf48d6a"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\MUS04.bin",
+      "size": 6315011,
+      "sha256": "ea25d784987031738e5be3c824ec5f0ea6475715c6567cce40844e9de2002468"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\MUS04.tables.json",
+      "size": 476072,
+      "sha256": "c82e663d76199d6c632611592b41c7b0557a8e0279bdd2b6e09bf1596d3c8611"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\ORP14.bin",
+      "size": 4475698,
+      "sha256": "8781855e6b6d1cdd1bc21bc60c4849e46f66da954ea7f27539b5e31d062f2f76"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\ORP14.tables.json",
+      "size": 531494,
+      "sha256": "a8c65a83cd52f70813552e6d9a18395c877516c5994c1b838c8cd996ed7eb2c4"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\SCH03.bin",
+      "size": 5881194,
+      "sha256": "790a3455d46a37769033f05b12f5fc4677ab6ef73d52c5583d5227c6ad38f31b"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\SCH03.tables.json",
+      "size": 349696,
+      "sha256": "0543ca50c39960b665612c603dd0a46d16ef5967062a2263408828d5409b9671"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\SKY08.bin",
+      "size": 8071500,
+      "sha256": "2be6ed34b3d58579d9ce55b7c3bf0bdbdb59afe2a574e2d672e789f5a483b254"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\SKY08.tables.json",
+      "size": 368508,
+      "sha256": "0f868a52da4420011accaa2d43f0ba60d96b2a37f1b0cc3da1704aeaf51c0163"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\WAR06.bin",
+      "size": 7268718,
+      "sha256": "8dc9bef0cdef875f788bf4bde873bbd6e5046008753176e149ae66598a227966"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2\\decoded\\WAR06.tables.json",
+      "size": 370892,
+      "sha256": "5c716ec6ec38a064ef67390f2891fae5ddf5f3fd315c71f1775f8f9de2d705aa"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2_port\\release159\\source\\src\\OpenScct.Core\\FCoords.cs",
+      "size": 2003,
+      "sha256": "6c892612278c44fe00fdf76334d2e96d0ac7efeb61f1452ffb610b2b50dbe132"
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\release-ps2-v1\\source-input-evidence.json",
+      "size": 1330,
+      "sha256": "217a31fdd4470eb61101bfe1aa883c8f95304251956efe33db93494578bb93a5"
+    }
+  ],
+  "scope": "Hashes only; no builder or candidate file mutations. Raw decoded ISO map streams, replay/property inventory, original source locales and accepted native baseline inputs are bound.",
+  "frozenAt": "2026-11-16T05:30:20.152937+00:00"
+}

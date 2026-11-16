@@ -1,0 +1,364 @@
+{
+  "root": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09EP-0388d12ddb",
+  "instrumented": true,
+  "processInternalDetour": false,
+  "gameTextBefore": "a3550419e88d1f174efa8be8d849d683851fa48a8dd27e44e19a6de714297eb0",
+  "objectiveFieldsWritten": false,
+  "pawnRelocationSetupOnly": true,
+  "before": {
+    "mesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+    "initialMesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+    "pivot": [
+      13.0,
+      -2.3869795029440866e-15,
+      0.0
+    ],
+    "carrier": "",
+    "base": "",
+    "bone": "None",
+    "relative": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "relativeRotation": [
+      0,
+      0,
+      0
+    ],
+    "location": [
+      -28.4,
+      -5790.7,
+      119.0
+    ],
+    "active": 1,
+    "hidden": 0,
+    "state": "s_Initial",
+    "left": 3
+  },
+  "approach": {
+    "requested": [
+      -29.173120177169732,
+      -5678.702668401467,
+      89.00499725341797
+    ],
+    "nativePlacement": {
+      "return": true,
+      "out": {}
+    },
+    "walk": {
+      "pid": 36740,
+      "controller": {
+        "class": "SPlayerController",
+        "rotation": [
+          0,
+          -16312,
+          0
+        ]
+      },
+      "pawn": {
+        "class": "SPawnAttaque_1Mesh",
+        "name": "291_SPawnAttaque_1Mesh",
+        "location": [
+          -28.9,
+          -5722.2,
+          89.0
+        ],
+        "rotation": [
+          0,
+          49225,
+          0
+        ],
+        "speed": 0.0,
+        "velocityZ": 0.0,
+        "Physics": 1,
+        "Health": 100,
+        "bIsCrouched": 0,
+        "bIsWalking": 0
+      },
+      "map": "Autoplay",
+      "window": true,
+      "reached": true,
+      "distance": 1.5
+    },
+    "actual": [
+      -28.9,
+      -5722.2,
+      89.0
+    ]
+  },
+  "homeImage": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09EP-0388d12ddb\\extraction-home.png",
+  "pickupInput": [
+    "s_MenuInteraction"
+  ],
+  "afterPickup": {
+    "mesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+    "initialMesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+    "pivot": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "carrier": "Autoplay.291_SPawnAttaque_1Mesh",
+    "base": "Autoplay.291_SPawnAttaque_1Mesh",
+    "bone": "B L Hand",
+    "relative": [
+      8.0,
+      -5.0,
+      0.0
+    ],
+    "relativeRotation": [
+      -4000,
+      0,
+      16768
+    ],
+    "location": [
+      -28.4,
+      -5790.7,
+      119.0
+    ],
+    "active": 0,
+    "hidden": 0,
+    "state": "s_PickedUp",
+    "left": 3
+  },
+  "passedPickup": true,
+  "discardAction": {
+    "return": null,
+    "out": {}
+  },
+  "afterDrop": {
+    "mesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+    "initialMesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+    "pivot": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "carrier": "",
+    "base": "Autoplay.LevelInfo0",
+    "bone": "None",
+    "relative": [
+      -34.063175201416016,
+      -5687.693359375,
+      5.010000228881836
+    ],
+    "relativeRotation": [
+      -4000,
+      0,
+      16768
+    ],
+    "location": [
+      -34.1,
+      -5687.7,
+      5.0
+    ],
+    "active": 1,
+    "hidden": 0,
+    "state": "s_Initial",
+    "left": 3
+  },
+  "afterReset": {
+    "mesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+    "initialMesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+    "pivot": [
+      13.0,
+      -2.3869795029440866e-15,
+      0.0
+    ],
+    "carrier": "",
+    "base": "",
+    "bone": "None",
+    "relative": [
+      -34.063175201416016,
+      -5687.693359375,
+      5.010000228881836
+    ],
+    "relativeRotation": [
+      -4000,
+      0,
+      16768
+    ],
+    "location": [
+      -28.4,
+      -5790.7,
+      119.0
+    ],
+    "active": 1,
+    "hidden": 0,
+    "state": "s_Initial",
+    "left": 3
+  },
+  "repickupApproach": {
+    "requested": [
+      -29.173120177169732,
+      -5678.702668401467,
+      89.00499725341797
+    ],
+    "nativePlacement": {
+      "return": true,
+      "out": {}
+    },
+    "walk": {
+      "pid": 36740,
+      "controller": {
+        "class": "SPlayerController",
+        "rotation": [
+          0,
+          -16312,
+          0
+        ]
+      },
+      "pawn": {
+        "class": "SPawnAttaque_1Mesh",
+        "name": "291_SPawnAttaque_1Mesh",
+        "location": [
+          -28.9,
+          -5721.3,
+          89.0
+        ],
+        "rotation": [
+          0,
+          49225,
+          0
+        ],
+        "speed": 0.0,
+        "velocityZ": 0.0,
+        "Physics": 1,
+        "Health": 100,
+        "bIsCrouched": 0,
+        "bIsWalking": 0
+      },
+      "map": "Autoplay",
+      "window": true,
+      "reached": true,
+      "distance": 2.4
+    },
+    "actual": [
+      -28.9,
+      -5721.3,
+      89.0
+    ]
+  },
+  "repickupInput": [
+    "s_MenuInteraction"
+  ],
+  "afterRepickup": {
+    "mesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+    "initialMesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+    "pivot": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "carrier": "Autoplay.291_SPawnAttaque_1Mesh",
+    "base": "Autoplay.291_SPawnAttaque_1Mesh",
+    "bone": "B L Hand",
+    "relative": [
+      8.0,
+      -5.0,
+      0.0
+    ],
+    "relativeRotation": [
+      -4000,
+      0,
+      16768
+    ],
+    "location": [
+      -28.4,
+      -5790.7,
+      119.0
+    ],
+    "active": 0,
+    "hidden": 0,
+    "state": "s_PickedUp",
+    "left": 3
+  },
+  "deliveryApproach": {
+    "requested": [
+      2813.0,
+      2400.0,
+      89.01000213623047
+    ],
+    "nativePlacement": {
+      "return": true,
+      "out": {}
+    },
+    "walk": {
+      "pid": 36740,
+      "controller": {
+        "class": "SPlayerController",
+        "rotation": [
+          0,
+          -32768,
+          0
+        ]
+      },
+      "pawn": {
+        "class": "SPawnAttaque_1Mesh",
+        "name": "291_SPawnAttaque_1Mesh",
+        "location": [
+          2771.6,
+          2400.0,
+          89.0
+        ],
+        "rotation": [
+          0,
+          1605631,
+          0
+        ],
+        "speed": 0.0,
+        "velocityZ": 0.0,
+        "Physics": 1,
+        "Health": 100,
+        "bIsCrouched": 0,
+        "bIsWalking": 0
+      },
+      "map": "Autoplay",
+      "window": true,
+      "reached": true,
+      "distance": 3.6
+    },
+    "actual": [
+      2771.6,
+      2400.0,
+      89.0
+    ]
+  },
+  "deliveryInput": [
+    "s_MenuInteraction"
+  ],
+  "afterDelivery": {
+    "mesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+    "initialMesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+    "pivot": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "carrier": "",
+    "base": "",
+    "bone": "None",
+    "relative": [
+      8.0,
+      -5.0,
+      0.0
+    ],
+    "relativeRotation": [
+      -4000,
+      0,
+      0
+    ],
+    "location": [
+      2810.2,
+      2414.0,
+      58.0
+    ],
+    "active": 0,
+    "hidden": 1,
+    "state": "s_Initial",
+    "left": 2
+  },
+  "status": "passed",
+  "gameTextAfter": "a3550419e88d1f174efa8be8d849d683851fa48a8dd27e44e19a6de714297eb0"
+}

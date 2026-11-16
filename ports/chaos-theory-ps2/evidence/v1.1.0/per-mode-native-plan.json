@@ -1,0 +1,1172 @@
+{
+  "status": "read-only-inventory-grounded",
+  "proposedVersion": "1.1.0",
+  "nativeMechanics": "Existing Enhanced/PC Story pickup-delivery, bomb/modem planting-fuse-defusal and computer hack rules; PS2 visuals. Not a full native PS2 rules port.",
+  "counts": {
+    "competitive": 31,
+    "extraction": 10,
+    "sabotage": 9,
+    "neutralization": 12,
+    "unsplitTraining": 2
+  },
+  "maps": [
+    {
+      "sourceCode": "DTK02",
+      "uiModes": [
+        1,
+        3,
+        2
+      ],
+      "supportedCompetitiveModes": [
+        "Extraction",
+        "Sabotage",
+        "Neutralization"
+      ],
+      "missionModes": [
+        3,
+        1,
+        2
+      ],
+      "sourceOnlyMode0Roots": [],
+      "training": false,
+      "tutorialModeFallback": false
+    },
+    {
+      "sourceCode": "FAC13",
+      "uiModes": [
+        1,
+        3,
+        2
+      ],
+      "supportedCompetitiveModes": [
+        "Extraction",
+        "Sabotage",
+        "Neutralization"
+      ],
+      "missionModes": [
+        1,
+        2,
+        3
+      ],
+      "sourceOnlyMode0Roots": [],
+      "training": false,
+      "tutorialModeFallback": false
+    },
+    {
+      "sourceCode": "GAR09",
+      "uiModes": [
+        1,
+        3,
+        2
+      ],
+      "supportedCompetitiveModes": [
+        "Extraction",
+        "Sabotage",
+        "Neutralization"
+      ],
+      "missionModes": [
+        1,
+        2,
+        3
+      ],
+      "sourceOnlyMode0Roots": [],
+      "training": false,
+      "tutorialModeFallback": false
+    },
+    {
+      "sourceCode": "INI01",
+      "uiModes": [
+        3
+      ],
+      "supportedCompetitiveModes": [
+        "Neutralization"
+      ],
+      "missionModes": [
+        3
+      ],
+      "sourceOnlyMode0Roots": [],
+      "training": false,
+      "tutorialModeFallback": false
+    },
+    {
+      "sourceCode": "KRA07",
+      "uiModes": [
+        1,
+        3,
+        2
+      ],
+      "supportedCompetitiveModes": [
+        "Extraction",
+        "Sabotage",
+        "Neutralization"
+      ],
+      "missionModes": [
+        2,
+        3,
+        1
+      ],
+      "sourceOnlyMode0Roots": [],
+      "training": false,
+      "tutorialModeFallback": false
+    },
+    {
+      "sourceCode": "MHO05",
+      "uiModes": [
+        1,
+        3,
+        2
+      ],
+      "supportedCompetitiveModes": [
+        "Extraction",
+        "Sabotage",
+        "Neutralization"
+      ],
+      "missionModes": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "sourceOnlyMode0Roots": [
+        511
+      ],
+      "training": false,
+      "tutorialModeFallback": false
+    },
+    {
+      "sourceCode": "MIS10",
+      "uiModes": [
+        1,
+        3,
+        2
+      ],
+      "supportedCompetitiveModes": [
+        "Extraction",
+        "Sabotage",
+        "Neutralization"
+      ],
+      "missionModes": [
+        1,
+        2,
+        3
+      ],
+      "sourceOnlyMode0Roots": [],
+      "training": false,
+      "tutorialModeFallback": false
+    },
+    {
+      "sourceCode": "MUS04",
+      "uiModes": [
+        3,
+        2
+      ],
+      "supportedCompetitiveModes": [
+        "Sabotage",
+        "Neutralization"
+      ],
+      "missionModes": [
+        3,
+        2
+      ],
+      "sourceOnlyMode0Roots": [],
+      "training": false,
+      "tutorialModeFallback": false
+    },
+    {
+      "sourceCode": "ORP14",
+      "uiModes": [
+        1,
+        3,
+        2
+      ],
+      "supportedCompetitiveModes": [
+        "Extraction",
+        "Sabotage",
+        "Neutralization"
+      ],
+      "missionModes": [
+        2,
+        1,
+        3
+      ],
+      "sourceOnlyMode0Roots": [],
+      "training": false,
+      "tutorialModeFallback": false
+    },
+    {
+      "sourceCode": "SCH03",
+      "uiModes": [
+        6,
+        5,
+        1,
+        3,
+        2
+      ],
+      "supportedCompetitiveModes": [
+        "Extraction",
+        "Sabotage",
+        "Neutralization"
+      ],
+      "missionModes": [
+        1,
+        0,
+        2,
+        3
+      ],
+      "sourceOnlyMode0Roots": [
+        450
+      ],
+      "training": false,
+      "tutorialModeFallback": false
+    },
+    {
+      "sourceCode": "SKY08",
+      "uiModes": [
+        1,
+        3
+      ],
+      "supportedCompetitiveModes": [
+        "Extraction",
+        "Neutralization"
+      ],
+      "missionModes": [
+        1,
+        3
+      ],
+      "sourceOnlyMode0Roots": [],
+      "training": false,
+      "tutorialModeFallback": false
+    },
+    {
+      "sourceCode": "TME12",
+      "uiModes": [
+        3
+      ],
+      "supportedCompetitiveModes": [],
+      "missionModes": [
+        3
+      ],
+      "sourceOnlyMode0Roots": [],
+      "training": true,
+      "tutorialModeFallback": true
+    },
+    {
+      "sourceCode": "TSP11",
+      "uiModes": [
+        3
+      ],
+      "supportedCompetitiveModes": [],
+      "missionModes": [
+        3
+      ],
+      "sourceOnlyMode0Roots": [],
+      "training": true,
+      "tutorialModeFallback": false
+    },
+    {
+      "sourceCode": "WAR06",
+      "uiModes": [
+        1,
+        3
+      ],
+      "supportedCompetitiveModes": [
+        "Extraction",
+        "Neutralization"
+      ],
+      "missionModes": [
+        2,
+        1,
+        3
+      ],
+      "sourceOnlyMode0Roots": [],
+      "training": false,
+      "tutorialModeFallback": false
+    }
+  ],
+  "variants": [
+    {
+      "sourceCode": "DTK02",
+      "sourceMode": 1,
+      "modeName": "Extraction",
+      "targetCode": "DTK02EP",
+      "displayName": "PS2 Deftech Belew (Extraction)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        376
+      ],
+      "objectiveRefs": [
+        197,
+        198,
+        214
+      ],
+      "triggerRefs": [
+        141,
+        142,
+        143,
+        148,
+        159,
+        160
+      ],
+      "triggerKinds": {
+        "SFlag": 6
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "DTK02",
+      "sourceMode": 2,
+      "modeName": "Sabotage",
+      "targetCode": "DTK02SP",
+      "displayName": "PS2 Deftech Belew (Sabotage)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        423
+      ],
+      "objectiveRefs": [
+        175,
+        189,
+        190
+      ],
+      "triggerRefs": [
+        187,
+        199,
+        200,
+        203
+      ],
+      "triggerKinds": {
+        "SBombTargetObjectiveTrigger": 4
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "DTK02",
+      "sourceMode": 3,
+      "modeName": "Neutralization",
+      "targetCode": "DTK02P",
+      "displayName": "PS2 Deftech Belew (Neutralization)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        261
+      ],
+      "objectiveRefs": [
+        196,
+        212,
+        213
+      ],
+      "triggerRefs": [
+        120,
+        123,
+        130,
+        135,
+        138,
+        146
+      ],
+      "triggerKinds": {
+        "SComputerObjectiveTrigger": 6
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "FAC13",
+      "sourceMode": 1,
+      "modeName": "Extraction",
+      "targetCode": "FAC13EP",
+      "displayName": "PS2 Factory (Extraction)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        196
+      ],
+      "objectiveRefs": [
+        151,
+        157,
+        168,
+        169,
+        171,
+        173
+      ],
+      "triggerRefs": [
+        111,
+        117,
+        120,
+        121,
+        122,
+        126
+      ],
+      "triggerKinds": {
+        "SFlag": 6
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "FAC13",
+      "sourceMode": 2,
+      "modeName": "Sabotage",
+      "targetCode": "FAC13SP",
+      "displayName": "PS2 Factory (Sabotage)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        209
+      ],
+      "objectiveRefs": [
+        156,
+        159,
+        166
+      ],
+      "triggerRefs": [
+        147,
+        161,
+        165
+      ],
+      "triggerKinds": {
+        "SBombTargetObjectiveTrigger": 3
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "FAC13",
+      "sourceMode": 3,
+      "modeName": "Neutralization",
+      "targetCode": "FAC13P",
+      "displayName": "PS2 Factory (Neutralization)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        561
+      ],
+      "objectiveRefs": [
+        148,
+        149,
+        150,
+        153,
+        162,
+        170
+      ],
+      "triggerRefs": [
+        110,
+        112,
+        115,
+        123,
+        125,
+        127
+      ],
+      "triggerKinds": {
+        "SComputerObjectiveTrigger": 6
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "GAR09",
+      "sourceMode": 1,
+      "modeName": "Extraction",
+      "targetCode": "GAR09EP",
+      "displayName": "PS2 Station (Extraction)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        193
+      ],
+      "objectiveRefs": [
+        138,
+        145,
+        147,
+        150
+      ],
+      "triggerRefs": [
+        104,
+        122,
+        125,
+        126
+      ],
+      "triggerKinds": {
+        "SFlag": 4
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "GAR09",
+      "sourceMode": 2,
+      "modeName": "Sabotage",
+      "targetCode": "GAR09SP",
+      "displayName": "PS2 Station (Sabotage)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        197
+      ],
+      "objectiveRefs": [
+        134,
+        151,
+        153,
+        155
+      ],
+      "triggerRefs": [
+        129,
+        149,
+        152,
+        154
+      ],
+      "triggerKinds": {
+        "SBombTargetObjectiveTrigger": 4
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "GAR09",
+      "sourceMode": 3,
+      "modeName": "Neutralization",
+      "targetCode": "GAR09P",
+      "displayName": "PS2 Station (Neutralization)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        385
+      ],
+      "objectiveRefs": [
+        135,
+        136,
+        137,
+        148
+      ],
+      "triggerRefs": [
+        110,
+        113,
+        114,
+        116
+      ],
+      "triggerKinds": {
+        "SComputerObjectiveTrigger": 4
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "INI01",
+      "sourceMode": 3,
+      "modeName": "Neutralization",
+      "targetCode": "INI01P",
+      "displayName": "PS2 Cinema (Neutralization)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        457
+      ],
+      "objectiveRefs": [
+        137,
+        140,
+        143,
+        146
+      ],
+      "triggerRefs": [
+        128,
+        141,
+        148,
+        156
+      ],
+      "triggerKinds": {
+        "SComputerObjectiveTrigger": 4
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "KRA07",
+      "sourceMode": 1,
+      "modeName": "Extraction",
+      "targetCode": "KRA07EP",
+      "displayName": "PS2 Krauser Lab (Extraction)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        629
+      ],
+      "objectiveRefs": [
+        155,
+        164,
+        167,
+        173,
+        175,
+        176
+      ],
+      "triggerRefs": [
+        56,
+        87,
+        90,
+        94,
+        103,
+        104
+      ],
+      "triggerKinds": {
+        "SFlag": 6
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "KRA07",
+      "sourceMode": 2,
+      "modeName": "Sabotage",
+      "targetCode": "KRA07SP",
+      "displayName": "PS2 Krauser Lab (Sabotage)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        329
+      ],
+      "objectiveRefs": [
+        152,
+        182,
+        184
+      ],
+      "triggerRefs": [
+        130,
+        133,
+        134
+      ],
+      "triggerKinds": {
+        "SBombTargetObjectiveTrigger": 3
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "KRA07",
+      "sourceMode": 3,
+      "modeName": "Neutralization",
+      "targetCode": "KRA07P",
+      "displayName": "PS2 Krauser Lab (Neutralization)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        479
+      ],
+      "objectiveRefs": [
+        154,
+        158,
+        159,
+        160,
+        161,
+        178
+      ],
+      "triggerRefs": [
+        72,
+        76,
+        80,
+        86,
+        91,
+        98
+      ],
+      "triggerKinds": {
+        "SComputerObjectiveTrigger": 6
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "MHO05",
+      "sourceMode": 1,
+      "modeName": "Extraction",
+      "targetCode": "MHO05EP",
+      "displayName": "PS2 Mount Hospital (Extraction)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        449
+      ],
+      "objectiveRefs": [
+        181,
+        182,
+        190,
+        196,
+        206
+      ],
+      "triggerRefs": [
+        124,
+        153,
+        155,
+        159,
+        163
+      ],
+      "triggerKinds": {
+        "SFlag": 5
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "MHO05",
+      "sourceMode": 2,
+      "modeName": "Sabotage",
+      "targetCode": "MHO05SP",
+      "displayName": "PS2 Mount Hospital (Sabotage)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        286
+      ],
+      "objectiveRefs": [
+        183,
+        187,
+        193,
+        194,
+        213
+      ],
+      "triggerRefs": [
+        168,
+        173,
+        174,
+        178,
+        180
+      ],
+      "triggerKinds": {
+        "SBombTargetObjectiveTrigger": 5
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "MHO05",
+      "sourceMode": 3,
+      "modeName": "Neutralization",
+      "targetCode": "MHO05P",
+      "displayName": "PS2 Mount Hospital (Neutralization)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        301
+      ],
+      "objectiveRefs": [
+        167,
+        170,
+        172,
+        177,
+        179
+      ],
+      "triggerRefs": [
+        134,
+        135,
+        140,
+        141,
+        146
+      ],
+      "triggerKinds": {
+        "SComputerObjectiveTrigger": 5
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "MIS10",
+      "sourceMode": 1,
+      "modeName": "Extraction",
+      "targetCode": "MIS10EP",
+      "displayName": "PS2 Missile Strike (Extraction)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        413
+      ],
+      "objectiveRefs": [
+        243,
+        279
+      ],
+      "triggerRefs": [
+        211,
+        224,
+        227,
+        229
+      ],
+      "triggerKinds": {
+        "SFlag": 4
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "MIS10",
+      "sourceMode": 2,
+      "modeName": "Sabotage",
+      "targetCode": "MIS10SP",
+      "displayName": "PS2 Missile Strike (Sabotage)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        415
+      ],
+      "objectiveRefs": [
+        248,
+        250
+      ],
+      "triggerRefs": [
+        287,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295
+      ],
+      "triggerKinds": {
+        "SBombTargetObjectiveTrigger": 7
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "MIS10",
+      "sourceMode": 3,
+      "modeName": "Neutralization",
+      "targetCode": "MIS10P",
+      "displayName": "PS2 Missile Strike (Neutralization)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        457
+      ],
+      "objectiveRefs": [
+        236,
+        255
+      ],
+      "triggerRefs": [
+        176,
+        192,
+        200,
+        218,
+        223,
+        251,
+        276
+      ],
+      "triggerKinds": {
+        "SComputerObjectiveTrigger": 7
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "MUS04",
+      "sourceMode": 2,
+      "modeName": "Sabotage",
+      "targetCode": "MUS04SP",
+      "displayName": "PS2 Museum (Sabotage)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        717
+      ],
+      "objectiveRefs": [
+        189,
+        190,
+        200
+      ],
+      "triggerRefs": [
+        161,
+        167,
+        172
+      ],
+      "triggerKinds": {
+        "SBombTargetObjectiveTrigger": 3
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "MUS04",
+      "sourceMode": 3,
+      "modeName": "Neutralization",
+      "targetCode": "MUS04P",
+      "displayName": "PS2 Museum (Neutralization)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        297
+      ],
+      "objectiveRefs": [
+        191,
+        202,
+        203
+      ],
+      "triggerRefs": [
+        115,
+        143,
+        145,
+        163,
+        165,
+        177
+      ],
+      "triggerKinds": {
+        "SComputerObjectiveTrigger": 6
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "ORP14",
+      "sourceMode": 1,
+      "modeName": "Extraction",
+      "targetCode": "ORP14EP",
+      "displayName": "PS2 Orphanage (Extraction)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        1005
+      ],
+      "objectiveRefs": [
+        236,
+        237,
+        238,
+        250
+      ],
+      "triggerRefs": [
+        187,
+        192,
+        193,
+        201
+      ],
+      "triggerKinds": {
+        "SFlag": 4
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "ORP14",
+      "sourceMode": 2,
+      "modeName": "Sabotage",
+      "targetCode": "ORP14SP",
+      "displayName": "PS2 Orphanage (Sabotage)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        359
+      ],
+      "objectiveRefs": [
+        221,
+        229,
+        257
+      ],
+      "triggerRefs": [
+        223,
+        252,
+        253
+      ],
+      "triggerKinds": {
+        "SBombTargetObjectiveTrigger": 3
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "ORP14",
+      "sourceMode": 3,
+      "modeName": "Neutralization",
+      "targetCode": "ORP14P",
+      "displayName": "PS2 Orphanage (Neutralization)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        1042
+      ],
+      "objectiveRefs": [
+        228,
+        235,
+        240,
+        249,
+        251
+      ],
+      "triggerRefs": [
+        147,
+        166,
+        178,
+        179,
+        184
+      ],
+      "triggerKinds": {
+        "SComputerObjectiveTrigger": 5
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "SCH03",
+      "sourceMode": 1,
+      "modeName": "Extraction",
+      "targetCode": "SCH03EP",
+      "displayName": "PS2 Schermerhorn (Extraction)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        175
+      ],
+      "objectiveRefs": [
+        121,
+        122,
+        130,
+        132
+      ],
+      "triggerRefs": [
+        76,
+        79,
+        95,
+        106
+      ],
+      "triggerKinds": {
+        "SFlag": 4
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "SCH03",
+      "sourceMode": 2,
+      "modeName": "Sabotage",
+      "targetCode": "SCH03SP",
+      "displayName": "PS2 Schermerhorn (Sabotage)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        513
+      ],
+      "objectiveRefs": [
+        136
+      ],
+      "triggerRefs": [
+        88
+      ],
+      "triggerKinds": {
+        "SBombTargetObjectiveTrigger": 1
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "SCH03",
+      "sourceMode": 3,
+      "modeName": "Neutralization",
+      "targetCode": "SCH03P",
+      "displayName": "PS2 Schermerhorn (Neutralization)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        554
+      ],
+      "objectiveRefs": [
+        96,
+        98,
+        99,
+        105
+      ],
+      "triggerRefs": [
+        70,
+        85,
+        100,
+        101
+      ],
+      "triggerKinds": {
+        "SComputerObjectiveTrigger": 4
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "SKY08",
+      "sourceMode": 1,
+      "modeName": "Extraction",
+      "targetCode": "SKY08EP",
+      "displayName": "PS2 Vertigo Plaza (Extraction)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        666
+      ],
+      "objectiveRefs": [
+        198,
+        215,
+        216
+      ],
+      "triggerRefs": [
+        140,
+        159,
+        167
+      ],
+      "triggerKinds": {
+        "SFlag": 3
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "SKY08",
+      "sourceMode": 3,
+      "modeName": "Neutralization",
+      "targetCode": "SKY08P",
+      "displayName": "PS2 Vertigo Plaza (Neutralization)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        777
+      ],
+      "objectiveRefs": [
+        190,
+        196,
+        197,
+        200,
+        208,
+        218
+      ],
+      "triggerRefs": [
+        142,
+        157,
+        162,
+        170,
+        175,
+        179
+      ],
+      "triggerKinds": {
+        "SComputerObjectiveTrigger": 6
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "WAR06",
+      "sourceMode": 1,
+      "modeName": "Extraction",
+      "targetCode": "WAR06EP",
+      "displayName": "PS2 Warehouse (Extraction)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        308
+      ],
+      "objectiveRefs": [
+        159,
+        162,
+        180
+      ],
+      "triggerRefs": [
+        125,
+        126,
+        139,
+        149,
+        151,
+        152,
+        153,
+        154,
+        155
+      ],
+      "triggerKinds": {
+        "SFlag": 9
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    },
+    {
+      "sourceCode": "WAR06",
+      "sourceMode": 3,
+      "modeName": "Neutralization",
+      "targetCode": "WAR06P",
+      "displayName": "PS2 Warehouse (Neutralization)",
+      "nativeMenuMode": 5,
+      "rootMissionRefs": [
+        446
+      ],
+      "objectiveRefs": [
+        157,
+        161,
+        171
+      ],
+      "triggerRefs": [
+        112,
+        113,
+        120,
+        121,
+        140,
+        145,
+        146,
+        147,
+        148
+      ],
+      "triggerKinds": {
+        "SComputerObjectiveTrigger": 9
+      },
+      "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+    }
+  ],
+  "excludedSettingsOnly": {
+    "SCH03": [
+      "Story",
+      "DeathMatch"
+    ],
+    "reason": "No authored matching mission chain; do not invent variants."
+  },
+  "sourceEvidence": [
+    {
+      "path": "work/linear_loader/tail-ui-validation.json",
+      "sha256": "36c1b252e7737771872f6ed24489e10807903e9afcc105e9d9364e0b8a161e90"
+    },
+    {
+      "path": "work/native_game/per-mode-source-inventory.json",
+      "sha256": "abf26794f036d864ae8d70f9a9edc817064cde2cec9ebda4a657bff94dcd1b66"
+    },
+    {
+      "path": "work/name_compare/objective-scripts/source-pickup-path.txt",
+      "sha256": "90012fbc6be98bff37dbe460a1776010279a9b164d982570a2a3d671aaac96b3"
+    },
+    {
+      "path": "work/native_game/vial-appearance/carry-right-thigh-all-native-meshes.json",
+      "sha256": "af30bc23ea531c5065aa4c81512a8012541c95d6d0f00e6869397381ab23d774"
+    }
+  ]
+}

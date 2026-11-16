@@ -1,0 +1,227 @@
+{
+  "command": "ORP14P.sdc?MapName=ORP14P?MaxPlayers=4?TimeLimit=0?ScoreLimit=0?GameMode=5?LivesATT=0?TimesRespawnsATT=5?LivesDEF=0?BalanceTeams=False?Revenge=False?GamesInARow=0?TimesReinitFlag=30?TimeToExplode=30?GameWithRanking=False?LevelGap=0?Team=0?Name=PrivateSpy?Editeur=false",
+  "travel": {
+    "return": null,
+    "out": {}
+  },
+  "loadingMenu": {
+    "return": true,
+    "out": {}
+  },
+  "liveLevelInfo": "ORP14P.LevelInfo0",
+  "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\ORP14P.sdc",
+  "sourceSha256": "564273a757ee6be8385ac968da7d39736389a839c04b23cadc3e7f6e5eb0ad42",
+  "code": "ORP14P",
+  "sourceCode": "ORP14",
+  "sourceMode": 3,
+  "mode": "Neutralization",
+  "status": "passed",
+  "missions": [
+    {
+      "ref": 1042,
+      "mode": 5,
+      "left": 3,
+      "total": 3,
+      "objectives": [
+        235,
+        240,
+        249,
+        251,
+        228
+      ]
+    },
+    {
+      "ref": 1005,
+      "mode": 1,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        237,
+        250,
+        238,
+        236
+      ]
+    },
+    {
+      "ref": 359,
+      "mode": 2,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        257,
+        221,
+        229
+      ]
+    }
+  ],
+  "hudObjectives": [
+    3
+  ],
+  "graph": [
+    {
+      "ref": 1042,
+      "property": "Objectives",
+      "children": [
+        235,
+        240,
+        249,
+        251,
+        228
+      ]
+    },
+    {
+      "ref": 228,
+      "property": "Triggers",
+      "children": [
+        147
+      ]
+    },
+    {
+      "ref": 235,
+      "property": "Triggers",
+      "children": [
+        184
+      ]
+    },
+    {
+      "ref": 240,
+      "property": "Triggers",
+      "children": [
+        179
+      ]
+    },
+    {
+      "ref": 249,
+      "property": "Triggers",
+      "children": [
+        166
+      ]
+    },
+    {
+      "ref": 251,
+      "property": "Triggers",
+      "children": [
+        178
+      ]
+    }
+  ],
+  "flags": [],
+  "cases": [
+    {
+      "ref": 166,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 178,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 179,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 147,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 184,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    }
+  ],
+  "starts": [
+    {
+      "ref": 248,
+      "distance": 0.0
+    },
+    {
+      "ref": 239,
+      "distance": 0.0
+    },
+    {
+      "ref": 247,
+      "distance": 0.0
+    },
+    {
+      "ref": 246,
+      "distance": 0.0
+    },
+    {
+      "ref": 245,
+      "distance": 0.0
+    },
+    {
+      "ref": 244,
+      "distance": 0.0
+    },
+    {
+      "ref": 225,
+      "distance": 0.0
+    },
+    {
+      "ref": 222,
+      "distance": 0.0
+    }
+  ],
+  "geometry": {
+    "name": "UnknownGlobalPS2_873953",
+    "nodes": 1275,
+    "points": 1731,
+    "surfs": 805,
+    "bbox_min": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "points_min": [
+      -6656.0,
+      -16640.0,
+      -4583.201171875
+    ],
+    "points_max": [
+      3472.0,
+      3967.9990234375,
+      1280.0
+    ],
+    "points_sha256": "f3d9afdfc9a89a7b6aafd58e695edede588fc61c6d9ef2d3db806de70fe58909"
+  },
+  "runtimeModels": [
+    {
+      "name": "ORP14P.UnknownGlobalPS2_873953",
+      "nodes": 1275,
+      "points": 1731,
+      "surfs": 805,
+      "pointsSha256": "f3d9afdfc9a89a7b6aafd58e695edede588fc61c6d9ef2d3db806de70fe58909"
+    }
+  ],
+  "seconds": 20.83
+}

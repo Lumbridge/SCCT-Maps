@@ -1,0 +1,344 @@
+{
+  "command": "FAC13EP.sdc?MapName=FAC13EP?MaxPlayers=4?TimeLimit=0?ScoreLimit=0?GameMode=5?LivesATT=0?TimesRespawnsATT=5?LivesDEF=0?BalanceTeams=False?Revenge=False?GamesInARow=0?TimesReinitFlag=30?TimeToExplode=30?GameWithRanking=False?LevelGap=0?Team=0?Name=PrivateSpy?Editeur=false",
+  "travel": {
+    "return": null,
+    "out": {}
+  },
+  "loadingMenu": {
+    "return": true,
+    "out": {}
+  },
+  "liveLevelInfo": "FAC13EP.LevelInfo0",
+  "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\FAC13EP.sdc",
+  "sourceSha256": "306893295ddd4b12309680ffc58b0b85f86d1cb0c36d0b996620250354eb2dee",
+  "code": "FAC13EP",
+  "sourceCode": "FAC13",
+  "sourceMode": 1,
+  "mode": "Extraction",
+  "status": "passed",
+  "missions": [
+    {
+      "ref": 209,
+      "mode": 2,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        166,
+        159,
+        156
+      ]
+    },
+    {
+      "ref": 561,
+      "mode": 3,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        148,
+        153,
+        170,
+        162,
+        149,
+        150
+      ]
+    },
+    {
+      "ref": 196,
+      "mode": 5,
+      "left": 3,
+      "total": 3,
+      "objectives": [
+        171,
+        173,
+        168,
+        169,
+        157,
+        151
+      ]
+    }
+  ],
+  "hudObjectives": [
+    3
+  ],
+  "graph": [
+    {
+      "ref": 196,
+      "property": "Objectives",
+      "children": [
+        171,
+        173,
+        168,
+        169,
+        157,
+        151
+      ]
+    },
+    {
+      "ref": 151,
+      "property": "Triggers",
+      "children": [
+        120
+      ]
+    },
+    {
+      "ref": 157,
+      "property": "Triggers",
+      "children": [
+        111
+      ]
+    },
+    {
+      "ref": 168,
+      "property": "Triggers",
+      "children": [
+        126
+      ]
+    },
+    {
+      "ref": 169,
+      "property": "Triggers",
+      "children": [
+        121
+      ]
+    },
+    {
+      "ref": 171,
+      "property": "Triggers",
+      "children": [
+        122
+      ]
+    },
+    {
+      "ref": 173,
+      "property": "Triggers",
+      "children": [
+        117
+      ]
+    }
+  ],
+  "flags": [
+    {
+      "ref": 122,
+      "kind": "PS2VialFlag",
+      "active": 1,
+      "hidden": 0,
+      "mesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "initial": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "pivot": [
+        13.0,
+        1.5920408818909386e-15,
+        0.0
+      ]
+    },
+    {
+      "ref": 117,
+      "kind": "PS2VialFlag",
+      "active": 1,
+      "hidden": 0,
+      "mesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "initial": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "pivot": [
+        13.0,
+        -1.8184065364579283e-13,
+        0.0
+      ]
+    },
+    {
+      "ref": 126,
+      "kind": "PS2VialFlag",
+      "active": 1,
+      "hidden": 0,
+      "mesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "initial": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "pivot": [
+        13.0,
+        -7.960204409454693e-16,
+        0.0
+      ]
+    },
+    {
+      "ref": 121,
+      "kind": "PS2VialFlag",
+      "active": 1,
+      "hidden": 0,
+      "mesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "initial": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "pivot": [
+        13.0,
+        2.0608861839299664e-13,
+        0.0
+      ]
+    },
+    {
+      "ref": 111,
+      "kind": "PS2VialFlag",
+      "active": 1,
+      "hidden": 0,
+      "mesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "initial": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "pivot": [
+        13.0,
+        2.2877533201182132e-14,
+        0.0
+      ]
+    },
+    {
+      "ref": 120,
+      "kind": "PS2VialFlag",
+      "active": 1,
+      "hidden": 0,
+      "mesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "initial": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "pivot": [
+        13.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "ref": 110,
+      "kind": "PS2ExtractionCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    },
+    {
+      "ref": 127,
+      "kind": "PS2ExtractionCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    },
+    {
+      "ref": 112,
+      "kind": "PS2ExtractionCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    },
+    {
+      "ref": 125,
+      "kind": "PS2ExtractionCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    },
+    {
+      "ref": 123,
+      "kind": "PS2ExtractionCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    },
+    {
+      "ref": 115,
+      "kind": "PS2ExtractionCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    }
+  ],
+  "hiddenServers": [
+    {
+      "flagRef": 122,
+      "hidden": 1
+    },
+    {
+      "flagRef": 117,
+      "hidden": 1
+    },
+    {
+      "flagRef": 126,
+      "hidden": 1
+    },
+    {
+      "flagRef": 121,
+      "hidden": 1
+    },
+    {
+      "flagRef": 111,
+      "hidden": 1
+    },
+    {
+      "flagRef": 120,
+      "hidden": 1
+    }
+  ],
+  "starts": [
+    {
+      "ref": 155,
+      "distance": 0.0
+    },
+    {
+      "ref": 160,
+      "distance": 0.0
+    },
+    {
+      "ref": 154,
+      "distance": 0.0
+    },
+    {
+      "ref": 167,
+      "distance": 0.0
+    },
+    {
+      "ref": 152,
+      "distance": 0.0
+    },
+    {
+      "ref": 158,
+      "distance": 0.0
+    }
+  ],
+  "geometry": {
+    "name": "UnknownGlobalPS2_868669",
+    "nodes": 1179,
+    "points": 1976,
+    "surfs": 728,
+    "bbox_min": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "points_min": [
+      -14790.5498046875,
+      -19878.87109375,
+      -5760.02001953125
+    ],
+    "points_max": [
+      17126.859375,
+      14471.0244140625,
+      5760.02001953125
+    ],
+    "points_sha256": "2b7f52ce027bcde71b7beb1d32e5942100447aad4fc748e0f40eab71a0acfa7b"
+  },
+  "runtimeModels": [
+    {
+      "name": "FAC13EP.UnknownGlobalPS2_868669",
+      "nodes": 1179,
+      "points": 1976,
+      "surfs": 728,
+      "pointsSha256": "2b7f52ce027bcde71b7beb1d32e5942100447aad4fc748e0f40eab71a0acfa7b"
+    }
+  ],
+  "seconds": 16.94
+}

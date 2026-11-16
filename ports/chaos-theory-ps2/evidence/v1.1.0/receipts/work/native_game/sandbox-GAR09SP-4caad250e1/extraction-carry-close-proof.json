@@ -1,0 +1,226 @@
+{
+  "root": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1",
+  "instrumented": true,
+  "processInternalDetour": false,
+  "gameTextBefore": "8d5de0b3595f1bba410de45a5ddf19057464a20f41576bafb012d058ff60d06e",
+  "objectiveFieldsWritten": false,
+  "pawnRelocationSetupOnly": true,
+  "named": {
+    "command": "GAR09EP.sdc?MapName=GAR09EP?MaxPlayers=4?TimeLimit=0?ScoreLimit=0?GameMode=5?LivesATT=0?TimesRespawnsATT=5?LivesDEF=0?BalanceTeams=False?Revenge=False?GamesInARow=0?TimesReinitFlag=30?TimeToExplode=30?GameWithRanking=False?LevelGap=0?Team=0?Name=PrivateSpy?Editeur=false",
+    "travel": {
+      "return": null,
+      "out": {}
+    },
+    "loadingMenu": {
+      "return": true,
+      "out": {}
+    },
+    "liveLevelInfo": "GAR09EP.LevelInfo0",
+    "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1\\Packages\\Maps\\GAR09EP.sdc",
+    "sourceSha256": "5cd260a253d942fca57c6dd39c6591eb9ed0b51de989347005a6e8fd3e474a4a"
+  },
+  "home": {
+    "StaticMesh": "0x9e75858:UnknownGlobalPS2_857191",
+    "InitialStaticMesh": "0x9e75858:UnknownGlobalPS2_857191",
+    "DrawScale": 1.0,
+    "DrawScale3D": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "bHidden": 0,
+    "bOwnerNoSee": 0,
+    "bOnlyOwnerSee": 0,
+    "PrePivot": [
+      13.0,
+      -2.3869795029440866e-15,
+      0.0
+    ],
+    "AttachmentBone": "None",
+    "RelativeLocation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RelativeRotation": [
+      0,
+      0,
+      0
+    ],
+    "Location": [
+      -28.37060546875,
+      -5790.68896484375,
+      119.0
+    ]
+  },
+  "approach": {
+    "requested": [
+      -29.173120177169732,
+      -5678.702668401467,
+      89.00499725341797
+    ],
+    "nativePlacement": {
+      "return": true,
+      "out": {}
+    },
+    "walk": {
+      "pid": 107748,
+      "controller": {
+        "class": "SPlayerController",
+        "rotation": [
+          0,
+          -16312,
+          0
+        ]
+      },
+      "pawn": {
+        "class": "SPawnAttaque_1Mesh",
+        "name": "1083_SPawnAttaque_1Mesh",
+        "location": [
+          -28.9,
+          -5721.4,
+          89.0
+        ],
+        "rotation": [
+          0,
+          49225,
+          0
+        ],
+        "speed": 0.0,
+        "velocityZ": 0.0,
+        "Physics": 1,
+        "Health": 100,
+        "bIsCrouched": 0,
+        "bIsWalking": 0
+      },
+      "map": "GAR09EP",
+      "window": true,
+      "reached": true,
+      "distance": 2.3
+    },
+    "actual": [
+      -28.9,
+      -5721.4,
+      89.0
+    ]
+  },
+  "use": [
+    "s_MenuInteraction"
+  ],
+  "carryBeforeView": {
+    "StaticMesh": "0x9e75858:UnknownGlobalPS2_857191",
+    "InitialStaticMesh": "0x9e75858:UnknownGlobalPS2_857191",
+    "DrawScale": 1.0,
+    "DrawScale3D": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "bHidden": 0,
+    "bOwnerNoSee": 0,
+    "bOnlyOwnerSee": 0,
+    "PrePivot": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AttachmentBone": "B R Thigh",
+    "RelativeLocation": [
+      -10.0,
+      0.0,
+      10.0
+    ],
+    "RelativeRotation": [
+      16000,
+      0,
+      0
+    ],
+    "Location": [
+      -10.473700523376465,
+      -5683.49462890625,
+      72.35047149658203
+    ]
+  },
+  "viewPawnSetup": {
+    "return": true,
+    "out": {}
+  },
+  "cameraSetup": {
+    "source": "spec/native/camera.md default/following DebugCamMode1 path; actor view target is controller, not the Pawn",
+    "target": [
+      -13.1,
+      -5526.3,
+      99.5
+    ],
+    "eye": [
+      42.10959354080344,
+      -5475.536816677249,
+      109.5
+    ],
+    "rotation": [
+      64153,
+      40523
+    ],
+    "debug": {
+      "return": null,
+      "out": {}
+    },
+    "setView": {
+      "return": null,
+      "out": {}
+    },
+    "clientView": {
+      "return": null,
+      "out": {}
+    },
+    "behind": {
+      "return": null,
+      "out": {}
+    },
+    "position": {
+      "return": true,
+      "out": {}
+    }
+  },
+  "actualCamera": [
+    42.10959243774414,
+    -5475.53662109375,
+    109.5
+  ],
+  "image": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1\\extraction-carry-close.png",
+  "carryAfterView": {
+    "StaticMesh": "0x9e75858:UnknownGlobalPS2_857191",
+    "InitialStaticMesh": "0x9e75858:UnknownGlobalPS2_857191",
+    "DrawScale": 1.0,
+    "DrawScale3D": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "bHidden": 0,
+    "bOwnerNoSee": 0,
+    "bOnlyOwnerSee": 0,
+    "PrePivot": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AttachmentBone": "B R Thigh",
+    "RelativeLocation": [
+      -10.0,
+      0.0,
+      10.0
+    ],
+    "RelativeRotation": [
+      16000,
+      0,
+      0
+    ],
+    "Location": [
+      -12.897156715393066,
+      -5526.34033203125,
+      99.5889663696289
+    ]
+  },
+  "gameTextAfter": "8d5de0b3595f1bba410de45a5ddf19057464a20f41576bafb012d058ff60d06e"
+}

@@ -1,0 +1,239 @@
+{
+  "command": "MHO05P.sdc?MapName=MHO05P?MaxPlayers=4?TimeLimit=0?ScoreLimit=0?GameMode=5?LivesATT=0?TimesRespawnsATT=5?LivesDEF=0?BalanceTeams=False?Revenge=False?GamesInARow=0?TimesReinitFlag=30?TimeToExplode=30?GameWithRanking=False?LevelGap=0?Team=0?Name=PrivateSpy?Editeur=false",
+  "travel": {
+    "return": null,
+    "out": {}
+  },
+  "loadingMenu": {
+    "return": true,
+    "out": {}
+  },
+  "liveLevelInfo": "MHO05P.LevelInfo0",
+  "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\MHO05P.sdc",
+  "sourceSha256": "504b2e58375f6af49d614bfe374cb4999a042e4a8dcb267fa644eee40fb79744",
+  "code": "MHO05P",
+  "sourceCode": "MHO05",
+  "sourceMode": 3,
+  "mode": "Neutralization",
+  "status": "passed",
+  "missions": [
+    {
+      "ref": 286,
+      "mode": 2,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        183,
+        187,
+        193,
+        194,
+        213
+      ]
+    },
+    {
+      "ref": 511,
+      "mode": 0,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        172,
+        177,
+        179,
+        170,
+        167
+      ]
+    },
+    {
+      "ref": 449,
+      "mode": 1,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        196,
+        190,
+        182,
+        181,
+        206
+      ]
+    },
+    {
+      "ref": 301,
+      "mode": 5,
+      "left": 3,
+      "total": 3,
+      "objectives": [
+        172,
+        177,
+        179,
+        170,
+        167
+      ]
+    }
+  ],
+  "hudObjectives": [
+    3
+  ],
+  "graph": [
+    {
+      "ref": 301,
+      "property": "Objectives",
+      "children": [
+        172,
+        177,
+        179,
+        170,
+        167
+      ]
+    },
+    {
+      "ref": 167,
+      "property": "Triggers",
+      "children": [
+        140
+      ]
+    },
+    {
+      "ref": 170,
+      "property": "Triggers",
+      "children": [
+        134
+      ]
+    },
+    {
+      "ref": 172,
+      "property": "Triggers",
+      "children": [
+        146
+      ]
+    },
+    {
+      "ref": 177,
+      "property": "Triggers",
+      "children": [
+        141
+      ]
+    },
+    {
+      "ref": 179,
+      "property": "Triggers",
+      "children": [
+        135
+      ]
+    }
+  ],
+  "flags": [],
+  "cases": [
+    {
+      "ref": 146,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 134,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 135,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 140,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 141,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    }
+  ],
+  "starts": [
+    {
+      "ref": 192,
+      "distance": 0.0
+    },
+    {
+      "ref": 209,
+      "distance": 0.0
+    },
+    {
+      "ref": 188,
+      "distance": 0.0
+    },
+    {
+      "ref": 184,
+      "distance": 0.0
+    },
+    {
+      "ref": 207,
+      "distance": 0.0
+    },
+    {
+      "ref": 212,
+      "distance": 0.0
+    },
+    {
+      "ref": 189,
+      "distance": 0.0
+    }
+  ],
+  "geometry": {
+    "name": "UnknownGlobalPS2_872187",
+    "nodes": 1541,
+    "points": 2493,
+    "surfs": 809,
+    "bbox_min": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "points_min": [
+      -8768.0,
+      -8768.67578125,
+      -3014.4013671875
+    ],
+    "points_max": [
+      8768.0,
+      8768.0,
+      5632.0
+    ],
+    "points_sha256": "54c6b464dc09b2425abae024408a910afa718277e26dbffc5305f17c6df1931c"
+  },
+  "runtimeModels": [
+    {
+      "name": "MHO05P.UnknownGlobalPS2_872187",
+      "nodes": 1541,
+      "points": 2493,
+      "surfs": 809,
+      "pointsSha256": "54c6b464dc09b2425abae024408a910afa718277e26dbffc5305f17c6df1931c"
+    }
+  ],
+  "seconds": 20.01
+}

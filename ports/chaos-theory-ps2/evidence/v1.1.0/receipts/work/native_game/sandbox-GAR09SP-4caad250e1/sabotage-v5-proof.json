@@ -1,0 +1,260 @@
+{
+  "root": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1",
+  "instrumented": true,
+  "processInternalDetour": false,
+  "gameTextBefore": "8d5de0b3595f1bba410de45a5ddf19057464a20f41576bafb012d058ff60d06e",
+  "objectiveFieldsWritten": false,
+  "pawnRelocationSetupOnly": true,
+  "named": {
+    "command": "GAR09SP.sdc?MapName=GAR09SP?MaxPlayers=4?TimeLimit=0?ScoreLimit=0?GameMode=5?LivesATT=0?TimesRespawnsATT=5?LivesDEF=0?BalanceTeams=False?Revenge=False?GamesInARow=0?TimesReinitFlag=30?TimeToExplode=30?GameWithRanking=False?LevelGap=0?Team=0?Name=PrivateSpy?Editeur=false",
+    "travel": {
+      "return": null,
+      "out": {}
+    },
+    "loadingMenu": {
+      "return": true,
+      "out": {}
+    },
+    "liveLevelInfo": "GAR09SP.LevelInfo0",
+    "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1\\Packages\\Maps\\GAR09SP.sdc",
+    "sourceSha256": "fb2d427635d7efa4b616a1a9bda1163bd647b86b597c039aed5bfbab5bb095d3"
+  },
+  "targetProperties": {
+    "Location": [
+      -28.90212631225586,
+      -5713.6904296875,
+      94.0
+    ],
+    "Rotation": [
+      0,
+      16456,
+      0
+    ],
+    "CollisionRadius": 22.0,
+    "CollisionHeight": 22.0,
+    "fInteractionRadius": 100.0,
+    "fInteractionHeight": 172.0,
+    "DrawType": 0,
+    "bBlockActors": 0,
+    "bBlockPlayers": 0,
+    "bCollideActors": 1,
+    "bAlwaysRelevant": 1
+  },
+  "before": {
+    "pc": "s_PlayerWalkingCr0H",
+    "pawn": "SPawnAttaque_1Mesh",
+    "left": 3,
+    "active": 1,
+    "triggering": 0,
+    "complete": 0,
+    "caseState": 0,
+    "caseHidden": 0
+  },
+  "approach": {
+    "requested": [
+      -29.23188592783852,
+      -5668.703216376769,
+      89.00499725341797
+    ],
+    "nativePlacement": {
+      "return": true,
+      "out": {}
+    },
+    "walk": {
+      "pid": 107748,
+      "controller": {
+        "class": "SPlayerController",
+        "rotation": [
+          0,
+          -16312,
+          0
+        ]
+      },
+      "pawn": {
+        "class": "SPawnAttaque_1Mesh",
+        "name": "554_SPawnAttaque_1Mesh",
+        "location": [
+          -28.9,
+          -5711.0,
+          89.0
+        ],
+        "rotation": [
+          0,
+          49225,
+          0
+        ],
+        "speed": 0.0,
+        "velocityZ": 0.0,
+        "Physics": 1,
+        "Health": 100,
+        "bIsCrouched": 0,
+        "bIsWalking": 0
+      },
+      "map": "GAR09SP",
+      "window": true,
+      "reached": true,
+      "distance": 2.7
+    },
+    "actual": [
+      -28.9,
+      -5711.0,
+      89.0
+    ]
+  },
+  "idle": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1\\sabotage-v5-idle.png",
+  "use": [
+    "s_MenuInteraction"
+  ],
+  "trace": [
+    {
+      "pc": "s_PlaceBomb",
+      "pawn": "SPawnAttaque_1Mesh",
+      "left": 3,
+      "active": 1,
+      "triggering": 0,
+      "complete": 0,
+      "caseState": 0,
+      "caseHidden": 0
+    },
+    {
+      "pc": "s_PlaceBomb_End",
+      "pawn": "SPawnAttaque_1Mesh",
+      "left": 3,
+      "active": 1,
+      "triggering": 1,
+      "complete": 0,
+      "caseState": 2,
+      "caseHidden": 0
+    },
+    {
+      "pc": "s_PlayerWalkingSt0H",
+      "pawn": "SPawnAttaque_1Mesh",
+      "left": 3,
+      "active": 1,
+      "triggering": 1,
+      "complete": 0,
+      "caseState": 2,
+      "caseHidden": 0
+    },
+    {
+      "pc": "s_Blast",
+      "pawn": "SPawnAttaque_1Mesh",
+      "left": 2,
+      "active": 0,
+      "triggering": 0,
+      "complete": 1,
+      "caseState": 3,
+      "caseHidden": 0
+    }
+  ],
+  "plantedImage": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1\\sabotage-v5-planted.png",
+  "afterFuse": {
+    "pc": "s_Blast",
+    "pawn": "SPawnAttaque_1Mesh",
+    "left": 2,
+    "active": 0,
+    "triggering": 0,
+    "complete": 1,
+    "caseState": 3,
+    "caseHidden": 0
+  },
+  "completedImage": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1\\sabotage-v5-completed.png",
+  "defuseBefore": {
+    "pc": "s_Dead",
+    "pawn": "SPawnAttaque_1Mesh",
+    "left": 2,
+    "active": 1,
+    "triggering": 0,
+    "complete": 0,
+    "caseState": 0,
+    "caseHidden": 0
+  },
+  "defuseApproach": {
+    "requested": [
+      -409.009262853291,
+      -4331.794748583223,
+      89.00209045410156
+    ],
+    "nativePlacement": {
+      "return": true,
+      "out": {}
+    },
+    "walk": {
+      "pid": 107748,
+      "controller": {
+        "class": "SPlayerController",
+        "rotation": [
+          0,
+          16475,
+          0
+        ]
+      },
+      "pawn": {
+        "class": "SPawnAttaque_1Mesh",
+        "name": "554_SPawnAttaque_1Mesh",
+        "location": [
+          -409.0,
+          -4331.8,
+          89.0
+        ],
+        "rotation": [
+          0,
+          -16237,
+          0
+        ],
+        "speed": 0.0,
+        "velocityZ": 0.0,
+        "Physics": 1,
+        "Health": -100,
+        "bIsCrouched": 0,
+        "bIsWalking": 0
+      },
+      "map": "GAR09SP",
+      "window": true,
+      "reached": false,
+      "distance": 45.0
+    },
+    "actual": [
+      -409.0,
+      -4331.8,
+      89.0
+    ]
+  },
+  "secondPlantUse": [
+    "s_Dead",
+    "s_MultiSpectating_WhenKilled"
+  ],
+  "secondPlanted": {
+    "pc": "s_PlayerWalkingCr0H",
+    "pawn": "SPawnAttaque_1Mesh",
+    "left": 2,
+    "active": 1,
+    "triggering": 0,
+    "complete": 0,
+    "caseState": 0,
+    "caseHidden": 0
+  },
+  "changeTeam": {
+    "return": true,
+    "out": {}
+  },
+  "respawn": {
+    "return": null,
+    "out": {}
+  },
+  "afterTeamSetup": {
+    "state": {
+      "pc": "s_PlayerWalkingCr0H",
+      "pawn": "SPawnAttaque_1Mesh",
+      "left": 2,
+      "active": 1,
+      "triggering": 0,
+      "complete": 0,
+      "caseState": 0,
+      "caseHidden": 0
+    },
+    "pawnClass": "SBase.SPawnAttaque_1Mesh",
+    "pawnType": 0
+  },
+  "gameTextAfter": "8d5de0b3595f1bba410de45a5ddf19057464a20f41576bafb012d058ff60d06e"
+}

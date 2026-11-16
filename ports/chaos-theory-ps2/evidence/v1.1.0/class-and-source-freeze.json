@@ -1,0 +1,3301 @@
+{
+  "status": "frozen",
+  "candidate": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2",
+  "manifest": {
+    "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2\\collection-report.json",
+    "sha256": "84d393b06cc4b6c2a18e1aa10d290afdcdd38fb64c535fb8aad216ad936bfa8a",
+    "bytes": 194110
+  },
+  "semanticTreeSha256": "3410554fa82040a8e620791dd415bcaae7dbf7b900eb35d42b7ebd9e36a2018b",
+  "uniqueNativePackageCount": 117,
+  "classPackageSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+  "acceptedNeutralizationClassSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+  "sources": [
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\mode-variants\\PS2VialFlag.uc_",
+      "sha256": "746e8d7e8ec860d8ffa6238e9e9e1ab45d0dc85f1dbf72a21a5b403a481b9caa",
+      "bytes": 2206
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\mode-variants\\PS2CaseBase.uc_",
+      "sha256": "8244b0e2c7fa13ffe31be0f446b4c27280669ce4952c4c9736315695e4f5eb94",
+      "bytes": 2901
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\mode-variants\\PS2ExtractionCase.uc_",
+      "sha256": "6caff8868a1540bc6c77bbc915c49f206696f1ad4c8fb1b307e38ae334fe6a2b",
+      "bytes": 388
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\mode-variants\\PS2SabotageCase.uc_",
+      "sha256": "19a52eca361eb23665a5f0429e22c6e5909b0ca23834c6ebbfb08a23d2f40af4",
+      "bytes": 731
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\mode-variants\\P2_PS2Modes.u",
+      "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+      "bytes": 11420
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\mode-variants\\compile_probe.cpp",
+      "sha256": "023e8bd2bbc937cae74aab9cf748c6a5b5cc9e2418b2e2721e22a8d59a2846b2",
+      "bytes": 10175
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\mode-variants\\compile_probe.dll",
+      "sha256": "61e327f92e19c6c8122ad3090df2b39d118f2ef8ee5d4b6f0ef25f8716a61c03",
+      "bytes": 175104
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\mode-variants\\compile_package.py",
+      "sha256": "326852f804d325a7b9eefcbebc5f39dd084cef4a6a5eb4435a0c3e7e241f7175",
+      "bytes": 3986
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\mode-variants\\build.cmd",
+      "sha256": "584d35ff3b26282092c007181627c19224e0147b804eab23ed00f80040013c95",
+      "bytes": 318
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\mode-variants\\native_mode_emitter.py",
+      "sha256": "eecf346115e35175f06b4ff59d208d47a34a1bf43f74d66dbd4d776deed9c6db",
+      "bytes": 10965
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\mode-variants\\build_prototypes.py",
+      "sha256": "e6821770f5ad7b3c185221d7cab70504da727336ff568c0d1ec93afe297f5170",
+      "bytes": 5306
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\mode-variants\\build_collection.py",
+      "sha256": "efc6661250dd4ae1b231d100988448c8db14924bac0f1a01f6f63cfcffd2e750",
+      "bytes": 2184
+    }
+  ],
+  "mapPackages": [
+    {
+      "code": "DTK02EP",
+      "sourceCode": "DTK02",
+      "sourceMode": 1,
+      "packages": [
+        {
+          "name": "DTK02EP-i.utc",
+          "sha256": "3c91c3dde02f8e51c0dfc72551f620b6eccd30ed2008700945eb1d512139ea1a",
+          "bytes": 189436
+        },
+        {
+          "name": "DTK02EP.sdc",
+          "sha256": "382ee283cfa134c30afefdb75f5330e17736441c03d9a96be036c8f86a9f27ba",
+          "bytes": 419279
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_861532.utx",
+          "sha256": "8bafb456fec887a51ebf0140f56cbad10284ae41e2ab10ebbaa07b63d734c8ac",
+          "bytes": 3412367
+        },
+        {
+          "name": "P2_865023.usx",
+          "sha256": "d125565a285f18fcda712917c9a7e5250c9b3cc5620e97cb819999d14cd9504d",
+          "bytes": 3486628
+        },
+        {
+          "name": "P2_867522.uax",
+          "sha256": "6eeae83af7ed29854f3ac42287b2f352f13d0cb82a14eae5a6733da91ab266b0",
+          "bytes": 4277866
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Modes.usx",
+          "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+          "bytes": 11420
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "DTK02SP",
+      "sourceCode": "DTK02",
+      "sourceMode": 2,
+      "packages": [
+        {
+          "name": "DTK02SP-i.utc",
+          "sha256": "84f695fbc33d892849d8666618ae64977c0a3b5415016e58cc8c5014f228ca21",
+          "bytes": 189497
+        },
+        {
+          "name": "DTK02SP.sdc",
+          "sha256": "f232736b491d47c86c9c0dedd91223764a8a4e70519c17e5b4022f95a3f7fab2",
+          "bytes": 419213
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_861532.utx",
+          "sha256": "8bafb456fec887a51ebf0140f56cbad10284ae41e2ab10ebbaa07b63d734c8ac",
+          "bytes": 3412367
+        },
+        {
+          "name": "P2_865023.usx",
+          "sha256": "d125565a285f18fcda712917c9a7e5250c9b3cc5620e97cb819999d14cd9504d",
+          "bytes": 3486628
+        },
+        {
+          "name": "P2_867522.uax",
+          "sha256": "6eeae83af7ed29854f3ac42287b2f352f13d0cb82a14eae5a6733da91ab266b0",
+          "bytes": 4277866
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Modes.usx",
+          "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+          "bytes": 11420
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "DTK02P",
+      "sourceCode": "DTK02",
+      "sourceMode": 3,
+      "packages": [
+        {
+          "name": "DTK02P-i.utc",
+          "sha256": "d6a226f5c750fe8761c68be96936562bd28c0b47e1e75bbdf373cc2e9a0e027e",
+          "bytes": 189455
+        },
+        {
+          "name": "DTK02P.sdc",
+          "sha256": "4023b177f7421d41ef811b8ba6b5ced3afac323d9e962209a6d1dafd3851b952",
+          "bytes": 419122
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_861532.utx",
+          "sha256": "8bafb456fec887a51ebf0140f56cbad10284ae41e2ab10ebbaa07b63d734c8ac",
+          "bytes": 3412367
+        },
+        {
+          "name": "P2_865023.usx",
+          "sha256": "d125565a285f18fcda712917c9a7e5250c9b3cc5620e97cb819999d14cd9504d",
+          "bytes": 3486628
+        },
+        {
+          "name": "P2_867522.uax",
+          "sha256": "6eeae83af7ed29854f3ac42287b2f352f13d0cb82a14eae5a6733da91ab266b0",
+          "bytes": 4277866
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "FAC13EP",
+      "sourceCode": "FAC13",
+      "sourceMode": 1,
+      "packages": [
+        {
+          "name": "FAC13EP-i.utc",
+          "sha256": "2d68a166c59e0b06f2e7a64c64128489f1446f913f28b7048fbaf19abe3a991c",
+          "bytes": 214126
+        },
+        {
+          "name": "FAC13EP.sdc",
+          "sha256": "306893295ddd4b12309680ffc58b0b85f86d1cb0c36d0b996620250354eb2dee",
+          "bytes": 454777
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_861751.utx",
+          "sha256": "465595cde06d20f60587eca87c8e88aec6959f954acac314e6ba53c242d8b337",
+          "bytes": 4164631
+        },
+        {
+          "name": "P2_865145.usx",
+          "sha256": "08e828e8afb34bb0065944086deb2f10938c71dffe0aa21bc3b4598be8415a09",
+          "bytes": 4176858
+        },
+        {
+          "name": "P2_868693.uax",
+          "sha256": "ee6c9fbbcb1936dc68744ebfec7ff4d4d7569b92cc259b1f7718c5efda9daa00",
+          "bytes": 1396208
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Modes.usx",
+          "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+          "bytes": 11420
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "FAC13SP",
+      "sourceCode": "FAC13",
+      "sourceMode": 2,
+      "packages": [
+        {
+          "name": "FAC13SP-i.utc",
+          "sha256": "65a2adaa2d75e59d58cdb0371079952e8b55d585f144b95203c94b03db907c5f",
+          "bytes": 213669
+        },
+        {
+          "name": "FAC13SP.sdc",
+          "sha256": "e1980eda6cef4d53a0dcfc436d322810a2d711a76c452c8fc51f4e5aabf39cee",
+          "bytes": 454769
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_861751.utx",
+          "sha256": "465595cde06d20f60587eca87c8e88aec6959f954acac314e6ba53c242d8b337",
+          "bytes": 4164631
+        },
+        {
+          "name": "P2_865145.usx",
+          "sha256": "08e828e8afb34bb0065944086deb2f10938c71dffe0aa21bc3b4598be8415a09",
+          "bytes": 4176858
+        },
+        {
+          "name": "P2_868693.uax",
+          "sha256": "ee6c9fbbcb1936dc68744ebfec7ff4d4d7569b92cc259b1f7718c5efda9daa00",
+          "bytes": 1396208
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Modes.usx",
+          "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+          "bytes": 11420
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "FAC13P",
+      "sourceCode": "FAC13",
+      "sourceMode": 3,
+      "packages": [
+        {
+          "name": "FAC13P-i.utc",
+          "sha256": "07f42cb09d6799cea41af25338033d95e96ff9d83207365f9ed40cf3a16518d8",
+          "bytes": 213802
+        },
+        {
+          "name": "FAC13P.sdc",
+          "sha256": "28e119f7333a9a04e7292b5c4e9d9d5ecf92fafd5f58765a14c4cd0e14ee2b50",
+          "bytes": 454617
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_861751.utx",
+          "sha256": "465595cde06d20f60587eca87c8e88aec6959f954acac314e6ba53c242d8b337",
+          "bytes": 4164631
+        },
+        {
+          "name": "P2_865145.usx",
+          "sha256": "08e828e8afb34bb0065944086deb2f10938c71dffe0aa21bc3b4598be8415a09",
+          "bytes": 4176858
+        },
+        {
+          "name": "P2_868693.uax",
+          "sha256": "ee6c9fbbcb1936dc68744ebfec7ff4d4d7569b92cc259b1f7718c5efda9daa00",
+          "bytes": 1396208
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "GAR09EP",
+      "sourceCode": "GAR09",
+      "sourceMode": 1,
+      "packages": [
+        {
+          "name": "GAR09EP-i.utc",
+          "sha256": "887471d832bb486ce5884e7c09925ee9762ea82f30d311e9af9b9d0dc0cbb89d",
+          "bytes": 197924
+        },
+        {
+          "name": "GAR09EP.sdc",
+          "sha256": "5cd260a253d942fca57c6dd39c6591eb9ed0b51de989347005a6e8fd3e474a4a",
+          "bytes": 291275
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_861983.utx",
+          "sha256": "7bd945ce6bafb82e6c368f4088a7b507330b9d30b5b6a5562d95f14b7fcdd117",
+          "bytes": 5378075
+        },
+        {
+          "name": "P2_865315.usx",
+          "sha256": "e75d2ad5cad33540d9fd1ec304b38b353da3aad47581a5c2f17c2f9077157f61",
+          "bytes": 1681403
+        },
+        {
+          "name": "P2_869815.uax",
+          "sha256": "d640327679188acf716690ec73cdb961cbf13448dafdaca463aeac27d496ee23",
+          "bytes": 3278087
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Modes.usx",
+          "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+          "bytes": 11420
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "GAR09SP",
+      "sourceCode": "GAR09",
+      "sourceMode": 2,
+      "packages": [
+        {
+          "name": "GAR09SP-i.utc",
+          "sha256": "e6a95192e9c85d23685f74a57c8aa4a3a65a33c74997f17a594548f7a99a21cc",
+          "bytes": 197600
+        },
+        {
+          "name": "GAR09SP.sdc",
+          "sha256": "fb2d427635d7efa4b616a1a9bda1163bd647b86b597c039aed5bfbab5bb095d3",
+          "bytes": 291178
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_861983.utx",
+          "sha256": "7bd945ce6bafb82e6c368f4088a7b507330b9d30b5b6a5562d95f14b7fcdd117",
+          "bytes": 5378075
+        },
+        {
+          "name": "P2_865315.usx",
+          "sha256": "e75d2ad5cad33540d9fd1ec304b38b353da3aad47581a5c2f17c2f9077157f61",
+          "bytes": 1681403
+        },
+        {
+          "name": "P2_869815.uax",
+          "sha256": "d640327679188acf716690ec73cdb961cbf13448dafdaca463aeac27d496ee23",
+          "bytes": 3278087
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Modes.usx",
+          "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+          "bytes": 11420
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "GAR09P",
+      "sourceCode": "GAR09",
+      "sourceMode": 3,
+      "packages": [
+        {
+          "name": "GAR09P-i.utc",
+          "sha256": "1b276546fcab5698765532bf7d3a6b4eb1e5278d6ac1dfcd94cc46207f71a7a2",
+          "bytes": 198121
+        },
+        {
+          "name": "GAR09P.sdc",
+          "sha256": "e1c8a9ad97358956d9bd9f3a027723696017bb6e8cf4b2d2d21c302bdf2eb2e1",
+          "bytes": 291155
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_861983.utx",
+          "sha256": "7bd945ce6bafb82e6c368f4088a7b507330b9d30b5b6a5562d95f14b7fcdd117",
+          "bytes": 5378075
+        },
+        {
+          "name": "P2_865315.usx",
+          "sha256": "e75d2ad5cad33540d9fd1ec304b38b353da3aad47581a5c2f17c2f9077157f61",
+          "bytes": 1681403
+        },
+        {
+          "name": "P2_869815.uax",
+          "sha256": "d640327679188acf716690ec73cdb961cbf13448dafdaca463aeac27d496ee23",
+          "bytes": 3278087
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "INI01P",
+      "sourceCode": "INI01",
+      "sourceMode": 3,
+      "packages": [
+        {
+          "name": "INI01P-i.utc",
+          "sha256": "eb808568247757d9697f284d89af20b1124465c09cfe8d95652d886711809616",
+          "bytes": 178208
+        },
+        {
+          "name": "INI01P.sdc",
+          "sha256": "89157d94a61e2d03649d1285b8b10c86f94c7a7a3e6129c2ea95e9231d432db5",
+          "bytes": 530892
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_863696.utx",
+          "sha256": "d275450659d91ec7fe388455dad3439fefbc5fc69b484670320d3018a740c6a3",
+          "bytes": 4418907
+        },
+        {
+          "name": "P2_866069.usx",
+          "sha256": "b155c9059fe620de9595f8d2dfa4b1a0e2eea3ae17b35303fe8e13f1037da67f",
+          "bytes": 3381682
+        },
+        {
+          "name": "P2_870437.uax",
+          "sha256": "bb58a61eb2b22e4ca95334907742b8bdec19c5cfcc4272e5e22f1aece4839e39",
+          "bytes": 2142381
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "KRA07EP",
+      "sourceCode": "KRA07",
+      "sourceMode": 1,
+      "packages": [
+        {
+          "name": "KRA07EP-i.utc",
+          "sha256": "0ca00d51f75db3ac43b24bdef5103f6a84370b71640a85216fe9fcbf324094da",
+          "bytes": 201512
+        },
+        {
+          "name": "KRA07EP.sdc",
+          "sha256": "14f1e824933246072d4fa079257f5e8406924e5ece883495a5c15a87016012e7",
+          "bytes": 456409
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_862272.utx",
+          "sha256": "83f2c4e2d4ca2b5c7a92a7a07f6282175701470da693b000e317f1364f589ba1",
+          "bytes": 4841154
+        },
+        {
+          "name": "P2_862931.utx",
+          "sha256": "58c43783651887ea0b13fa5e00645085e6e452f92b92674decf90eb79294f580",
+          "bytes": 401672
+        },
+        {
+          "name": "P2_865382.usx",
+          "sha256": "a099e4f7c81bc96dca7440a35ef8012e0714d8d351a78d9bc48d40ce37c986c1",
+          "bytes": 644013
+        },
+        {
+          "name": "P2_865410.usx",
+          "sha256": "55e99002b1050d6dd92cea0a1a48acb103ff3d8e810f772a74789cc4b90f9522",
+          "bytes": 2750716
+        },
+        {
+          "name": "P2_871636.uax",
+          "sha256": "120595fdf9658457781fa0c0dfe9bed8c587128103ec152baab5da0e537d276c",
+          "bytes": 2271938
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Modes.usx",
+          "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+          "bytes": 11420
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "KRA07SP",
+      "sourceCode": "KRA07",
+      "sourceMode": 2,
+      "packages": [
+        {
+          "name": "KRA07SP-i.utc",
+          "sha256": "f1e147ed1714b5170e9b8f81917ad41eb8f41254a4a322055bf94e95fb420f22",
+          "bytes": 201653
+        },
+        {
+          "name": "KRA07SP.sdc",
+          "sha256": "8070b35ac0f8ed91b984f8769409c58d86137d43bdb7663ecb5c1b9aaf1b15ed",
+          "bytes": 456460
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_862272.utx",
+          "sha256": "83f2c4e2d4ca2b5c7a92a7a07f6282175701470da693b000e317f1364f589ba1",
+          "bytes": 4841154
+        },
+        {
+          "name": "P2_862931.utx",
+          "sha256": "58c43783651887ea0b13fa5e00645085e6e452f92b92674decf90eb79294f580",
+          "bytes": 401672
+        },
+        {
+          "name": "P2_865382.usx",
+          "sha256": "a099e4f7c81bc96dca7440a35ef8012e0714d8d351a78d9bc48d40ce37c986c1",
+          "bytes": 644013
+        },
+        {
+          "name": "P2_865410.usx",
+          "sha256": "55e99002b1050d6dd92cea0a1a48acb103ff3d8e810f772a74789cc4b90f9522",
+          "bytes": 2750716
+        },
+        {
+          "name": "P2_871636.uax",
+          "sha256": "120595fdf9658457781fa0c0dfe9bed8c587128103ec152baab5da0e537d276c",
+          "bytes": 2271938
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Modes.usx",
+          "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+          "bytes": 11420
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "KRA07P",
+      "sourceCode": "KRA07",
+      "sourceMode": 3,
+      "packages": [
+        {
+          "name": "KRA07P-i.utc",
+          "sha256": "c0f4e23d06ddfe99673b42508b74297b431eeb4065b5d3627703fd54340ee233",
+          "bytes": 201644
+        },
+        {
+          "name": "KRA07P.sdc",
+          "sha256": "095e103f77326f9e62626678bde1286b39a9ee76e16f8edb90d91bb99239a8f3",
+          "bytes": 456325
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_862272.utx",
+          "sha256": "83f2c4e2d4ca2b5c7a92a7a07f6282175701470da693b000e317f1364f589ba1",
+          "bytes": 4841154
+        },
+        {
+          "name": "P2_862931.utx",
+          "sha256": "58c43783651887ea0b13fa5e00645085e6e452f92b92674decf90eb79294f580",
+          "bytes": 401672
+        },
+        {
+          "name": "P2_865382.usx",
+          "sha256": "a099e4f7c81bc96dca7440a35ef8012e0714d8d351a78d9bc48d40ce37c986c1",
+          "bytes": 644013
+        },
+        {
+          "name": "P2_865410.usx",
+          "sha256": "55e99002b1050d6dd92cea0a1a48acb103ff3d8e810f772a74789cc4b90f9522",
+          "bytes": 2750716
+        },
+        {
+          "name": "P2_871636.uax",
+          "sha256": "120595fdf9658457781fa0c0dfe9bed8c587128103ec152baab5da0e537d276c",
+          "bytes": 2271938
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "MHO05EP",
+      "sourceCode": "MHO05",
+      "sourceMode": 1,
+      "packages": [
+        {
+          "name": "MHO05EP-i.utc",
+          "sha256": "032046eb1b52c28698b28e5bc45f07431d399a2eae258a40bbe4b2c36a5eb7e7",
+          "bytes": 219298
+        },
+        {
+          "name": "MHO05EP.sdc",
+          "sha256": "ee4d8c64e808758a403585a79953d36bbb6a67d2f5729878c786da2ccce266b2",
+          "bytes": 554871
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_862546.utx",
+          "sha256": "e22e7ce9640e9bb6dbda2fa9843f054bb64fd6810d9e5ac511812dceaf405109",
+          "bytes": 399881
+        },
+        {
+          "name": "P2_862685.utx",
+          "sha256": "2ab8baa940b18e55332adf12e5a83deb14a463b6004885fdf948fb364b199ca2",
+          "bytes": 7492703
+        },
+        {
+          "name": "P2_865605.usx",
+          "sha256": "c54b599ee6d0f22464f1562b765cb571130be15b8d8a27b400e96ca7067c25ee",
+          "bytes": 3953459
+        },
+        {
+          "name": "P2_872722.uax",
+          "sha256": "90039ace154cba42abfbfeae040e022a9e756df4eb65eab40e623927a09655a0",
+          "bytes": 1914777
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Modes.usx",
+          "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+          "bytes": 11420
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "MHO05SP",
+      "sourceCode": "MHO05",
+      "sourceMode": 2,
+      "packages": [
+        {
+          "name": "MHO05SP-i.utc",
+          "sha256": "e9eb9a38a4f6f14c6e0ead7f2bed3587a8f042b6e069cf5a1f2feb6371282917",
+          "bytes": 219508
+        },
+        {
+          "name": "MHO05SP.sdc",
+          "sha256": "8f0b0b89ec51377fecadb255c655838452762c21554e4eaf3db3c8532c5f0dfb",
+          "bytes": 554878
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_862546.utx",
+          "sha256": "e22e7ce9640e9bb6dbda2fa9843f054bb64fd6810d9e5ac511812dceaf405109",
+          "bytes": 399881
+        },
+        {
+          "name": "P2_862685.utx",
+          "sha256": "2ab8baa940b18e55332adf12e5a83deb14a463b6004885fdf948fb364b199ca2",
+          "bytes": 7492703
+        },
+        {
+          "name": "P2_865605.usx",
+          "sha256": "c54b599ee6d0f22464f1562b765cb571130be15b8d8a27b400e96ca7067c25ee",
+          "bytes": 3953459
+        },
+        {
+          "name": "P2_872722.uax",
+          "sha256": "90039ace154cba42abfbfeae040e022a9e756df4eb65eab40e623927a09655a0",
+          "bytes": 1914777
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Modes.usx",
+          "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+          "bytes": 11420
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "MHO05P",
+      "sourceCode": "MHO05",
+      "sourceMode": 3,
+      "packages": [
+        {
+          "name": "MHO05P-i.utc",
+          "sha256": "d2498b14806440ca846ebc69878c8fd388510001ba89dea7833ff26055019386",
+          "bytes": 219486
+        },
+        {
+          "name": "MHO05P.sdc",
+          "sha256": "504b2e58375f6af49d614bfe374cb4999a042e4a8dcb267fa644eee40fb79744",
+          "bytes": 554788
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_862546.utx",
+          "sha256": "e22e7ce9640e9bb6dbda2fa9843f054bb64fd6810d9e5ac511812dceaf405109",
+          "bytes": 399881
+        },
+        {
+          "name": "P2_862685.utx",
+          "sha256": "2ab8baa940b18e55332adf12e5a83deb14a463b6004885fdf948fb364b199ca2",
+          "bytes": 7492703
+        },
+        {
+          "name": "P2_865605.usx",
+          "sha256": "c54b599ee6d0f22464f1562b765cb571130be15b8d8a27b400e96ca7067c25ee",
+          "bytes": 3953459
+        },
+        {
+          "name": "P2_872722.uax",
+          "sha256": "90039ace154cba42abfbfeae040e022a9e756df4eb65eab40e623927a09655a0",
+          "bytes": 1914777
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "MIS10EP",
+      "sourceCode": "MIS10",
+      "sourceMode": 1,
+      "packages": [
+        {
+          "name": "MIS10EP-i.utc",
+          "sha256": "a8a2d6cedc871742a5478da773e9779c0a19652f959309819929ad4ef479114c",
+          "bytes": 198091
+        },
+        {
+          "name": "MIS10EP.sdc",
+          "sha256": "35b1de54aa79486ea63454fb759ac1df571f973050e33b79a1fddaceeb82fe6a",
+          "bytes": 509208
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_861139.utx",
+          "sha256": "c0ce665d9fcf9d507631cd2a122126c70cc5d89ee07d0869a9b8fd8f34df60fa",
+          "bytes": 8967327
+        },
+        {
+          "name": "P2_865512.usx",
+          "sha256": "697277504d21489c452c3cec675c582155246a9c15e2fad9fe510ecaec33ceca",
+          "bytes": 1980932
+        },
+        {
+          "name": "P2_873852.uax",
+          "sha256": "1df7d535a73ae90f4c0add2661a94f681cd29a3ada255cfee58d6364f88aca6c",
+          "bytes": 47781357
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Modes.usx",
+          "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+          "bytes": 11420
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "MIS10SP",
+      "sourceCode": "MIS10",
+      "sourceMode": 2,
+      "packages": [
+        {
+          "name": "MIS10SP-i.utc",
+          "sha256": "8609c8e3a9ce7196bb8e824a2e1d2818546cd4c9dc3a776e072e9d57bf709dec",
+          "bytes": 198031
+        },
+        {
+          "name": "MIS10SP.sdc",
+          "sha256": "e4479b34f7069f3f8b016985de992536b4468eacaadc4dd370ea3fe61b67e37a",
+          "bytes": 509287
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_861139.utx",
+          "sha256": "c0ce665d9fcf9d507631cd2a122126c70cc5d89ee07d0869a9b8fd8f34df60fa",
+          "bytes": 8967327
+        },
+        {
+          "name": "P2_865512.usx",
+          "sha256": "697277504d21489c452c3cec675c582155246a9c15e2fad9fe510ecaec33ceca",
+          "bytes": 1980932
+        },
+        {
+          "name": "P2_873852.uax",
+          "sha256": "1df7d535a73ae90f4c0add2661a94f681cd29a3ada255cfee58d6364f88aca6c",
+          "bytes": 47781357
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Modes.usx",
+          "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+          "bytes": 11420
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "MIS10P",
+      "sourceCode": "MIS10",
+      "sourceMode": 3,
+      "packages": [
+        {
+          "name": "MIS10P-i.utc",
+          "sha256": "a1ff17fdb7c87d2dd98a16cfedfe6ac1778b7c19206be573e8138da0b36f85a4",
+          "bytes": 198257
+        },
+        {
+          "name": "MIS10P.sdc",
+          "sha256": "d5c1c5c34374d5d138a3ebb63b0614ed6a717bdcf52e7875feeda629ea99d572",
+          "bytes": 509052
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_861139.utx",
+          "sha256": "c0ce665d9fcf9d507631cd2a122126c70cc5d89ee07d0869a9b8fd8f34df60fa",
+          "bytes": 8967327
+        },
+        {
+          "name": "P2_865512.usx",
+          "sha256": "697277504d21489c452c3cec675c582155246a9c15e2fad9fe510ecaec33ceca",
+          "bytes": 1980932
+        },
+        {
+          "name": "P2_873852.uax",
+          "sha256": "1df7d535a73ae90f4c0add2661a94f681cd29a3ada255cfee58d6364f88aca6c",
+          "bytes": 47781357
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "MUS04SP",
+      "sourceCode": "MUS04",
+      "sourceMode": 2,
+      "packages": [
+        {
+          "name": "MUS04SP-i.utc",
+          "sha256": "9ef8021872cd0972ede8b129b38e87b1cfbf9cf5ddd24653218ff8db62b23cbd",
+          "bytes": 186809
+        },
+        {
+          "name": "MUS04SP.sdc",
+          "sha256": "98e24e464c2293f9bb3989f018e2ef0cf54e5f2b4c06145566d8cfb3bd8d0be0",
+          "bytes": 502719
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_861340.utx",
+          "sha256": "a9ba3d5bc7b9e32afb2194112686006807c8b79695eec1ade53fbb06a3ac96d5",
+          "bytes": 6104289
+        },
+        {
+          "name": "P2_861484.utx",
+          "sha256": "f963ad5f65741629ba132eac64a7910b447ffc06de15d0a3edaa4ad78ce89efe",
+          "bytes": 6173
+        },
+        {
+          "name": "P2_864805.usx",
+          "sha256": "40d2f3fae1b0df60d5e51110febb7d0f49801997ac16e3a6bfad436c44e9281f",
+          "bytes": 2287305
+        },
+        {
+          "name": "P2_864945.usx",
+          "sha256": "1a77027cc292d238d2430a0dd520214b9978e0f6a414d62bab3e38169b08d7bb",
+          "bytes": 880154
+        },
+        {
+          "name": "P2_874995.uax",
+          "sha256": "812ef501e051064a52c6e11280e2f1646a3bc81df33de29902635454a21df9ab",
+          "bytes": 1949564
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Modes.usx",
+          "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+          "bytes": 11420
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "MUS04P",
+      "sourceCode": "MUS04",
+      "sourceMode": 3,
+      "packages": [
+        {
+          "name": "MUS04P-i.utc",
+          "sha256": "d56cf0e642b339fe8e0570ca8f9def90f372cd7a115d8f95eef738ee57a0813b",
+          "bytes": 186781
+        },
+        {
+          "name": "MUS04P.sdc",
+          "sha256": "3f644635fd51e96c8f696b87ad2bc258b10972e29621a33f7e67aae9de387374",
+          "bytes": 502585
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_861340.utx",
+          "sha256": "a9ba3d5bc7b9e32afb2194112686006807c8b79695eec1ade53fbb06a3ac96d5",
+          "bytes": 6104289
+        },
+        {
+          "name": "P2_861484.utx",
+          "sha256": "f963ad5f65741629ba132eac64a7910b447ffc06de15d0a3edaa4ad78ce89efe",
+          "bytes": 6173
+        },
+        {
+          "name": "P2_864805.usx",
+          "sha256": "40d2f3fae1b0df60d5e51110febb7d0f49801997ac16e3a6bfad436c44e9281f",
+          "bytes": 2287305
+        },
+        {
+          "name": "P2_864945.usx",
+          "sha256": "1a77027cc292d238d2430a0dd520214b9978e0f6a414d62bab3e38169b08d7bb",
+          "bytes": 880154
+        },
+        {
+          "name": "P2_874995.uax",
+          "sha256": "812ef501e051064a52c6e11280e2f1646a3bc81df33de29902635454a21df9ab",
+          "bytes": 1949564
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "ORP14EP",
+      "sourceCode": "ORP14",
+      "sourceMode": 1,
+      "packages": [
+        {
+          "name": "ORP14EP-i.utc",
+          "sha256": "2e459dda00966ce1016366bb894fc09a49c45052c2025630ce26bb6999edc70c",
+          "bytes": 215418
+        },
+        {
+          "name": "ORP14EP.sdc",
+          "sha256": "fbbb623a2348f87a6c1a23d64d98e5860d13aea894e196bddf0c42b1c414fcd5",
+          "bytes": 457924
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_864010.utx",
+          "sha256": "69e9e8b6af27ae24058ddc218ec4f4bc4458d22f106d3d189afc9d4247bad340",
+          "bytes": 5380822
+        },
+        {
+          "name": "P2_866603.usx",
+          "sha256": "970dada66c809444a0f2793cb712c1b5e1546992ed0e7297045ad2f834d75a19",
+          "bytes": 1786464
+        },
+        {
+          "name": "P2_875776.uax",
+          "sha256": "1f28505bb8a953eacbf2fa47e6f8cde877160dd317d418cfc83b7804831b216b",
+          "bytes": 50349501
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Modes.usx",
+          "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+          "bytes": 11420
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "ORP14SP",
+      "sourceCode": "ORP14",
+      "sourceMode": 2,
+      "packages": [
+        {
+          "name": "ORP14SP-i.utc",
+          "sha256": "37f7339b791ac8ab2ae3854d4860f4b7e3e6cea307b6111ff1bb2101bb185718",
+          "bytes": 215059
+        },
+        {
+          "name": "ORP14SP.sdc",
+          "sha256": "21231b87b97185c2f4590152476d653b091c9257369d1b68b1ccb42cdd5168a5",
+          "bytes": 457935
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_864010.utx",
+          "sha256": "69e9e8b6af27ae24058ddc218ec4f4bc4458d22f106d3d189afc9d4247bad340",
+          "bytes": 5380822
+        },
+        {
+          "name": "P2_866603.usx",
+          "sha256": "970dada66c809444a0f2793cb712c1b5e1546992ed0e7297045ad2f834d75a19",
+          "bytes": 1786464
+        },
+        {
+          "name": "P2_875776.uax",
+          "sha256": "1f28505bb8a953eacbf2fa47e6f8cde877160dd317d418cfc83b7804831b216b",
+          "bytes": 50349501
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Modes.usx",
+          "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+          "bytes": 11420
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "ORP14P",
+      "sourceCode": "ORP14",
+      "sourceMode": 3,
+      "packages": [
+        {
+          "name": "ORP14P-i.utc",
+          "sha256": "76eabf85fad0dbe75d3bc4edba6405c3a80c9cf691eae0db256b2208c42b97a4",
+          "bytes": 215178
+        },
+        {
+          "name": "ORP14P.sdc",
+          "sha256": "564273a757ee6be8385ac968da7d39736389a839c04b23cadc3e7f6e5eb0ad42",
+          "bytes": 457815
+        },
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_864010.utx",
+          "sha256": "69e9e8b6af27ae24058ddc218ec4f4bc4458d22f106d3d189afc9d4247bad340",
+          "bytes": 5380822
+        },
+        {
+          "name": "P2_866603.usx",
+          "sha256": "970dada66c809444a0f2793cb712c1b5e1546992ed0e7297045ad2f834d75a19",
+          "bytes": 1786464
+        },
+        {
+          "name": "P2_875776.uax",
+          "sha256": "1f28505bb8a953eacbf2fa47e6f8cde877160dd317d418cfc83b7804831b216b",
+          "bytes": 50349501
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        }
+      ]
+    },
+    {
+      "code": "SCH03EP",
+      "sourceCode": "SCH03",
+      "sourceMode": 1,
+      "packages": [
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_863307.utx",
+          "sha256": "897abd6070e4d18b5cf9d090330bf3408ee08d2160f76703777ecff9a640dd8b",
+          "bytes": 6485942
+        },
+        {
+          "name": "P2_865794.usx",
+          "sha256": "c2f460b8df922269d34f3e788bf6bacfba777de6d90a40cb39817dcf68b8ab93",
+          "bytes": 3125017
+        },
+        {
+          "name": "P2_877252.uax",
+          "sha256": "6a2d49dc816584e46d49af267ea7cd563b2d59b1c1aac853390c71aab29a27dd",
+          "bytes": 4011963
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Modes.usx",
+          "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+          "bytes": 11420
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        },
+        {
+          "name": "SCH03EP-i.utc",
+          "sha256": "4f07e01371c980acecade3f7c3695018b2fa16cb9480abe3312ba33212e4f43a",
+          "bytes": 195839
+        },
+        {
+          "name": "SCH03EP.sdc",
+          "sha256": "98a41f835ac447fdbc5680542c58d7b616e89508a10f3789c22be038f4472c4d",
+          "bytes": 305583
+        }
+      ]
+    },
+    {
+      "code": "SCH03SP",
+      "sourceCode": "SCH03",
+      "sourceMode": 2,
+      "packages": [
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_863307.utx",
+          "sha256": "897abd6070e4d18b5cf9d090330bf3408ee08d2160f76703777ecff9a640dd8b",
+          "bytes": 6485942
+        },
+        {
+          "name": "P2_865794.usx",
+          "sha256": "c2f460b8df922269d34f3e788bf6bacfba777de6d90a40cb39817dcf68b8ab93",
+          "bytes": 3125017
+        },
+        {
+          "name": "P2_877252.uax",
+          "sha256": "6a2d49dc816584e46d49af267ea7cd563b2d59b1c1aac853390c71aab29a27dd",
+          "bytes": 4011963
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Modes.usx",
+          "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+          "bytes": 11420
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        },
+        {
+          "name": "SCH03SP-i.utc",
+          "sha256": "388bc4830d36e7caa46da7cad700ef120c67bc398669ab422758cb04a8b5940d",
+          "bytes": 195681
+        },
+        {
+          "name": "SCH03SP.sdc",
+          "sha256": "582a0a949479f733145d954d5d9f6f30cd7a3ac725be94ffc8a41035f47bdabf",
+          "bytes": 305568
+        }
+      ]
+    },
+    {
+      "code": "SCH03P",
+      "sourceCode": "SCH03",
+      "sourceMode": 3,
+      "packages": [
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_863307.utx",
+          "sha256": "897abd6070e4d18b5cf9d090330bf3408ee08d2160f76703777ecff9a640dd8b",
+          "bytes": 6485942
+        },
+        {
+          "name": "P2_865794.usx",
+          "sha256": "c2f460b8df922269d34f3e788bf6bacfba777de6d90a40cb39817dcf68b8ab93",
+          "bytes": 3125017
+        },
+        {
+          "name": "P2_877252.uax",
+          "sha256": "6a2d49dc816584e46d49af267ea7cd563b2d59b1c1aac853390c71aab29a27dd",
+          "bytes": 4011963
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        },
+        {
+          "name": "SCH03P-i.utc",
+          "sha256": "92f0ba4b51d3b83e12848dd0c8388227ebe6df2f543f5948bcbc0ca3f241eebe",
+          "bytes": 195864
+        },
+        {
+          "name": "SCH03P.sdc",
+          "sha256": "34f6b7621f9653dcf38fc7d9e1311f8e460aa5945fe756fb70c6bbac4951be34",
+          "bytes": 305470
+        }
+      ]
+    },
+    {
+      "code": "SKY08EP",
+      "sourceCode": "SKY08",
+      "sourceMode": 1,
+      "packages": [
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_864464.utx",
+          "sha256": "80910dd4fcf325ce3607c3d42d8101f18df7cca3b3e60aabba48d9929b00f032",
+          "bytes": 7828312
+        },
+        {
+          "name": "P2_865957.usx",
+          "sha256": "acb989304b0a0501c8501ed1938f4704607fc566b897c234bc274dc086f292f2",
+          "bytes": 4181850
+        },
+        {
+          "name": "P2_867522.uax",
+          "sha256": "6eeae83af7ed29854f3ac42287b2f352f13d0cb82a14eae5a6733da91ab266b0",
+          "bytes": 4277866
+        },
+        {
+          "name": "P2_877562.uax",
+          "sha256": "00690ae717eb670541aaa08db557fd7e26ea446665b0fd296cece126cf5efa7e",
+          "bytes": 1277627
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Modes.usx",
+          "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+          "bytes": 11420
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        },
+        {
+          "name": "SKY08EP-i.utc",
+          "sha256": "929b4df0d69fa82e3d7fa61efc7f10c1c4b7d4ae72473c97c919e8020df2eb6e",
+          "bytes": 208777
+        },
+        {
+          "name": "SKY08EP.sdc",
+          "sha256": "d063f6b566dae3f6c655dc40e19c92312e470acac2eecdaaa2fb783d61dc927d",
+          "bytes": 555449
+        }
+      ]
+    },
+    {
+      "code": "SKY08P",
+      "sourceCode": "SKY08",
+      "sourceMode": 3,
+      "packages": [
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_864464.utx",
+          "sha256": "80910dd4fcf325ce3607c3d42d8101f18df7cca3b3e60aabba48d9929b00f032",
+          "bytes": 7828312
+        },
+        {
+          "name": "P2_865957.usx",
+          "sha256": "acb989304b0a0501c8501ed1938f4704607fc566b897c234bc274dc086f292f2",
+          "bytes": 4181850
+        },
+        {
+          "name": "P2_867522.uax",
+          "sha256": "6eeae83af7ed29854f3ac42287b2f352f13d0cb82a14eae5a6733da91ab266b0",
+          "bytes": 4277866
+        },
+        {
+          "name": "P2_877562.uax",
+          "sha256": "00690ae717eb670541aaa08db557fd7e26ea446665b0fd296cece126cf5efa7e",
+          "bytes": 1277627
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        },
+        {
+          "name": "SKY08P-i.utc",
+          "sha256": "faecbdf9bb6a43f3471b9a545f54aeea62d0012be54a654d4a6eb54a045484a9",
+          "bytes": 208790
+        },
+        {
+          "name": "SKY08P.sdc",
+          "sha256": "7462a0710c0cad40e4aeafc72cefd943914b4619a1862a9dfad109b4cf803e01",
+          "bytes": 555299
+        }
+      ]
+    },
+    {
+      "code": "WAR06EP",
+      "sourceCode": "WAR06",
+      "sourceMode": 1,
+      "packages": [
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_864291.utx",
+          "sha256": "710ffc824e5ce7c6095125419063a152783e702736f6e260e3280f3b1d9dc34f",
+          "bytes": 3284593
+        },
+        {
+          "name": "P2_866792.usx",
+          "sha256": "5a2b27974bc7b4e724e5fb3419ad3b67c2bdec20b83285f8fdb18233166e1233",
+          "bytes": 4349647
+        },
+        {
+          "name": "P2_879601.uax",
+          "sha256": "7dc40973b10fd4defd1e9ee6d70291e8a0b166868c793f70feb446ccc96b3cb9",
+          "bytes": 4059124
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Modes.usx",
+          "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+          "bytes": 11420
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        },
+        {
+          "name": "WAR06EP-i.utc",
+          "sha256": "8410139501cffd7e716bb1dcdfe20cd692bf09836d23b0d6b07f1a0bb4d8d044",
+          "bytes": 194030
+        },
+        {
+          "name": "WAR06EP.sdc",
+          "sha256": "32c07e612abde9157b5092da568082a7af693327c983111604de46a30840e507",
+          "bytes": 459123
+        }
+      ]
+    },
+    {
+      "code": "WAR06P",
+      "sourceCode": "WAR06",
+      "sourceMode": 3,
+      "packages": [
+        {
+          "name": "P2_857190.usx",
+          "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+          "bytes": 19512
+        },
+        {
+          "name": "P2_860017.utx",
+          "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+          "bytes": 35860
+        },
+        {
+          "name": "P2_864291.utx",
+          "sha256": "710ffc824e5ce7c6095125419063a152783e702736f6e260e3280f3b1d9dc34f",
+          "bytes": 3284593
+        },
+        {
+          "name": "P2_866792.usx",
+          "sha256": "5a2b27974bc7b4e724e5fb3419ad3b67c2bdec20b83285f8fdb18233166e1233",
+          "bytes": 4349647
+        },
+        {
+          "name": "P2_879601.uax",
+          "sha256": "7dc40973b10fd4defd1e9ee6d70291e8a0b166868c793f70feb446ccc96b3cb9",
+          "bytes": 4059124
+        },
+        {
+          "name": "P2_Armes_impacts.uax",
+          "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+          "bytes": 271139
+        },
+        {
+          "name": "P2_Echelon.utx",
+          "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+          "bytes": 300281
+        },
+        {
+          "name": "P2_Engine.utx",
+          "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+          "bytes": 391117
+        },
+        {
+          "name": "P2_Interface.uax",
+          "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+          "bytes": 43747
+        },
+        {
+          "name": "P2_PS2Objectives.usx",
+          "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+          "bytes": 5951
+        },
+        {
+          "name": "P2_SBase.utx",
+          "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+          "bytes": 625529
+        },
+        {
+          "name": "P2_SGameplayObjects.usx",
+          "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+          "bytes": 54432
+        },
+        {
+          "name": "P2_SGameplayObjectsTex.utx",
+          "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+          "bytes": 77499
+        },
+        {
+          "name": "P2_TestMapStaticM.usx",
+          "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+          "bytes": 14765
+        },
+        {
+          "name": "P2_nd133.utx",
+          "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+          "bytes": 103598
+        },
+        {
+          "name": "P2_sfx.utx",
+          "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+          "bytes": 161705
+        },
+        {
+          "name": "WAR06P-i.utc",
+          "sha256": "f084eaa2df263e304d0c549540472cb5582407f5aa2943a8de08514d3ddb3059",
+          "bytes": 193960
+        },
+        {
+          "name": "WAR06P.sdc",
+          "sha256": "b55f4826a2fc768d15e703a67bbff1a5a7d6f83f9fb5ac5bc0021eaa189545e2",
+          "bytes": 458889
+        }
+      ]
+    }
+  ],
+  "prototypeEvidence": [
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09EP-0388d12ddb\\extraction-prototype-proof.json",
+      "sha256": "2686d6b3523a4729388d353627155c06b259d415d1cebee08d7d02c3d38db26e",
+      "bytes": 7364
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09EP-0388d12ddb\\extraction-carry-proof.json",
+      "sha256": "477bdd7feb3d5442b17a7b3854b861e9c557d53b185ac047a2fed00f2db7eb23",
+      "bytes": 5855
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1\\sabotage-v5-proof.json",
+      "sha256": "96c5153dedbd08a2365b941eb13e18ca4486491a22f9865fda188fd45a10a6c4",
+      "bytes": 6419
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1\\sabotage-v5-merc-removal-proof.json",
+      "sha256": "cdf61bcbef35606bb8bcbf2accb587419c03eac5c315a8aa2033e0751a325872",
+      "bytes": 3689
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1\\extraction-carry-close-proof.json",
+      "sha256": "0b6df970d3daca0072af233786ec513af8452ceb385a1fd888ad4be84c44099c",
+      "bytes": 5192
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1\\extraction-carry-authored-light-proof.json",
+      "sha256": "f74fea1eb018df1db8a0d703279a01370d90c58eb2907bc2344378314a9257ce",
+      "bytes": 2060
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1\\mho-corrected-flag-proof.json",
+      "sha256": "0c3bf6419b1d68e75fb964a1677a1342bc055afb383502a62ba054ba57d47d0a",
+      "bytes": 10276
+    }
+  ],
+  "limitations": [
+    "Native Enhanced/Reloaded compatibility mechanics, not an exact PS2 controller/rules port.",
+    "Original green vial and ND133 case assets retained; PC pickup/delivery/planting timing and native carried-light brightness retained.",
+    "Sabotage PS2 placement areas adapted to fixed points at linked original case use locations; source area properties retained in audit.",
+    "Extraction discard tested through the normal native DiscardFlag gameplay action; pickup/delivery/plant/removal used normal held Use input.",
+    "Merc removal uses an explicitly controlled armed-target fixture after ordinary Merc login; separate ordinary Spy planting/fuse proof.",
+    "No joining-client/remote multiplayer test performed.",
+    "Pawn-only setup relocation plus normal final walking tests objective reachability, not complete navigation routes.",
+    "Calls-only native instrumentation has no ProcessInternal detour and game.text is SHA-checked before/after."
+  ]
+}

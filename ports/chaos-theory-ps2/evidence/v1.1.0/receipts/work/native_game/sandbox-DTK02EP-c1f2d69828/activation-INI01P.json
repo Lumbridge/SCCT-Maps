@@ -1,0 +1,186 @@
+{
+  "command": "INI01P.sdc?MapName=INI01P?MaxPlayers=4?TimeLimit=0?ScoreLimit=0?GameMode=5?LivesATT=0?TimesRespawnsATT=5?LivesDEF=0?BalanceTeams=False?Revenge=False?GamesInARow=0?TimesReinitFlag=30?TimeToExplode=30?GameWithRanking=False?LevelGap=0?Team=0?Name=PrivateSpy?Editeur=false",
+  "travel": {
+    "return": null,
+    "out": {}
+  },
+  "loadingMenu": {
+    "return": true,
+    "out": {}
+  },
+  "liveLevelInfo": "INI01P.LevelInfo0",
+  "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\INI01P.sdc",
+  "sourceSha256": "89157d94a61e2d03649d1285b8b10c86f94c7a7a3e6129c2ea95e9231d432db5",
+  "code": "INI01P",
+  "sourceCode": "INI01",
+  "sourceMode": 3,
+  "mode": "Neutralization",
+  "status": "passed",
+  "missions": [
+    {
+      "ref": 457,
+      "mode": 5,
+      "left": 3,
+      "total": 3,
+      "objectives": [
+        143,
+        137,
+        146,
+        140
+      ]
+    }
+  ],
+  "hudObjectives": [
+    3
+  ],
+  "graph": [
+    {
+      "ref": 457,
+      "property": "Objectives",
+      "children": [
+        143,
+        137,
+        146,
+        140
+      ]
+    },
+    {
+      "ref": 137,
+      "property": "Triggers",
+      "children": [
+        128
+      ]
+    },
+    {
+      "ref": 140,
+      "property": "Triggers",
+      "children": [
+        156
+      ]
+    },
+    {
+      "ref": 143,
+      "property": "Triggers",
+      "children": [
+        141
+      ]
+    },
+    {
+      "ref": 146,
+      "property": "Triggers",
+      "children": [
+        148
+      ]
+    }
+  ],
+  "flags": [],
+  "cases": [
+    {
+      "ref": 128,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 141,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 156,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 148,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    }
+  ],
+  "starts": [
+    {
+      "ref": 144,
+      "distance": 0.0
+    },
+    {
+      "ref": 132,
+      "distance": 0.0
+    },
+    {
+      "ref": 150,
+      "distance": 0.0
+    },
+    {
+      "ref": 136,
+      "distance": 0.0
+    },
+    {
+      "ref": 138,
+      "distance": 0.0
+    },
+    {
+      "ref": 139,
+      "distance": 0.0
+    },
+    {
+      "ref": 155,
+      "distance": 0.0
+    },
+    {
+      "ref": 154,
+      "distance": 0.0
+    }
+  ],
+  "geometry": {
+    "name": "UnknownGlobalPS2_868669",
+    "nodes": 1263,
+    "points": 1686,
+    "surfs": 789,
+    "bbox_min": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "points_min": [
+      -6784.00341796875,
+      -7200.0009765625,
+      -2143.99853515625
+    ],
+    "points_max": [
+      3584.002685546875,
+      3840.0,
+      2176.0
+    ],
+    "points_sha256": "584784d2d87a3c0b1530d32728d8b3f94e485d4fc1c2e2231e2cb53984e2a2c8"
+  },
+  "runtimeModels": [
+    {
+      "name": "INI01P.UnknownGlobalPS2_868669",
+      "nodes": 1263,
+      "points": 1686,
+      "surfs": 789,
+      "pointsSha256": "584784d2d87a3c0b1530d32728d8b3f94e485d4fc1c2e2231e2cb53984e2a2c8"
+    }
+  ],
+  "seconds": 19.42
+}

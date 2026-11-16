@@ -1,0 +1,22 @@
+{
+  "schema": "scct.ps2.native-mode-source-record/1",
+  "version": "1.1.0",
+  "artifact": "SCCT-PS2-SVM-converter-source-v1.1.0.zip",
+  "url": "https://github.com/Lumbridge/SCCT-Maps/releases/download/ps2-original-svm-v1.1.0/SCCT-PS2-SVM-converter-source-v1.1.0.zip",
+  "size": 8117552,
+  "sha256": "98247552c5b8ec378eb4cc733a148211ff7b213cc6e8db905f74fc489e2f9abf",
+  "sourceManifestSha256": "a64796b41e9565136e9e544482f8001e82c11788662783688cae49e555cabdb9",
+  "builderSourceCommit": "5aa27e533097de319c46ed6109241afd368be1b2",
+  "baseSourceSnapshotSha256": "5c99f11280bda4cc0fd51a6abcb46579cc6e533d18297a4fa9262f686b1f0c6f",
+  "candidateReleaseTreeSha256": "f26902d15b9e1999ee56bdbd097ba32952e46e6b8731dc2902227c760cef15e1",
+  "candidateSemanticTreeSha256": "3410554fa82040a8e620791dd415bcaae7dbf7b900eb35d42b7ebd9e36a2018b",
+  "classPackageSHA256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+  "acceptedNeutralizationClassSHA256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+  "scope": "Enhanced/Reloaded PC mechanics with recovered PS2 visuals and selected original mode graphs. Source Sabotage areas are explicitly adapted to linked native planted-modem points.",
+  "validation": {
+    "offlineAudit": "fcbeb4bacc13b19a1cb9327c1a9a0cb2155051a87a5af803746cceeeb66e8fec",
+    "runtime": "abb409b50726f9e4bedcd1da902649b26d517f8f1fad64752b854402f948dd72",
+    "qualifications": "Representative input/visual tests and all31 named activations; no joining-client/remote multiplayer test or complete matches on all maps."
+  },
+  "separateOpenSCCTArtifactsUnchanged": true
+}

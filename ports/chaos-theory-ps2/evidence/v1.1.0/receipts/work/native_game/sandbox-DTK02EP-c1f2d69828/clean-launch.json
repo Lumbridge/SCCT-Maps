@@ -1,0 +1,240 @@
+{
+  "root": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828",
+  "desktop": "PS2Clean_bd4fe8f2d8",
+  "command": [
+    "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\System\\SCCT_Versus.exe",
+    "Autoplay.sdc?GameMode=5?team=0?Editeur=true",
+    "PLATFORM=XBOX",
+    "HWND=0",
+    "-log",
+    "INI=C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\System\\Reloaded_PlayLevel.ini"
+  ],
+  "candidate_files": [
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\PS2Original\\P2_Engine.utx",
+      "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+      "bytes": 391117
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\PS2Original\\P2_SBase.utx",
+      "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+      "bytes": 625529
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\PS2Original\\P2_Armes_impacts.uax",
+      "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+      "bytes": 271139
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\PS2Original\\P2_sfx.utx",
+      "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+      "bytes": 161705
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\PS2Original\\P2_Interface.uax",
+      "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+      "bytes": 43747
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\PS2Original\\P2_SGameplayObjects.usx",
+      "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+      "bytes": 54432
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\PS2Original\\P2_SGameplayObjectsTex.utx",
+      "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+      "bytes": 77499
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\PS2Original\\P2_nd133.utx",
+      "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+      "bytes": 103598
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\PS2Original\\P2_Echelon.utx",
+      "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+      "bytes": 300281
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\PS2Original\\P2_857190.usx",
+      "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+      "bytes": 19512
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\PS2Original\\P2_860017.utx",
+      "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+      "bytes": 35860
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\PS2Original\\P2_TestMapStaticM.usx",
+      "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+      "bytes": 14765
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\PS2Original\\P2_861532.utx",
+      "sha256": "8bafb456fec887a51ebf0140f56cbad10284ae41e2ab10ebbaa07b63d734c8ac",
+      "bytes": 3412367
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\PS2Original\\P2_865023.usx",
+      "sha256": "d125565a285f18fcda712917c9a7e5250c9b3cc5620e97cb819999d14cd9504d",
+      "bytes": 3486628
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\PS2Original\\P2_867522.uax",
+      "sha256": "6eeae83af7ed29854f3ac42287b2f352f13d0cb82a14eae5a6733da91ab266b0",
+      "bytes": 4277866
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\PS2Original\\DTK02EP.sdc",
+      "sha256": "382ee283cfa134c30afefdb75f5330e17736441c03d9a96be036c8f86a9f27ba",
+      "bytes": 419279
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\PS2Original\\DTK02EP-i.utc",
+      "sha256": "3c91c3dde02f8e51c0dfc72551f620b6eccd30ed2008700945eb1d512139ea1a",
+      "bytes": 189436
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+      "bytes": 11420
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+      "bytes": 5951
+    }
+  ],
+  "probe_injected": false,
+  "test_hook_injected": true,
+  "d3d_proxy_present": false,
+  "status": "instrumented visual run ended",
+  "launcher_pid": 92956,
+  "last_error": "'Location'",
+  "pid": 54116,
+  "pawn": "0xd5bf3a0",
+  "controller": "0xd38ff60",
+  "windows": [
+    {
+      "hwnd": 11404092,
+      "pid": 54116,
+      "class": "DIEmWin",
+      "title": "DIEmWin",
+      "visible": false,
+      "rect": [
+        -1,
+        -1,
+        169,
+        48
+      ]
+    },
+    {
+      "hwnd": 14617666,
+      "pid": 54116,
+      "class": "SplinterCell2UnrealWLog",
+      "title": "Run",
+      "visible": false,
+      "rect": [
+        0,
+        633,
+        1600,
+        1223
+      ]
+    },
+    {
+      "hwnd": 32179106,
+      "pid": 54116,
+      "class": "ConsoleWindowClass",
+      "title": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\System\\scct versus",
+      "visible": true,
+      "rect": [
+        32,
+        32,
+        1151,
+        679
+      ]
+    },
+    {
+      "hwnd": 26542846,
+      "pid": 54116,
+      "class": "SplinterCell2UnrealWWindowsViewportWindow",
+      "title": "Chaos Theory -- PC -- SC3_PC_558_5",
+      "visible": true,
+      "rect": [
+        0,
+        1683,
+        249,
+        1726
+      ]
+    },
+    {
+      "hwnd": 9571384,
+      "pid": 54116,
+      "class": "IME",
+      "title": "Default IME",
+      "visible": false,
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "hwnd": 5899168,
+      "pid": 54116,
+      "class": "MSCTFIME UI",
+      "title": "MSCTFIME UI",
+      "visible": false,
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "hwnd": 13765784,
+      "pid": 54116,
+      "class": "IME",
+      "title": "Default IME",
+      "visible": false,
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "integrity_gate": false,
+  "classes": [
+    {
+      "name": "Entry.LevelInfo0",
+      "class_name": "LevelInfo"
+    },
+    {
+      "name": "#1337223.LevelInfo0",
+      "class_name": "LevelInfo"
+    }
+  ],
+  "first_pawn_seconds": 9.89100000000326,
+  "instrumentation_added": {
+    "module": "Reloaded.TestHook.dll",
+    "purpose": "explicit calls-only mode prototype proof",
+    "processInternalDetour": false
+  },
+  "cleanup": {
+    "killed": [
+      54116
+    ],
+    "left": []
+  },
+  "watchdog": {
+    "samples": 10557,
+    "inputDesktopUnreadable": 0,
+    "focusTaken": 0,
+    "windowsOnUserDesktop": []
+  }
+}

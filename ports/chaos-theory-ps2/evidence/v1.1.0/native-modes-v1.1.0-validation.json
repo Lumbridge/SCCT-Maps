@@ -1,0 +1,800 @@
+{
+  "status": "passed agreed native validation gates; publication/install separately verified by release owner",
+  "version": "1.1.0",
+  "candidate": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-modes-v1.1.0-r2",
+  "semanticTreeSha256": "3410554fa82040a8e620791dd415bcaae7dbf7b900eb35d42b7ebd9e36a2018b",
+  "counts": {
+    "competitive": 31,
+    "extraction": 10,
+    "sabotage": 9,
+    "neutralization": 12,
+    "uniquePackages": 117,
+    "uniqueMapAndUiGuids": 62,
+    "training": "Two unchanged unsplit tutorials excluded from this new-variant batch"
+  },
+  "classPackage": {
+    "name": "P2_PS2Modes.usx",
+    "sha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+  },
+  "acceptedNeutralizationClass": {
+    "name": "P2_PS2Objectives.usx",
+    "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+    "unchanged": true
+  },
+  "runtimeBinaries": [
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\System\\SCCT Versus",
+      "sha256": "a98873aaec1de21fdcccc0afb9985e3ddcf38a9ddce1207214872d6428ec9950",
+      "bytes": 3637248
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\System\\Reloaded.Core.dll",
+      "sha256": "7b9297a5acff4588d502e01203d980688828340958c9736d40266bc125a9e71e",
+      "bytes": 4922880
+    }
+  ],
+  "sourceFreeze": {
+    "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\mode-variants\\class-and-source-freeze.json",
+    "sha256": "3ba2b093af3827a4895f9f5a4d44adbae5da020b786f7f0367ddb4c63490b947",
+    "bytes": 115866
+  },
+  "independentAudit": {
+    "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2-mode-variants\\audit-native31-r2-final.json",
+    "sha256": "fcbeb4bacc13b19a1cb9327c1a9a0cb2155051a87a5af803746cceeeb66e8fec",
+    "bytes": 377024
+  },
+  "auditInputs": {
+    "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\ps2-mode-variants\\audit-native31-r2-input-provenance.json",
+    "sha256": "2e6087bb564156c3b0c6071d108aefd05e118c62ee06c14e45598e65d922257b",
+    "bytes": 54966
+  },
+  "nativeNamedBatch": {
+    "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\named-mode-activation-31.json",
+    "sha256": "2df769b928b5bf48bfc955afe8ab6c6224a91bd3b82ddc3d428c49fd2a52c356",
+    "bytes": 255360
+  },
+  "nativeCleanup": {
+    "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\clean-launch.json",
+    "sha256": "3ea4afaac962a1c32fa571db299de57110d20494839c635331244b7ee342cbd0",
+    "bytes": 9262
+  },
+  "prototypeEvidence": [
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09EP-0388d12ddb\\extraction-prototype-proof.json",
+      "sha256": "2686d6b3523a4729388d353627155c06b259d415d1cebee08d7d02c3d38db26e",
+      "bytes": 7364
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09EP-0388d12ddb\\extraction-carry-proof.json",
+      "sha256": "477bdd7feb3d5442b17a7b3854b861e9c557d53b185ac047a2fed00f2db7eb23",
+      "bytes": 5855
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1\\sabotage-v5-proof.json",
+      "sha256": "96c5153dedbd08a2365b941eb13e18ca4486491a22f9865fda188fd45a10a6c4",
+      "bytes": 6419
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1\\sabotage-v5-merc-removal-proof.json",
+      "sha256": "cdf61bcbef35606bb8bcbf2accb587419c03eac5c315a8aa2033e0751a325872",
+      "bytes": 3689
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1\\extraction-carry-close-proof.json",
+      "sha256": "0b6df970d3daca0072af233786ec513af8452ceb385a1fd888ad4be84c44099c",
+      "bytes": 5192
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1\\extraction-carry-authored-light-proof.json",
+      "sha256": "f74fea1eb018df1db8a0d703279a01370d90c58eb2907bc2344378314a9257ce",
+      "bytes": 2060
+    },
+    {
+      "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1\\mho-corrected-flag-proof.json",
+      "sha256": "0c3bf6419b1d68e75fb964a1677a1342bc055afb383502a62ba054ba57d47d0a",
+      "bytes": 10276
+    }
+  ],
+  "maps": [
+    {
+      "code": "DTK02EP",
+      "displayName": "PS2 Deftech Belew (Extraction)",
+      "sourceCode": "DTK02",
+      "sourceMode": 1,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "382ee283cfa134c30afefdb75f5330e17736441c03d9a96be036c8f86a9f27ba",
+      "liveLevelInfo": "DTK02EP.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\DTK02EP.sdc",
+      "hudObjectives": [
+        2
+      ],
+      "caseCount": 6,
+      "flagCount": 6,
+      "sourceStartCount": 9,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-DTK02EP.json",
+        "sha256": "f85162dafc7c9080909ddc1edb85223cd46e977e64b047e4a391467bc7fba974",
+        "bytes": 8120
+      }
+    },
+    {
+      "code": "DTK02SP",
+      "displayName": "PS2 Deftech Belew (Sabotage)",
+      "sourceCode": "DTK02",
+      "sourceMode": 2,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "f232736b491d47c86c9c0dedd91223764a8a4e70519c17e5b4022f95a3f7fab2",
+      "liveLevelInfo": "DTK02SP.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\DTK02SP.sdc",
+      "hudObjectives": [
+        2
+      ],
+      "caseCount": 4,
+      "flagCount": 0,
+      "sourceStartCount": 9,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-DTK02SP.json",
+        "sha256": "4481596e2d0b7aeb6934bcb820219f7f6a84e1956cf5344fa5c1867ec62d0d5b",
+        "bytes": 6035
+      }
+    },
+    {
+      "code": "DTK02P",
+      "displayName": "PS2 Deftech Belew (Neutralization)",
+      "sourceCode": "DTK02",
+      "sourceMode": 3,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "4023b177f7421d41ef811b8ba6b5ced3afac323d9e962209a6d1dafd3851b952",
+      "liveLevelInfo": "DTK02P.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\DTK02P.sdc",
+      "hudObjectives": [
+        2
+      ],
+      "caseCount": 6,
+      "flagCount": 0,
+      "sourceStartCount": 9,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-DTK02P.json",
+        "sha256": "fba831544321604574fc72032186536b691c136cf63bb6f2071d62877433ef5d",
+        "bytes": 5548
+      }
+    },
+    {
+      "code": "FAC13EP",
+      "displayName": "PS2 Factory (Extraction)",
+      "sourceCode": "FAC13",
+      "sourceMode": 1,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "306893295ddd4b12309680ffc58b0b85f86d1cb0c36d0b996620250354eb2dee",
+      "liveLevelInfo": "FAC13EP.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\FAC13EP.sdc",
+      "hudObjectives": [
+        3
+      ],
+      "caseCount": 6,
+      "flagCount": 6,
+      "sourceStartCount": 6,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-FAC13EP.json",
+        "sha256": "3c85e0ce4a67de114585c1a67ea20d3b08e8fbfd640a0cc041914204a77bc22d",
+        "bytes": 8320
+      }
+    },
+    {
+      "code": "FAC13SP",
+      "displayName": "PS2 Factory (Sabotage)",
+      "sourceCode": "FAC13",
+      "sourceMode": 2,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "e1980eda6cef4d53a0dcfc436d322810a2d711a76c452c8fc51f4e5aabf39cee",
+      "liveLevelInfo": "FAC13SP.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\FAC13SP.sdc",
+      "hudObjectives": [
+        2
+      ],
+      "caseCount": 3,
+      "flagCount": 0,
+      "sourceStartCount": 6,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-FAC13SP.json",
+        "sha256": "7366acc8e4abf0aedb44d7a738b46a6ca8c16d04e6def1f234f5b16df5400a39",
+        "bytes": 5217
+      }
+    },
+    {
+      "code": "FAC13P",
+      "displayName": "PS2 Factory (Neutralization)",
+      "sourceCode": "FAC13",
+      "sourceMode": 3,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "28e119f7333a9a04e7292b5c4e9d9d5ecf92fafd5f58765a14c4cd0e14ee2b50",
+      "liveLevelInfo": "FAC13P.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\FAC13P.sdc",
+      "hudObjectives": [
+        3
+      ],
+      "caseCount": 9,
+      "flagCount": 0,
+      "sourceStartCount": 6,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-FAC13P.json",
+        "sha256": "1f56b5ad873e550e3f06ed881f7d0d5f92a8bed8997c019853c4ee129e58d096",
+        "bytes": 6947
+      }
+    },
+    {
+      "code": "GAR09EP",
+      "displayName": "PS2 Station (Extraction)",
+      "sourceCode": "GAR09",
+      "sourceMode": 1,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "5cd260a253d942fca57c6dd39c6591eb9ed0b51de989347005a6e8fd3e474a4a",
+      "liveLevelInfo": "GAR09EP.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\GAR09EP.sdc",
+      "hudObjectives": [
+        3
+      ],
+      "caseCount": 4,
+      "flagCount": 4,
+      "sourceStartCount": 7,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-GAR09EP.json",
+        "sha256": "1c1f368fcf5bfa61c582596b7fda79f98f5bf369a1ce56697fab43460d1ff367",
+        "bytes": 6504
+      }
+    },
+    {
+      "code": "GAR09SP",
+      "displayName": "PS2 Station (Sabotage)",
+      "sourceCode": "GAR09",
+      "sourceMode": 2,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "fb2d427635d7efa4b616a1a9bda1163bd647b86b597c039aed5bfbab5bb095d3",
+      "liveLevelInfo": "GAR09SP.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\GAR09SP.sdc",
+      "hudObjectives": [
+        3
+      ],
+      "caseCount": 4,
+      "flagCount": 0,
+      "sourceStartCount": 7,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-GAR09SP.json",
+        "sha256": "43e716ee74d7666ffb6776636441e5d37152713bb72e3b2b063aa47235d1b272",
+        "bytes": 6031
+      }
+    },
+    {
+      "code": "GAR09P",
+      "displayName": "PS2 Station (Neutralization)",
+      "sourceCode": "GAR09",
+      "sourceMode": 3,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "e1c8a9ad97358956d9bd9f3a027723696017bb6e8cf4b2d2d21c302bdf2eb2e1",
+      "liveLevelInfo": "GAR09P.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\GAR09P.sdc",
+      "hudObjectives": [
+        3
+      ],
+      "caseCount": 4,
+      "flagCount": 0,
+      "sourceStartCount": 7,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-GAR09P.json",
+        "sha256": "74b84a5e4b0026404204f55496d7f886a7b61361e0d4b975a5a25ecf81363cda",
+        "bytes": 4802
+      }
+    },
+    {
+      "code": "INI01P",
+      "displayName": "PS2 Cinema (Neutralization)",
+      "sourceCode": "INI01",
+      "sourceMode": 3,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "89157d94a61e2d03649d1285b8b10c86f94c7a7a3e6129c2ea95e9231d432db5",
+      "liveLevelInfo": "INI01P.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\INI01P.sdc",
+      "hudObjectives": [
+        3
+      ],
+      "caseCount": 4,
+      "flagCount": 0,
+      "sourceStartCount": 8,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-INI01P.json",
+        "sha256": "73fe3835a42231aa27021aa09c5a972150c6037b56bc820fdc37b6e4c0d17c9a",
+        "bytes": 4504
+      }
+    },
+    {
+      "code": "KRA07EP",
+      "displayName": "PS2 Krauser Lab (Extraction)",
+      "sourceCode": "KRA07",
+      "sourceMode": 1,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "14f1e824933246072d4fa079257f5e8406924e5ece883495a5c15a87016012e7",
+      "liveLevelInfo": "KRA07EP.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\KRA07EP.sdc",
+      "hudObjectives": [
+        4
+      ],
+      "caseCount": 6,
+      "flagCount": 6,
+      "sourceStartCount": 7,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-KRA07EP.json",
+        "sha256": "37ef5f024492511762598b264859fadc295252253c3efa1774b349de5734ee4b",
+        "bytes": 8348
+      }
+    },
+    {
+      "code": "KRA07SP",
+      "displayName": "PS2 Krauser Lab (Sabotage)",
+      "sourceCode": "KRA07",
+      "sourceMode": 2,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "8070b35ac0f8ed91b984f8769409c58d86137d43bdb7663ecb5c1b9aaf1b15ed",
+      "liveLevelInfo": "KRA07SP.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\KRA07SP.sdc",
+      "hudObjectives": [
+        2
+      ],
+      "caseCount": 3,
+      "flagCount": 0,
+      "sourceStartCount": 7,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-KRA07SP.json",
+        "sha256": "8fd10992a543c9f1362d282e69f3d1113c1fb0b650cf1c00a59192d3896289d2",
+        "bytes": 5282
+      }
+    },
+    {
+      "code": "KRA07P",
+      "displayName": "PS2 Krauser Lab (Neutralization)",
+      "sourceCode": "KRA07",
+      "sourceMode": 3,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "095e103f77326f9e62626678bde1286b39a9ee76e16f8edb90d91bb99239a8f3",
+      "liveLevelInfo": "KRA07P.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\KRA07P.sdc",
+      "hudObjectives": [
+        3
+      ],
+      "caseCount": 6,
+      "flagCount": 0,
+      "sourceStartCount": 7,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-KRA07P.json",
+        "sha256": "b3d9e7676220c9c303acafcd6b041cbde8fcc49d3db3e89a0263391486fae252",
+        "bytes": 5819
+      }
+    },
+    {
+      "code": "MHO05EP",
+      "displayName": "PS2 Mount Hospital (Extraction)",
+      "sourceCode": "MHO05",
+      "sourceMode": 1,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "ee4d8c64e808758a403585a79953d36bbb6a67d2f5729878c786da2ccce266b2",
+      "liveLevelInfo": "MHO05EP.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\MHO05EP.sdc",
+      "hudObjectives": [
+        4
+      ],
+      "caseCount": 5,
+      "flagCount": 5,
+      "sourceStartCount": 7,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-MHO05EP.json",
+        "sha256": "2ae8a583df76a3c88a6c781e8e946ae028322d568c25784fe67962ef85081fa3",
+        "bytes": 7624
+      }
+    },
+    {
+      "code": "MHO05SP",
+      "displayName": "PS2 Mount Hospital (Sabotage)",
+      "sourceCode": "MHO05",
+      "sourceMode": 2,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "8f0b0b89ec51377fecadb255c655838452762c21554e4eaf3db3c8532c5f0dfb",
+      "liveLevelInfo": "MHO05SP.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\MHO05SP.sdc",
+      "hudObjectives": [
+        4
+      ],
+      "caseCount": 5,
+      "flagCount": 0,
+      "sourceStartCount": 7,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-MHO05SP.json",
+        "sha256": "1041f0a3fdff4764079ca28f032a0967c5638653b88b8b576927c4fc03d5411c",
+        "bytes": 7104
+      }
+    },
+    {
+      "code": "MHO05P",
+      "displayName": "PS2 Mount Hospital (Neutralization)",
+      "sourceCode": "MHO05",
+      "sourceMode": 3,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "504b2e58375f6af49d614bfe374cb4999a042e4a8dcb267fa644eee40fb79744",
+      "liveLevelInfo": "MHO05P.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\MHO05P.sdc",
+      "hudObjectives": [
+        3
+      ],
+      "caseCount": 5,
+      "flagCount": 0,
+      "sourceStartCount": 7,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-MHO05P.json",
+        "sha256": "96ffe2fd5bb53a5da20714aa8f274f80aa300b2e15fc58bbb0e71c557cf0f61b",
+        "bytes": 5510
+      }
+    },
+    {
+      "code": "MIS10EP",
+      "displayName": "PS2 Missile Strike (Extraction)",
+      "sourceCode": "MIS10",
+      "sourceMode": 1,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "35b1de54aa79486ea63454fb759ac1df571f973050e33b79a1fddaceeb82fe6a",
+      "liveLevelInfo": "MIS10EP.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\MIS10EP.sdc",
+      "hudObjectives": [
+        2
+      ],
+      "caseCount": 4,
+      "flagCount": 4,
+      "sourceStartCount": 8,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-MIS10EP.json",
+        "sha256": "bc92b28a53aa267ce131bf683d1cfad1c38868d512a83a7fb0e717bfa5b84c89",
+        "bytes": 6302
+      }
+    },
+    {
+      "code": "MIS10SP",
+      "displayName": "PS2 Missile Strike (Sabotage)",
+      "sourceCode": "MIS10",
+      "sourceMode": 2,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "e4479b34f7069f3f8b016985de992536b4468eacaadc4dd370ea3fe61b67e37a",
+      "liveLevelInfo": "MIS10SP.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\MIS10SP.sdc",
+      "hudObjectives": [
+        2
+      ],
+      "caseCount": 7,
+      "flagCount": 0,
+      "sourceStartCount": 8,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-MIS10SP.json",
+        "sha256": "8c19eb0d102ac36279bb975a7caca4dff3b946a1f7848f7cb8d507cdd71a2783",
+        "bytes": 7974
+      }
+    },
+    {
+      "code": "MIS10P",
+      "displayName": "PS2 Missile Strike (Neutralization)",
+      "sourceCode": "MIS10",
+      "sourceMode": 3,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "d5c1c5c34374d5d138a3ebb63b0614ed6a717bdcf52e7875feeda629ea99d572",
+      "liveLevelInfo": "MIS10P.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\MIS10P.sdc",
+      "hudObjectives": [
+        2
+      ],
+      "caseCount": 10,
+      "flagCount": 0,
+      "sourceStartCount": 8,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-MIS10P.json",
+        "sha256": "4e1645ef57285dd632952ba6c5489c46167d25515d78129968018e2b28fb36d4",
+        "bytes": 6895
+      }
+    },
+    {
+      "code": "MUS04SP",
+      "displayName": "PS2 Museum (Sabotage)",
+      "sourceCode": "MUS04",
+      "sourceMode": 2,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "98e24e464c2293f9bb3989f018e2ef0cf54e5f2b4c06145566d8cfb3bd8d0be0",
+      "liveLevelInfo": "MUS04SP.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\MUS04SP.sdc",
+      "hudObjectives": [
+        2
+      ],
+      "caseCount": 3,
+      "flagCount": 0,
+      "sourceStartCount": 8,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-MUS04SP.json",
+        "sha256": "c7af9eb0857578e01eb53143d265fc6d805d27735f82e5df9120bda4bc2e1508",
+        "bytes": 5105
+      }
+    },
+    {
+      "code": "MUS04P",
+      "displayName": "PS2 Museum (Neutralization)",
+      "sourceCode": "MUS04",
+      "sourceMode": 3,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "3f644635fd51e96c8f696b87ad2bc258b10972e29621a33f7e67aae9de387374",
+      "liveLevelInfo": "MUS04P.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\MUS04P.sdc",
+      "hudObjectives": [
+        2
+      ],
+      "caseCount": 6,
+      "flagCount": 0,
+      "sourceStartCount": 8,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-MUS04P.json",
+        "sha256": "0bbb846ad827c035e18f93c26c8a4ac4e0a53a5828808ad990e33171fa368436",
+        "bytes": 5354
+      }
+    },
+    {
+      "code": "ORP14EP",
+      "displayName": "PS2 Orphanage (Extraction)",
+      "sourceCode": "ORP14",
+      "sourceMode": 1,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "fbbb623a2348f87a6c1a23d64d98e5860d13aea894e196bddf0c42b1c414fcd5",
+      "liveLevelInfo": "ORP14EP.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\ORP14EP.sdc",
+      "hudObjectives": [
+        3
+      ],
+      "caseCount": 4,
+      "flagCount": 4,
+      "sourceStartCount": 8,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-ORP14EP.json",
+        "sha256": "46eebaa36b21652a53314bd745d50249fa0741b1e2de031d785e4a5c91329d1f",
+        "bytes": 6533
+      }
+    },
+    {
+      "code": "ORP14SP",
+      "displayName": "PS2 Orphanage (Sabotage)",
+      "sourceCode": "ORP14",
+      "sourceMode": 2,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "21231b87b97185c2f4590152476d653b091c9257369d1b68b1ccb42cdd5168a5",
+      "liveLevelInfo": "ORP14SP.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\ORP14SP.sdc",
+      "hudObjectives": [
+        2
+      ],
+      "caseCount": 3,
+      "flagCount": 0,
+      "sourceStartCount": 8,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-ORP14SP.json",
+        "sha256": "9a704c69db6a1b9f2b4e18d17a5c42eb9fa71f5e877946d8aa32b7bf3b77fa72",
+        "bytes": 5301
+      }
+    },
+    {
+      "code": "ORP14P",
+      "displayName": "PS2 Orphanage (Neutralization)",
+      "sourceCode": "ORP14",
+      "sourceMode": 3,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "564273a757ee6be8385ac968da7d39736389a839c04b23cadc3e7f6e5eb0ad42",
+      "liveLevelInfo": "ORP14P.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\ORP14P.sdc",
+      "hudObjectives": [
+        3
+      ],
+      "caseCount": 5,
+      "flagCount": 0,
+      "sourceStartCount": 8,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-ORP14P.json",
+        "sha256": "73b84d0d6d2fa60a49e1a32125b196f30b22ff7d64eed1efbb1b25463d4002bc",
+        "bytes": 5340
+      }
+    },
+    {
+      "code": "SCH03EP",
+      "displayName": "PS2 Schermerhorn (Extraction)",
+      "sourceCode": "SCH03",
+      "sourceMode": 1,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "98a41f835ac447fdbc5680542c58d7b616e89508a10f3789c22be038f4472c4d",
+      "liveLevelInfo": "SCH03EP.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\SCH03EP.sdc",
+      "hudObjectives": [
+        3
+      ],
+      "caseCount": 4,
+      "flagCount": 4,
+      "sourceStartCount": 8,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-SCH03EP.json",
+        "sha256": "fe8b184202a2ce4cc4787d69e0706a083a7e872eb93ff594197ec96cad05ee95",
+        "bytes": 6709
+      }
+    },
+    {
+      "code": "SCH03SP",
+      "displayName": "PS2 Schermerhorn (Sabotage)",
+      "sourceCode": "SCH03",
+      "sourceMode": 2,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "582a0a949479f733145d954d5d9f6f30cd7a3ac725be94ffc8a41035f47bdabf",
+      "liveLevelInfo": "SCH03SP.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\SCH03SP.sdc",
+      "hudObjectives": [
+        1
+      ],
+      "caseCount": 1,
+      "flagCount": 0,
+      "sourceStartCount": 8,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-SCH03SP.json",
+        "sha256": "ce299885bc3bc9dc77a446d5f3ff1aa4d78ac79397ce91aa2ae7753535dd1ed2",
+        "bytes": 3802
+      }
+    },
+    {
+      "code": "SCH03P",
+      "displayName": "PS2 Schermerhorn (Neutralization)",
+      "sourceCode": "SCH03",
+      "sourceMode": 3,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "34f6b7621f9653dcf38fc7d9e1311f8e460aa5945fe756fb70c6bbac4951be34",
+      "liveLevelInfo": "SCH03P.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\SCH03P.sdc",
+      "hudObjectives": [
+        3
+      ],
+      "caseCount": 4,
+      "flagCount": 0,
+      "sourceStartCount": 8,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-SCH03P.json",
+        "sha256": "bfc30eb5af43abb41afa1031cbd08765157c1836501e6ec6ceac8113de47ce95",
+        "bytes": 4970
+      }
+    },
+    {
+      "code": "SKY08EP",
+      "displayName": "PS2 Vertigo Plaza (Extraction)",
+      "sourceCode": "SKY08",
+      "sourceMode": 1,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "d063f6b566dae3f6c655dc40e19c92312e470acac2eecdaaa2fb783d61dc927d",
+      "liveLevelInfo": "SKY08EP.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\SKY08EP.sdc",
+      "hudObjectives": [
+        2
+      ],
+      "caseCount": 3,
+      "flagCount": 3,
+      "sourceStartCount": 7,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-SKY08EP.json",
+        "sha256": "2960a945bc25fb7f4e6e8a2be513f771771d22153ba7e35695f393d689166ca0",
+        "bytes": 5406
+      }
+    },
+    {
+      "code": "SKY08P",
+      "displayName": "PS2 Vertigo Plaza (Neutralization)",
+      "sourceCode": "SKY08",
+      "sourceMode": 3,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "7462a0710c0cad40e4aeafc72cefd943914b4619a1862a9dfad109b4cf803e01",
+      "liveLevelInfo": "SKY08P.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\SKY08P.sdc",
+      "hudObjectives": [
+        3
+      ],
+      "caseCount": 6,
+      "flagCount": 0,
+      "sourceStartCount": 7,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-SKY08P.json",
+        "sha256": "bf3b1391702199c849c3f7f40f0f41d6d390530124bcad0396f28de757696b2f",
+        "bytes": 5651
+      }
+    },
+    {
+      "code": "WAR06EP",
+      "displayName": "PS2 Warehouse (Extraction)",
+      "sourceCode": "WAR06",
+      "sourceMode": 1,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "32c07e612abde9157b5092da568082a7af693327c983111604de46a30840e507",
+      "liveLevelInfo": "WAR06EP.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\WAR06EP.sdc",
+      "hudObjectives": [
+        3
+      ],
+      "caseCount": 9,
+      "flagCount": 9,
+      "sourceStartCount": 6,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-WAR06EP.json",
+        "sha256": "a19d170ff31225696611e99f1a0fa5031f228933c5f00e4eb944f916f1c2e09b",
+        "bytes": 10349
+      }
+    },
+    {
+      "code": "WAR06P",
+      "displayName": "PS2 Warehouse (Neutralization)",
+      "sourceCode": "WAR06",
+      "sourceMode": 3,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "b55f4826a2fc768d15e703a67bbff1a5a7d6f83f9fb5ac5bc0021eaa189545e2",
+      "liveLevelInfo": "WAR06P.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\WAR06P.sdc",
+      "hudObjectives": [
+        3
+      ],
+      "caseCount": 9,
+      "flagCount": 0,
+      "sourceStartCount": 6,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-WAR06P.json",
+        "sha256": "ea0f82487192764b18f17179087ca648f817665895fb24a22789a1647287ce3f",
+        "bytes": 6545
+      }
+    }
+  ],
+  "scopeAndQualifications": [
+    "Native Enhanced/Reloaded compatibility mechanics, not an exact PS2 controller/rules port.",
+    "Original green vial and ND133 case assets retained; PC pickup/delivery/planting timing and native carried-light brightness retained.",
+    "Sabotage PS2 placement areas adapted to fixed points at linked original case use locations; source area properties retained in audit.",
+    "Extraction discard tested through the normal native DiscardFlag gameplay action; pickup/delivery/plant/removal used normal held Use input.",
+    "Merc removal uses an explicitly controlled armed-target fixture after ordinary Merc login; separate ordinary Spy planting/fuse proof.",
+    "No joining-client/remote multiplayer test performed.",
+    "Pawn-only setup relocation plus normal final walking tests objective reachability, not complete navigation routes.",
+    "Calls-only native instrumentation has no ProcessInternal detour and game.text is SHA-checked before/after."
+  ],
+  "mechanics": {
+    "Extraction": "Ordinary native pickup and delivery. Source vial mesh and settled right-thigh transform; native PC pickup/delivery animation retained. Native DiscardFlag action and untouched30-second return also tested.",
+    "Sabotage": "Ordinary native planting at linked case front, source actor fuse preserved, native completion and mission decrement. Merc ordinary Use cancels arming and countdown in a clearly labelled controlled armed-target fixture.",
+    "Neutralization": "Exact previously validated1.0.2 worlds and d650 animated ND133 computer class; source-mode UI title updated only.",
+    "hostMenu": "Each named variant has a single UI mode5 Story option; public map name identifies the original supported mode. Actual named ServerTravel uses full menu URL and native Loading_Menu.",
+    "rendering": "Source home/carry vial and case states reviewed in native SHOT captures with explicit calls-only instrumentation. Native carried LightBrightness0 retained; no claim of exact PS2 lighting parity.",
+    "remoteMultiplayer": "Not tested; no joining-client proof claimed."
+  }
+}

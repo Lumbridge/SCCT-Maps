@@ -1,23 +1,32 @@
-# Mount Hospital P (MHO05P)
+# PS2 Mount Hospital (Neutralization) (`MHO05P`)
 
-**Enhanced/Reloaded 1.0.2: choose Story in the normal PC menu.** The map plays
-the original PS2 Neutralization objective chain: hack the animated ND133 cases
-in place until the required objectives are complete. Extraction, vial carrying
-and Sabotage remain outside this native revision. OpenSCCT keeps its separate
-original mode set.
+Enhanced/Reloaded native revision **1.1.0**. Select **Story** in the PC lobby mode
+selector. This separately named map activates the original source **Neutralization**
+mission graph through PC mode 5, the mode supported by the shipped lobby UI.
 
-Version 1.0.2 fixes empty cases and a zero-objective HUD during ordinary hosting.
-The original PS2 Neutralization mission is mapped to supported PC Story mode 5;
-the shipped PC selector cannot choose the original Neutralization mode 3.
-The case class, meshes, textures, capture timings, collision, source world,
-lightmaps and PlayerStarts are unchanged from 1.0.1. No global game script or
-another map is replaced.
+Hack the recovered animated ND133 consoles using the existing PC interaction, capture timer and collision rules. This map’s SDC and shared/class packages are byte-identical to the accepted native 1.0.2 Neutralization baseline; the UI package updates its display name. Extraction and Sabotage have their own separately named entries.
 
-Update through SCCT Map Manager 0.6.2 or newer and keep every supplied dependency.
-All 12 revised native maps passed clean Story-mode activation checks with visible
-cases and positive objective totals. Station additionally passed real GAR09P-named
-travel, the native Loading_Menu start path and a normal ten-second Use hack,
-reducing the mission from 3 objectives to 2. That named-flow proof uses explicit
-calls-only instrumentation; the 12 loading/activation checks are uninstrumented.
-These receipts do not claim twelve completed matches or a remote-client test.
-The two one-sided tutorial entries remain unchanged at 1.0.0.
+The converted PS2 world, recovered materials, English labels and objective visuals
+are combined with Enhanced/Reloaded-compatible PC mechanics. The map-specific
+provenance records the original graph, retained references, visual classes and
+explicit compatibility adjustments. This profile does not claim a complete
+reimplementation of PS2 gameplay or separate-machine multiplayer validation.
+
+Install through **SCCT Map Manager 0.6.3 or newer**, using **PS2 Version**, or copy
+the complete release ZIP’s `Packages` tree into the game. Keep every dependency.
+The map packages use `MHO05P` and `MHO05P-i`; other players need matching files.
+Normal base-game assets, including the retained `nd133_1mesh` animation package,
+must be present. The isolated `P2_` classes use normal StaticMeshes autoloading.
+Global Core, Engine and SBase script packages are not replaced.
+
+The independent offline audit passes for all 31 variants, 62 map/UI identities
+and unchanged world geometry, render/lightmaps, spawns and unrelated properties.
+All 31 frozen packages passed named Story activation in private native runs.
+Source/compiler hashes and qualified native validation are recorded in the
+shared evidence. Publication and installation verification have separate receipts.
+Representative gameplay/visual evidence retains its individual instrumentation
+and coverage qualifications; these checks do not establish completed matches on
+every map. The original one-sided tutorials remain separate version 1.0.0 entries.
+
+See `native-v1.1.0-provenance.json`, `SHA256SUMS.txt`, and the shared evidence under
+`../evidence/v1.1.0/`. OpenSCCT content uses its separate published collection.

@@ -1,0 +1,169 @@
+{
+  "status": "passed-draft-binding-pending",
+  "catalogSha256": "ec3f9ee7ee620d62b32ba544e19a4f8327da3ce9c5f4daaa149aee9f019f3709",
+  "commit": null,
+  "entries": 149,
+  "unchangedEntries": 116,
+  "competitiveVariants": 31,
+  "retainedTraining": 2,
+  "rawAssets": 117,
+  "verifiedZIPs": 31,
+  "releaseTreeSha256": "f26902d15b9e1999ee56bdbd097ba32952e46e6b8731dc2902227c760cef15e1",
+  "maps": [
+    {
+      "code": "DTK02EP",
+      "name": "PS2 Deftech Belew (Extraction)",
+      "files": 19
+    },
+    {
+      "code": "DTK02SP",
+      "name": "PS2 Deftech Belew (Sabotage)",
+      "files": 19
+    },
+    {
+      "code": "DTK02P",
+      "name": "PS2 Deftech Belew (Neutralization)",
+      "files": 18
+    },
+    {
+      "code": "FAC13EP",
+      "name": "PS2 Factory (Extraction)",
+      "files": 19
+    },
+    {
+      "code": "FAC13SP",
+      "name": "PS2 Factory (Sabotage)",
+      "files": 19
+    },
+    {
+      "code": "FAC13P",
+      "name": "PS2 Factory (Neutralization)",
+      "files": 18
+    },
+    {
+      "code": "GAR09EP",
+      "name": "PS2 Station (Extraction)",
+      "files": 19
+    },
+    {
+      "code": "GAR09SP",
+      "name": "PS2 Station (Sabotage)",
+      "files": 19
+    },
+    {
+      "code": "GAR09P",
+      "name": "PS2 Station (Neutralization)",
+      "files": 18
+    },
+    {
+      "code": "INI01P",
+      "name": "PS2 Cinema (Neutralization)",
+      "files": 18
+    },
+    {
+      "code": "KRA07EP",
+      "name": "PS2 Krauser Lab (Extraction)",
+      "files": 21
+    },
+    {
+      "code": "KRA07SP",
+      "name": "PS2 Krauser Lab (Sabotage)",
+      "files": 21
+    },
+    {
+      "code": "KRA07P",
+      "name": "PS2 Krauser Lab (Neutralization)",
+      "files": 20
+    },
+    {
+      "code": "MHO05EP",
+      "name": "PS2 Mount Hospital (Extraction)",
+      "files": 20
+    },
+    {
+      "code": "MHO05SP",
+      "name": "PS2 Mount Hospital (Sabotage)",
+      "files": 20
+    },
+    {
+      "code": "MHO05P",
+      "name": "PS2 Mount Hospital (Neutralization)",
+      "files": 19
+    },
+    {
+      "code": "MIS10EP",
+      "name": "PS2 Missile Strike (Extraction)",
+      "files": 19
+    },
+    {
+      "code": "MIS10SP",
+      "name": "PS2 Missile Strike (Sabotage)",
+      "files": 19
+    },
+    {
+      "code": "MIS10P",
+      "name": "PS2 Missile Strike (Neutralization)",
+      "files": 18
+    },
+    {
+      "code": "MUS04SP",
+      "name": "PS2 Museum (Sabotage)",
+      "files": 21
+    },
+    {
+      "code": "MUS04P",
+      "name": "PS2 Museum (Neutralization)",
+      "files": 20
+    },
+    {
+      "code": "ORP14EP",
+      "name": "PS2 Orphanage (Extraction)",
+      "files": 19
+    },
+    {
+      "code": "ORP14SP",
+      "name": "PS2 Orphanage (Sabotage)",
+      "files": 19
+    },
+    {
+      "code": "ORP14P",
+      "name": "PS2 Orphanage (Neutralization)",
+      "files": 18
+    },
+    {
+      "code": "SCH03EP",
+      "name": "PS2 Schermerhorn (Extraction)",
+      "files": 19
+    },
+    {
+      "code": "SCH03SP",
+      "name": "PS2 Schermerhorn (Sabotage)",
+      "files": 19
+    },
+    {
+      "code": "SCH03P",
+      "name": "PS2 Schermerhorn (Neutralization)",
+      "files": 18
+    },
+    {
+      "code": "SKY08EP",
+      "name": "PS2 Vertigo Plaza (Extraction)",
+      "files": 20
+    },
+    {
+      "code": "SKY08P",
+      "name": "PS2 Vertigo Plaza (Neutralization)",
+      "files": 19
+    },
+    {
+      "code": "WAR06EP",
+      "name": "PS2 Warehouse (Extraction)",
+      "files": 19
+    },
+    {
+      "code": "WAR06P",
+      "name": "PS2 Warehouse (Neutralization)",
+      "files": 18
+    }
+  ]
+}

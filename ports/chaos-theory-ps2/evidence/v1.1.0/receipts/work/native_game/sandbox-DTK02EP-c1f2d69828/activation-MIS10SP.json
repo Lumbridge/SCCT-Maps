@@ -1,0 +1,313 @@
+{
+  "command": "MIS10SP.sdc?MapName=MIS10SP?MaxPlayers=4?TimeLimit=0?ScoreLimit=0?GameMode=5?LivesATT=0?TimesRespawnsATT=5?LivesDEF=0?BalanceTeams=False?Revenge=False?GamesInARow=0?TimesReinitFlag=30?TimeToExplode=30?GameWithRanking=False?LevelGap=0?Team=0?Name=PrivateSpy?Editeur=false",
+  "travel": {
+    "return": null,
+    "out": {}
+  },
+  "loadingMenu": {
+    "return": true,
+    "out": {}
+  },
+  "liveLevelInfo": "MIS10SP.LevelInfo0",
+  "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\MIS10SP.sdc",
+  "sourceSha256": "e4479b34f7069f3f8b016985de992536b4468eacaadc4dd370ea3fe61b67e37a",
+  "code": "MIS10SP",
+  "sourceCode": "MIS10",
+  "sourceMode": 2,
+  "mode": "Sabotage",
+  "status": "passed",
+  "missions": [
+    {
+      "ref": 457,
+      "mode": 3,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        236,
+        255
+      ]
+    },
+    {
+      "ref": 413,
+      "mode": 1,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        243,
+        279
+      ]
+    },
+    {
+      "ref": 415,
+      "mode": 5,
+      "left": 2,
+      "total": 2,
+      "objectives": [
+        250,
+        248
+      ]
+    }
+  ],
+  "hudObjectives": [
+    2
+  ],
+  "graph": [
+    {
+      "ref": 415,
+      "property": "Objectives",
+      "children": [
+        250,
+        248
+      ]
+    },
+    {
+      "ref": 248,
+      "property": "Triggers",
+      "children": [
+        290,
+        291,
+        295,
+        287
+      ]
+    },
+    {
+      "ref": 250,
+      "property": "Triggers",
+      "children": [
+        292,
+        293,
+        294
+      ]
+    }
+  ],
+  "flags": [],
+  "cases": [
+    {
+      "ref": 223,
+      "kind": "PS2SabotageCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    },
+    {
+      "ref": 237,
+      "kind": "PS2SabotageCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    },
+    {
+      "ref": 200,
+      "kind": "PS2SabotageCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    },
+    {
+      "ref": 217,
+      "kind": "PS2SabotageCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    },
+    {
+      "ref": 176,
+      "kind": "PS2SabotageCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    },
+    {
+      "ref": 192,
+      "kind": "PS2SabotageCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    },
+    {
+      "ref": 218,
+      "kind": "PS2SabotageCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    }
+  ],
+  "bombTargets": [
+    {
+      "ref": 287,
+      "location": [
+        -7162.03125,
+        3006.869140625,
+        -1575.2625732421875
+      ],
+      "drawType": 0,
+      "radius": 22.0,
+      "height": 22.0,
+      "alwaysRelevant": 1,
+      "active": 0
+    },
+    {
+      "ref": 290,
+      "location": [
+        -6804.0830078125,
+        2651.02001953125,
+        -564.27392578125
+      ],
+      "drawType": 0,
+      "radius": 22.0,
+      "height": 22.0,
+      "alwaysRelevant": 1,
+      "active": 0
+    },
+    {
+      "ref": 291,
+      "location": [
+        -6800.83349609375,
+        3360.79541015625,
+        -563.9109497070312
+      ],
+      "drawType": 0,
+      "radius": 22.0,
+      "height": 22.0,
+      "alwaysRelevant": 1,
+      "active": 0
+    },
+    {
+      "ref": 292,
+      "location": [
+        -10279.865234375,
+        1901.064697265625,
+        -1571.2625732421875
+      ],
+      "drawType": 0,
+      "radius": 22.0,
+      "height": 22.0,
+      "alwaysRelevant": 1,
+      "active": 1
+    },
+    {
+      "ref": 293,
+      "location": [
+        -7784.33837890625,
+        -38.586769104003906,
+        -1095.2625732421875
+      ],
+      "drawType": 0,
+      "radius": 22.0,
+      "height": 22.0,
+      "alwaysRelevant": 1,
+      "active": 1
+    },
+    {
+      "ref": 294,
+      "location": [
+        -10454.9345703125,
+        -379.13519287109375,
+        -1571.2625732421875
+      ],
+      "drawType": 0,
+      "radius": 22.0,
+      "height": 22.0,
+      "alwaysRelevant": 1,
+      "active": 1
+    },
+    {
+      "ref": 295,
+      "location": [
+        -6470.45263671875,
+        3009.35302734375,
+        -1575.984619140625
+      ],
+      "drawType": 0,
+      "radius": 22.0,
+      "height": 22.0,
+      "alwaysRelevant": 1,
+      "active": 0
+    }
+  ],
+  "starts": [
+    {
+      "ref": 286,
+      "distance": 0.0
+    },
+    {
+      "ref": 253,
+      "distance": 0.0
+    },
+    {
+      "ref": 252,
+      "distance": 0.0
+    },
+    {
+      "ref": 254,
+      "distance": 0.0
+    },
+    {
+      "ref": 247,
+      "distance": 0.0
+    },
+    {
+      "ref": 246,
+      "distance": 0.0
+    },
+    {
+      "ref": 242,
+      "distance": 0.0
+    },
+    {
+      "ref": 239,
+      "distance": 0.0
+    }
+  ],
+  "geometry": {
+    "name": "UnknownGlobalPS2_873953",
+    "nodes": 1394,
+    "points": 2151,
+    "surfs": 952,
+    "bbox_min": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "points_min": [
+      -42144.03515625,
+      -12255.15625,
+      -3706.249755859375
+    ],
+    "points_max": [
+      23424.04296875,
+      19328.001953125,
+      6704.64990234375
+    ],
+    "points_sha256": "854bc86ff91025a9ad1fdffaef2800a770ea32e3954484777eb68bdc48dd2839"
+  },
+  "runtimeModels": [
+    {
+      "name": "MIS10SP.UnknownGlobalPS2_873953",
+      "nodes": 1394,
+      "points": 2151,
+      "surfs": 952,
+      "pointsSha256": "854bc86ff91025a9ad1fdffaef2800a770ea32e3954484777eb68bdc48dd2839"
+    }
+  ],
+  "seconds": 20.58
+}
