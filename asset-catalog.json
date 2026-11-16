@@ -4669,15 +4669,15 @@
     "Name": "Deftech Belew P",
     "Category": "Ports",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.0.0",
-    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "Version": "v1.0.1",
+    "Commit": "191791e62b239d7e290163a7123136d02ad9afa9",
     "NotesPath": "ports/chaos-theory-ps2/deftech-belew/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/DTK02P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/DTK02P.sdc",
         "Destination": "Packages/Maps/DTK02P.sdc",
-        "Hash": "d62b6b2ed0d3586c0ba8f8a342164abf3720543f",
-        "Size": 419062
+        "Hash": "572b11591a76dac14661624ead63f6fda9aeab08",
+        "Size": 419124
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_867522.uax",
@@ -4710,6 +4710,12 @@
         "Size": 3486628
       },
       {
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_PS2Objectives.usx",
+        "Destination": "Packages/StaticMeshes/P2_PS2Objectives.usx",
+        "Hash": "e72a0f7731ba04ea49dffcfd9e371f6dc84e5e23",
+        "Size": 5951
+      },
+      {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
         "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
         "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
@@ -4722,10 +4728,10 @@
         "Size": 14765
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/DTK02P-i.utc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/DTK02P-i.utc",
         "Destination": "Packages/Textures/DTK02P-i.utc",
-        "Hash": "ac6cd5e1ad0cd9a0e9f27c25cbc12023359c9b2c",
-        "Size": 191437
+        "Hash": "5b0daed202ab1a0f317f588d114acfc6e46ba5e0",
+        "Size": 189432
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
@@ -4782,15 +4788,15 @@
     "Name": "Factory P",
     "Category": "Ports",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.0.0",
-    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "Version": "v1.0.1",
+    "Commit": "191791e62b239d7e290163a7123136d02ad9afa9",
     "NotesPath": "ports/chaos-theory-ps2/factory/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/FAC13P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/FAC13P.sdc",
         "Destination": "Packages/Maps/FAC13P.sdc",
-        "Hash": "f0635d23a2d543be2d8807c1856b7ac3841283e0",
-        "Size": 454598
+        "Hash": "6b372b78a951f6238b905bac63cbab1566b26e1f",
+        "Size": 454609
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_868693.uax",
@@ -4823,6 +4829,12 @@
         "Size": 4176858
       },
       {
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_PS2Objectives.usx",
+        "Destination": "Packages/StaticMeshes/P2_PS2Objectives.usx",
+        "Hash": "e72a0f7731ba04ea49dffcfd9e371f6dc84e5e23",
+        "Size": 5951
+      },
+      {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
         "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
         "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
@@ -4835,10 +4847,10 @@
         "Size": 14765
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/FAC13P-i.utc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/FAC13P-i.utc",
         "Destination": "Packages/Textures/FAC13P-i.utc",
-        "Hash": "0d773e7266d9724f5318c243b099a4ac1fde7eaa",
-        "Size": 214957
+        "Hash": "6f384912e45aaeecb5840e4d1304dab285e1f905",
+        "Size": 213773
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
@@ -4895,15 +4907,15 @@
     "Name": "Station P",
     "Category": "Ports",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.0.0",
-    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "Version": "v1.0.1",
+    "Commit": "191791e62b239d7e290163a7123136d02ad9afa9",
     "NotesPath": "ports/chaos-theory-ps2/station/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/GAR09P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/GAR09P.sdc",
         "Destination": "Packages/Maps/GAR09P.sdc",
-        "Hash": "0e93b0af9e409a06b741c4b5c448e79e94c74ce4",
-        "Size": 291554
+        "Hash": "1fc419c3e5a494771849c594a862d4f89a970738",
+        "Size": 291153
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_869815.uax",
@@ -4936,6 +4948,12 @@
         "Size": 1681403
       },
       {
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_PS2Objectives.usx",
+        "Destination": "Packages/StaticMeshes/P2_PS2Objectives.usx",
+        "Hash": "e72a0f7731ba04ea49dffcfd9e371f6dc84e5e23",
+        "Size": 5951
+      },
+      {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
         "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
         "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
@@ -4948,10 +4966,10 @@
         "Size": 14765
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/GAR09P-i.utc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/GAR09P-i.utc",
         "Destination": "Packages/Textures/GAR09P-i.utc",
-        "Hash": "ce205371d5ee3473b79e69e922a113df40d16060",
-        "Size": 198908
+        "Hash": "fd4fca59d6c467f0a84a8549490443a784300c4f",
+        "Size": 198094
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
@@ -5008,15 +5026,15 @@
     "Name": "Cinema P",
     "Category": "Ports",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.0.0",
-    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "Version": "v1.0.1",
+    "Commit": "191791e62b239d7e290163a7123136d02ad9afa9",
     "NotesPath": "ports/chaos-theory-ps2/cinema/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/INI01P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/INI01P.sdc",
         "Destination": "Packages/Maps/INI01P.sdc",
-        "Hash": "04e14f5a98c13175ce35d2c47787aba3710cff16",
-        "Size": 530855
+        "Hash": "cc0d42cef7ac64a225c9ee398957d5e0c4c1460c",
+        "Size": 530898
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_870437.uax",
@@ -5047,6 +5065,12 @@
         "Destination": "Packages/StaticMeshes/P2_866069.usx",
         "Hash": "8747d7813c3afc888566e97cf6c49dc95f706a18",
         "Size": 3381682
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_PS2Objectives.usx",
+        "Destination": "Packages/StaticMeshes/P2_PS2Objectives.usx",
+        "Hash": "e72a0f7731ba04ea49dffcfd9e371f6dc84e5e23",
+        "Size": 5951
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
@@ -5121,15 +5145,15 @@
     "Name": "Krauser Lab P",
     "Category": "Ports",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.0.0",
-    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "Version": "v1.0.1",
+    "Commit": "191791e62b239d7e290163a7123136d02ad9afa9",
     "NotesPath": "ports/chaos-theory-ps2/krauser-lab/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/KRA07P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/KRA07P.sdc",
         "Destination": "Packages/Maps/KRA07P.sdc",
-        "Hash": "b3d576574f65d834d2f1cce1848a26bea0cfb86a",
-        "Size": 456321
+        "Hash": "fe8a0a0dd2ab3547657e84ff12543cded9128f2f",
+        "Size": 456322
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_871636.uax",
@@ -5168,6 +5192,12 @@
         "Size": 2750716
       },
       {
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_PS2Objectives.usx",
+        "Destination": "Packages/StaticMeshes/P2_PS2Objectives.usx",
+        "Hash": "e72a0f7731ba04ea49dffcfd9e371f6dc84e5e23",
+        "Size": 5951
+      },
+      {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
         "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
         "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
@@ -5180,10 +5210,10 @@
         "Size": 14765
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/KRA07P-i.utc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/KRA07P-i.utc",
         "Destination": "Packages/Textures/KRA07P-i.utc",
-        "Hash": "c365911019feae9f0419ab7c94e01bfa96c443a4",
-        "Size": 203410
+        "Hash": "9dbab21f50d17a24f4ff4270254ee1a903ed56c8",
+        "Size": 201629
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
@@ -5246,15 +5276,15 @@
     "Name": "Mount Hospital P",
     "Category": "Ports",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.0.0",
-    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "Version": "v1.0.1",
+    "Commit": "191791e62b239d7e290163a7123136d02ad9afa9",
     "NotesPath": "ports/chaos-theory-ps2/mount-hospital/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/MHO05P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/MHO05P.sdc",
         "Destination": "Packages/Maps/MHO05P.sdc",
-        "Hash": "68d23884e93be6e782a6333c4e4283f595bc0976",
-        "Size": 554753
+        "Hash": "08114653093d485a2235d6f3fa74d80f5f49d814",
+        "Size": 554777
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_872722.uax",
@@ -5287,6 +5317,12 @@
         "Size": 3953459
       },
       {
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_PS2Objectives.usx",
+        "Destination": "Packages/StaticMeshes/P2_PS2Objectives.usx",
+        "Hash": "e72a0f7731ba04ea49dffcfd9e371f6dc84e5e23",
+        "Size": 5951
+      },
+      {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
         "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
         "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
@@ -5299,10 +5335,10 @@
         "Size": 14765
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/MHO05P-i.utc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/MHO05P-i.utc",
         "Destination": "Packages/Textures/MHO05P-i.utc",
-        "Hash": "9225e750ac0c82c056d4ceb2d70bc255b75bc2dc",
-        "Size": 221446
+        "Hash": "919b46c79717560bae4721316da54d68bfc4f76e",
+        "Size": 219432
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
@@ -5365,15 +5401,15 @@
     "Name": "Missile Strike P",
     "Category": "Ports",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.0.0",
-    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "Version": "v1.0.1",
+    "Commit": "191791e62b239d7e290163a7123136d02ad9afa9",
     "NotesPath": "ports/chaos-theory-ps2/missile-strike/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/MIS10P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/MIS10P.sdc",
         "Destination": "Packages/Maps/MIS10P.sdc",
-        "Hash": "52ec6e90edf820456babc1f2385b26ff529f1928",
-        "Size": 509031
+        "Hash": "d5acfdd83e5dc676347868ce225de19a844ff23c",
+        "Size": 509045
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_873852.uax",
@@ -5406,6 +5442,12 @@
         "Size": 1980932
       },
       {
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_PS2Objectives.usx",
+        "Destination": "Packages/StaticMeshes/P2_PS2Objectives.usx",
+        "Hash": "e72a0f7731ba04ea49dffcfd9e371f6dc84e5e23",
+        "Size": 5951
+      },
+      {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
         "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
         "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
@@ -5418,10 +5460,10 @@
         "Size": 14765
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/MIS10P-i.utc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/MIS10P-i.utc",
         "Destination": "Packages/Textures/MIS10P-i.utc",
-        "Hash": "5ab6786af2cfc70a861b5b386de0695b015e8171",
-        "Size": 199210
+        "Hash": "0e7568ce1d16df469d44c979fb2c78951e503359",
+        "Size": 198235
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
@@ -5478,15 +5520,15 @@
     "Name": "Museum P",
     "Category": "Ports",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.0.0",
-    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "Version": "v1.0.1",
+    "Commit": "191791e62b239d7e290163a7123136d02ad9afa9",
     "NotesPath": "ports/chaos-theory-ps2/museum/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/MUS04P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/MUS04P.sdc",
         "Destination": "Packages/Maps/MUS04P.sdc",
-        "Hash": "6c9171658e507350b4ca24420d33a1e807474d2e",
-        "Size": 502518
+        "Hash": "7410bb93908e89664c04e3973b42379b3a92a46f",
+        "Size": 502574
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_874995.uax",
@@ -5525,6 +5567,12 @@
         "Size": 880154
       },
       {
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_PS2Objectives.usx",
+        "Destination": "Packages/StaticMeshes/P2_PS2Objectives.usx",
+        "Hash": "e72a0f7731ba04ea49dffcfd9e371f6dc84e5e23",
+        "Size": 5951
+      },
+      {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
         "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
         "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
@@ -5537,10 +5585,10 @@
         "Size": 14765
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/MUS04P-i.utc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/MUS04P-i.utc",
         "Destination": "Packages/Textures/MUS04P-i.utc",
-        "Hash": "25322f7a0f5ec9b95478673df4c8445aa2f0a976",
-        "Size": 187798
+        "Hash": "bae7c72cc9f97739f5c271b5c633ea52cdc6af26",
+        "Size": 186759
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
@@ -5603,15 +5651,15 @@
     "Name": "Orphanage P",
     "Category": "Ports",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.0.0",
-    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "Version": "v1.0.1",
+    "Commit": "191791e62b239d7e290163a7123136d02ad9afa9",
     "NotesPath": "ports/chaos-theory-ps2/orphanage/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/ORP14P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/ORP14P.sdc",
         "Destination": "Packages/Maps/ORP14P.sdc",
-        "Hash": "7e0874beff297942bb6c08ec95df63f88c5ff325",
-        "Size": 457711
+        "Hash": "5da27811c4c61fe0911099de4748d0e28b854f64",
+        "Size": 457819
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_875776.uax",
@@ -5644,6 +5692,12 @@
         "Size": 1786464
       },
       {
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_PS2Objectives.usx",
+        "Destination": "Packages/StaticMeshes/P2_PS2Objectives.usx",
+        "Hash": "e72a0f7731ba04ea49dffcfd9e371f6dc84e5e23",
+        "Size": 5951
+      },
+      {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
         "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
         "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
@@ -5656,10 +5710,10 @@
         "Size": 14765
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/ORP14P-i.utc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/ORP14P-i.utc",
         "Destination": "Packages/Textures/ORP14P-i.utc",
-        "Hash": "39e9a1be66488b3351346c03d177a211555eff24",
-        "Size": 216420
+        "Hash": "ad45d26e0829f540e17d63c786c2c245d7d8cd84",
+        "Size": 215150
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_860017.utx",
@@ -5716,15 +5770,15 @@
     "Name": "Schermerhorn P",
     "Category": "Ports",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.0.0",
-    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "Version": "v1.0.1",
+    "Commit": "191791e62b239d7e290163a7123136d02ad9afa9",
     "NotesPath": "ports/chaos-theory-ps2/schermerhorn/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/SCH03P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/SCH03P.sdc",
         "Destination": "Packages/Maps/SCH03P.sdc",
-        "Hash": "d6ceae17f576e8726ef8c8df70eb78c9a0895de6",
-        "Size": 305392
+        "Hash": "f428dff61ef27b8a091638a5b7e24ccffec9723f",
+        "Size": 305473
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_877252.uax",
@@ -5755,6 +5809,12 @@
         "Destination": "Packages/StaticMeshes/P2_865794.usx",
         "Hash": "aacce911e3fc228d210baa29fbe7c71b5d0dc211",
         "Size": 3125017
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_PS2Objectives.usx",
+        "Destination": "Packages/StaticMeshes/P2_PS2Objectives.usx",
+        "Hash": "e72a0f7731ba04ea49dffcfd9e371f6dc84e5e23",
+        "Size": 5951
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
@@ -5817,10 +5877,10 @@
         "Size": 77499
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/SCH03P-i.utc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/SCH03P-i.utc",
         "Destination": "Packages/Textures/SCH03P-i.utc",
-        "Hash": "def3b811260efeccb710026a61f7686e058230cd",
-        "Size": 198000
+        "Hash": "95252f10356e9db63b17b297297982205b8f220f",
+        "Size": 195847
       }
     ]
   },
@@ -5829,15 +5889,15 @@
     "Name": "Vertigo Plaza P",
     "Category": "Ports",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.0.0",
-    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "Version": "v1.0.1",
+    "Commit": "191791e62b239d7e290163a7123136d02ad9afa9",
     "NotesPath": "ports/chaos-theory-ps2/vertigo-plaza/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/SKY08P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/SKY08P.sdc",
         "Destination": "Packages/Maps/SKY08P.sdc",
-        "Hash": "2acf965c1a8f16535e3fa794b226d6b2fe7f793f",
-        "Size": 555248
+        "Hash": "d429837eacd752fb4d996e3a565781a8500dbe5d",
+        "Size": 555295
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_867522.uax",
@@ -5874,6 +5934,12 @@
         "Destination": "Packages/StaticMeshes/P2_865957.usx",
         "Hash": "96aede6d91f992f173b109fab74c191370dbdcad",
         "Size": 4181850
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_PS2Objectives.usx",
+        "Destination": "Packages/StaticMeshes/P2_PS2Objectives.usx",
+        "Hash": "e72a0f7731ba04ea49dffcfd9e371f6dc84e5e23",
+        "Size": 5951
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
@@ -5936,10 +6002,10 @@
         "Size": 77499
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/SKY08P-i.utc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/SKY08P-i.utc",
         "Destination": "Packages/Textures/SKY08P-i.utc",
-        "Hash": "f09e448fd5a638ffe4f605aa26747228fdf923a5",
-        "Size": 209466
+        "Hash": "b584d4240f08699404c87e603b997e241003a7ed",
+        "Size": 208777
       }
     ]
   },
@@ -6174,15 +6240,15 @@
     "Name": "Warehouse P",
     "Category": "Ports",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.0.0",
-    "Commit": "db471346302f0ce14dde74e8ab406eac339380e9",
+    "Version": "v1.0.1",
+    "Commit": "191791e62b239d7e290163a7123136d02ad9afa9",
     "NotesPath": "ports/chaos-theory-ps2/warehouse/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/WAR06P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/WAR06P.sdc",
         "Destination": "Packages/Maps/WAR06P.sdc",
-        "Hash": "7f304c458cee185b72b8d468b135e4d3fd66dab8",
-        "Size": 458863
+        "Hash": "c74867720eb6571504778731743208b8128c3267",
+        "Size": 458889
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_879601.uax",
@@ -6213,6 +6279,12 @@
         "Destination": "Packages/StaticMeshes/P2_866792.usx",
         "Hash": "59de5799942917d99c9e17af9f522c5723deebb9",
         "Size": 4349647
+      },
+      {
+        "Source": "releases/download/ps2-original-svm-v1.0.1/P2_PS2Objectives.usx",
+        "Destination": "Packages/StaticMeshes/P2_PS2Objectives.usx",
+        "Hash": "e72a0f7731ba04ea49dffcfd9e371f6dc84e5e23",
+        "Size": 5951
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.0.0/P2_SGameplayObjects.usx",
@@ -6275,10 +6347,10 @@
         "Size": 77499
       },
       {
-        "Source": "releases/download/ps2-original-svm-v1.0.0/WAR06P-i.utc",
+        "Source": "releases/download/ps2-original-svm-v1.0.1/WAR06P-i.utc",
         "Destination": "Packages/Textures/WAR06P-i.utc",
-        "Hash": "c019b1d101418f58f640f4ae08e931b43ee570a9",
-        "Size": 195007
+        "Hash": "082cff24067d8f20a07cb17d038aec2e0c541c3f",
+        "Size": 193923
       }
     ]
   }

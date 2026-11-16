@@ -1,0 +1,72 @@
+{
+  "status": "passed-draft-commit-binding-pending",
+  "catalogSha256": "03fa81068661d1b78990bd2ce3917c474d6144b97225b3234aebbc3569542e82",
+  "metadataCommit": null,
+  "changedMaps": 12,
+  "unchangedEntries": 118,
+  "reusedAssetURLs": 187,
+  "newRawFiles": 24,
+  "verifiedZIPs": 12,
+  "maps": [
+    {
+      "code": "DTK02P",
+      "files": 18,
+      "zipSha256": "b2eb7457f4f0c352a03dc285c0111f8e95ffe6a2c5bd1d0ab0da9e7fb6e139c9"
+    },
+    {
+      "code": "FAC13P",
+      "files": 18,
+      "zipSha256": "93cec3fff1458d538f8e37a5603d29cb5411b8d8b46601099b56cacec4b9e298"
+    },
+    {
+      "code": "GAR09P",
+      "files": 18,
+      "zipSha256": "24195c64c7130515a5f7b2fa1c38127cbc24f76bd6fcec4278c059e4247a4d26"
+    },
+    {
+      "code": "INI01P",
+      "files": 18,
+      "zipSha256": "f4c39f589b390201d8f3e91f5ec6016f2c0088560bc55bdc263a81f86afd2dfa"
+    },
+    {
+      "code": "KRA07P",
+      "files": 20,
+      "zipSha256": "1c9f1389649fc147e6d74f22bc7ebf1ec0130a8df67c5557f4750968e12687f7"
+    },
+    {
+      "code": "MHO05P",
+      "files": 19,
+      "zipSha256": "1ee2d13c53c68f171cb502873d2cce04728585332a4b09c89511ce43355e66d2"
+    },
+    {
+      "code": "MIS10P",
+      "files": 18,
+      "zipSha256": "d8786c3e78d92f4c0da47c858ddb551614192f60f57170e7cdce11ee0cb92b31"
+    },
+    {
+      "code": "MUS04P",
+      "files": 20,
+      "zipSha256": "d2946327b7b7f3e41f288df50ed8c6d152dea5d14cbbbe21c7881f5cdee4b7dd"
+    },
+    {
+      "code": "ORP14P",
+      "files": 18,
+      "zipSha256": "cd698cf5ad3fa42a1c517df01d0be3ff0db3a5ce53a3ca7aa0340e7e130cea37"
+    },
+    {
+      "code": "SCH03P",
+      "files": 18,
+      "zipSha256": "ecbc9539f4c8e557fd1e46aa1b954b5a07830c94030138e4bba51b594f01e1eb"
+    },
+    {
+      "code": "SKY08P",
+      "files": 19,
+      "zipSha256": "35e4ec738e3ad1d3df2d69c65af42ebfe707329b3ccdf4160ab0dc8a7a76cbe2"
+    },
+    {
+      "code": "WAR06P",
+      "files": 18,
+      "zipSha256": "6d2588024cf86e218f4d38474339a3dae32d97660f2a2026b28d87a06a47be28"
+    }
+  ]
+}

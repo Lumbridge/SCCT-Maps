@@ -1,0 +1,15 @@
+{
+  "format": "scct.ps2.native.converter-source",
+  "version": "1.0.1",
+  "artifact": {
+    "name": "SCCT-PS2-SVM-converter-source-v1.0.1.zip",
+    "size": 5126497,
+    "sha256": "396d94ca56be9aa105357489aa20e97b74a1ec6875aa03ecdc9fd7b1539a59a2",
+    "sourceManifestSha256": "44a71a4e82ab6e90d7513cbde65198f93cde0f7cf6a9cbf52895e653b155db54",
+    "builderCheckoutCommit": "5aa27e533097de319c46ed6109241afd368be1b2"
+  },
+  "url": "https://github.com/Lumbridge/SCCT-Maps/releases/download/ps2-original-svm-v1.0.1/SCCT-PS2-SVM-converter-source-v1.0.1.zip",
+  "candidateTreeSha256": "f4d685f74273aabb9ef4ac668db0ed0a6e4c72cde80eddcef452a3bdeeda5c12",
+  "classPackageSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+  "scope": "Native Neutralization-only profile. The full-mode OpenSCCT source release is separate."
+}

@@ -1,0 +1,115 @@
+{
+  "root": "work\\native_game\\sandbox-GAR09P-0723a25a4b",
+  "files": [
+    {
+      "path": "work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\PS2Original\\P2_Engine.utx",
+      "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+      "bytes": 391117
+    },
+    {
+      "path": "work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\PS2Original\\P2_SBase.utx",
+      "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+      "bytes": 625529
+    },
+    {
+      "path": "work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\PS2Original\\P2_Armes_impacts.uax",
+      "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+      "bytes": 271139
+    },
+    {
+      "path": "work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\PS2Original\\P2_sfx.utx",
+      "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+      "bytes": 161705
+    },
+    {
+      "path": "work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\PS2Original\\P2_Interface.uax",
+      "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+      "bytes": 43747
+    },
+    {
+      "path": "work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\PS2Original\\P2_SGameplayObjects.usx",
+      "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+      "bytes": 54432
+    },
+    {
+      "path": "work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\PS2Original\\P2_SGameplayObjectsTex.utx",
+      "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+      "bytes": 77499
+    },
+    {
+      "path": "work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\PS2Original\\P2_nd133.utx",
+      "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+      "bytes": 103598
+    },
+    {
+      "path": "work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\PS2Original\\P2_Echelon.utx",
+      "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+      "bytes": 300281
+    },
+    {
+      "path": "work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\PS2Original\\P2_857190.usx",
+      "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+      "bytes": 19512
+    },
+    {
+      "path": "work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\PS2Original\\P2_860017.utx",
+      "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+      "bytes": 35860
+    },
+    {
+      "path": "work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\PS2Original\\P2_TestMapStaticM.usx",
+      "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+      "bytes": 14765
+    },
+    {
+      "path": "work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\PS2Original\\GAR09P.sdc",
+      "sha256": "221057da684073b4ce70a3f8b0bb831580eb4a3fa60682eedbccfdaf19aa6802",
+      "bytes": 291554
+    },
+    {
+      "path": "work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\PS2Original\\P2_861983.utx",
+      "sha256": "7bd945ce6bafb82e6c368f4088a7b507330b9d30b5b6a5562d95f14b7fcdd117",
+      "bytes": 5378075
+    },
+    {
+      "path": "work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\PS2Original\\P2_865315.usx",
+      "sha256": "e75d2ad5cad33540d9fd1ec304b38b353da3aad47581a5c2f17c2f9077157f61",
+      "bytes": 1681403
+    },
+    {
+      "path": "work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\PS2Original\\P2_869815.uax",
+      "sha256": "d640327679188acf716690ec73cdb961cbf13448dafdaca463aeac27d496ee23",
+      "bytes": 3278087
+    },
+    {
+      "path": "work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\PS2Original\\GAR09P-i.utc",
+      "sha256": "e0c0b046347f0d7fe0f1336ac472502c876f2a940508a8d5fd20b8c916150cd2",
+      "bytes": 198908
+    }
+  ],
+  "output": "work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\System\\_PC_\\P2_PS2Objectives.u",
+  "status": "compiled",
+  "binaries": {
+    "System/SCCT Versus": "a98873aaec1de21fdcccc0afb9985e3ddcf38a9ddce1207214872d6428ec9950",
+    "System/Reloaded.Core.dll": "7b9297a5acff4588d502e01203d980688828340958c9736d40266bc125a9e71e",
+    "System/ChaosTheory_Editor.exe": "37050c854a0ba5c58f3276bf81299031c3229862f3b440fb10bae31bf5f92c41",
+    "System/Reloaded.Editor.dll": "c29c92c443f3d85d442a969540a42c048d52e6f63ab8f483cf0390a7980b07ac",
+    "System/Reloaded_Editor.exe": "4cec8aa84bcee940a2661f4277e51ea7f5803bd4cfb0bd5953aa356c451d8400",
+    "System/SCCT_Versus.exe": "e4ccd797e47ac668428eebbcd692a76d2f7445898f3930e94efab2b32bac93c9",
+    "System/d3d9.dll": null
+  },
+  "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+  "cleanup": {
+    "ended": [
+      101788
+    ],
+    "left": []
+  },
+  "watchdog": {
+    "samples": 244,
+    "inputDesktopUnreadable": 0,
+    "focusTaken": 0,
+    "windowsOnUserDesktop": []
+  },
+  "log": "EDITOR work\\native_game\\sandbox-GAR09P-0723a25a4b\\System\\ChaosTheory_Editor.exe\nEXEC MAP LOAD FILE=\"work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\MapsEd\\Bootstrap.sdc\"\nEXEC OBJ LOAD FILE=\"work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\PS2Original\\P2_nd133.utx\"\nEXEC OBJ LOAD FILE=\"work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\Animations\\nd133_1mesh.ukx\"\nEXEC CLASS LOAD FILE=\"work\\native_game\\sandbox-GAR09P-0723a25a4b\\System\\PS2Computer.uc_\" PACKAGE=P2_PS2Objectives NAME=PS2Computer\nEXEC SCRIPT MAKE\nENGINE SCRIPT MAKE\nENGINE Parsing PS2Computer\nENGINE Compiling PS2Computer\nENGINE Importing Defaults for PS2Computer\nENGINE Success: Compiled 144 line(s), 15 statement(s).\n\n\nCLASS P2_PS2Objectives.PS2Computer flags=00000A32 properties=1064 parent_properties=1056\nEXEC OBJ SAVEPACKAGE PACKAGE=P2_PS2Objectives FILE=\"work\\native_game\\sandbox-GAR09P-0723a25a4b\\Packages\\System\\_PC_\\P2_PS2Objectives.u\"\nPASS compiled map-local PS2Computer package; no global game packages changed\n"
+}

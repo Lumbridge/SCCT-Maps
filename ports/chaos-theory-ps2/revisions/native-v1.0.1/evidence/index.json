@@ -1,0 +1,47 @@
+[
+  {
+    "file": "final-native-neutralization-receipt.json",
+    "sha256": "c8282fa79be15248086d112f336d971debd7bb6d81d100447da41b7702d56c3f",
+    "originalReportSha256": "dbd244fd69eba79e62839161dbb6c32efad0de69fa8d8b6c11c09922374bd74c"
+  },
+  {
+    "file": "native-console-receipt.json",
+    "sha256": "10620e5f3526fb3d4c11ffbf09312c5817dedc672d99d6cbe6d80b1650f0ce08",
+    "originalReportSha256": "bf2ac9516079fd06a7255672bb01cfc219ee6ca7497ae6f1a45ee0f305ba7162"
+  },
+  {
+    "file": "final-neutralization-clean-loads.json",
+    "sha256": "562fcf3077a568941ff6ae4f7fc09a6c7edfec5a3fa531c88ae120db8eb7d9f0",
+    "originalReportSha256": "91960224e7bd22dd6238f8c87d366fd1615a13f11790dc3f256c18ef43921d00"
+  },
+  {
+    "file": "independent-world-audit.json",
+    "sha256": "c94b8fc323799c5a7773cede4baf22e52983f953db977ffc32eb6ce37b93890c",
+    "originalReportSha256": "1e62e6a9fe1580ad8171d29a7e2f35efcff662eca33dade33d2c6b9f2a14f934"
+  },
+  {
+    "file": "native-package-identity.json",
+    "sha256": "0c9c7090838d811b90b18268e168a589a46ee990c4397b29d080138ba96ec330",
+    "originalReportSha256": "e42af971b297a8f455370002f1366eecc8c3ee12dbc9a7cb65a1f11caf8ab4ca"
+  },
+  {
+    "file": "stock-animation-dependency.json",
+    "sha256": "3561be28b1cbfd2a4a8b9a50b2264035e887fe6ced00b60a8dea594eb54c5ec3",
+    "originalReportSha256": "3561be28b1cbfd2a4a8b9a50b2264035e887fe6ced00b60a8dea594eb54c5ec3"
+  },
+  {
+    "file": "compiled-structure-proof.json",
+    "sha256": "ba50c43f952e203bfb08d8c1f02b1797f61f105e84966400cd66897142752a98",
+    "originalReportSha256": "f28cfe7265463131fbc134aecc4165f66350581cf8229deaf427ca1f9432d8dc"
+  },
+  {
+    "file": "compile-report.json",
+    "sha256": "61bb81b31278ab54bcbd303fe864b6021ddcab05acf250bf8ecb1e5cce2c2380",
+    "originalReportSha256": "5a393a2521cf6953a499cdd3205869c25026050631414bdc34d7691d0b86254c"
+  },
+  {
+    "file": "independent-draft-review.json",
+    "sha256": "b646a6e19293810ba4427d67041d8ce84322d1d6e87f221f7c8950d2c9b9f027",
+    "originalReportSha256": "35e8e49f1af41b531fdd25b61e3cf4139f50e1d976d7fda799abbd4ebb430a1b"
+  }
+]

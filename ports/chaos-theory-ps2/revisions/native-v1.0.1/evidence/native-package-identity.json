@@ -1,0 +1,1681 @@
+{
+  "status": "passed",
+  "maps": [
+    {
+      "code": "DTK02P",
+      "map": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\DTK02P.sdc",
+          "sha256": "3140799e8b3b9200adf64dfe7f860ad5ec6260ef7f114f1448080f46b7545c3a",
+          "rawSize": 1869377,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "752a713cfa2e94f6d8b7c58759311284",
+          "guidWordsLE": [
+            1014049397,
+            4136906490,
+            2277881816,
+            2215784793
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 1250,
+              "names": 1763
+            }
+          ],
+          "nameCount": 1763,
+          "exportCount": 1250,
+          "importCount": 245,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\DTK02\\DTK02P.sdc",
+          "sha256": "663dbc83d7df30089bce41de208d1a7ee9278a0500b9e1963fc31c9663dbb998",
+          "rawSize": 1869474,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "9101cbdf3751e24d36652b400183ecbe",
+          "guidWordsLE": [
+            3754623377,
+            1306677559,
+            1076585782,
+            3203171073
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 1250,
+              "names": 1765
+            }
+          ],
+          "nameCount": 1765,
+          "exportCount": 1250,
+          "importCount": 247,
+          "contentDerivedGuidVerified": true
+        }
+      },
+      "ui": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\DTK02P-i.utc",
+          "sha256": "c3713fc13eafc288b0747cf5412c0e96b47a126bac12180dcef4e76a91a2e268",
+          "rawSize": 1053254,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "309dea71831c516b036d3304186e274c",
+          "guidWordsLE": [
+            1911201072,
+            1800477827,
+            70479107,
+            1277652504
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\DTK02\\DTK02P-i.utc",
+          "sha256": "a3392263c103b147fded7893e80d4395decb59c5144aa9e11189ac65e5251d7e",
+          "rawSize": 1051473,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "93136d17eaa8efc3dddcf9b13c17ccfc",
+          "guidWordsLE": [
+            393024403,
+            3287263466,
+            2985942237,
+            4241233724
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "changed": true
+      },
+      "unchangedSharedAssetCount": 15,
+      "newClassPackage": {
+        "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\DTK02\\P2_PS2Objectives.usx",
+        "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+        "rawSize": 5951,
+        "formatVersion": 300,
+        "licenseeVersion": 0,
+        "flags": 1,
+        "guidRawHex": "7ce7523d10515d46afbd12dc92483593",
+        "guidWordsLE": [
+          1028843388,
+          1180520720,
+          3692215727,
+          2469742738
+        ],
+        "generationCount": 1,
+        "generations": [
+          {
+            "exports": 14,
+            "names": 64
+          }
+        ],
+        "nameCount": 64,
+        "exportCount": 14,
+        "importCount": 39,
+        "contentDerivedGuidVerified": null
+      }
+    },
+    {
+      "code": "FAC13P",
+      "map": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\FAC13P.sdc",
+          "sha256": "8fbf1addf43606398254ea273eedadd56ff6b694f93cfb076948d8f9d698b30c",
+          "rawSize": 1764479,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "37045f1148119e76a7731a62c6683e43",
+          "guidWordsLE": [
+            291439671,
+            1990070600,
+            1645900711,
+            1128163526
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 995,
+              "names": 1355
+            }
+          ],
+          "nameCount": 1355,
+          "exportCount": 995,
+          "importCount": 200,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\FAC13\\FAC13P.sdc",
+          "sha256": "a7c8ef654fc3a690ed3fc1ec13986b9625a6456cc710239e8324997d5473321c",
+          "rawSize": 1764526,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "a7ecfcb186605df943c011d4d7e48978",
+          "guidWordsLE": [
+            2986142887,
+            4183646342,
+            3557933123,
+            2022302935
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 995,
+              "names": 1357
+            }
+          ],
+          "nameCount": 1357,
+          "exportCount": 995,
+          "importCount": 202,
+          "contentDerivedGuidVerified": true
+        }
+      },
+      "ui": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\FAC13P-i.utc",
+          "sha256": "c4fd6a99a6bc2b7614e746c75576f5b587f401dd5bb6df5aa3016b2e1c58aafa",
+          "rawSize": 1051837,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "ff11f941aeb005dd09f1788a60edcd1e",
+          "guidWordsLE": [
+            1106842111,
+            3708137646,
+            2323181833,
+            516812128
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\FAC13\\FAC13P-i.utc",
+          "sha256": "16cae35b59953213b9b52e3582082c5d3a28f5087409b710a6878c35a27acb82",
+          "rawSize": 1050766,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "bf50726b4a580917df81672e64ae506d",
+          "guidWordsLE": [
+            1802653887,
+            386488394,
+            778535391,
+            1834004068
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "changed": true
+      },
+      "unchangedSharedAssetCount": 15,
+      "newClassPackage": {
+        "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\FAC13\\P2_PS2Objectives.usx",
+        "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+        "rawSize": 5951,
+        "formatVersion": 300,
+        "licenseeVersion": 0,
+        "flags": 1,
+        "guidRawHex": "7ce7523d10515d46afbd12dc92483593",
+        "guidWordsLE": [
+          1028843388,
+          1180520720,
+          3692215727,
+          2469742738
+        ],
+        "generationCount": 1,
+        "generations": [
+          {
+            "exports": 14,
+            "names": 64
+          }
+        ],
+        "nameCount": 64,
+        "exportCount": 14,
+        "importCount": 39,
+        "contentDerivedGuidVerified": null
+      }
+    },
+    {
+      "code": "GAR09P",
+      "map": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\GAR09P.sdc",
+          "sha256": "221057da684073b4ce70a3f8b0bb831580eb4a3fa60682eedbccfdaf19aa6802",
+          "rawSize": 977407,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "1e938e5e37f5ad46c16c1b23d53d6f86",
+          "guidWordsLE": [
+            1586402078,
+            1185805623,
+            588999873,
+            2255437269
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 664,
+              "names": 1001
+            }
+          ],
+          "nameCount": 1001,
+          "exportCount": 664,
+          "importCount": 158,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\GAR09\\GAR09P.sdc",
+          "sha256": "0b724b8538b543d597a30194e7852255380b38ac4937b0cdee111392a72c6545",
+          "rawSize": 977149,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "3b00927d27800f5dcf12e9028c43b93d",
+          "guidWordsLE": [
+            2106720315,
+            1561296935,
+            48829135,
+            1035551628
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 664,
+              "names": 1003
+            }
+          ],
+          "nameCount": 1003,
+          "exportCount": 664,
+          "importCount": 160,
+          "contentDerivedGuidVerified": true
+        }
+      },
+      "ui": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\GAR09P-i.utc",
+          "sha256": "e0c0b046347f0d7fe0f1336ac472502c876f2a940508a8d5fd20b8c916150cd2",
+          "rawSize": 1051738,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "2aa413de3c74b39124629a3d9af48ca0",
+          "guidWordsLE": [
+            3725829162,
+            2444457020,
+            1033527844,
+            2693592218
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\GAR09\\GAR09P-i.utc",
+          "sha256": "ff5613f094af3da82c04fe7fe5bd7c0ae99a565f32bd97f0ea321b6fc7d06f69",
+          "rawSize": 1050954,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "4fa288d1de23c0c5559f2acf52626b01",
+          "guidWordsLE": [
+            3515392591,
+            3317703646,
+            3475677013,
+            23814738
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "changed": true
+      },
+      "unchangedSharedAssetCount": 15,
+      "newClassPackage": {
+        "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\GAR09\\P2_PS2Objectives.usx",
+        "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+        "rawSize": 5951,
+        "formatVersion": 300,
+        "licenseeVersion": 0,
+        "flags": 1,
+        "guidRawHex": "7ce7523d10515d46afbd12dc92483593",
+        "guidWordsLE": [
+          1028843388,
+          1180520720,
+          3692215727,
+          2469742738
+        ],
+        "generationCount": 1,
+        "generations": [
+          {
+            "exports": 14,
+            "names": 64
+          }
+        ],
+        "nameCount": 64,
+        "exportCount": 14,
+        "importCount": 39,
+        "contentDerivedGuidVerified": null
+      }
+    },
+    {
+      "code": "INI01P",
+      "map": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\INI01P.sdc",
+          "sha256": "665e2de289407729a10432505c23710aaae053711f93af85f28de067f5c50390",
+          "rawSize": 2042223,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "be02453f5c78669d6b1cdca799bdee55",
+          "guidWordsLE": [
+            1061487294,
+            2640738396,
+            2816220267,
+            1441709465
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 753,
+              "names": 1109
+            }
+          ],
+          "nameCount": 1109,
+          "exportCount": 753,
+          "importCount": 189,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\INI01\\INI01P.sdc",
+          "sha256": "deb12fbd5c4c409933c6c911681c0f4bfdfd32f7f03db61b6252cbc8377c0381",
+          "rawSize": 2042300,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "5e0633a24e75f4b45a557a12a60feb51",
+          "guidWordsLE": [
+            2721252958,
+            3035919694,
+            310007130,
+            1374359462
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 753,
+              "names": 1111
+            }
+          ],
+          "nameCount": 1111,
+          "exportCount": 753,
+          "importCount": 191,
+          "contentDerivedGuidVerified": true
+        }
+      },
+      "ui": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\INI01P-i.utc",
+          "sha256": "18f96a8e11f7752f0a9f92d43ae8235a48772d5eb4a0515ea307b94ce8dfc7b9",
+          "rawSize": 1051308,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "05d0d95e4bc334b132770365d2c90e25",
+          "guidWordsLE": [
+            1591332869,
+            2973025099,
+            1694725938,
+            621726162
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\INI01\\INI01P-i.utc",
+          "sha256": "18f96a8e11f7752f0a9f92d43ae8235a48772d5eb4a0515ea307b94ce8dfc7b9",
+          "rawSize": 1051308,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "05d0d95e4bc334b132770365d2c90e25",
+          "guidWordsLE": [
+            1591332869,
+            2973025099,
+            1694725938,
+            621726162
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "changed": false
+      },
+      "unchangedSharedAssetCount": 15,
+      "newClassPackage": {
+        "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\INI01\\P2_PS2Objectives.usx",
+        "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+        "rawSize": 5951,
+        "formatVersion": 300,
+        "licenseeVersion": 0,
+        "flags": 1,
+        "guidRawHex": "7ce7523d10515d46afbd12dc92483593",
+        "guidWordsLE": [
+          1028843388,
+          1180520720,
+          3692215727,
+          2469742738
+        ],
+        "generationCount": 1,
+        "generations": [
+          {
+            "exports": 14,
+            "names": 64
+          }
+        ],
+        "nameCount": 64,
+        "exportCount": 14,
+        "importCount": 39,
+        "contentDerivedGuidVerified": null
+      }
+    },
+    {
+      "code": "KRA07P",
+      "map": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\KRA07P.sdc",
+          "sha256": "902731bacf9b929fbd6e2d315c507d3c56f1b355424293e1ebf79070cd9718cd",
+          "rawSize": 1946883,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "3776692fadcbc3c35d8272060f0de7d7",
+          "guidWordsLE": [
+            795440695,
+            3284388781,
+            108167773,
+            3622243599
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 1020,
+              "names": 1570
+            }
+          ],
+          "nameCount": 1570,
+          "exportCount": 1020,
+          "importCount": 255,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\KRA07\\KRA07P.sdc",
+          "sha256": "995acd1ab7557375e5a4c33eace1e4f3ce74a4d459974601eb9bb7a7151f0d23",
+          "rawSize": 1946971,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "cc1107a4c8b8d354bb5ce272093b9209",
+          "guidWordsLE": [
+            2751926732,
+            1423161544,
+            1927437499,
+            160578313
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 1020,
+              "names": 1572
+            }
+          ],
+          "nameCount": 1572,
+          "exportCount": 1020,
+          "importCount": 257,
+          "contentDerivedGuidVerified": true
+        }
+      },
+      "ui": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\KRA07P-i.utc",
+          "sha256": "e87f035d28f7c46317a2ba01ea332a7ae41fa4e449a6fa27780420a53a34097a",
+          "rawSize": 1053386,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "a21d77432de222f911587a40701e919a",
+          "guidWordsLE": [
+            1131879842,
+            4179812909,
+            1081759761,
+            2593201776
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\KRA07\\KRA07P-i.utc",
+          "sha256": "dd48dc240c9d95ed7ba3df133f42210ef993ee21bef8dcbb99509f3beadd2f1a",
+          "rawSize": 1051680,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "982971261f3ac3eb7c4760175059a4d1",
+          "guidWordsLE": [
+            644950424,
+            3955440159,
+            392185724,
+            3517208912
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "changed": true
+      },
+      "unchangedSharedAssetCount": 17,
+      "newClassPackage": {
+        "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\KRA07\\P2_PS2Objectives.usx",
+        "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+        "rawSize": 5951,
+        "formatVersion": 300,
+        "licenseeVersion": 0,
+        "flags": 1,
+        "guidRawHex": "7ce7523d10515d46afbd12dc92483593",
+        "guidWordsLE": [
+          1028843388,
+          1180520720,
+          3692215727,
+          2469742738
+        ],
+        "generationCount": 1,
+        "generations": [
+          {
+            "exports": 14,
+            "names": 64
+          }
+        ],
+        "nameCount": 64,
+        "exportCount": 14,
+        "importCount": 39,
+        "contentDerivedGuidVerified": null
+      }
+    },
+    {
+      "code": "MHO05P",
+      "map": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\MHO05P.sdc",
+          "sha256": "5cdbe13ecdd52615eb5470d288df7afa5188d38b18bdaa6a3e3449a7ded151be",
+          "rawSize": 2129812,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "c0d6e84699a3a123e088979efd294879",
+          "guidWordsLE": [
+            1189664448,
+            597795737,
+            2660731104,
+            2034772477
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 1094,
+              "names": 1557
+            }
+          ],
+          "nameCount": 1557,
+          "exportCount": 1094,
+          "importCount": 258,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\MHO05\\MHO05P.sdc",
+          "sha256": "ca8db6d7f27c5abdcdeaaa1fdedc891fb7661e561bca835a7b80b9886eab00cc",
+          "rawSize": 2129887,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "55384886fdda3eda36a74249d30749e5",
+          "guidWordsLE": [
+            2252879957,
+            3661552381,
+            1229104950,
+            3846768595
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 1094,
+              "names": 1559
+            }
+          ],
+          "nameCount": 1559,
+          "exportCount": 1094,
+          "importCount": 260,
+          "contentDerivedGuidVerified": true
+        }
+      },
+      "ui": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\MHO05P-i.utc",
+          "sha256": "9589e9559d41ad231f0f0b668febbc5abbc2c8537e38640875141085cedb9dec",
+          "rawSize": 1053367,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "ff0e7680d6345142c34273fa33605357",
+          "guidWordsLE": [
+            2155220735,
+            1112618198,
+            4201857731,
+            1465081907
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\MHO05\\MHO05P-i.utc",
+          "sha256": "a49a256c84e1889c07cb9c225f6dec6309ceccf9443a09c45eac88f40004ce9b",
+          "rawSize": 1051673,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "b6f439d171746fbf91416a56448cef02",
+          "guidWordsLE": [
+            3510236342,
+            3211752561,
+            1449804177,
+            49253444
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "changed": true
+      },
+      "unchangedSharedAssetCount": 16,
+      "newClassPackage": {
+        "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\MHO05\\P2_PS2Objectives.usx",
+        "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+        "rawSize": 5951,
+        "formatVersion": 300,
+        "licenseeVersion": 0,
+        "flags": 1,
+        "guidRawHex": "7ce7523d10515d46afbd12dc92483593",
+        "guidWordsLE": [
+          1028843388,
+          1180520720,
+          3692215727,
+          2469742738
+        ],
+        "generationCount": 1,
+        "generations": [
+          {
+            "exports": 14,
+            "names": 64
+          }
+        ],
+        "nameCount": 64,
+        "exportCount": 14,
+        "importCount": 39,
+        "contentDerivedGuidVerified": null
+      }
+    },
+    {
+      "code": "MIS10P",
+      "map": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\MIS10P.sdc",
+          "sha256": "a0b4d61d08b9453ca8e84ca3677f0436e577d24fe1b19fa6f5126b517dc64bea",
+          "rawSize": 2109415,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "5e9259d3a0df2fad214d06711583937c",
+          "guidWordsLE": [
+            3545862750,
+            2905595808,
+            1896238369,
+            2090042133
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 1302,
+              "names": 1712
+            }
+          ],
+          "nameCount": 1712,
+          "exportCount": 1302,
+          "importCount": 188,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\MIS10\\MIS10P.sdc",
+          "sha256": "62759bb1a4e0244b5d7ce9fee3ed5c32f01ad8e9e7e5889a14fd9900d1d6ed90",
+          "rawSize": 2109506,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "70f1c2aade50b4a7ec4e629d8bd907d8",
+          "guidWordsLE": [
+            2864902512,
+            2813612254,
+            2640465644,
+            3624393099
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 1302,
+              "names": 1714
+            }
+          ],
+          "nameCount": 1714,
+          "exportCount": 1302,
+          "importCount": 190,
+          "contentDerivedGuidVerified": true
+        }
+      },
+      "ui": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\MIS10P-i.utc",
+          "sha256": "ede923d27cc9dcc59aa922e0a22cfff0b88ebf976fd4bc66fffdd967f9ddbe34",
+          "rawSize": 1051968,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "08348770a42c427922349af6c7a1da78",
+          "guidWordsLE": [
+            1887908872,
+            2034379940,
+            4137301026,
+            2027594183
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\MIS10\\MIS10P-i.utc",
+          "sha256": "7e024811814dc7912a814911b2e0da3d0af425a5f0590a3c669d9adf10b7c357",
+          "rawSize": 1051016,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "8d3fdaefe72cc53ed8c06804d8eb06a7",
+          "guidWordsLE": [
+            4024057741,
+            1053109479,
+            73973976,
+            2802248664
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "changed": true
+      },
+      "unchangedSharedAssetCount": 15,
+      "newClassPackage": {
+        "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\MIS10\\P2_PS2Objectives.usx",
+        "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+        "rawSize": 5951,
+        "formatVersion": 300,
+        "licenseeVersion": 0,
+        "flags": 1,
+        "guidRawHex": "7ce7523d10515d46afbd12dc92483593",
+        "guidWordsLE": [
+          1028843388,
+          1180520720,
+          3692215727,
+          2469742738
+        ],
+        "generationCount": 1,
+        "generations": [
+          {
+            "exports": 14,
+            "names": 64
+          }
+        ],
+        "nameCount": 64,
+        "exportCount": 14,
+        "importCount": 39,
+        "contentDerivedGuidVerified": null
+      }
+    },
+    {
+      "code": "MUS04P",
+      "map": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\MUS04P.sdc",
+          "sha256": "9ef891a53d8ad0402a5e955aba0de74af99f7a78f8e5b790c834a34e950ecaa7",
+          "rawSize": 1986014,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "6f0f534aa2b005e832c2bb3d6d7a9001",
+          "guidWordsLE": [
+            1246957423,
+            3892687010,
+            1035715122,
+            26245741
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 1326,
+              "names": 1997
+            }
+          ],
+          "nameCount": 1997,
+          "exportCount": 1326,
+          "importCount": 329,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\MUS04\\MUS04P.sdc",
+          "sha256": "44f00a0f570369955fcd4a5df5351d0ee484a2cf44dd58cb51b408d8bc55c508",
+          "rawSize": 1986098,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "3eb161579fdae05b6b254c519f062770",
+          "guidWordsLE": [
+            1466020158,
+            1541462687,
+            1363944811,
+            1881605791
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 1326,
+              "names": 1999
+            }
+          ],
+          "nameCount": 1999,
+          "exportCount": 1326,
+          "importCount": 331,
+          "contentDerivedGuidVerified": true
+        }
+      },
+      "ui": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\MUS04P-i.utc",
+          "sha256": "0b3e5986052b90b2aa13d6f85fa6e4903afd4db35b435259a6f94d39121d21c2",
+          "rawSize": 1052510,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "77c90c0eb026725960e2cd45b6780bba",
+          "guidWordsLE": [
+            235719031,
+            1500653232,
+            1171120736,
+            3121313974
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\MUS04\\MUS04P-i.utc",
+          "sha256": "3622f35d9a12d39d5964d118997a84f2753a7ce51a2339e8072b959ce4f66e6d",
+          "rawSize": 1051579,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "1ca339040fe0b92243d24844c2ce8591",
+          "guidWordsLE": [
+            70886172,
+            582606863,
+            1145623107,
+            2441465538
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "changed": true
+      },
+      "unchangedSharedAssetCount": 17,
+      "newClassPackage": {
+        "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\MUS04\\P2_PS2Objectives.usx",
+        "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+        "rawSize": 5951,
+        "formatVersion": 300,
+        "licenseeVersion": 0,
+        "flags": 1,
+        "guidRawHex": "7ce7523d10515d46afbd12dc92483593",
+        "guidWordsLE": [
+          1028843388,
+          1180520720,
+          3692215727,
+          2469742738
+        ],
+        "generationCount": 1,
+        "generations": [
+          {
+            "exports": 14,
+            "names": 64
+          }
+        ],
+        "nameCount": 64,
+        "exportCount": 14,
+        "importCount": 39,
+        "contentDerivedGuidVerified": null
+      }
+    },
+    {
+      "code": "ORP14P",
+      "map": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\ORP14P.sdc",
+          "sha256": "85eebe4d16fdfe8aa78af1b3d6657c4fdd75882904e422a171156b7c882a928b",
+          "rawSize": 1589709,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "e000d3a176aa6e643718c2ab2a40b04d",
+          "guidWordsLE": [
+            2714960096,
+            1684974198,
+            2881624119,
+            1303396394
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 1741,
+              "names": 2191
+            }
+          ],
+          "nameCount": 2191,
+          "exportCount": 1741,
+          "importCount": 200,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\ORP14\\ORP14P.sdc",
+          "sha256": "bfecdeff14044e5d4f9c66257e82646578b256db46fe10f025e617465f528b84",
+          "rawSize": 1589794,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "eed7b4cea6dfe02603bb35764db53863",
+          "guidWordsLE": [
+            3467958254,
+            652271526,
+            1983232771,
+            1664660813
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 1741,
+              "names": 2193
+            }
+          ],
+          "nameCount": 2193,
+          "exportCount": 1741,
+          "importCount": 202,
+          "contentDerivedGuidVerified": true
+        }
+      },
+      "ui": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\ORP14P-i.utc",
+          "sha256": "3035f93b6f7a8241e3ecd6b95b2d41217ea7c709198a118f287f18c36cf9824f",
+          "rawSize": 1051863,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "e8bbc733432fb45072f7eb57a11ded8a",
+          "guidWordsLE": [
+            868727784,
+            1353985859,
+            1475082098,
+            2330795425
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\ORP14\\ORP14P-i.utc",
+          "sha256": "d0e999037dadba3ed8c4346784d3b7f7828faeb425edf74c8fc6a5189b708551",
+          "rawSize": 1050789,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "d10cc5cd53d6a2d48595aefa0011eb94",
+          "guidWordsLE": [
+            3452243153,
+            3567441491,
+            4205745541,
+            2498433280
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "changed": true
+      },
+      "unchangedSharedAssetCount": 15,
+      "newClassPackage": {
+        "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\ORP14\\P2_PS2Objectives.usx",
+        "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+        "rawSize": 5951,
+        "formatVersion": 300,
+        "licenseeVersion": 0,
+        "flags": 1,
+        "guidRawHex": "7ce7523d10515d46afbd12dc92483593",
+        "guidWordsLE": [
+          1028843388,
+          1180520720,
+          3692215727,
+          2469742738
+        ],
+        "generationCount": 1,
+        "generations": [
+          {
+            "exports": 14,
+            "names": 64
+          }
+        ],
+        "nameCount": 64,
+        "exportCount": 14,
+        "importCount": 39,
+        "contentDerivedGuidVerified": null
+      }
+    },
+    {
+      "code": "SCH03P",
+      "map": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\SCH03P.sdc",
+          "sha256": "a8b43fa3ce3968d0e6dccd4eaae668eb850cb644707049be08c399d62e380162",
+          "rawSize": 1495934,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "d5cc686ca270bdddd9ae29238819ced3",
+          "guidWordsLE": [
+            1818807509,
+            3720179874,
+            589934297,
+            3553499528
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 791,
+              "names": 1354
+            }
+          ],
+          "nameCount": 1354,
+          "exportCount": 791,
+          "importCount": 268,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\SCH03\\SCH03P.sdc",
+          "sha256": "33b067841f0bd7067c58ab3cfb4b71fa91e51952268af918aeeae9efb5a4dd56",
+          "rawSize": 1496007,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "0eb4385b97f3c5f07f5ba3a88224bafd",
+          "guidWordsLE": [
+            1530442766,
+            4039504791,
+            2829278079,
+            4256834690
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 791,
+              "names": 1356
+            }
+          ],
+          "nameCount": 1356,
+          "exportCount": 791,
+          "importCount": 270,
+          "contentDerivedGuidVerified": true
+        }
+      },
+      "ui": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\SCH03P-i.utc",
+          "sha256": "63648b0a6f9ba18b65e36f8b4cbeaaadce5425e3ae2bde7c7142c3299e90fa0f",
+          "rawSize": 1053515,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "f54d3c46948a1d402b268ae20635c479",
+          "guidWordsLE": [
+            1178357237,
+            1075677844,
+            3800704555,
+            2042901766
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\SCH03\\SCH03P-i.utc",
+          "sha256": "85d1889840c7ca3e921413e6cb58a5cfec51385bc757d17350378f21044e2b53",
+          "rawSize": 1051409,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "36cfb22a09901797a81d1e0072aeecb8",
+          "guidWordsLE": [
+            716361526,
+            2534903817,
+            1973672,
+            3102518898
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "changed": true
+      },
+      "unchangedSharedAssetCount": 15,
+      "newClassPackage": {
+        "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\SCH03\\P2_PS2Objectives.usx",
+        "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+        "rawSize": 5951,
+        "formatVersion": 300,
+        "licenseeVersion": 0,
+        "flags": 1,
+        "guidRawHex": "7ce7523d10515d46afbd12dc92483593",
+        "guidWordsLE": [
+          1028843388,
+          1180520720,
+          3692215727,
+          2469742738
+        ],
+        "generationCount": 1,
+        "generations": [
+          {
+            "exports": 14,
+            "names": 64
+          }
+        ],
+        "nameCount": 64,
+        "exportCount": 14,
+        "importCount": 39,
+        "contentDerivedGuidVerified": null
+      }
+    },
+    {
+      "code": "SKY08P",
+      "map": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\SKY08P.sdc",
+          "sha256": "2d64cb115ff094c3ceeca2416b8c2432eb3bc42f86ca366408580c2eedcb83ef",
+          "rawSize": 2216506,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "52ab4ebd19ee41fb702282610279a5d5",
+          "guidWordsLE": [
+            3176049490,
+            4215402009,
+            1635918448,
+            3584391426
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 936,
+              "names": 1385
+            }
+          ],
+          "nameCount": 1385,
+          "exportCount": 936,
+          "importCount": 213,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\SKY08\\SKY08P.sdc",
+          "sha256": "217cda93905fc092533fe12ae738123711ad017ab7fce8b27b58666c24d18d43",
+          "rawSize": 2216586,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "b2a63908b2fdb60e6d78e4bea42eebc3",
+          "guidWordsLE": [
+            137995954,
+            246873522,
+            3202644077,
+            3286970020
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 936,
+              "names": 1387
+            }
+          ],
+          "nameCount": 1387,
+          "exportCount": 936,
+          "importCount": 215,
+          "contentDerivedGuidVerified": true
+        }
+      },
+      "ui": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\SKY08P-i.utc",
+          "sha256": "2f5b45009a31e3d09b44ef172299d7d00fb16e9561d5fef42d1e4de57f7d615f",
+          "rawSize": 1051984,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "fabfaf0967038eeefd9dc3f24a8ed1aa",
+          "guidWordsLE": [
+            162512890,
+            4002284391,
+            4072906237,
+            2865860170
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\SKY08\\SKY08P-i.utc",
+          "sha256": "439c34e14f255f93fa74e412d4d1fb46e8a4ea2e4099b36cf0e985df4565b759",
+          "rawSize": 1051291,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "2fb6382feee2d8b5ce9b53927b26111a",
+          "guidWordsLE": [
+            792245807,
+            3050889966,
+            2454952910,
+            437331579
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "changed": true
+      },
+      "unchangedSharedAssetCount": 16,
+      "newClassPackage": {
+        "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\SKY08\\P2_PS2Objectives.usx",
+        "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+        "rawSize": 5951,
+        "formatVersion": 300,
+        "licenseeVersion": 0,
+        "flags": 1,
+        "guidRawHex": "7ce7523d10515d46afbd12dc92483593",
+        "guidWordsLE": [
+          1028843388,
+          1180520720,
+          3692215727,
+          2469742738
+        ],
+        "generationCount": 1,
+        "generations": [
+          {
+            "exports": 14,
+            "names": 64
+          }
+        ],
+        "nameCount": 64,
+        "exportCount": 14,
+        "importCount": 39,
+        "contentDerivedGuidVerified": null
+      }
+    },
+    {
+      "code": "WAR06P",
+      "map": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\WAR06P.sdc",
+          "sha256": "dfafb2044983b60dcd695accdaa0a4be1737f3a1a7e4bfc51a0fe0bc1b571064",
+          "rawSize": 2056689,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "b5ce1c036479d965a7454b4a8625654e",
+          "guidWordsLE": [
+            52219573,
+            1708751204,
+            1246447015,
+            1315251590
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 1038,
+              "names": 1530
+            }
+          ],
+          "nameCount": 1530,
+          "exportCount": 1038,
+          "importCount": 217,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\WAR06\\WAR06P.sdc",
+          "sha256": "65a4a8fde7b0a8e9055a44a3859c038500f8f8a6da08d3bb04d20e045ef308e3",
+          "rawSize": 2056772,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "8f0001c49e0d84bb1a0a7140dd338849",
+          "guidWordsLE": [
+            3288400015,
+            3145993630,
+            1081149978,
+            1233662941
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 1038,
+              "names": 1532
+            }
+          ],
+          "nameCount": 1532,
+          "exportCount": 1038,
+          "importCount": 219,
+          "contentDerivedGuidVerified": true
+        }
+      },
+      "ui": {
+        "before": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\v1-baseline\\WAR06P-i.utc",
+          "sha256": "8da23821530b3510d8cc02128ad0a0e8a4a164abf9bba9280ea1b21652bdd5f1",
+          "rawSize": 1052298,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "fc4492d1e4832b812ac5a35090fe187a",
+          "guidWordsLE": [
+            3516024060,
+            2167112676,
+            1352910122,
+            2048458384
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "after": {
+          "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\WAR06\\WAR06P-i.utc",
+          "sha256": "5207a2e82a4492a2a9286459625c4315c48ffba408e12395c63987d43d4c2645",
+          "rawSize": 1051396,
+          "formatVersion": 300,
+          "licenseeVersion": 0,
+          "flags": 1,
+          "guidRawHex": "d45e4d5d2c0827c606bed48ed56a2d83",
+          "guidWordsLE": [
+            1565351636,
+            3324446764,
+            2396306950,
+            2200791765
+          ],
+          "generationCount": 1,
+          "generations": [
+            {
+              "exports": 5,
+              "names": 45
+            }
+          ],
+          "nameCount": 45,
+          "exportCount": 5,
+          "importCount": 4,
+          "contentDerivedGuidVerified": true
+        },
+        "changed": true
+      },
+      "unchangedSharedAssetCount": 15,
+      "newClassPackage": {
+        "file": "work\\pc-collection-native-neutralization-v1.0.1-d650\\WAR06\\P2_PS2Objectives.usx",
+        "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+        "rawSize": 5951,
+        "formatVersion": 300,
+        "licenseeVersion": 0,
+        "flags": 1,
+        "guidRawHex": "7ce7523d10515d46afbd12dc92483593",
+        "guidWordsLE": [
+          1028843388,
+          1180520720,
+          3692215727,
+          2469742738
+        ],
+        "generationCount": 1,
+        "generations": [
+          {
+            "exports": 14,
+            "names": 64
+          }
+        ],
+        "nameCount": 64,
+        "exportCount": 14,
+        "importCount": 39,
+        "contentDerivedGuidVerified": null
+      }
+    }
+  ],
+  "policy": {
+    "guid": "First 128 bits of SHA-256(domain + canonical source GUID/version/flags/count provenance + all serialized package bytes after the 64-byte summary). Both object data and import/export/name tables are covered.",
+    "generation": "New derived GUID uses one generation whose export/name counts match the emitted package.",
+    "formatVersion": "300 is the native format version, not a content release number; it should remain 300.",
+    "revisionConclusion": "Changed native SDCs/UTCs already receive different GUIDs. No additional manual content-version GUID bump is needed. Unchanged dependencies retain their exact GUID/bytes.",
+    "newClassPackage": "Compiled P2_PS2Objectives is new to this native publication; nonzero compiler GUID and generation structure recorded. It did not exist in native v1.",
+    "limitations": "Offline package-identity audit. Actual native remote-client negotiation is not claimed."
+  }
+}

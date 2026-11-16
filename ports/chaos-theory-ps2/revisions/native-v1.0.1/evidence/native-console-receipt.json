@@ -1,0 +1,79 @@
+{
+  "format": "scct.ps2.native-console-validation.v1",
+  "status": "passed Station console functional/visual gates; final12 map load gate separate",
+  "nativeScope": "Neutralization only on 12 versus maps; tutorials retain v1",
+  "className": "P2_PS2Objectives.PS2Computer",
+  "script": {
+    "path": "work\\native_game\\console-appearance\\P2_PS2Objectives.u",
+    "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+  },
+  "compiledStructure": {
+    "path": "work\\native_game\\console-appearance\\compiled-structure-proof.json",
+    "sha256": "f28cfe7265463131fbc134aecc4165f66350581cf8229deaf427ca1f9432d8dc"
+  },
+  "sourceAssets": {
+    "path": "work\\ps2_objectives\\native-visual-assets.json",
+    "sha256": "35126aef570261e31e69b4fca90f14388e90ec64b4c8fd255f22dabceb0b0f30"
+  },
+  "sourceScriptEvidence": {
+    "file": "work\\name_compare\\objective-scripts\\SComputerObjectiveTrigger.txt",
+    "diskRange": "0x13F888..0x140641",
+    "visualClips": [
+      "nd133_hack_ps2",
+      "nd133_alarm_ps2",
+      "nd133_keyboard_in_ps2"
+    ]
+  },
+  "cleanCompatibility": {
+    "injectedModules": false,
+    "rendererProxy": false,
+    "integrityGate": false,
+    "launch": {
+      "path": "work\\native_game\\sandbox-GAR09P-c58c8d89d0\\clean-launch.json",
+      "sha256": "a5c30571f90924a05d3abeafbe280ba01d0cfdc0d2e9a8b3f076df2568cb6023"
+    },
+    "normalInputHack": {
+      "path": "work\\native_game\\sandbox-GAR09P-c58c8d89d0\\clean-normal-use-standing.json",
+      "sha256": "a0257ad0bda331db7d76ff19c993919364cd922a83006121eed9fe72d52ac00b"
+    },
+    "result": "Normal Use, ten-second hack; complete 0→1; mission objectives 3→2"
+  },
+  "fixture": {
+    "path": "work\\native_game\\console-appearance\\fixture\\spawn-only-delta.json",
+    "sha256": "c47c0b76f7569d43a9086b89eda9893526fe0d3df3027ff63bd4a3402ef9ed62"
+  },
+  "instrumentedVisual": {
+    "explicitModule": "Reloaded.TestHook.dll",
+    "processInternalDetour": false,
+    "gameTextBeforeAfterEqual": true,
+    "integrityGate": false,
+    "evidence": {
+      "path": "work\\native_game\\sandbox-GAR09P-a42218332f\\calls-only-visual.json",
+      "sha256": "76b275f5b02cf3cad76ce96aa2c132bdeeddf1ec29b68dae349ee6805fe05549"
+    },
+    "images": {
+      "idle": {
+        "path": "work\\native_game\\sandbox-GAR09P-a42218332f\\console-idle.png",
+        "sha256": "fa2faea3a04f7dbdc8674d485a7f04ccbdaa138804e14eb6bb73c89d104f8102"
+      },
+      "hacking-early": {
+        "path": "work\\native_game\\sandbox-GAR09P-a42218332f\\console-hacking-early.png",
+        "sha256": "40a9a3b2f251f697044e403a15563e00d94f45d7f2773c4983b1912f80b2781d"
+      },
+      "hacking-late": {
+        "path": "work\\native_game\\sandbox-GAR09P-a42218332f\\console-hacking-late.png",
+        "sha256": "dc501ebe0984057816c463e17e01acfa4ec23f5920676b4903446887c109be07"
+      },
+      "completed": {
+        "path": "work\\native_game\\sandbox-GAR09P-a42218332f\\console-completed.png",
+        "sha256": "095213defb7a6ebb6f12fdf41ba3deb4bccb5e957aa1a6277c33b06146fb15ac"
+      }
+    },
+    "result": "Original ND133 closed case, changing hack indicators and countdown, open completed case with upright green vial"
+  },
+  "limitations": [
+    "Screenshots use calls-only instrumentation; clean compatibility/normalUse proof is separate.",
+    "Lighting is dark; exact PS2 lighting parity is not claimed.",
+    "Native Extraction/Sabotage/carry and modem behavior are excluded by user scope."
+  ]
+}

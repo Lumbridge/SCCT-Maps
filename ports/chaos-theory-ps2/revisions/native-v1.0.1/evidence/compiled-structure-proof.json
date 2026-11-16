@@ -1,0 +1,44 @@
+{
+  "packageSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+  "classRecords": [
+    {
+      "path": "P2_PS2Objectives.PS2Computer",
+      "super": "SBase.SComputerObjectiveTrigger",
+      "within": "Core.Object",
+      "config": "System",
+      "flags": "0x00000a32",
+      "probe_mask": "0x03800010010021c2",
+      "ignore_mask": "0xffffffffffffffff",
+      "state_flags": 0,
+      "script_size": 0,
+      "script_disk": 0,
+      "package_imports": [
+        "P2_PS2Objectives",
+        "SBase",
+        "Engine",
+        "Core"
+      ],
+      "dependencies": [
+        "P2_PS2Objectives.PS2Computer",
+        "SBase.SComputerObjectiveTrigger",
+        "SBase.SObjective"
+      ],
+      "hide_categories": [],
+      "defaults_offset": 110,
+      "props": {
+        "Mesh": "nd133_1mesh.nd133_mesh",
+        "Skins": [
+          "P2_nd133.UnknownGlobalPS2_856860.UnknownGlobalPS2_858141",
+          "P2_nd133.UnknownGlobalPS2_856860.UnknownGlobalPS2_858143",
+          "P2_nd133.UnknownGlobalPS2_856860.UnknownGlobalPS2_858135",
+          "P2_nd133.UnknownGlobalPS2_856860.UnknownGlobalPS2_856859"
+        ],
+        "DrawType": {
+          "value": 2,
+          "enum": "DT_Mesh"
+        }
+      }
+    }
+  ],
+  "errors": []
+}
