@@ -1,35 +1,23 @@
 # Mount Hospital P (MHO05P)
 
-**Enhanced/Reloaded version 1.0.1 supports Neutralization only.** Hack the ND133
-consoles in place. Extraction, vial carrying and Sabotage are not selectable in
-this native revision. OpenSCCT retains its separate original mode set.
+**Enhanced/Reloaded 1.0.2: choose Story in the normal PC menu.** The map plays
+the original PS2 Neutralization objective chain: hack the animated ND133 cases
+in place until the required objectives are complete. Extraction, vial carrying
+and Sabotage remain outside this native revision. OpenSCCT keeps its separate
+original mode set.
 
-The map-local `P2_PS2Objectives.PS2Computer` class displays the original animated
-ND133 console and source materials while retaining the existing PC interaction,
-capture timer and collision behavior. Active Extraction flag entries are omitted
-from this Neutralization level's actor array, preventing the inherited PC racks.
-No global stock script package or other map is replaced.
+Version 1.0.2 fixes empty cases and a zero-objective HUD during ordinary hosting.
+The original PS2 Neutralization mission is mapped to supported PC Story mode 5;
+the shipped PC selector cannot choose the original Neutralization mode 3.
+The case class, meshes, textures, capture timings, collision, source world,
+lightmaps and PlayerStarts are unchanged from 1.0.1. No global game script or
+another map is replaced.
 
-Install or update through SCCT Map Manager 0.6.2 or newer, keeping every supplied
-dependency. The compiled class is distributed as `P2_PS2Objectives.usx` in
-`Packages/StaticMeshes`, a normal native autoload path. Its retained stock
-`nd133_1mesh` animation package must be present in the game. Other players need
-matching files; changed map/UI packages have new content-derived network GUIDs.
-
-Source geometry, lightmaps, PlayerStarts and nonobjective properties are unchanged.
-Reviewed player-facing labels are English; IDs, tags and script keys are retained.
-Editable brush history is not recovered.
-
-The exact final bytes pass clean native loading on all 12 versus maps using a
-byte-identical Autoplay bootstrap alias. A separate clean, ordinary-input Station
-check completes the ten-second hack and changes the mission counter from 3 to 2.
-Idle, hacking and completed console images use calls-only instrumentation, with
-unchanged game code; that visual evidence is separate from the clean input proof.
-A private fixture changes only player spawn positions for those Station checks.
-The strict world and package identity audits pass. Fresh named-world travel and
-full routes were not repeated for all final maps, and native remote multiplayer
-and twelve completed matches are not claimed. See the versioned receipts under
-`../revisions/native-v1.0.1/evidence`.
-
-The two original tutorial entries remain unchanged at version 1.0.0 and are
-one-sided training, outside this competitive Neutralization release.
+Update through SCCT Map Manager 0.6.2 or newer and keep every supplied dependency.
+All 12 revised native maps passed clean Story-mode activation checks with visible
+cases and positive objective totals. Station additionally passed real GAR09P-named
+travel, the native Loading_Menu start path and a normal ten-second Use hack,
+reducing the mission from 3 objectives to 2. That named-flow proof uses explicit
+calls-only instrumentation; the 12 loading/activation checks are uninstrumented.
+These receipts do not claim twelve completed matches or a remote-client test.
+The two one-sided tutorial entries remain unchanged at 1.0.0.

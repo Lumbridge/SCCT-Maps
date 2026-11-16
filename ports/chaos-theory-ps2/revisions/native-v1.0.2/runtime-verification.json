@@ -1,0 +1,38 @@
+{
+  "format": "scct.ps2.native-story-mode-fix-verification.v1",
+  "status": "passed",
+  "candidate": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2",
+  "candidateTreeSha256": "af0aadbf081920c36982acfa28c84ff029b47c419b755cf8d41b91aeb523fe1d",
+  "sourceGameplay": "Original PS2 Neutralization objectives and animated cases",
+  "nativeMenuMode": {
+    "name": "Story",
+    "id": 5
+  },
+  "cause": "Shipped PC mode-selector code only maps4/5/6/7. The prior mode3 missions are inactive during normal Story hosting; explicit mode3 editor launches missed this.",
+  "beforeControl": {
+    "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09P-9604dbbdeb\\mode5-zero-objectives-control.json",
+    "sha256": "62b02e0347bf4f24b390579c7ec701d3312afe575798f75b0b158091d99549e5"
+  },
+  "installedMenuSource": {
+    "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\named-lobby-regression\\decompiled\\GUI\\moListEditBox_GameMode.uc",
+    "sha256": "1a3963fb9fa2e882de17371ade4318a56c72943a534072b09f7ca43aba3c5b8a"
+  },
+  "cleanTwelveMapActivation": {
+    "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\story-v1.0.2-clean-activation.json",
+    "sha256": "35ab7a325e948f90dd5b702c64c89214af79b80d0a236cb619ccb65e296a2117"
+  },
+  "namedStationNormalStartAndHack": {
+    "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09P-ffe363f21f\\named-story-mode-proof.json",
+    "sha256": "2b9c2e6be70d3512dfa98f41ef06fa0c531fcbcfd6a18fc205f08c257e154439"
+  },
+  "strictWorldAudit": {
+    "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\pc-collection-native-story-v1.0.2\\independent-world-audit.json",
+    "sha256": "9fbd455489e90eef793350f790e330f797ed079f5976b96c970f5f3853642686"
+  },
+  "namedProofQualification": "Full menu-style Story URL, real GAR09P filename and native Loading_Menu start path exercised through explicit calls-only instrumentation; no ProcessInternal detour/game.text changes. Pawn placement is setup; objective fields and timers were not written. Does not claim all front-end buttons were clicked or a remote-client multiplayer test.",
+  "cleanProofQualification": "Twelve exact candidate byte copies named Autoplay with explicit supported mode5, no hook/proxy, positive active mission and HUD totals, visible cases; not twelve fresh named travels.",
+  "classPackageSHA256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+  "changeScope": "Only native source-Neutralization SMission mode3→5 and UTC mode3→5 beyond accepted v1.0.1. Shared assets, geometry, lighting, player starts and OpenSCCT files unchanged.",
+  "replusGuidanceCommit": "9f7d5d0",
+  "nativeTutorialsUnchanged": true
+}

@@ -1,0 +1,16 @@
+{
+  "format": "scct.ps2.native-story-menu-correction-source.v1",
+  "version": "1.0.2",
+  "candidateTreeSha256": "af0aadbf081920c36982acfa28c84ff029b47c419b755cf8d41b91aeb523fe1d",
+  "source": {
+    "name": "SCCT-PS2-SVM-converter-source-v1.0.2.zip",
+    "size": 5145358,
+    "sha256": "5c99f11280bda4cc0fd51a6abcb46579cc6e533d18297a4fa9262f686b1f0c6f",
+    "files": 789,
+    "sourceManifestSha256": "853234a6ea265d86b80926e811b286f70497b9b111f3d494a489959774a14290",
+    "nativeCandidateTreeSha256": "af0aadbf081920c36982acfa28c84ff029b47c419b755cf8d41b91aeb523fe1d",
+    "url": "https://github.com/Lumbridge/SCCT-Maps/releases/download/ps2-original-svm-v1.0.2/SCCT-PS2-SVM-converter-source-v1.0.2.zip"
+  },
+  "change": "Only the native source Neutralization SMission mode 3→PC Story mode 5 and UTC mode 3→5 change beyond the accepted native 1.0.1 profile.",
+  "classPackageSHA256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+}
