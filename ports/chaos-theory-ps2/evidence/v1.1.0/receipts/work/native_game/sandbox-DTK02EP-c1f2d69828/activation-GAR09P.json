@@ -1,0 +1,206 @@
+{
+  "command": "GAR09P.sdc?MapName=GAR09P?MaxPlayers=4?TimeLimit=0?ScoreLimit=0?GameMode=5?LivesATT=0?TimesRespawnsATT=5?LivesDEF=0?BalanceTeams=False?Revenge=False?GamesInARow=0?TimesReinitFlag=30?TimeToExplode=30?GameWithRanking=False?LevelGap=0?Team=0?Name=PrivateSpy?Editeur=false",
+  "travel": {
+    "return": null,
+    "out": {}
+  },
+  "loadingMenu": {
+    "return": true,
+    "out": {}
+  },
+  "liveLevelInfo": "GAR09P.LevelInfo0",
+  "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\GAR09P.sdc",
+  "sourceSha256": "e1c8a9ad97358956d9bd9f3a027723696017bb6e8cf4b2d2d21c302bdf2eb2e1",
+  "code": "GAR09P",
+  "sourceCode": "GAR09",
+  "sourceMode": 3,
+  "mode": "Neutralization",
+  "status": "passed",
+  "missions": [
+    {
+      "ref": 193,
+      "mode": 1,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        145,
+        147,
+        138,
+        150
+      ]
+    },
+    {
+      "ref": 385,
+      "mode": 5,
+      "left": 3,
+      "total": 3,
+      "objectives": [
+        135,
+        136,
+        137,
+        148
+      ]
+    },
+    {
+      "ref": 197,
+      "mode": 2,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        151,
+        153,
+        155,
+        134
+      ]
+    }
+  ],
+  "hudObjectives": [
+    3
+  ],
+  "graph": [
+    {
+      "ref": 385,
+      "property": "Objectives",
+      "children": [
+        135,
+        136,
+        137,
+        148
+      ]
+    },
+    {
+      "ref": 135,
+      "property": "Triggers",
+      "children": [
+        114
+      ]
+    },
+    {
+      "ref": 136,
+      "property": "Triggers",
+      "children": [
+        113
+      ]
+    },
+    {
+      "ref": 137,
+      "property": "Triggers",
+      "children": [
+        110
+      ]
+    },
+    {
+      "ref": 148,
+      "property": "Triggers",
+      "children": [
+        116
+      ]
+    }
+  ],
+  "flags": [],
+  "cases": [
+    {
+      "ref": 114,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 110,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 113,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 116,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    }
+  ],
+  "starts": [
+    {
+      "ref": 142,
+      "distance": 0.0
+    },
+    {
+      "ref": 143,
+      "distance": 0.0
+    },
+    {
+      "ref": 132,
+      "distance": 0.0
+    },
+    {
+      "ref": 133,
+      "distance": 0.0
+    },
+    {
+      "ref": 131,
+      "distance": 0.0
+    },
+    {
+      "ref": 140,
+      "distance": 0.0
+    },
+    {
+      "ref": 141,
+      "distance": 0.0
+    }
+  ],
+  "geometry": {
+    "name": "UnknownGlobalPS2_869810",
+    "nodes": 952,
+    "points": 1463,
+    "surfs": 639,
+    "bbox_min": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "points_min": [
+      -6656.0,
+      -8451.99609375,
+      -2564.7041015625
+    ],
+    "points_max": [
+      5809.18505859375,
+      5656.1181640625,
+      2016.00048828125
+    ],
+    "points_sha256": "a5d47451ce2cb0a3f1df6d2b97e948c7659605f1f592e9d33a0bff3d5aca9e67"
+  },
+  "runtimeModels": [
+    {
+      "name": "GAR09P.UnknownGlobalPS2_869810",
+      "nodes": 952,
+      "points": 1463,
+      "surfs": 639,
+      "pointsSha256": "a5d47451ce2cb0a3f1df6d2b97e948c7659605f1f592e9d33a0bff3d5aca9e67"
+    }
+  ],
+  "seconds": 19.03
+}

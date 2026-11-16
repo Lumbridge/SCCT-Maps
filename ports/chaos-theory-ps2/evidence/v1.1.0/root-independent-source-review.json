@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "zipSha256": "98247552c5b8ec378eb4cc733a148211ff7b213cc6e8db905f74fc489e2f9abf",
+  "manifestSha256": "a64796b41e9565136e9e544482f8001e82c11788662783688cae49e555cabdb9",
+  "entries": 1282,
+  "hashedPayloads": 1281,
+  "excludedRawGameAndToolBinary": true
+}

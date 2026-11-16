@@ -1,0 +1,260 @@
+{
+  "command": "GAR09SP.sdc?MapName=GAR09SP?MaxPlayers=4?TimeLimit=0?ScoreLimit=0?GameMode=5?LivesATT=0?TimesRespawnsATT=5?LivesDEF=0?BalanceTeams=False?Revenge=False?GamesInARow=0?TimesReinitFlag=30?TimeToExplode=30?GameWithRanking=False?LevelGap=0?Team=0?Name=PrivateSpy?Editeur=false",
+  "travel": {
+    "return": null,
+    "out": {}
+  },
+  "loadingMenu": {
+    "return": true,
+    "out": {}
+  },
+  "liveLevelInfo": "GAR09SP.LevelInfo0",
+  "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\GAR09SP.sdc",
+  "sourceSha256": "fb2d427635d7efa4b616a1a9bda1163bd647b86b597c039aed5bfbab5bb095d3",
+  "code": "GAR09SP",
+  "sourceCode": "GAR09",
+  "sourceMode": 2,
+  "mode": "Sabotage",
+  "status": "passed",
+  "missions": [
+    {
+      "ref": 193,
+      "mode": 1,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        145,
+        147,
+        138,
+        150
+      ]
+    },
+    {
+      "ref": 385,
+      "mode": 3,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        135,
+        136,
+        137,
+        148
+      ]
+    },
+    {
+      "ref": 197,
+      "mode": 5,
+      "left": 3,
+      "total": 3,
+      "objectives": [
+        151,
+        153,
+        155,
+        134
+      ]
+    }
+  ],
+  "hudObjectives": [
+    3
+  ],
+  "graph": [
+    {
+      "ref": 197,
+      "property": "Objectives",
+      "children": [
+        151,
+        153,
+        155,
+        134
+      ]
+    },
+    {
+      "ref": 134,
+      "property": "Triggers",
+      "children": [
+        129
+      ]
+    },
+    {
+      "ref": 151,
+      "property": "Triggers",
+      "children": [
+        149
+      ]
+    },
+    {
+      "ref": 153,
+      "property": "Triggers",
+      "children": [
+        152
+      ]
+    },
+    {
+      "ref": 155,
+      "property": "Triggers",
+      "children": [
+        154
+      ]
+    }
+  ],
+  "flags": [],
+  "cases": [
+    {
+      "ref": 114,
+      "kind": "PS2SabotageCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    },
+    {
+      "ref": 110,
+      "kind": "PS2SabotageCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    },
+    {
+      "ref": 113,
+      "kind": "PS2SabotageCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    },
+    {
+      "ref": 116,
+      "kind": "PS2SabotageCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    }
+  ],
+  "bombTargets": [
+    {
+      "ref": 129,
+      "location": [
+        -28.90212631225586,
+        -5713.6904296875,
+        94.0
+      ],
+      "drawType": 0,
+      "radius": 22.0,
+      "height": 22.0,
+      "alwaysRelevant": 1,
+      "active": 1
+    },
+    {
+      "ref": 149,
+      "location": [
+        1716.338134765625,
+        -3133.169189453125,
+        600.0
+      ],
+      "drawType": 0,
+      "radius": 22.0,
+      "height": 22.0,
+      "alwaysRelevant": 1,
+      "active": 1
+    },
+    {
+      "ref": 152,
+      "location": [
+        -1918.06689453125,
+        -3267.7412109375,
+        600.0
+      ],
+      "drawType": 0,
+      "radius": 22.0,
+      "height": 22.0,
+      "alwaysRelevant": 1,
+      "active": 1
+    },
+    {
+      "ref": 154,
+      "location": [
+        -409.428466796875,
+        -4286.814453125,
+        89.0
+      ],
+      "drawType": 0,
+      "radius": 22.0,
+      "height": 22.0,
+      "alwaysRelevant": 1,
+      "active": 1
+    }
+  ],
+  "starts": [
+    {
+      "ref": 142,
+      "distance": 0.0
+    },
+    {
+      "ref": 143,
+      "distance": 0.0
+    },
+    {
+      "ref": 132,
+      "distance": 0.0
+    },
+    {
+      "ref": 133,
+      "distance": 0.0
+    },
+    {
+      "ref": 131,
+      "distance": 0.0
+    },
+    {
+      "ref": 140,
+      "distance": 0.0
+    },
+    {
+      "ref": 141,
+      "distance": 0.0
+    }
+  ],
+  "geometry": {
+    "name": "UnknownGlobalPS2_869810",
+    "nodes": 952,
+    "points": 1463,
+    "surfs": 639,
+    "bbox_min": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "points_min": [
+      -6656.0,
+      -8451.99609375,
+      -2564.7041015625
+    ],
+    "points_max": [
+      5809.18505859375,
+      5656.1181640625,
+      2016.00048828125
+    ],
+    "points_sha256": "a5d47451ce2cb0a3f1df6d2b97e948c7659605f1f592e9d33a0bff3d5aca9e67"
+  },
+  "runtimeModels": [
+    {
+      "name": "GAR09SP.UnknownGlobalPS2_869810",
+      "nodes": 952,
+      "points": 1463,
+      "surfs": 639,
+      "pointsSha256": "a5d47451ce2cb0a3f1df6d2b97e948c7659605f1f592e9d33a0bff3d5aca9e67"
+    }
+  ],
+  "seconds": 19.25
+}

@@ -1,0 +1,117 @@
+{
+  "root": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1",
+  "instrumented": true,
+  "processInternalDetour": false,
+  "gameTextBefore": "8d5de0b3595f1bba410de45a5ddf19057464a20f41576bafb012d058ff60d06e",
+  "objectiveFieldsWritten": false,
+  "pawnRelocationSetupOnly": true,
+  "mercLogin": {
+    "command": "GAR09SP.sdc?MapName=GAR09SP?MaxPlayers=4?TimeLimit=0?ScoreLimit=0?GameMode=5?LivesATT=0?TimesRespawnsATT=5?LivesDEF=0?BalanceTeams=False?Revenge=False?GamesInARow=0?TimesReinitFlag=30?TimeToExplode=30?GameWithRanking=False?LevelGap=0?Team=1?Name=PrivateMerc?Editeur=false",
+    "travel": {
+      "return": null,
+      "out": {}
+    },
+    "loadingMenu": {
+      "return": true,
+      "out": {}
+    },
+    "liveLevelInfo": "GAR09SP.LevelInfo0",
+    "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1\\Packages\\Maps\\GAR09SP.sdc",
+    "sourceSha256": "fb2d427635d7efa4b616a1a9bda1163bd647b86b597c039aed5bfbab5bb095d3"
+  },
+  "before": {
+    "pc": "s_PlayerWalkingSt2H",
+    "pawn": "SPawnDefense_1Mesh",
+    "left": 3,
+    "triggering": 0,
+    "complete": 0,
+    "caseState": 0
+  },
+  "setupQualification": "Controlled armed-target fixture after ordinary Team1 Merc login. Calls native Triggering(true), exactly the event reached by separately proven ordinary Spy planting. No timer/completion/score field writes. This is not remote multiplayer proof.",
+  "controlledArmEvent": {
+    "return": null,
+    "out": {}
+  },
+  "armed": {
+    "pc": "s_PlayerWalkingSt2H",
+    "pawn": "SPawnDefense_1Mesh",
+    "left": 3,
+    "triggering": 1,
+    "complete": 0,
+    "caseState": 2
+  },
+  "approach": {
+    "requested": [
+      -29.23188592783852,
+      -5668.703216376769,
+      89.00499725341797
+    ],
+    "nativePlacement": {
+      "return": true,
+      "out": {}
+    },
+    "walk": {
+      "pid": 107748,
+      "controller": {
+        "class": "SPlayerController",
+        "rotation": [
+          0,
+          -16311,
+          0
+        ]
+      },
+      "pawn": {
+        "class": "SPawnDefense_1Mesh",
+        "name": "835_SPawnDefense_1Mesh",
+        "location": [
+          -28.9,
+          -5710.3,
+          89.0
+        ],
+        "rotation": [
+          0,
+          -16311,
+          0
+        ],
+        "speed": 0.0,
+        "velocityZ": 0.0,
+        "Physics": 1,
+        "Health": 100,
+        "bIsCrouched": 0,
+        "bIsWalking": 0
+      },
+      "map": "GAR09SP",
+      "window": true,
+      "reached": true,
+      "distance": 3.4
+    },
+    "actual": [
+      -28.9,
+      -5710.3,
+      89.0
+    ]
+  },
+  "armedImage": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1\\sabotage-v5-merc-remove-menu.png",
+  "removeUse": [
+    "s_MenuInteraction"
+  ],
+  "afterRemove": {
+    "pc": "s_PlayerWalkingSt2H",
+    "pawn": "SPawnDefense_1Mesh",
+    "left": 3,
+    "triggering": 0,
+    "complete": 0,
+    "caseState": 0
+  },
+  "removedImage": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1\\sabotage-v5-merc-removed.png",
+  "afterOriginalFusePeriod": {
+    "pc": "s_PlayerWalkingSt2H",
+    "pawn": "SPawnDefense_1Mesh",
+    "left": 3,
+    "triggering": 0,
+    "complete": 0,
+    "caseState": 0
+  },
+  "status": "passed",
+  "gameTextAfter": "8d5de0b3595f1bba410de45a5ddf19057464a20f41576bafb012d058ff60d06e"
+}

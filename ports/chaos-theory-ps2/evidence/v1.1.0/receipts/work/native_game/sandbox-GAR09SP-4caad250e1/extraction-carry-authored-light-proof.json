@@ -1,0 +1,80 @@
+{
+  "root": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-GAR09SP-4caad250e1",
+  "instrumented": true,
+  "processInternalDetour": false,
+  "gameTextBefore": "8d5de0b3595f1bba410de45a5ddf19057464a20f41576bafb012d058ff60d06e",
+  "objectiveFieldsWritten": false,
+  "pawnRelocationSetupOnly": true,
+  "pawnUnderAuthoredLight": {
+    "return": true,
+    "out": {}
+  },
+  "fovCommand": {
+    "return": "b'\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00'",
+    "out": {}
+  },
+  "actualCamera": [
+    259.64068603515625,
+    -5167.05810546875,
+    104.69999694824219
+  ],
+  "fov": 75.0,
+  "center": [
+    211.2,
+    -5210.4,
+    99.7
+  ],
+  "eye": [
+    259.64068537913084,
+    -5167.05833413446,
+    104.7
+  ],
+  "normalImage": "work\\native_game\\sandbox-GAR09SP-4caad250e1\\extraction-carry-authored-light-normal.png",
+  "nightvisionImage": "work\\native_game\\sandbox-GAR09SP-4caad250e1\\extraction-carry-authored-light-nightvision.png",
+  "sourceLight": "GAR09EP.UnknownGlobalPS2_869870 at (196.1,-5224.1,269.9), brightness192 radius20, unchanged",
+  "flag": {
+    "Location": [
+      211.24899291992188,
+      -5210.36279296875,
+      99.69818115234375
+    ],
+    "Rotation": [
+      798,
+      7012,
+      724
+    ],
+    "DrawScale": 1.0,
+    "DrawScale3D": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "bHidden": 0,
+    "bOwnerNoSee": 0,
+    "bOnlyOwnerSee": 0,
+    "bUnlit": 0,
+    "LightType": 1,
+    "LightBrightness": 0.0,
+    "LightRadius": 1.0,
+    "LightHue": 95,
+    "StaticMesh": "0x9e75858:UnknownGlobalPS2_857191",
+    "InitialStaticMesh": "0x9e75858:UnknownGlobalPS2_857191",
+    "PrePivot": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AttachmentBone": "B R Thigh",
+    "RelativeLocation": [
+      -10.0,
+      0.0,
+      10.0
+    ],
+    "RelativeRotation": [
+      16000,
+      0,
+      0
+    ]
+  },
+  "gameTextAfter": "8d5de0b3595f1bba410de45a5ddf19057464a20f41576bafb012d058ff60d06e"
+}

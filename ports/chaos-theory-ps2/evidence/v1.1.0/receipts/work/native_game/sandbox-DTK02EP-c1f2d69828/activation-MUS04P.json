@@ -1,0 +1,209 @@
+{
+  "command": "MUS04P.sdc?MapName=MUS04P?MaxPlayers=4?TimeLimit=0?ScoreLimit=0?GameMode=5?LivesATT=0?TimesRespawnsATT=5?LivesDEF=0?BalanceTeams=False?Revenge=False?GamesInARow=0?TimesReinitFlag=30?TimeToExplode=30?GameWithRanking=False?LevelGap=0?Team=0?Name=PrivateSpy?Editeur=false",
+  "travel": {
+    "return": null,
+    "out": {}
+  },
+  "loadingMenu": {
+    "return": true,
+    "out": {}
+  },
+  "liveLevelInfo": "MUS04P.LevelInfo0",
+  "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\MUS04P.sdc",
+  "sourceSha256": "3f644635fd51e96c8f696b87ad2bc258b10972e29621a33f7e67aae9de387374",
+  "code": "MUS04P",
+  "sourceCode": "MUS04",
+  "sourceMode": 3,
+  "mode": "Neutralization",
+  "status": "passed",
+  "missions": [
+    {
+      "ref": 717,
+      "mode": 2,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        200,
+        190,
+        189
+      ]
+    },
+    {
+      "ref": 297,
+      "mode": 5,
+      "left": 2,
+      "total": 2,
+      "objectives": [
+        203,
+        191,
+        202
+      ]
+    }
+  ],
+  "hudObjectives": [
+    2
+  ],
+  "graph": [
+    {
+      "ref": 297,
+      "property": "Objectives",
+      "children": [
+        203,
+        191,
+        202
+      ]
+    },
+    {
+      "ref": 191,
+      "property": "Triggers",
+      "children": [
+        165,
+        115
+      ]
+    },
+    {
+      "ref": 202,
+      "property": "Triggers",
+      "children": [
+        163,
+        145
+      ]
+    },
+    {
+      "ref": 203,
+      "property": "Triggers",
+      "children": [
+        143,
+        177
+      ]
+    }
+  ],
+  "flags": [],
+  "cases": [
+    {
+      "ref": 165,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 163,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 143,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 177,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 115,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 145,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    }
+  ],
+  "starts": [
+    {
+      "ref": 179,
+      "distance": 0.0
+    },
+    {
+      "ref": 196,
+      "distance": 0.0
+    },
+    {
+      "ref": 197,
+      "distance": 0.0
+    },
+    {
+      "ref": 198,
+      "distance": 0.0
+    },
+    {
+      "ref": 185,
+      "distance": 0.0
+    },
+    {
+      "ref": 184,
+      "distance": 0.0
+    },
+    {
+      "ref": 193,
+      "distance": 0.0
+    },
+    {
+      "ref": 186,
+      "distance": 0.0
+    }
+  ],
+  "geometry": {
+    "name": "UnknownGlobalPS2_875109",
+    "nodes": 1115,
+    "points": 2149,
+    "surfs": 786,
+    "bbox_min": [
+      -3280.0,
+      -256.0,
+      -128.0
+    ],
+    "bbox_max": [
+      -2688.0,
+      208.0010986328125,
+      320.0
+    ],
+    "points_min": [
+      -16640.0,
+      -15183.99609375,
+      -15183.96875
+    ],
+    "points_max": [
+      15839.80859375,
+      15872.0,
+      15184.0234375
+    ],
+    "points_sha256": "03879e5b7ab87ade8981468c6f24175eeeedaa6f74e73c7f7fbfdac3d7d8227a"
+  },
+  "runtimeModels": [
+    {
+      "name": "MUS04P.UnknownGlobalPS2_875109",
+      "nodes": 1115,
+      "points": 2149,
+      "surfs": 786,
+      "pointsSha256": "03879e5b7ab87ade8981468c6f24175eeeedaa6f74e73c7f7fbfdac3d7d8227a"
+    }
+  ],
+  "seconds": 20.12
+}

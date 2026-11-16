@@ -1,0 +1,232 @@
+{
+  "command": "SKY08EP.sdc?MapName=SKY08EP?MaxPlayers=4?TimeLimit=0?ScoreLimit=0?GameMode=5?LivesATT=0?TimesRespawnsATT=5?LivesDEF=0?BalanceTeams=False?Revenge=False?GamesInARow=0?TimesReinitFlag=30?TimeToExplode=30?GameWithRanking=False?LevelGap=0?Team=0?Name=PrivateSpy?Editeur=false",
+  "travel": {
+    "return": null,
+    "out": {}
+  },
+  "loadingMenu": {
+    "return": true,
+    "out": {}
+  },
+  "liveLevelInfo": "SKY08EP.LevelInfo0",
+  "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\SKY08EP.sdc",
+  "sourceSha256": "d063f6b566dae3f6c655dc40e19c92312e470acac2eecdaaa2fb783d61dc927d",
+  "code": "SKY08EP",
+  "sourceCode": "SKY08",
+  "sourceMode": 1,
+  "mode": "Extraction",
+  "status": "passed",
+  "missions": [
+    {
+      "ref": 777,
+      "mode": 3,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        218,
+        196,
+        190,
+        208,
+        200,
+        197
+      ]
+    },
+    {
+      "ref": 666,
+      "mode": 5,
+      "left": 2,
+      "total": 2,
+      "objectives": [
+        215,
+        198,
+        216
+      ]
+    }
+  ],
+  "hudObjectives": [
+    2
+  ],
+  "graph": [
+    {
+      "ref": 666,
+      "property": "Objectives",
+      "children": [
+        215,
+        198,
+        216
+      ]
+    },
+    {
+      "ref": 198,
+      "property": "Triggers",
+      "children": [
+        167
+      ]
+    },
+    {
+      "ref": 215,
+      "property": "Triggers",
+      "children": [
+        140
+      ]
+    },
+    {
+      "ref": 216,
+      "property": "Triggers",
+      "children": [
+        159
+      ]
+    }
+  ],
+  "flags": [
+    {
+      "ref": 140,
+      "kind": "PS2VialFlag",
+      "active": 1,
+      "hidden": 0,
+      "mesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "initial": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "pivot": [
+        13.0,
+        -1.6917023337725823e-13,
+        0.0
+      ]
+    },
+    {
+      "ref": 167,
+      "kind": "PS2VialFlag",
+      "active": 1,
+      "hidden": 0,
+      "mesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "initial": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "pivot": [
+        13.0,
+        3.745614929329122e-13,
+        0.0
+      ]
+    },
+    {
+      "ref": 159,
+      "kind": "PS2VialFlag",
+      "active": 1,
+      "hidden": 0,
+      "mesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "initial": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "pivot": [
+        13.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "ref": 157,
+      "kind": "PS2ExtractionCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    },
+    {
+      "ref": 162,
+      "kind": "PS2ExtractionCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    },
+    {
+      "ref": 142,
+      "kind": "PS2ExtractionCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    }
+  ],
+  "hiddenServers": [
+    {
+      "flagRef": 140,
+      "hidden": 1
+    },
+    {
+      "flagRef": 167,
+      "hidden": 1
+    },
+    {
+      "flagRef": 159,
+      "hidden": 1
+    }
+  ],
+  "starts": [
+    {
+      "ref": 214,
+      "distance": 0.0
+    },
+    {
+      "ref": 204,
+      "distance": 0.0
+    },
+    {
+      "ref": 217,
+      "distance": 0.0
+    },
+    {
+      "ref": 199,
+      "distance": 0.0
+    },
+    {
+      "ref": 203,
+      "distance": 0.0
+    },
+    {
+      "ref": 212,
+      "distance": 0.0
+    },
+    {
+      "ref": 201,
+      "distance": 0.0
+    }
+  ],
+  "geometry": {
+    "name": "UnknownGlobalPS2_877575",
+    "nodes": 1408,
+    "points": 2412,
+    "surfs": 793,
+    "bbox_min": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "points_min": [
+      -13439.998046875,
+      -11107.849609375,
+      -8160.1865234375
+    ],
+    "points_max": [
+      11680.0,
+      11200.3095703125,
+      5023.99462890625
+    ],
+    "points_sha256": "165842b755c356f41ee6c19b0932e1e88fbbf3360b30bf9b1f484b81af0f2ece"
+  },
+  "runtimeModels": [
+    {
+      "name": "SKY08EP.UnknownGlobalPS2_877575",
+      "nodes": 1408,
+      "points": 2412,
+      "surfs": 793,
+      "pointsSha256": "165842b755c356f41ee6c19b0932e1e88fbbf3360b30bf9b1f484b81af0f2ece"
+    }
+  ],
+  "seconds": 20.11
+}

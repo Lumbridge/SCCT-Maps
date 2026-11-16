@@ -1,0 +1,257 @@
+{
+  "schema": "scct.ps2.native-mode-variant/1",
+  "status": "source-and-native-validation-reviewed-publication-separately-recorded",
+  "version": "1.1.0",
+  "sourceVolume": "SLES_53287",
+  "sourceCode": "SCH03",
+  "code": "SCH03P",
+  "displayName": "PS2 Schermerhorn (Neutralization)",
+  "mode": "Neutralization",
+  "sourceMode": 3,
+  "nativeMenu": {
+    "name": "Story",
+    "id": 5
+  },
+  "original": {
+    "path": "MAPS/SCH03.LIN",
+    "size": 2388666,
+    "sha256": "ed1f0763010c58fc496d134f95a5dd52879ff1e46b8bc65fc679b7c062da3465",
+    "sector": 2041758
+  },
+  "sourceGraph": {
+    "sourceCode": "SCH03",
+    "sourceMode": 3,
+    "modeName": "Neutralization",
+    "targetCode": "SCH03P",
+    "displayName": "PS2 Schermerhorn (Neutralization)",
+    "nativeMenuMode": 5,
+    "rootMissionRefs": [
+      554
+    ],
+    "objectiveRefs": [
+      96,
+      98,
+      99,
+      105
+    ],
+    "triggerRefs": [
+      70,
+      85,
+      100,
+      101
+    ],
+    "triggerKinds": {
+      "SComputerObjectiveTrigger": 4
+    },
+    "policy": "Existing Enhanced gameplay with recovered PS2 visuals; only selected original mission mode maps to Story 5."
+  },
+  "nativeProfile": {
+    "sourceCode": "SCH03",
+    "targetCode": "SCH03P",
+    "sourceMode": 3,
+    "nativeMode": 5,
+    "source": "Exact accepted native1.0.2 SDC/shared/class; only source-mode UI title updated",
+    "sha256": "34f6b7621f9653dcf38fc7d9e1311f8e460aa5945fe756fb70c6bbac4951be34",
+    "scriptSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+  },
+  "explicitAdaptations": [],
+  "converted": [
+    {
+      "Destination": "Packages/Maps/SCH03P.sdc",
+      "Hash": "1836cd460f16601f41e72efcb91164263af4f3f2",
+      "Size": 305470,
+      "sha256": "34f6b7621f9653dcf38fc7d9e1311f8e460aa5945fe756fb70c6bbac4951be34",
+      "Source": "releases/download/ps2-original-svm-v1.1.0/SCH03P.sdc"
+    },
+    {
+      "Destination": "Packages/Sounds/P2_877252.uax",
+      "Hash": "6f16ce2a00ece5cea0ad5260d063d21e781d744a",
+      "Size": 4011963,
+      "sha256": "6a2d49dc816584e46d49af267ea7cd563b2d59b1c1aac853390c71aab29a27dd",
+      "Source": "releases/download/ps2-original-svm-v1.1.0/P2_877252.uax"
+    },
+    {
+      "Destination": "Packages/Sounds/P2_Armes_impacts.uax",
+      "Hash": "048a78472f150b6c6aec5cfae887c3064cbd9589",
+      "Size": 271139,
+      "sha256": "60bc31d24c14dd3845e100e95d895713bbdd25f8915fdad0b823e44a6c85def1",
+      "Source": "releases/download/ps2-original-svm-v1.1.0/P2_Armes_impacts.uax"
+    },
+    {
+      "Destination": "Packages/Sounds/P2_Interface.uax",
+      "Hash": "322eb382c54f56de0f4d6c8645548812657dc175",
+      "Size": 43747,
+      "sha256": "7322fe8d197d3f4d3578e2316de12c21e9a7b128f8c1ac52777aa2a353fc8668",
+      "Source": "releases/download/ps2-original-svm-v1.1.0/P2_Interface.uax"
+    },
+    {
+      "Destination": "Packages/StaticMeshes/P2_857190.usx",
+      "Hash": "a7ba07624b219639b364bb40ae59f0a8a9620658",
+      "Size": 19512,
+      "sha256": "12cfc7558041a5b5572dc5231b93f845a5b49dbcf6aa51ab25eff5eb1b79371b",
+      "Source": "releases/download/ps2-original-svm-v1.1.0/P2_857190.usx"
+    },
+    {
+      "Destination": "Packages/StaticMeshes/P2_865794.usx",
+      "Hash": "aacce911e3fc228d210baa29fbe7c71b5d0dc211",
+      "Size": 3125017,
+      "sha256": "c2f460b8df922269d34f3e788bf6bacfba777de6d90a40cb39817dcf68b8ab93",
+      "Source": "releases/download/ps2-original-svm-v1.1.0/P2_865794.usx"
+    },
+    {
+      "Destination": "Packages/StaticMeshes/P2_PS2Objectives.usx",
+      "Hash": "e72a0f7731ba04ea49dffcfd9e371f6dc84e5e23",
+      "Size": 5951,
+      "sha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+      "Source": "releases/download/ps2-original-svm-v1.1.0/P2_PS2Objectives.usx"
+    },
+    {
+      "Destination": "Packages/StaticMeshes/P2_SGameplayObjects.usx",
+      "Hash": "124deecf305821d6f0ed98cbe27c304def539b80",
+      "Size": 54432,
+      "sha256": "fcb6499e7c4fcc629814ac7e931b3448553e68fb9a4c859b6893b1133aaaa113",
+      "Source": "releases/download/ps2-original-svm-v1.1.0/P2_SGameplayObjects.usx"
+    },
+    {
+      "Destination": "Packages/StaticMeshes/P2_TestMapStaticM.usx",
+      "Hash": "4997ff4c36430ffa2e51fef9112d4d80c25b416a",
+      "Size": 14765,
+      "sha256": "0f40749349b88caa94f86679d79002050d869974325bac59014dd93e7c807c11",
+      "Source": "releases/download/ps2-original-svm-v1.1.0/P2_TestMapStaticM.usx"
+    },
+    {
+      "Destination": "Packages/Textures/P2_860017.utx",
+      "Hash": "83943cac4d1daf0d2941981d1e37a8edf86fa53d",
+      "Size": 35860,
+      "sha256": "861aad5352051d279d79fb9b1d6ceb57b4b105873162ba881baf3fa266b359c0",
+      "Source": "releases/download/ps2-original-svm-v1.1.0/P2_860017.utx"
+    },
+    {
+      "Destination": "Packages/Textures/P2_863307.utx",
+      "Hash": "a3676538b1660b16ea159e62e8a7ad059025a1fc",
+      "Size": 6485942,
+      "sha256": "897abd6070e4d18b5cf9d090330bf3408ee08d2160f76703777ecff9a640dd8b",
+      "Source": "releases/download/ps2-original-svm-v1.1.0/P2_863307.utx"
+    },
+    {
+      "Destination": "Packages/Textures/P2_Echelon.utx",
+      "Hash": "58ff2b9dc8da5c8f0413cecc3e59443f1e5ddca4",
+      "Size": 300281,
+      "sha256": "6c85c4587e58af898f4ac7b21347c73074962d1d4dccec98851ed763e54271cd",
+      "Source": "releases/download/ps2-original-svm-v1.1.0/P2_Echelon.utx"
+    },
+    {
+      "Destination": "Packages/Textures/P2_Engine.utx",
+      "Hash": "e0125f75f69ebbd23e5a7be9449324f7e7902849",
+      "Size": 391117,
+      "sha256": "cc4fccc6deea3d4548cffd4e609ee0ee00c3d90210b639fb4a2e2a7a9884ffa1",
+      "Source": "releases/download/ps2-original-svm-v1.1.0/P2_Engine.utx"
+    },
+    {
+      "Destination": "Packages/Textures/P2_nd133.utx",
+      "Hash": "3d718b602236b0f46128ceb59b9fe8aa3fba3fb7",
+      "Size": 103598,
+      "sha256": "8cc92fd095a703c8c75ec8815982d6075c4266f832e484088297cbdd0cc30654",
+      "Source": "releases/download/ps2-original-svm-v1.1.0/P2_nd133.utx"
+    },
+    {
+      "Destination": "Packages/Textures/P2_SBase.utx",
+      "Hash": "7bab5e70dd47387901b980232852ecddbc9f82ea",
+      "Size": 625529,
+      "sha256": "3c8ae83abf4758010f06793a98ecf0cbfbe34a5dbe7ed87e79984056b7b63dc9",
+      "Source": "releases/download/ps2-original-svm-v1.1.0/P2_SBase.utx"
+    },
+    {
+      "Destination": "Packages/Textures/P2_sfx.utx",
+      "Hash": "48dcc650bf8b2c36db8461b1457f4b6c83425600",
+      "Size": 161705,
+      "sha256": "57901cdc5e441b838b4e19ba3cc3f0d4598886349db3d4fc4581ac5eb84dad1b",
+      "Source": "releases/download/ps2-original-svm-v1.1.0/P2_sfx.utx"
+    },
+    {
+      "Destination": "Packages/Textures/P2_SGameplayObjectsTex.utx",
+      "Hash": "cda651b1d638b8925ea8fe3959a767e5f1e7a16f",
+      "Size": 77499,
+      "sha256": "e064eadec80b3316460791e153e73ed4b37c36ab51f00f5277906902b0016a0a",
+      "Source": "releases/download/ps2-original-svm-v1.1.0/P2_SGameplayObjectsTex.utx"
+    },
+    {
+      "Destination": "Packages/Textures/SCH03P-i.utc",
+      "Hash": "68929ba163fdee110485513dd4f2b1a210bf1d35",
+      "Size": 195864,
+      "sha256": "92f0ba4b51d3b83e12848dd0c8388227ebe6df2f543f5948bcbc0ca3f241eebe",
+      "Source": "releases/download/ps2-original-svm-v1.1.0/SCH03P-i.utc"
+    }
+  ],
+  "offlineAudit": {
+    "path": "../evidence/v1.1.0/audit-native31-r2-final.json",
+    "sha256": "fcbeb4bacc13b19a1cb9327c1a9a0cb2155051a87a5af803746cceeeb66e8fec",
+    "rowStatus": "exact-accepted-neutralization-world"
+  },
+  "classSourceFreeze": {
+    "path": "../evidence/v1.1.0/class-and-source-freeze.json",
+    "sha256": "3ba2b093af3827a4895f9f5a4d44adbae5da020b786f7f0367ddb4c63490b947"
+  },
+  "mechanics": "Enhanced/Reloaded-compatible PC mechanics with recovered PS2 visuals and selected source-authored objective graph; source Sabotage areas are adapted to PC point interactions.",
+  "runtimeValidation": {
+    "status": "passed",
+    "row": {
+      "code": "SCH03P",
+      "displayName": "PS2 Schermerhorn (Neutralization)",
+      "sourceCode": "SCH03",
+      "sourceMode": 3,
+      "nativeMode": 5,
+      "status": "passed",
+      "sha256": "34f6b7621f9653dcf38fc7d9e1311f8e460aa5945fe756fb70c6bbac4951be34",
+      "liveLevelInfo": "SCH03P.LevelInfo0",
+      "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\SCH03P.sdc",
+      "hudObjectives": [
+        3
+      ],
+      "caseCount": 4,
+      "flagCount": 0,
+      "sourceStartCount": 8,
+      "evidence": {
+        "path": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\activation-SCH03P.json",
+        "sha256": "bfc30eb5af43abb41afa1031cbd08765157c1836501e6ec6ceac8113de47ce95",
+        "bytes": 4970
+      }
+    },
+    "aggregate": {
+      "path": "../evidence/v1.1.0/native-modes-v1.1.0-validation.json",
+      "sha256": "abb409b50726f9e4bedcd1da902649b26d517f8f1fad64752b854402f948dd72"
+    },
+    "scopeAndQualifications": [
+      "Native Enhanced/Reloaded compatibility mechanics, not an exact PS2 controller/rules port.",
+      "Original green vial and ND133 case assets retained; PC pickup/delivery/planting timing and native carried-light brightness retained.",
+      "Sabotage PS2 placement areas adapted to fixed points at linked original case use locations; source area properties retained in audit.",
+      "Extraction discard tested through the normal native DiscardFlag gameplay action; pickup/delivery/plant/removal used normal held Use input.",
+      "Merc removal uses an explicitly controlled armed-target fixture after ordinary Merc login; separate ordinary Spy planting/fuse proof.",
+      "No joining-client/remote multiplayer test performed.",
+      "Pawn-only setup relocation plus normal final walking tests objective reachability, not complete navigation routes.",
+      "Calls-only native instrumentation has no ProcessInternal detour and game.text is SHA-checked before/after."
+    ]
+  },
+  "sourceSnapshot": {
+    "schema": "scct.ps2.native-mode-source-record/1",
+    "version": "1.1.0",
+    "artifact": "SCCT-PS2-SVM-converter-source-v1.1.0.zip",
+    "url": "https://github.com/Lumbridge/SCCT-Maps/releases/download/ps2-original-svm-v1.1.0/SCCT-PS2-SVM-converter-source-v1.1.0.zip",
+    "size": 8117552,
+    "sha256": "98247552c5b8ec378eb4cc733a148211ff7b213cc6e8db905f74fc489e2f9abf",
+    "sourceManifestSha256": "a64796b41e9565136e9e544482f8001e82c11788662783688cae49e555cabdb9",
+    "builderSourceCommit": "5aa27e533097de319c46ed6109241afd368be1b2",
+    "baseSourceSnapshotSha256": "5c99f11280bda4cc0fd51a6abcb46579cc6e533d18297a4fa9262f686b1f0c6f",
+    "candidateReleaseTreeSha256": "f26902d15b9e1999ee56bdbd097ba32952e46e6b8731dc2902227c760cef15e1",
+    "candidateSemanticTreeSha256": "3410554fa82040a8e620791dd415bcaae7dbf7b900eb35d42b7ebd9e36a2018b",
+    "classPackageSHA256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47",
+    "acceptedNeutralizationClassSHA256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3",
+    "scope": "Enhanced/Reloaded PC mechanics with recovered PS2 visuals and selected original mode graphs. Source Sabotage areas are explicitly adapted to linked native planted-modem points.",
+    "validation": {
+      "offlineAudit": "fcbeb4bacc13b19a1cb9327c1a9a0cb2155051a87a5af803746cceeeb66e8fec",
+      "runtime": "abb409b50726f9e4bedcd1da902649b26d517f8f1fad64752b854402f948dd72",
+      "qualifications": "Representative input/visual tests and all31 named activations; no joining-client/remote multiplayer test or complete matches on all maps."
+    },
+    "separateOpenSCCTArtifactsUnchanged": true
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "command": "SKY08P.sdc?MapName=SKY08P?MaxPlayers=4?TimeLimit=0?ScoreLimit=0?GameMode=5?LivesATT=0?TimesRespawnsATT=5?LivesDEF=0?BalanceTeams=False?Revenge=False?GamesInARow=0?TimesReinitFlag=30?TimeToExplode=30?GameWithRanking=False?LevelGap=0?Team=0?Name=PrivateSpy?Editeur=false",
+  "travel": {
+    "return": null,
+    "out": {}
+  },
+  "loadingMenu": {
+    "return": true,
+    "out": {}
+  },
+  "liveLevelInfo": "SKY08P.LevelInfo0",
+  "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\SKY08P.sdc",
+  "sourceSha256": "7462a0710c0cad40e4aeafc72cefd943914b4619a1862a9dfad109b4cf803e01",
+  "code": "SKY08P",
+  "sourceCode": "SKY08",
+  "sourceMode": 3,
+  "mode": "Neutralization",
+  "status": "passed",
+  "missions": [
+    {
+      "ref": 777,
+      "mode": 5,
+      "left": 3,
+      "total": 3,
+      "objectives": [
+        218,
+        196,
+        190,
+        208,
+        200,
+        197
+      ]
+    },
+    {
+      "ref": 666,
+      "mode": 1,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        215,
+        198,
+        216
+      ]
+    }
+  ],
+  "hudObjectives": [
+    3
+  ],
+  "graph": [
+    {
+      "ref": 777,
+      "property": "Objectives",
+      "children": [
+        218,
+        196,
+        190,
+        208,
+        200,
+        197
+      ]
+    },
+    {
+      "ref": 190,
+      "property": "Triggers",
+      "children": [
+        162
+      ]
+    },
+    {
+      "ref": 196,
+      "property": "Triggers",
+      "children": [
+        157
+      ]
+    },
+    {
+      "ref": 197,
+      "property": "Triggers",
+      "children": [
+        179
+      ]
+    },
+    {
+      "ref": 200,
+      "property": "Triggers",
+      "children": [
+        175
+      ]
+    },
+    {
+      "ref": 208,
+      "property": "Triggers",
+      "children": [
+        142
+      ]
+    },
+    {
+      "ref": 218,
+      "property": "Triggers",
+      "children": [
+        170
+      ]
+    }
+  ],
+  "flags": [],
+  "cases": [
+    {
+      "ref": 170,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 157,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 162,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 142,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 179,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    },
+    {
+      "ref": 175,
+      "kind": "PS2Computer",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 1,
+      "classFile": "C:\\Users\\ryans\\Desktop\\SVM\\Enhanced SCCT Versus 4.0 Beta 5 - mapping ver\\Packages\\StaticMeshes\\P2_PS2Objectives.usx",
+      "classSha256": "d65019c7b514701dc908c0ace29460118eb9bdabf056d766e1b35df06668c9c3"
+    }
+  ],
+  "starts": [
+    {
+      "ref": 214,
+      "distance": 0.0
+    },
+    {
+      "ref": 204,
+      "distance": 0.0
+    },
+    {
+      "ref": 217,
+      "distance": 0.0
+    },
+    {
+      "ref": 199,
+      "distance": 0.0
+    },
+    {
+      "ref": 203,
+      "distance": 0.0
+    },
+    {
+      "ref": 212,
+      "distance": 0.0
+    },
+    {
+      "ref": 201,
+      "distance": 0.0
+    }
+  ],
+  "geometry": {
+    "name": "UnknownGlobalPS2_877575",
+    "nodes": 1408,
+    "points": 2412,
+    "surfs": 793,
+    "bbox_min": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "points_min": [
+      -13439.998046875,
+      -11107.849609375,
+      -8160.1865234375
+    ],
+    "points_max": [
+      11680.0,
+      11200.3095703125,
+      5023.99462890625
+    ],
+    "points_sha256": "165842b755c356f41ee6c19b0932e1e88fbbf3360b30bf9b1f484b81af0f2ece"
+  },
+  "runtimeModels": [
+    {
+      "name": "SKY08P.UnknownGlobalPS2_877575",
+      "nodes": 1408,
+      "points": 2412,
+      "surfs": 793,
+      "pointsSha256": "165842b755c356f41ee6c19b0932e1e88fbbf3360b30bf9b1f484b81af0f2ece"
+    }
+  ],
+  "seconds": 20.25
+}

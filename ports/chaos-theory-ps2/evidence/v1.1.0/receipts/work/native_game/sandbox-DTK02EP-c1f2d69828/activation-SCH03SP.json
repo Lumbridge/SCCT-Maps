@@ -1,0 +1,183 @@
+{
+  "command": "SCH03SP.sdc?MapName=SCH03SP?MaxPlayers=4?TimeLimit=0?ScoreLimit=0?GameMode=5?LivesATT=0?TimesRespawnsATT=5?LivesDEF=0?BalanceTeams=False?Revenge=False?GamesInARow=0?TimesReinitFlag=30?TimeToExplode=30?GameWithRanking=False?LevelGap=0?Team=0?Name=PrivateSpy?Editeur=false",
+  "travel": {
+    "return": null,
+    "out": {}
+  },
+  "loadingMenu": {
+    "return": true,
+    "out": {}
+  },
+  "liveLevelInfo": "SCH03SP.LevelInfo0",
+  "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\SCH03SP.sdc",
+  "sourceSha256": "582a0a949479f733145d954d5d9f6f30cd7a3ac725be94ffc8a41035f47bdabf",
+  "code": "SCH03SP",
+  "sourceCode": "SCH03",
+  "sourceMode": 2,
+  "mode": "Sabotage",
+  "status": "passed",
+  "missions": [
+    {
+      "ref": 450,
+      "mode": 0,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        96,
+        105,
+        99,
+        98
+      ]
+    },
+    {
+      "ref": 175,
+      "mode": 1,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        122,
+        121,
+        132,
+        130
+      ]
+    },
+    {
+      "ref": 513,
+      "mode": 5,
+      "left": 1,
+      "total": 1,
+      "objectives": [
+        136
+      ]
+    },
+    {
+      "ref": 554,
+      "mode": 3,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        96,
+        105,
+        99,
+        98
+      ]
+    }
+  ],
+  "hudObjectives": [
+    1
+  ],
+  "graph": [
+    {
+      "ref": 513,
+      "property": "Objectives",
+      "children": [
+        136
+      ]
+    },
+    {
+      "ref": 136,
+      "property": "Triggers",
+      "children": [
+        88
+      ]
+    }
+  ],
+  "flags": [],
+  "cases": [
+    {
+      "ref": 70,
+      "kind": "PS2SabotageCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    }
+  ],
+  "bombTargets": [
+    {
+      "ref": 88,
+      "location": [
+        6211.16552734375,
+        5158.12109375,
+        -806.208740234375
+      ],
+      "drawType": 0,
+      "radius": 22.0,
+      "height": 22.0,
+      "alwaysRelevant": 1,
+      "active": 1
+    }
+  ],
+  "starts": [
+    {
+      "ref": 138,
+      "distance": 0.0
+    },
+    {
+      "ref": 134,
+      "distance": 0.0
+    },
+    {
+      "ref": 126,
+      "distance": 0.0
+    },
+    {
+      "ref": 127,
+      "distance": 0.0
+    },
+    {
+      "ref": 128,
+      "distance": 0.0
+    },
+    {
+      "ref": 131,
+      "distance": 0.0
+    },
+    {
+      "ref": 133,
+      "distance": 0.0
+    },
+    {
+      "ref": 141,
+      "distance": 0.0
+    }
+  ],
+  "geometry": {
+    "name": "UnknownGlobalPS2_876932",
+    "nodes": 992,
+    "points": 1629,
+    "surfs": 580,
+    "bbox_min": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "points_min": [
+      -20233.455078125,
+      -11910.2255859375,
+      -2593.946533203125
+    ],
+    "points_max": [
+      12818.3359375,
+      12480.0,
+      9216.0
+    ],
+    "points_sha256": "75b7812d4c4e2ca3a6ff72277862053a967ddae2c057060d52fe2a41586eeb65"
+  },
+  "runtimeModels": [
+    {
+      "name": "SCH03SP.UnknownGlobalPS2_876932",
+      "nodes": 992,
+      "points": 1629,
+      "surfs": 580,
+      "pointsSha256": "75b7812d4c4e2ca3a6ff72277862053a967ddae2c057060d52fe2a41586eeb65"
+    }
+  ],
+  "seconds": 17.36
+}

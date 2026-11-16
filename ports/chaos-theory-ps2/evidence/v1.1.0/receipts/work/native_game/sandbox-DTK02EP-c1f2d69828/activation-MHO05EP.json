@@ -1,0 +1,327 @@
+{
+  "command": "MHO05EP.sdc?MapName=MHO05EP?MaxPlayers=4?TimeLimit=0?ScoreLimit=0?GameMode=5?LivesATT=0?TimesRespawnsATT=5?LivesDEF=0?BalanceTeams=False?Revenge=False?GamesInARow=0?TimesReinitFlag=30?TimeToExplode=30?GameWithRanking=False?LevelGap=0?Team=0?Name=PrivateSpy?Editeur=false",
+  "travel": {
+    "return": null,
+    "out": {}
+  },
+  "loadingMenu": {
+    "return": true,
+    "out": {}
+  },
+  "liveLevelInfo": "MHO05EP.LevelInfo0",
+  "resolvedWorldFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\Maps\\MHO05EP.sdc",
+  "sourceSha256": "ee4d8c64e808758a403585a79953d36bbb6a67d2f5729878c786da2ccce266b2",
+  "code": "MHO05EP",
+  "sourceCode": "MHO05",
+  "sourceMode": 1,
+  "mode": "Extraction",
+  "status": "passed",
+  "missions": [
+    {
+      "ref": 286,
+      "mode": 2,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        183,
+        187,
+        193,
+        194,
+        213
+      ]
+    },
+    {
+      "ref": 511,
+      "mode": 0,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        172,
+        177,
+        179,
+        170,
+        167
+      ]
+    },
+    {
+      "ref": 449,
+      "mode": 5,
+      "left": 4,
+      "total": 4,
+      "objectives": [
+        196,
+        190,
+        182,
+        181,
+        206
+      ]
+    },
+    {
+      "ref": 301,
+      "mode": 3,
+      "left": 0,
+      "total": 0,
+      "objectives": [
+        172,
+        177,
+        179,
+        170,
+        167
+      ]
+    }
+  ],
+  "hudObjectives": [
+    4
+  ],
+  "graph": [
+    {
+      "ref": 449,
+      "property": "Objectives",
+      "children": [
+        196,
+        190,
+        182,
+        181,
+        206
+      ]
+    },
+    {
+      "ref": 181,
+      "property": "Triggers",
+      "children": [
+        155
+      ]
+    },
+    {
+      "ref": 182,
+      "property": "Triggers",
+      "children": [
+        163
+      ]
+    },
+    {
+      "ref": 190,
+      "property": "Triggers",
+      "children": [
+        153
+      ]
+    },
+    {
+      "ref": 196,
+      "property": "Triggers",
+      "children": [
+        124
+      ]
+    },
+    {
+      "ref": 206,
+      "property": "Triggers",
+      "children": [
+        159
+      ]
+    }
+  ],
+  "flags": [
+    {
+      "ref": 124,
+      "kind": "PS2VialFlag",
+      "active": 1,
+      "hidden": 0,
+      "mesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "initial": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "pivot": [
+        23.0,
+        6.128431095930864e-14,
+        0.0
+      ]
+    },
+    {
+      "ref": 153,
+      "kind": "PS2VialFlag",
+      "active": 1,
+      "hidden": 0,
+      "mesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "initial": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "pivot": [
+        23.0,
+        8.210099267103033e-14,
+        0.0
+      ]
+    },
+    {
+      "ref": 163,
+      "kind": "PS2VialFlag",
+      "active": 1,
+      "hidden": 0,
+      "mesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "initial": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "pivot": [
+        23.0,
+        8.000544671205034e-14,
+        0.0
+      ]
+    },
+    {
+      "ref": 155,
+      "kind": "PS2VialFlag",
+      "active": 1,
+      "hidden": 0,
+      "mesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "initial": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "pivot": [
+        23.0,
+        1.0469403122215226e-13,
+        0.0
+      ]
+    },
+    {
+      "ref": 159,
+      "kind": "PS2VialFlag",
+      "active": 1,
+      "hidden": 0,
+      "mesh": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "initial": "P2_857190.CTF.UnknownGlobalPS2_857191",
+      "pivot": [
+        23.0,
+        -9.658940314238862e-14,
+        0.0
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "ref": 146,
+      "kind": "PS2ExtractionCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    },
+    {
+      "ref": 134,
+      "kind": "PS2ExtractionCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    },
+    {
+      "ref": 135,
+      "kind": "PS2ExtractionCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    },
+    {
+      "ref": 140,
+      "kind": "PS2ExtractionCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    },
+    {
+      "ref": 141,
+      "kind": "PS2ExtractionCase",
+      "mesh": "nd133_1mesh.nd133_mesh",
+      "hidden": 0,
+      "active": 0,
+      "classFile": "C:\\Users\\ryans\\Documents\\Codex\\2026-11-15\\c-users-ryans-downloads-tom-clancy\\work\\native_game\\sandbox-DTK02EP-c1f2d69828\\Packages\\StaticMeshes\\P2_PS2Modes.usx",
+      "classSha256": "e5c1328b229c07646cbb2fa8b98a4d435493e7a921c5368051dbc08a037c8c47"
+    }
+  ],
+  "hiddenServers": [
+    {
+      "flagRef": 124,
+      "hidden": 1
+    },
+    {
+      "flagRef": 153,
+      "hidden": 1
+    },
+    {
+      "flagRef": 163,
+      "hidden": 1
+    },
+    {
+      "flagRef": 155,
+      "hidden": 1
+    },
+    {
+      "flagRef": 159,
+      "hidden": 1
+    }
+  ],
+  "starts": [
+    {
+      "ref": 192,
+      "distance": 0.0
+    },
+    {
+      "ref": 209,
+      "distance": 0.0
+    },
+    {
+      "ref": 188,
+      "distance": 0.0
+    },
+    {
+      "ref": 184,
+      "distance": 0.0
+    },
+    {
+      "ref": 207,
+      "distance": 0.0
+    },
+    {
+      "ref": 212,
+      "distance": 0.0
+    },
+    {
+      "ref": 189,
+      "distance": 0.0
+    }
+  ],
+  "geometry": {
+    "name": "UnknownGlobalPS2_872187",
+    "nodes": 1541,
+    "points": 2493,
+    "surfs": 809,
+    "bbox_min": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "points_min": [
+      -8768.0,
+      -8768.67578125,
+      -3014.4013671875
+    ],
+    "points_max": [
+      8768.0,
+      8768.0,
+      5632.0
+    ],
+    "points_sha256": "54c6b464dc09b2425abae024408a910afa718277e26dbffc5305f17c6df1931c"
+  },
+  "runtimeModels": [
+    {
+      "name": "MHO05EP.UnknownGlobalPS2_872187",
+      "nodes": 1541,
+      "points": 2493,
+      "surfs": 809,
+      "pointsSha256": "54c6b464dc09b2425abae024408a910afa718277e26dbffc5305f17c6df1931c"
+    }
+  ],
+  "seconds": 19.83
+}

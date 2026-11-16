@@ -1,107 +1,53 @@
-# Original PS2 Versus maps
+# PS2 Version maps for Enhanced/Reloaded
 
-Fourteen levels recovered from the European PlayStation 2 disc of *Splinter Cell:
-Chaos Theory* (`SLES_53287`), including both tutorials. The package code and display
-name end in `P`, for example `ORP14P` / **Orphanage P**, so they coexist with PC maps.
+Revision **1.1.0** lists each supported native mode separately: **31 competitive
+entries** (10 Extraction, 9 Sabotage, 12 Neutralization), plus the two retained
+one-sided training levels. Names use **PS2 Map (Mode)**; package codes keep `P` as
+their final suffix. Neutralization preserves its existing map IDs and SDC bytes.
 
-Native loading, menu and representative extraction/neutralization checks pass. OpenSCCT
-passes load/render checks on all fourteen maps and the original objective profile
-smoke on DTK02P. See the release assets and per-map validation receipts.
+Use **SCCT Map Manager 0.6.3** and the **PS2 Version** filter. Choose the named
+mode variant, then select **Story** in the PC lobby. Each package activates only
+its selected original objective graph through the supported PC mode 5 selector.
+The variants coexist and require their supplied, hash-matched `P2_` dependencies.
 
-| Map | Package | Notes |
-| --- | --- | --- |
-| Deftech Belew P | `DTK02P` | [Notes](deftech-belew/README.md) |
-| Factory P | `FAC13P` | [Notes](factory/README.md) |
-| Station P | `GAR09P` | [Notes](station/README.md) |
-| Cinema P | `INI01P` | [Notes](cinema/README.md) |
-| Krauser Lab P | `KRA07P` | [Notes](krauser-lab/README.md) |
-| Mount Hospital P | `MHO05P` | [Notes](mount-hospital/README.md) |
-| Missile Strike P | `MIS10P` | [Notes](missile-strike/README.md) |
-| Museum P | `MUS04P` | [Notes](museum/README.md) |
-| Orphanage P | `ORP14P` | [Notes](orphanage/README.md) |
-| Schermerhorn P | `SCH03P` | [Notes](schermerhorn/README.md) |
-| Vertigo Plaza P | `SKY08P` | [Notes](vertigo-plaza/README.md) |
-| Mercenary Training P | `TME12P` | [Notes](mercenary-training/README.md) |
-| Spy Training P | `TSP11P` | [Notes](spy-training/README.md) |
-| Warehouse P | `WAR06P` | [Notes](warehouse/README.md) |
+| Map | Extraction | Sabotage | Neutralization |
+| --- | --- | --- | --- |
+| PS2 Deftech Belew | [`DTK02EP`](deftech-belew-extraction/README.md) | [`DTK02SP`](deftech-belew-sabotage/README.md) | [`DTK02P`](deftech-belew/README.md) |
+| PS2 Factory | [`FAC13EP`](factory-extraction/README.md) | [`FAC13SP`](factory-sabotage/README.md) | [`FAC13P`](factory/README.md) |
+| PS2 Station | [`GAR09EP`](station-extraction/README.md) | [`GAR09SP`](station-sabotage/README.md) | [`GAR09P`](station/README.md) |
+| PS2 Cinema | — | — | [`INI01P`](cinema/README.md) |
+| PS2 Krauser Lab | [`KRA07EP`](krauser-lab-extraction/README.md) | [`KRA07SP`](krauser-lab-sabotage/README.md) | [`KRA07P`](krauser-lab/README.md) |
+| PS2 Mount Hospital | [`MHO05EP`](mount-hospital-extraction/README.md) | [`MHO05SP`](mount-hospital-sabotage/README.md) | [`MHO05P`](mount-hospital/README.md) |
+| PS2 Missile Strike | [`MIS10EP`](missile-strike-extraction/README.md) | [`MIS10SP`](missile-strike-sabotage/README.md) | [`MIS10P`](missile-strike/README.md) |
+| PS2 Museum | — | [`MUS04SP`](museum-sabotage/README.md) | [`MUS04P`](museum/README.md) |
+| PS2 Orphanage | [`ORP14EP`](orphanage-extraction/README.md) | [`ORP14SP`](orphanage-sabotage/README.md) | [`ORP14P`](orphanage/README.md) |
+| PS2 Schermerhorn | [`SCH03EP`](schermerhorn-extraction/README.md) | [`SCH03SP`](schermerhorn-sabotage/README.md) | [`SCH03P`](schermerhorn/README.md) |
+| PS2 Vertigo Plaza | [`SKY08EP`](vertigo-plaza-extraction/README.md) | — | [`SKY08P`](vertigo-plaza/README.md) |
+| PS2 Warehouse | [`WAR06EP`](warehouse-extraction/README.md) | — | [`WAR06P`](warehouse/README.md) |
 
-## Installing
+Mercenary Training (`TME12P`) and Spy Training (`TSP11P`) retain their native
+version 1.0.0 files and training routes. Their names and category are clarified;
+they are not advertised as competitive variants.
 
-The native release is for Enhanced/Reloaded Versus. Install the complete map and
-its supplied `P2_` packages through SCCT Map Manager or copy the release ZIP's
-`Packages` tree into the game. Other players need matching files. Editable brush
-history is not recovered; these are converted compiled levels.
+The release combines original PS2 layouts, recovered assets, English labels and
+animated ND133/vial presentation with compatible PC gameplay. Extraction uses
+the PC flag interaction/carry/delivery rules; Sabotage adapts source target areas
+to linked PC modem points. Per-map provenance preserves original graphs,
+references and source/target positions. This is a documented native adaptation,
+with no replacement of global Core, Engine or SBase scripts.
 
-OpenSCCT uses separate converted content packs in
-[OpenSCCT-Content](https://github.com/Lumbridge/OpenSCCT-Content). The minimum
-supported game version for the PS2 objective profile is **0.8.156**. Publish and
-validate that runtime, including the actual source pickup input path, before
-making these packs available. The current content-index format is unchanged.
+The independent offline audit passes all 31 worlds, 62 unique map/UI identities,
+117 unique payloads and 20,627 property bags. Named Story activation passed on all 31
+frozen maps in private native runs. Source/compiler hashes and qualified native validation are recorded in the
+shared evidence. Publication and installation verification have separate receipts. Representative
+gameplay and visual receipts retain their specific coverage/instrumentation
+qualifications; separate-machine Internet multiplayer and complete matches on
+every map are not claimed. OpenSCCT uses its separate published content.
 
-## Source and conversion
+## Converter source
 
-Each map's `source-provenance.json` records the original LIN path, byte size and
-SHA-256, and every converted native package's path, size and SHA-256. The complete
-[source manifest](evidence/source-manifest.json) also identifies shared COM, menu
-streams and PS2 sound banks. `P2_` namespaces isolate recovered shared assets.
-Unknown source names retain stable numeric identities instead of guessed names.
+[Native 1.1.0 source snapshot](https://github.com/Lumbridge/SCCT-Maps/releases/download/ps2-original-svm-v1.1.0/SCCT-PS2-SVM-converter-source-v1.1.0.zip)
 
-The recovery replays the console's ordered archive reads, resolves common/map
-object references, converts PS2 native geometry, palettes/textures and audio to PC
-serialization, then builds OpenSCCT maps against the existing shared class/audio
-hashes. Native packages and OpenSCCT objective overlays are separate artifacts.
-
-## Objective fidelity
-
-OpenSCCT restores the original green vial, animated computer proxy and sabotage
-modem profile. The source flag follows its authored computer, drop zones use their
-source touch behavior, and the modem preserves captured progress when destroyed.
-The native PC ports use the compatible PC interaction/presentation path. They
-use the source computer interaction offset of 90 units as the default; specific
-native endpoints and flag placement use reviewed PC clearance adjustments recorded
-in the per-actor audit. Those native clearance adjustments do not claim original
-PS2 stand distances. OpenSCCT uses the original PS2 computer-plus-25 vial position
-and rotation, including the authored initial pose, independently of the native
-compatibility adjustment. Its pickup approach uses the decoded source 80-unit
-target and conditional reposition physics, including the source crouch lift.
-
-The recovered objective overlay has **41 source objects**: both static meshes
-match source positions, normals, UVs, section assignments and winding; all **13
-texture images** match decoded PS2 RGBA pixels. The computer uses the original
-PS2-authored `nd133_1mesh.nd133_mesh` retained in the retail PC files: its bounds,
-18 bind bones and all 72 animation tracks match the PS2 source. The cooked PS2 GPU
-vertex stream has not been proved identical to the retained PC render geometry.
-
-Four constant zero quaternion keys in the alarm/CTF clips become unit identity
-quaternions for glTF. Native PS2 instructions prove the same identity matrix;
-their authored zero translations remain unchanged. All other rotation keys and
-all translation/time arrays pass the independent final audit in all 14 maps.
-
-The modem active beep uses the same-class retail compatibility alias
-`Armes_impacts.Armes.ProxMine_ACTI_1`; exact PS2 PCM is not claimed for that sound.
-Its destruction sound uses recovered PS2 PCM. The original UI contributes 50
-preview/loading images, all with matching decoded pixels.
-
-## Validation
-
-Automated source/serialization/pixel/geometry/animation audits pass. They do not
-establish a completed match or visual parity during play. Native loading and host-menu checks pass for all fourteen maps; representative
-extraction and neutralization interactions pass on the final candidate. The
-OpenSCCT real client/server smoke checks the vial, console, panner, alarm, modem,
-destruction and carried-vial binding on DTK02P; all fourteen maps pass load/render
-captures. This does not claim fourteen completed matches. Per-map `validation.json`
-records the exact scope.
-
-The native final receipt records all fourteen final named worlds, all51 flag and
-77 computer endpoints, the host menu and representative normal Extraction,
-Sabotage and Neutralization interactions. Earlier walking/render checks are reused
-only with final decoded geometry, spawn and non-objective-property invariance.
-The native harness did not exercise a remote multiplayer client or subjective
-audio listening; it does not claim complete routes between every objective.
-
-The [evidence index](evidence/index.json) binds the portable audit reports to their
-SHA-256 hashes and to the original local report hashes. [Objective source
-bindings](evidence/objective-bindings.json) distinguish exact captures, retained
-original authored assets and the explicit audio compatibility alias. The
-[converter source artifact](conversion-source.json) preserves the actual scripts,
-builder snapshot and name/schema metadata, without the raw ISO or executable.
+SHA-256: `98247552c5b8ec378eb4cc733a148211ff7b213cc6e8db905f74fc489e2f9abf`. The [source record](revisions/native-v1.1.0/converter-source.json)
+and [manifest](revisions/native-v1.1.0/SOURCE-MANIFEST.json) bind the converter,
+compiler recipes, exact name/schema metadata and independent validation sources.
