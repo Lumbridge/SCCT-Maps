@@ -4669,15 +4669,15 @@
     "Name": "PS2 Deftech Belew (Neutralization)",
     "Category": "PS2 Version",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.1.0",
-    "Commit": "3ec4fa2294be1a75ab9e4eed7f0446a4e3cb93dd",
+    "Version": "v1.1.1",
+    "Commit": "c4af3d2113118b7100b70a72082e5665057b449e",
     "NotesPath": "ports/chaos-theory-ps2/deftech-belew/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.1.0/DTK02P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.1.1/DTK02P.sdc",
         "Destination": "Packages/Maps/DTK02P.sdc",
-        "Hash": "f96f0760739dd6ac08c9c8effe88ff7952b3a1e9",
-        "Size": 419122
+        "Hash": "5d9cc9402c36083c2d413f7a0b7099befe84d059",
+        "Size": 419124
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.1.0/P2_867522.uax",
@@ -4788,15 +4788,15 @@
     "Name": "PS2 Factory (Neutralization)",
     "Category": "PS2 Version",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.1.0",
-    "Commit": "3ec4fa2294be1a75ab9e4eed7f0446a4e3cb93dd",
+    "Version": "v1.1.1",
+    "Commit": "c4af3d2113118b7100b70a72082e5665057b449e",
     "NotesPath": "ports/chaos-theory-ps2/factory/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.1.0/FAC13P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.1.1/FAC13P.sdc",
         "Destination": "Packages/Maps/FAC13P.sdc",
-        "Hash": "e9cfa92381b87d97a4124c27fe6266c1007699c4",
-        "Size": 454617
+        "Hash": "dffdbfd51a0b9e1a57727308a31d94c46ca9f205",
+        "Size": 454608
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.1.0/P2_868693.uax",
@@ -4907,15 +4907,15 @@
     "Name": "PS2 Station (Neutralization)",
     "Category": "PS2 Version",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.1.0",
-    "Commit": "3ec4fa2294be1a75ab9e4eed7f0446a4e3cb93dd",
+    "Version": "v1.1.1",
+    "Commit": "c4af3d2113118b7100b70a72082e5665057b449e",
     "NotesPath": "ports/chaos-theory-ps2/station/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.1.0/GAR09P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.1.1/GAR09P.sdc",
         "Destination": "Packages/Maps/GAR09P.sdc",
-        "Hash": "2246e9b08f8fe5db5488afcd3877d581d6827053",
-        "Size": 291155
+        "Hash": "e21da4f7e8bd2caa45313d86d80abc9fbf898127",
+        "Size": 291154
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.1.0/P2_869815.uax",
@@ -5145,15 +5145,15 @@
     "Name": "PS2 Krauser Lab (Neutralization)",
     "Category": "PS2 Version",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.1.0",
-    "Commit": "3ec4fa2294be1a75ab9e4eed7f0446a4e3cb93dd",
+    "Version": "v1.1.1",
+    "Commit": "c4af3d2113118b7100b70a72082e5665057b449e",
     "NotesPath": "ports/chaos-theory-ps2/krauser-lab/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.1.0/KRA07P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.1.1/KRA07P.sdc",
         "Destination": "Packages/Maps/KRA07P.sdc",
-        "Hash": "0dc36c7c348170cef6b48ea077765d61697db195",
-        "Size": 456325
+        "Hash": "37e7127d210803a21479d7a6c33334bd3cb758bd",
+        "Size": 456334
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.1.0/P2_871636.uax",
@@ -5276,15 +5276,15 @@
     "Name": "PS2 Mount Hospital (Neutralization)",
     "Category": "PS2 Version",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.1.0",
-    "Commit": "3ec4fa2294be1a75ab9e4eed7f0446a4e3cb93dd",
+    "Version": "v1.1.1",
+    "Commit": "c4af3d2113118b7100b70a72082e5665057b449e",
     "NotesPath": "ports/chaos-theory-ps2/mount-hospital/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.1.0/MHO05P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.1.1/MHO05P.sdc",
         "Destination": "Packages/Maps/MHO05P.sdc",
-        "Hash": "2bfd5f27fe2df486324919e68a6b46dd8452a5ab",
-        "Size": 554788
+        "Hash": "eb4831ff6bacd2c1ff8dbcbc30d227ed03ae6ecc",
+        "Size": 554787
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.1.0/P2_872722.uax",
@@ -5401,15 +5401,15 @@
     "Name": "PS2 Missile Strike (Neutralization)",
     "Category": "PS2 Version",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.1.0",
-    "Commit": "3ec4fa2294be1a75ab9e4eed7f0446a4e3cb93dd",
+    "Version": "v1.1.1",
+    "Commit": "c4af3d2113118b7100b70a72082e5665057b449e",
     "NotesPath": "ports/chaos-theory-ps2/missile-strike/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.1.0/MIS10P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.1.1/MIS10P.sdc",
         "Destination": "Packages/Maps/MIS10P.sdc",
-        "Hash": "8d8aec95e64793d4b55a5890b4bcb6871d3c2f75",
-        "Size": 509052
+        "Hash": "814c4ef9d26ea092c04f3cc6379077652585457e",
+        "Size": 509048
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.1.0/P2_873852.uax",
@@ -5651,15 +5651,15 @@
     "Name": "PS2 Orphanage (Neutralization)",
     "Category": "PS2 Version",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.1.0",
-    "Commit": "3ec4fa2294be1a75ab9e4eed7f0446a4e3cb93dd",
+    "Version": "v1.1.1",
+    "Commit": "c4af3d2113118b7100b70a72082e5665057b449e",
     "NotesPath": "ports/chaos-theory-ps2/orphanage/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.1.0/ORP14P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.1.1/ORP14P.sdc",
         "Destination": "Packages/Maps/ORP14P.sdc",
-        "Hash": "d226c8508c43fa170a322485f432e74d8807ee25",
-        "Size": 457815
+        "Hash": "04fc9923d47745b41ae0d913adf55aa31a8287a4",
+        "Size": 457812
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.1.0/P2_875776.uax",
@@ -5770,15 +5770,15 @@
     "Name": "PS2 Schermerhorn (Neutralization)",
     "Category": "PS2 Version",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.1.0",
-    "Commit": "3ec4fa2294be1a75ab9e4eed7f0446a4e3cb93dd",
+    "Version": "v1.1.1",
+    "Commit": "c4af3d2113118b7100b70a72082e5665057b449e",
     "NotesPath": "ports/chaos-theory-ps2/schermerhorn/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.1.0/SCH03P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.1.1/SCH03P.sdc",
         "Destination": "Packages/Maps/SCH03P.sdc",
-        "Hash": "1836cd460f16601f41e72efcb91164263af4f3f2",
-        "Size": 305470
+        "Hash": "88ef4d693d7646305b8020cc5704b44931ec9da2",
+        "Size": 305469
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.1.0/P2_877252.uax",
@@ -5889,15 +5889,15 @@
     "Name": "PS2 Vertigo Plaza (Neutralization)",
     "Category": "PS2 Version",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.1.0",
-    "Commit": "3ec4fa2294be1a75ab9e4eed7f0446a4e3cb93dd",
+    "Version": "v1.1.1",
+    "Commit": "c4af3d2113118b7100b70a72082e5665057b449e",
     "NotesPath": "ports/chaos-theory-ps2/vertigo-plaza/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.1.0/SKY08P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.1.1/SKY08P.sdc",
         "Destination": "Packages/Maps/SKY08P.sdc",
-        "Hash": "5764a0f822a5b4252d1d5906676e4a0b492c3f8b",
-        "Size": 555299
+        "Hash": "0e69d03981e71fe474c7b02491bfdf5fb76fde77",
+        "Size": 555300
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.1.0/P2_867522.uax",
@@ -6240,15 +6240,15 @@
     "Name": "PS2 Warehouse (Neutralization)",
     "Category": "PS2 Version",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.1.0",
-    "Commit": "3ec4fa2294be1a75ab9e4eed7f0446a4e3cb93dd",
+    "Version": "v1.1.1",
+    "Commit": "c4af3d2113118b7100b70a72082e5665057b449e",
     "NotesPath": "ports/chaos-theory-ps2/warehouse/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.1.0/WAR06P.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.1.1/WAR06P.sdc",
         "Destination": "Packages/Maps/WAR06P.sdc",
-        "Hash": "547be1da6ff3fe5fd8441b05f3a5619a51168c18",
-        "Size": 458889
+        "Hash": "d76a2403ea7297f90e0272a6357d0bc4e4824053",
+        "Size": 458885
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.1.0/P2_879601.uax",
@@ -6484,15 +6484,15 @@
     "Name": "PS2 Deftech Belew (Sabotage)",
     "Category": "PS2 Version",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.1.0",
-    "Commit": "3ec4fa2294be1a75ab9e4eed7f0446a4e3cb93dd",
+    "Version": "v1.1.1",
+    "Commit": "c4af3d2113118b7100b70a72082e5665057b449e",
     "NotesPath": "ports/chaos-theory-ps2/deftech-belew-sabotage/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.1.0/DTK02SP.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.1.1/DTK02SP.sdc",
         "Destination": "Packages/Maps/DTK02SP.sdc",
-        "Hash": "c9d32ce9361a46e651a73b85762e9428fb332c49",
-        "Size": 419213
+        "Hash": "0d2de32f2b1895c8424b8c7a5764feafc0d48cbc",
+        "Size": 419211
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.1.0/P2_867522.uax",
@@ -6734,15 +6734,15 @@
     "Name": "PS2 Factory (Sabotage)",
     "Category": "PS2 Version",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.1.0",
-    "Commit": "3ec4fa2294be1a75ab9e4eed7f0446a4e3cb93dd",
+    "Version": "v1.1.1",
+    "Commit": "c4af3d2113118b7100b70a72082e5665057b449e",
     "NotesPath": "ports/chaos-theory-ps2/factory-sabotage/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.1.0/FAC13SP.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.1.1/FAC13SP.sdc",
         "Destination": "Packages/Maps/FAC13SP.sdc",
-        "Hash": "92451441533fb8a0560bbf24bf0f0970e9366fa8",
-        "Size": 454769
+        "Hash": "79c5c5e506ea53c7e6788fac8ad3c02bc008bbfb",
+        "Size": 454760
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.1.0/P2_868693.uax",
@@ -6984,14 +6984,14 @@
     "Name": "PS2 Station (Sabotage)",
     "Category": "PS2 Version",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.1.0",
-    "Commit": "3ec4fa2294be1a75ab9e4eed7f0446a4e3cb93dd",
+    "Version": "v1.1.1",
+    "Commit": "c4af3d2113118b7100b70a72082e5665057b449e",
     "NotesPath": "ports/chaos-theory-ps2/station-sabotage/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.1.0/GAR09SP.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.1.1/GAR09SP.sdc",
         "Destination": "Packages/Maps/GAR09SP.sdc",
-        "Hash": "cc11f3c02658bd258e22dc522a2ff9eecdaa7543",
+        "Hash": "3e7fc2c284044c9b100afc266c204f45387ec185",
         "Size": 291178
       },
       {
@@ -7246,15 +7246,15 @@
     "Name": "PS2 Krauser Lab (Sabotage)",
     "Category": "PS2 Version",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.1.0",
-    "Commit": "3ec4fa2294be1a75ab9e4eed7f0446a4e3cb93dd",
+    "Version": "v1.1.1",
+    "Commit": "c4af3d2113118b7100b70a72082e5665057b449e",
     "NotesPath": "ports/chaos-theory-ps2/krauser-lab-sabotage/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.1.0/KRA07SP.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.1.1/KRA07SP.sdc",
         "Destination": "Packages/Maps/KRA07SP.sdc",
-        "Hash": "f84ca3253e53ccaa54d7c99307c348cab408b0d4",
-        "Size": 456460
+        "Hash": "f73275d048b64b4937e94c39fdd037540e1232e8",
+        "Size": 456469
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.1.0/P2_871636.uax",
@@ -7514,15 +7514,15 @@
     "Name": "PS2 Mount Hospital (Sabotage)",
     "Category": "PS2 Version",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.1.0",
-    "Commit": "3ec4fa2294be1a75ab9e4eed7f0446a4e3cb93dd",
+    "Version": "v1.1.1",
+    "Commit": "c4af3d2113118b7100b70a72082e5665057b449e",
     "NotesPath": "ports/chaos-theory-ps2/mount-hospital-sabotage/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.1.0/MHO05SP.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.1.1/MHO05SP.sdc",
         "Destination": "Packages/Maps/MHO05SP.sdc",
-        "Hash": "6be6e8b54069ee1e53aaa5fb234ac530c00d054c",
-        "Size": 554878
+        "Hash": "e7a192bf6d112c8ea3525bf0263ec207a83a5dd9",
+        "Size": 554879
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.1.0/P2_872722.uax",
@@ -7770,15 +7770,15 @@
     "Name": "PS2 Missile Strike (Sabotage)",
     "Category": "PS2 Version",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.1.0",
-    "Commit": "3ec4fa2294be1a75ab9e4eed7f0446a4e3cb93dd",
+    "Version": "v1.1.1",
+    "Commit": "c4af3d2113118b7100b70a72082e5665057b449e",
     "NotesPath": "ports/chaos-theory-ps2/missile-strike-sabotage/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.1.0/MIS10SP.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.1.1/MIS10SP.sdc",
         "Destination": "Packages/Maps/MIS10SP.sdc",
-        "Hash": "d72f92a7a05dd5d3b6eddff10e125bc7a1da94e4",
-        "Size": 509287
+        "Hash": "5c0e2af134ca1e52844f9afe96e5bdbc06c85ad7",
+        "Size": 509286
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.1.0/P2_873852.uax",
@@ -8157,14 +8157,14 @@
     "Name": "PS2 Orphanage (Sabotage)",
     "Category": "PS2 Version",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.1.0",
-    "Commit": "3ec4fa2294be1a75ab9e4eed7f0446a4e3cb93dd",
+    "Version": "v1.1.1",
+    "Commit": "c4af3d2113118b7100b70a72082e5665057b449e",
     "NotesPath": "ports/chaos-theory-ps2/orphanage-sabotage/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.1.0/ORP14SP.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.1.1/ORP14SP.sdc",
         "Destination": "Packages/Maps/ORP14SP.sdc",
-        "Hash": "b85b2f0b4d1ca078f342c61571e38ef34c9f1523",
+        "Hash": "a15c4713fe666deae37a6407e04df18faf7c9b23",
         "Size": 457935
       },
       {
@@ -8407,15 +8407,15 @@
     "Name": "PS2 Schermerhorn (Sabotage)",
     "Category": "PS2 Version",
     "Game": "Splinter Cell: Chaos Theory (PlayStation2)",
-    "Version": "v1.1.0",
-    "Commit": "3ec4fa2294be1a75ab9e4eed7f0446a4e3cb93dd",
+    "Version": "v1.1.1",
+    "Commit": "c4af3d2113118b7100b70a72082e5665057b449e",
     "NotesPath": "ports/chaos-theory-ps2/schermerhorn-sabotage/README.md",
     "Files": [
       {
-        "Source": "releases/download/ps2-original-svm-v1.1.0/SCH03SP.sdc",
+        "Source": "releases/download/ps2-original-svm-v1.1.1/SCH03SP.sdc",
         "Destination": "Packages/Maps/SCH03SP.sdc",
-        "Hash": "a352123d0f09d9c49b318f91f48d7ffc4c735ed9",
-        "Size": 305568
+        "Hash": "906954a72c95213c1379174f2dfdfc8be389dd6a",
+        "Size": 305567
       },
       {
         "Source": "releases/download/ps2-original-svm-v1.1.0/P2_877252.uax",

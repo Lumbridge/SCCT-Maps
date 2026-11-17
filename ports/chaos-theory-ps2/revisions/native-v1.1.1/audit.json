@@ -1,0 +1,224 @@
+[
+  {
+    "code": "DTK02EP",
+    "mode": "Extraction",
+    "zones": 1,
+    "changed": false
+  },
+  {
+    "code": "DTK02SP",
+    "mode": "Sabotage",
+    "zones": 1,
+    "changed": true,
+    "previousSha256": "f232736b491d47c86c9c0dedd91223764a8a4e70519c17e5b4022f95a3f7fab2",
+    "sha256": "e12bbd39774c7f7ec0215f9821b3b34615ba9b670fc04ff6d1ce9ea4c6b85cc8"
+  },
+  {
+    "code": "DTK02P",
+    "mode": "Neutralization",
+    "zones": 1,
+    "changed": true,
+    "previousSha256": "4023b177f7421d41ef811b8ba6b5ced3afac323d9e962209a6d1dafd3851b952",
+    "sha256": "be0d327a041efc7d201d3b2c795a18b5278bdc2c9854f7be903d0555ae60fdd8"
+  },
+  {
+    "code": "FAC13EP",
+    "mode": "Extraction",
+    "zones": 3,
+    "changed": false
+  },
+  {
+    "code": "FAC13SP",
+    "mode": "Sabotage",
+    "zones": 3,
+    "changed": true,
+    "previousSha256": "e1980eda6cef4d53a0dcfc436d322810a2d711a76c452c8fc51f4e5aabf39cee",
+    "sha256": "d2534f76347ff3d62f5043e59dc12a5bfb87aa61daeab9b57bdcec41740a263e"
+  },
+  {
+    "code": "FAC13P",
+    "mode": "Neutralization",
+    "zones": 3,
+    "changed": true,
+    "previousSha256": "28e119f7333a9a04e7292b5c4e9d9d5ecf92fafd5f58765a14c4cd0e14ee2b50",
+    "sha256": "5f2a46db54e821391ee703e2e80100184d0ca08434356675cd2b28b57f99b4ff"
+  },
+  {
+    "code": "GAR09EP",
+    "mode": "Extraction",
+    "zones": 1,
+    "changed": false
+  },
+  {
+    "code": "GAR09SP",
+    "mode": "Sabotage",
+    "zones": 1,
+    "changed": true,
+    "previousSha256": "fb2d427635d7efa4b616a1a9bda1163bd647b86b597c039aed5bfbab5bb095d3",
+    "sha256": "deb6da5a6a4a3bc8be09e794d345f9520252465604ef8a916b09da525e33b4a2"
+  },
+  {
+    "code": "GAR09P",
+    "mode": "Neutralization",
+    "zones": 1,
+    "changed": true,
+    "previousSha256": "e1c8a9ad97358956d9bd9f3a027723696017bb6e8cf4b2d2d21c302bdf2eb2e1",
+    "sha256": "f1d004a96f5b6ae54bf8ea16103590c20350eed6796deaf5d1d100bbb95ff48f"
+  },
+  {
+    "code": "INI01P",
+    "mode": "Neutralization",
+    "zones": 0,
+    "changed": false
+  },
+  {
+    "code": "KRA07EP",
+    "mode": "Extraction",
+    "zones": 1,
+    "changed": false
+  },
+  {
+    "code": "KRA07SP",
+    "mode": "Sabotage",
+    "zones": 1,
+    "changed": true,
+    "previousSha256": "8070b35ac0f8ed91b984f8769409c58d86137d43bdb7663ecb5c1b9aaf1b15ed",
+    "sha256": "84c272dd6fb10b1870721cec5f2046b4cc791af04a94c009109f2fd0c253f707"
+  },
+  {
+    "code": "KRA07P",
+    "mode": "Neutralization",
+    "zones": 1,
+    "changed": true,
+    "previousSha256": "095e103f77326f9e62626678bde1286b39a9ee76e16f8edb90d91bb99239a8f3",
+    "sha256": "0e538aa273e3d3d50c52b6738fd0ae671574de18ae84d2e6fbf2a33cdb3c71ef"
+  },
+  {
+    "code": "MHO05EP",
+    "mode": "Extraction",
+    "zones": 1,
+    "changed": false
+  },
+  {
+    "code": "MHO05SP",
+    "mode": "Sabotage",
+    "zones": 1,
+    "changed": true,
+    "previousSha256": "8f0b0b89ec51377fecadb255c655838452762c21554e4eaf3db3c8532c5f0dfb",
+    "sha256": "c806ccfd0429142fb8fe7205bbd8c9f9599b68b0443503e90ffdc478853dee72"
+  },
+  {
+    "code": "MHO05P",
+    "mode": "Neutralization",
+    "zones": 1,
+    "changed": true,
+    "previousSha256": "504b2e58375f6af49d614bfe374cb4999a042e4a8dcb267fa644eee40fb79744",
+    "sha256": "d3c72a459158fcb2ab71e490f7e6c6cfcb1bf351d27d4a9cd3cf1c342d81222e"
+  },
+  {
+    "code": "MIS10EP",
+    "mode": "Extraction",
+    "zones": 4,
+    "changed": false
+  },
+  {
+    "code": "MIS10SP",
+    "mode": "Sabotage",
+    "zones": 4,
+    "changed": true,
+    "previousSha256": "e4479b34f7069f3f8b016985de992536b4468eacaadc4dd370ea3fe61b67e37a",
+    "sha256": "22c1fd755fa550347dcf7f470bf2ede40a954d5a201f74a66518ec96a308a7d4"
+  },
+  {
+    "code": "MIS10P",
+    "mode": "Neutralization",
+    "zones": 4,
+    "changed": true,
+    "previousSha256": "d5c1c5c34374d5d138a3ebb63b0614ed6a717bdcf52e7875feeda629ea99d572",
+    "sha256": "09de2562ba919629b5af32e59d22a8ce3a1c26c259855640d06422daef1b7545"
+  },
+  {
+    "code": "MUS04SP",
+    "mode": "Sabotage",
+    "zones": 0,
+    "changed": false
+  },
+  {
+    "code": "MUS04P",
+    "mode": "Neutralization",
+    "zones": 0,
+    "changed": false
+  },
+  {
+    "code": "ORP14EP",
+    "mode": "Extraction",
+    "zones": 4,
+    "changed": false
+  },
+  {
+    "code": "ORP14SP",
+    "mode": "Sabotage",
+    "zones": 4,
+    "changed": true,
+    "previousSha256": "21231b87b97185c2f4590152476d653b091c9257369d1b68b1ccb42cdd5168a5",
+    "sha256": "3470f887802fef404351ba379757ca06c91029c9ad4149e237b8f431e265e484"
+  },
+  {
+    "code": "ORP14P",
+    "mode": "Neutralization",
+    "zones": 4,
+    "changed": true,
+    "previousSha256": "564273a757ee6be8385ac968da7d39736389a839c04b23cadc3e7f6e5eb0ad42",
+    "sha256": "d27cd4ba4d494ab6a1b42e6a7463a4812b5568221146be54c50b403e2839f282"
+  },
+  {
+    "code": "SCH03EP",
+    "mode": "Extraction",
+    "zones": 1,
+    "changed": false
+  },
+  {
+    "code": "SCH03SP",
+    "mode": "Sabotage",
+    "zones": 1,
+    "changed": true,
+    "previousSha256": "582a0a949479f733145d954d5d9f6f30cd7a3ac725be94ffc8a41035f47bdabf",
+    "sha256": "4454adcb6e93aa0c556dd009d1cc1e43628ef726fc5f48f8a2bd20a3528620a1"
+  },
+  {
+    "code": "SCH03P",
+    "mode": "Neutralization",
+    "zones": 1,
+    "changed": true,
+    "previousSha256": "34f6b7621f9653dcf38fc7d9e1311f8e460aa5945fe756fb70c6bbac4951be34",
+    "sha256": "623e7af16ace590e100ef59510de3d2560716c840e3d726e6569df3af323e509"
+  },
+  {
+    "code": "SKY08EP",
+    "mode": "Extraction",
+    "zones": 1,
+    "changed": false
+  },
+  {
+    "code": "SKY08P",
+    "mode": "Neutralization",
+    "zones": 1,
+    "changed": true,
+    "previousSha256": "7462a0710c0cad40e4aeafc72cefd943914b4619a1862a9dfad109b4cf803e01",
+    "sha256": "187e12b38ab358284e6719f9e22f0f57ef1b6a112f0d4bf28ad2f667cb3da766"
+  },
+  {
+    "code": "WAR06EP",
+    "mode": "Extraction",
+    "zones": 1,
+    "changed": false
+  },
+  {
+    "code": "WAR06P",
+    "mode": "Neutralization",
+    "zones": 1,
+    "changed": true,
+    "previousSha256": "b55f4826a2fc768d15e703a67bbff1a5a7d6f83f9fb5ac5bc0021eaa189545e2",
+    "sha256": "96d23458714fe461ad6c859f73e4cdccae08de781ec2bc89a8a2babbb98cdf1a"
+  }
+]
