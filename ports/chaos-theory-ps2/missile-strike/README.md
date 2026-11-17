@@ -1,5 +1,9 @@
 # PS2 Missile Strike (Neutralization) (`MIS10P`)
 
+Revision **1.1.1** removes the unused Extraction drop-offs that appeared as floating disk cases. Install the update from the **PS2 Version** filter in Map Manager.
+
+## Version 1.1.0 conversion notes
+
 Enhanced/Reloaded native revision **1.1.0**. Select **Story** in the PC lobby mode
 selector. This separately named map activates the original source **Neutralization**
 mission graph through PC mode 5, the mode supported by the shipped lobby UI.
