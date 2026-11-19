@@ -1,0 +1,11 @@
+[Match]
+Description="Complete any four active objectives."
+DescriptionDEF="Stop the spies from completing four objectives."
+
+[DiskHuntMission]
+Description="Collect and hold the data disks."
+DescriptionDEF="Stop the spies from holding enough disks."
+
+[DeathmatchMission]
+Description="Eliminate the mercenary team."
+DescriptionDEF="Eliminate the spy team."
