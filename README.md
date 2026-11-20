@@ -2,10 +2,9 @@
 
 Maps for **Splinter Cell: Chaos Theory Versus**: recovered originals you can edit, enhanced versions, ports from other games, and the community map pack.
 
-The [OpenSCCT project directory](https://github.com/OpenSCCT/OpenSCCT) covers the PS2 disc,
-PC/Steam and modern Unreal editions. This collection packages maps for the original PC Versus game,
-including [maps ported from PS2](ports/chaos-theory-ps2/README.md). Converted SVMap packs for
-OpenSCCT clients and servers live in [OpenSCCT-Content](https://github.com/OpenSCCT/OpenSCCT-Content).
+In the [OpenSCCT project directory](https://github.com/OpenSCCT), the PS2 disc and PC/Steam game
+are **Originals**, and Godot and Unreal are **Modernisations**. This collection packages maps for the original PC Versus game,
+including [maps ported from PS2](ports/chaos-theory-ps2/README.md). The modernisations build their stock maps from a local Steam installation. Their optional community map catalogue is [OpenSCCT-Content](https://github.com/OpenSCCT/OpenSCCT-Content).
 
 ## Installing maps
 
